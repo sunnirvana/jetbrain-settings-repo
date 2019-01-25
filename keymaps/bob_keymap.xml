@@ -1,12 +1,7 @@
 <keymap version="1" name="bob_keymap" parent="Mac OS X 10.5+">
-  <action id="CompareTwoFiles" />
-  <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
-  <action id="Diff.ShowDiff" />
-  <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="shift meta m" />
@@ -22,9 +17,8 @@
   </action>
   <action id="ParameterInfo" />
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
-  <action id="SendEOF" />
   <action id="ShowNavBar" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -43,6 +37,5 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
-  <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
