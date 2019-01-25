@@ -1,0 +1,114 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="1496411245000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.11.0/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_METHOD" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="2" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ColorChooser.RecentColors" value="77-77-19-255,,,77-2-11-255" />
+    <property name="Darcula.SavedEditorTheme" value="talski" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="icon" />
+    <property name="KEYMAP" value="add&#10;select&#10;extend" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="spell&#10;extra&#10;icon&#10;plugin&#10;editor tab" />
+    <property name="TrendingPluginsSearchHistory" value="icon&#10;monokai" />
+    <property name="file.gist.reindex.count" value="3778" />
+    <property name="fileTypeChangedCounter" value="75" />
+    <property name="idea.background.editor" value="$USER_HOME$/Desktop/jetbrain_bg_image.jpg,15,scale,center" />
+    <property name="idea.background.frame" value="$USER_HOME$/Desktop/jetbrain_bg_image.jpg,15,plain,center" />
+    <property name="ideavim.statistics.timestamp" value="1548343449928" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Desktop/jetbrain_bg_image.jpg&#10;/Users/sunyubo/Desktop/iterm2_bg_image.jpg" />
+    <property name="rainbow.selected.color.option.name" value="Round Brackets" />
+    <property name="selected.color.option.type" value="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/Workspace/Learning/scrapy/article-spider/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/nnie-tester/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/project_online/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/prototype/venv/bin/python" value="false" />
+        <entry key="/usr/local/anaconda3/envs/my-python-repo/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Workspace/Learning/scrapy/article-spider/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/nnie-tester/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/project_online/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/prototype/venv/bin/python" value="false" />
+        <entry key="/usr/local/anaconda3/envs/my-python-repo/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/Workspace/Learning/scrapy/article-spider/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/Workspace/projects/nnie-tester/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/project_online/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/projects/prototype/venv/bin/python" value="false" />
+        <entry key="/usr/local/anaconda3/envs/my-python-repo/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.sinacloud.com/lgdjsj012/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.sinacloud.com/lgdjsj012/" />
+      </list>
+    </option>
+  </component>
+</application>
