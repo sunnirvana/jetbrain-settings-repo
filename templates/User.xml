@@ -1,0 +1,10 @@
+<templateSet group="User">
+  <template name="fo" value="&lt;form action=&quot;$ACTION$&quot; method=&quot;post&quot;&gt;&#10;    {{ csrf_field() }}&#10;    $CONTENT$&#10;&lt;/form&gt;" description="form with bootstrap" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
