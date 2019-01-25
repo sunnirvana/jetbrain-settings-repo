@@ -3,23 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1548401092195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/encoding.py" timestamp="1541581403766">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548437322353">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/log/server.log" timestamp="1541750151301">
-        <mark key="'" line="233" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/client/config/env.py" timestamp="1541745076646">
+      <file name="/Python Console" timestamp="1548401092195">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
         <mark key="[" line="22" column="36" />
@@ -36,14 +27,62 @@
         <mark key="^" line="21" column="60" />
         <mark key="." line="21" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548436417622">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548437212777">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi" timestamp="1548397242170">
         <mark key="'" line="206" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" timestamp="1548397360146">
+        <mark key="'" line="353" column="24" />
+        <mark key="[" line="728" column="56" />
+        <mark key="]" line="728" column="43" />
+        <mark key="^" line="728" column="43" />
+        <mark key="." line="728" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/all_the_same.py" timestamp="1548433975974">
+        <mark key="'" line="37" column="35" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="35" column="44" />
+        <mark key="^" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+      </file>
+      <file name="f81ab405-5d80-4e1f-b0c0-53ee86cac9fb/dataset_filters/schemas/main/tables/CONTAINER_T" timestamp="1541754321473">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/spiders/joboole.py" timestamp="1548348200931">
+        <mark key="'" line="84" column="10" />
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/.gitignore" timestamp="1548406392558">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/encoding.py" timestamp="1541581403766">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/log/server.log" timestamp="1541750151301">
+        <mark key="'" line="233" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/prototype/client/config/env.py" timestamp="1541745076646">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/server/scheduler/task_statustimer.py" timestamp="1541749547057">
         <mark key="[" line="85" column="32" />
@@ -63,13 +102,6 @@
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" timestamp="1548397360146">
-        <mark key="'" line="353" column="24" />
-        <mark key="[" line="728" column="56" />
-        <mark key="]" line="728" column="43" />
-        <mark key="^" line="728" column="43" />
-        <mark key="." line="728" column="43" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/server/config/env.py" timestamp="1541745071763">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="11" />
@@ -83,24 +115,11 @@
         <mark key="." line="38" column="37" />
         <mark key="^" line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/all_the_same.py" timestamp="1548433975974">
-        <mark key="'" line="37" column="35" />
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="35" column="44" />
-        <mark key="." line="35" column="44" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/venv/lib/python3.7/site-packages/cv2/__init__.py" timestamp="1548404882073">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="23" />
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
-      </file>
-      <file name="f81ab405-5d80-4e1f-b0c0-53ee86cac9fb/dataset_filters/schemas/main/tables/CONTAINER_T" timestamp="1541754321473">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/house_password.py" timestamp="1548434857686">
         <mark key="'" line="3" column="388" />
@@ -109,24 +128,11 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/spiders/joboole.py" timestamp="1548348200931">
-        <mark key="'" line="84" column="10" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="20" column="55" />
-        <mark key="^" line="20" column="55" />
-        <mark key="." line="20" column="55" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/server/config/config_inst.py" timestamp="1541744997990">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/.gitignore" timestamp="1548406392558">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/main.py" timestamp="1548397141979">
         <mark key="^" line="18" column="22" />
@@ -154,10 +160,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0cl9saXN0ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN1YnN0cl9saXN0LCBzdWJzdHJfbGlzdFstMV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>video/</text>
+        <text>append(</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
@@ -166,31 +172,31 @@
         <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cl9saXN0ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN1YnN0cl9saXN0LCBzdWJzdHJfbGlzdFstMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc3RyX2xpc3QpID09IDA6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1heChzdWJzdHJfbGlzdCwga2V5PWxlbikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc3RyX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXIgPT0gbGluZVtpXToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1ciA9IGxpbmVbMF0K</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsaW5lW2ldID09IAo=</text>
+        <text encoding="base64">ICAgIHN1YnN0cl9saXN0W10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgIG1heF9sZW4gPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIGZpcnN0ID0gbGluZVswXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBjIGluIGxpbmU6CiAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X2xlbiArPTE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -213,6 +219,7 @@
         <entry>75</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLz09L2lzL2c=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
