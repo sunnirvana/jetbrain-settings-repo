@@ -16,6 +16,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
