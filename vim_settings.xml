@@ -51,11 +51,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1548681163221">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1548683270454">
+        <mark key="'" line="31" column="39" />
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="f81ab405-5d80-4e1f-b0c0-53ee86cac9fb/dataset_filters/schemas/main/tables/CONTAINER_T" timestamp="1541754321473">
         <mark key="[" line="1" column="9" />
@@ -159,43 +160,45 @@
       <jump line="57" column="45" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/main.py" />
       <jump line="44" column="16" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/venv/lib/python3.7/site-packages/cv2/__init__.py" />
+      <jump line="29" column="11" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" />
+      <jump line="31" column="39" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sorted_key</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>sorted_key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNoZWNraW8od29yZHM6IHN0cikgLT4gYm9vbDoKICAgIGltcG9ydCByZQogICAgUkVfV09SRCA9IHJlLmNvbXBpbGUoJ1x3KycpCiAgICBfd29yZHMgPSBbd29yZCBmb3Igd29yZCBpbiBSRV9XT1JELmZpbmRhbGwod29yZHMpIGlmIG5vdCB3b3JkLmlzbnVtZXJpYygpXQogICAgcHJpbnQoX3dvcmRzKQogICAgaWYgbGVuKF93b3JkcykgPj0gMzoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZWxzZToKICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1iZXJzCg==</text>
+        <text encoding="base64">ICAgIHNvcnRlZChjKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KF93b3JkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRzKQo=</text>
+        <text encoding="base64">ICAgICMgcmVwbGFjZSB0aGlzIGZvciBzb2x1dGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vbmxvY2FsIAo=</text>
+        <text encoding="base64">ZGVmIGNoZWNraW8od29yZHM6IHN0cikgLT4gYm9vbDoKICAgIGltcG9ydCByZQogICAgUkVfV09SRCA9IHJlLmNvbXBpbGUoJ1x3KycpCiAgICBfd29yZHMgPSBbd29yZCBmb3Igd29yZCBpbiBSRV9XT1JELmZpbmRhbGwod29yZHMpIGlmIG5vdCB3b3JkLmlzbnVtZXJpYygpXQogICAgcHJpbnQoX3dvcmRzKQogICAgaWYgbGVuKF93b3JkcykgPj0gMzoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZWxzZToKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
