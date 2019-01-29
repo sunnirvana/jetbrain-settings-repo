@@ -15,7 +15,7 @@
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1548754590897">
+      <file name="/Python Console" timestamp="1548755500166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548754547086">
@@ -60,7 +60,7 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548752455803">
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548755817156">
         <mark key="'" line="69" column="51" />
         <mark key="[" line="95" column="47" />
         <mark key="]" line="95" column="47" />
@@ -91,6 +91,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548755684322">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/server/config/env.py" timestamp="1541745071763">
         <mark key="[" line="0" column="7" />
@@ -135,10 +138,15 @@
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/.gitignore" timestamp="1548755674167">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
       <file name="/iter_func_examples" timestamp="1548752094601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/first_word.py" timestamp="1548754558972" />
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="35" />
