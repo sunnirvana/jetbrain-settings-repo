@@ -15,8 +15,14 @@
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1548754103318">
+      <file name="/Python Console" timestamp="1548754590897">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548754547086">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1548675867080">
         <mark key="[" line="21" column="0" />
@@ -132,6 +138,7 @@
       <file name="/iter_func_examples" timestamp="1548752094601">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/first_word.py" timestamp="1548754558972" />
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="35" />
@@ -180,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoJyonICogNTApCmN0ID0gaXRlcnRvb2xzLmNvdW50KCkKcHJpbnQoY3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1heF9sZW4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>list(group)</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -192,32 +199,32 @@
         <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoJyonICogNTApCmN0ID0gaXRlcnRvb2xzLmNvdW50KCkKcHJpbnQoY3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1heF9sZW4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDnlKjkuo4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoJyonICogNTApCmN0ID0gaXRlcnRvb2xzLmNvdW50KCkKcHJpbnQoY3QpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyDnlKjkuo4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">cHJpbnQoJ3RleHQ6ICcsIHRleHQpCmZvciBjb2RlIGluIGNvZGVzMToKICAgIHByaW50KCdjb2RlOiAnLCBjb2RlKQogICAgcHJpbnQoJ3Jlc3VsdDogJywgZXZhbChjb2RlKSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>sample)
     for</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAiIiIgRmlsdGVycwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAiIiIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiIEZpbHRlcnMK55So5LqO6L+H5ruk55qE55Sf5oiQ5Zmo5Ye95pWwCiIiIgo=</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
