@@ -18,6 +18,7 @@
       <file name="/Python Console" timestamp="1548401092195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli.py" timestamp="1548730131670" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1548675867080">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -83,6 +84,12 @@
         <mark key="^" line="728" column="43" />
         <mark key="." line="728" column="43" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" timestamp="1548730385619">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/spiders/joboole.py" timestamp="1548348200931">
         <mark key="'" line="84" column="10" />
         <mark key="[" line="17" column="14" />
@@ -119,6 +126,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/NNIETester/cli.py" timestamp="1548729938573">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/pipelines.py" timestamp="1548348645923">
         <mark key="'" line="157" column="29" />
@@ -176,41 +189,41 @@
       <jump line="31" column="37" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>item</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5uaWUyID0gTk5JRU1vZGVsKGJvYXJkKS5sb2FkKGZpbGVfcGF0aCkK</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>inference_test_of_nnie_model</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vc3RfZnJlcSA9IGMubW9zdF9jb21tb24oMSlbMF1bMV0K</text>
+        <text encoding="base64">ICAgIG5uaWUyID0gTk5JRU1vZGVsKGJvYXJkKS5sb2FkKGZpbGVfcGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IG5uaWUyLnJ1bl9pbmZlcmVuY2UoaW1ncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbWRsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkID0gW2l0ZW1bMF0gZm9yIGl0ZW0gaW4gZnJlcXMgaWYgaXRlbVsxXSA9PSBmcmVxc1swXVsxXV0gICMga2VlcCB0aGUgc2FtZSBmcmVxIGl0ZW1zIHN0YXkK</text>
+        <text encoding="base64">ZnJvbSBhdHRyX3JlbGVhc2UubW9kZWxfd3JhcHBlci5OTklFTW9kZWwgaW1wb3J0IE5OSUVNb2RlbCwgTk5JRVR5cGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyB2aW06IHRzPTQgc3c9NCBzdHM9NCBleHBhbmR0YWIKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYpCg==</text>
+        <text encoding="base64">ZGVmIGJlbmNobWFya190ZXN0X29mX25uaWVfbW9kZWwoZmlsZSwgaW1nLCBpbWdfY291bnQsIGJvYXJkKToKICAgICMgYnVpbGQgYSBOTklFCiAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5yZWFscGF0aChmaWxlKSkKCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoZmlsZV9wYXRoKToKICAgICAgICBwcmludCgiRmlsZSBub3QgZXhpc3QhIikKICAgICAgICByZXR1cm4KICAgIG5uaWUyID0gTk5JRU1vZGVsKG5uaWVfdHlwZT1OTklFVHlwZS5OTklFX1RZUEVfMzU1OUEpLmxvYWQoZmlsZV9wYXRoKQoKICAgIGltZ19wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGgucmVhbHBhdGgoaW1nKSkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhpbWdfcGF0aCk6CiAgICAgICAgcHJpbnQoIkZpbGUgbm90IGV4aXN0ISIpCiAgICAgICAgcmV0dXJuCiAgICBpZiBpbWdfY291bnQgPT0gMDoKICAgICAgICBpbWdzID0gW29zLnBhdGguam9pbihpbWdfcGF0aCwgaSkgZm9yIGkgaW4gc29ydGVkKG9zLmxpc3RkaXIoaW1nX3BhdGgpKV0KICAgIGVsc2U6CiAgICAgICAgaW1ncyA9IFtvcy5wYXRoLmpvaW4oaW1nX3BhdGgsIGkpIGZvciBpIGluIHNvcnRlZChvcy5saXN0ZGlyKGltZ19wYXRoKSlbOmltZ19jb3VudF1dCgogICAgcmVzdWx0ID0gbm5pZTIucnVuX2JlbmNobWFya190ZXN0KGltZ3MpCgogICAgcHJpbnQoJ1Rlc3QgcmVzdWx0OiBcbicsIHJlc3VsdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIG1vc3RfZnJlcSA9IGMubW9zdF9jb21tb24oMSlbMF1bMV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
