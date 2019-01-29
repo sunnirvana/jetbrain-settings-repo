@@ -9,23 +9,20 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/house_password.py" timestamp="1548753198653" />
       <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/all_test.py" timestamp="1541750167925">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="68" />
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1548401092195">
+      <file name="/Python Console" timestamp="1548754103318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548754028302" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1548675867080">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/all_the_same.py" timestamp="1548753158772" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/non_unique_elements.py" timestamp="1548684870549">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="25" column="45" />
@@ -253,7 +250,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
