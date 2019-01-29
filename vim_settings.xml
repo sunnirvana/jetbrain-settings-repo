@@ -24,10 +24,23 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" timestamp="1548758528504">
+        <mark key="'" line="150" column="12" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1548675867080">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/non_unique_elements.py" timestamp="1548684870549">
         <mark key="[" line="25" column="45" />
@@ -78,6 +91,12 @@
         <mark key="]" line="21" column="60" />
         <mark key="^" line="21" column="60" />
         <mark key="." line="21" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/.gitignore" timestamp="1548758370478">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" timestamp="1548731705131">
         <mark key="'" line="7" column="47" />
@@ -147,6 +166,13 @@
       <file name="/iter_func_examples" timestamp="1548752094601">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/README.md" timestamp="1548758091990">
+        <mark key="'" line="156" column="28" />
+        <mark key="[" line="159" column="5" />
+        <mark key="]" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+        <mark key="^" line="159" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="35" />
@@ -193,62 +219,76 @@
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" />
       <jump line="67" column="51" filename="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" />
+      <jump line="24" column="23" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="97" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="114" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="116" column="84" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="123" column="16" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="133" column="16" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="140" column="16" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="153" column="97" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="156" column="28" filename="$USER_HOME$/Workspace/projects/nnie-tester/README.md" />
+      <jump line="449" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" />
+      <jump line="150" column="12" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heF9sZW4pCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
       </register>
       <register name="-" type="4">
-        <text>list(group)</text>
+        <text>attr_release</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>attr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heF9sZW4pCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+      <register name="3" type="8">
+        <text>attr_release
+attr_release
+attr_release
+attr_release</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoJyonICogNTApCmN0ID0gaXRlcnRvb2xzLmNvdW50KCkKcHJpbnQoY3QpCg==</text>
+        <text encoding="base64">Y2QgQXR0clJlbGVhc2UvYXR0cl9yZWxlYXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyDnlKjkuo4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
+        <text encoding="base64">Y2QgQXR0clJlbGVhc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoJ3RleHQ6ICcsIHRleHQpCmZvciBjb2RlIGluIGNvZGVzMToKICAgIHByaW50KCdjb2RlOiAnLCBjb2RlKQogICAgcHJpbnQoJ3Jlc3VsdDogJywgZXZhbChjb2RlKSkK</text>
+        <text encoding="base64">Z2l0QGdpdC1jb3JlLm1lZ3ZpaS1pbmMuY29tOnhpYW9zaGFvcmFuL0F0dHJSZWxlYXNlLmdpdAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>sample)
-    for</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KG1heF9sZW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>attr</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>attr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>'</entry>
+        <entry>attr</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
