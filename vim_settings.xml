@@ -9,25 +9,21 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/house_password.py" timestamp="1548753198653" />
       <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/all_test.py" timestamp="1541750167925">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="68" />
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548753987855">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
+      <file name="/Python Console" timestamp="1548401092195">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli.py" timestamp="1548730131670" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1548675867080">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/all_the_same.py" timestamp="1548753158772" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/non_unique_elements.py" timestamp="1548684870549">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="25" column="45" />
@@ -59,7 +55,7 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548753018506">
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548752455803">
         <mark key="'" line="69" column="51" />
         <mark key="[" line="95" column="47" />
         <mark key="]" line="95" column="47" />
@@ -78,6 +74,7 @@
         <mark key="^" line="21" column="60" />
         <mark key="." line="21" column="60" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/builtin/'" timestamp="1548731948343" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" timestamp="1548731705131">
         <mark key="'" line="7" column="47" />
         <mark key="[" line="14" column="7" />
@@ -137,19 +134,21 @@
       <file name="/iter_func_examples" timestamp="1548752094601">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/lambda.py" timestamp="1548732194794" />
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="35" />
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/functional/decorator.py" timestamp="1548733947733" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1548411543257">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="33" column="7" />
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548752903718">
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548675886459">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -161,6 +160,7 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/popular_words.py" timestamp="1548675875758" />
     </filemarks>
     <jumps>
       <jump line="353" column="24" filename="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" />
@@ -185,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cHJpbnQoJyonICogNTApCmN0ID0gaXRlcnRvb2xzLmNvdW50KCkKcHJpbnQoY3QpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>char</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -197,31 +197,32 @@
         <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heCA9IDAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcChsYW1iZGEgaXRlbTogKGl0ZW1bMF0gKiA3LCBpdGVtWzFdKjgpLCBsaXN0KCkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdyb3VwZWQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGdyb3VwYnkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">cHJpbnQoJyonICogNTApCmN0ID0gaXRlcnRvb2xzLmNvdW50KCkKcHJpbnQoY3QpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">IyDnlKjkuo4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">cHJpbnQoJyonICogNTApCnByaW50KCdzYW1wbGU6ICcsIHNhbXBsZSkKZm9yIGNvZGUgaW4gY29kZXMyOgogICAgcHJpbnQoJ2NvZGU6ICcsIGNvZGUpCiAgICBwcmludCgncmVzdWx0OiAnLCBldmFsKGNvZGUpKQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">cHJpbnQoJ3RleHQ6ICcsIHRleHQpCmZvciBjb2RlIGluIGNvZGVzMToKICAgIHByaW50KCdjb2RlOiAnLCBjb2RlKQogICAgcHJpbnQoJ3Jlc3VsdDogJywgZXZhbChjb2RlKSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text>sample)
+    for</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyAiIiIgRmlsdGVycwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAiIiIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IiIiIEZpbHRlcnMK55So5LqO6L+H5ruk55qE55Sf5oiQ5Zmo5Ye95pWwCiIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -280,9 +281,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
