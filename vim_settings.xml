@@ -15,6 +15,9 @@
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
+      <file name="/Python Console" timestamp="1548401092195">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli.py" timestamp="1548730131670" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1548675867080">
         <mark key="[" line="21" column="0" />
@@ -52,11 +55,11 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548732307199">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548734822290">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="f81ab405-5d80-4e1f-b0c0-53ee86cac9fb/dataset_filters/schemas/main/tables/CONTAINER_T" timestamp="1541754321473">
         <mark key="[" line="1" column="9" />
@@ -127,6 +130,9 @@
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="6" />
       </file>
+      <file name="/iter_func_examples" timestamp="1548734828576">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/lambda.py" timestamp="1548732194794" />
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
         <mark key="[" line="22" column="36" />
@@ -134,6 +140,7 @@
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/functional/decorator.py" timestamp="1548733947733" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1548411543257">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="33" column="7" />
@@ -169,49 +176,57 @@
       <jump line="31" column="37" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" />
       <jump line="7" column="47" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" />
       <jump line="43" column="9" filename="$USER_HOME$/Workspace/codes/my-python-repo/builtin/do_base64.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>, eval(code)</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, eval(code)</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
+        <text encoding="base64">cHJpbnQobGlzdChpdGVydG9vbHMuaXNsaWNlKHRleHQsIDQsIDcpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAppbXBvcnQgZG9fZ3ppcAo=</text>
+        <text encoding="base64">Y29kZSA9ICdsaXN0KGZpbHRlcih2b3dlbCwgdGV4dCkpJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5uaWUyID0gTk5JRU1vZGVsKGJvYXJkKS5sb2FkKGZpbGVfcGF0aCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IG5uaWUyLnJ1bl9pbmZlcmVuY2UoaW1ncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">J2xpc3QoZmlsdGVyKHZvd2VsLCB0ZXh0KSknLAonbGlzdChpdGVydG9vbHMuZmlsdGVyZmFsc2Uodm93ZWwsIHRleHQpKScsCidsaXN0KGl0ZXJ0b29scy5kcm9wd2hpbGUodm93ZWwsIHRleHQpKScsCidsaXN0KGl0ZXJ0b29scy50YWtld2hpbGUodm93ZWwsIHRleHQpKScsCidsaXN0KGl0ZXJ0b29scy5jb21wcmVzcyh0ZXh0LCAoMSwgMCwgMSwgMSwgMCwgMSkpKScsCidsaXN0KGl0ZXJ0b29scy5pc2xpY2UodGV4dCwgNCkpJywKJ2xpc3QoaXRlcnRvb2xzLmlzbGljZSh0ZXh0LCA0LCA3KSknLAonbGlzdChpdGVydG9vbHMuaXNsaWNlKHRleHQsIDEsIDcsIDIpKScsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbWRsCg==</text>
+      <register name="5" type="8">
+        <text>print(
+print(
+print(
+print(
+print(
+print(
+print(
+print(</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhdHRyX3JlbGVhc2UubW9kZWxfd3JhcHBlci5OTklFTW9kZWwgaW1wb3J0IE5OSUVNb2RlbCwgTk5JRVR5cGUK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpdGVydG9vbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB2aW06IHRzPTQgc3c9NCBzdHM9NCBleHBhbmR0YWIKCgo=</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGJlbmNobWFya190ZXN0X29mX25uaWVfbW9kZWwoZmlsZSwgaW1nLCBpbWdfY291bnQsIGJvYXJkKToKICAgICMgYnVpbGQgYSBOTklFCiAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5yZWFscGF0aChmaWxlKSkKCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoZmlsZV9wYXRoKToKICAgICAgICBwcmludCgiRmlsZSBub3QgZXhpc3QhIikKICAgICAgICByZXR1cm4KICAgIG5uaWUyID0gTk5JRU1vZGVsKG5uaWVfdHlwZT1OTklFVHlwZS5OTklFX1RZUEVfMzU1OUEpLmxvYWQoZmlsZV9wYXRoKQoKICAgIGltZ19wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGgucmVhbHBhdGgoaW1nKSkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhpbWdfcGF0aCk6CiAgICAgICAgcHJpbnQoIkZpbGUgbm90IGV4aXN0ISIpCiAgICAgICAgcmV0dXJuCiAgICBpZiBpbWdfY291bnQgPT0gMDoKICAgICAgICBpbWdzID0gW29zLnBhdGguam9pbihpbWdfcGF0aCwgaSkgZm9yIGkgaW4gc29ydGVkKG9zLmxpc3RkaXIoaW1nX3BhdGgpKV0KICAgIGVsc2U6CiAgICAgICAgaW1ncyA9IFtvcy5wYXRoLmpvaW4oaW1nX3BhdGgsIGkpIGZvciBpIGluIHNvcnRlZChvcy5saXN0ZGlyKGltZ19wYXRoKSlbOmltZ19jb3VudF1dCgogICAgcmVzdWx0ID0gbm5pZTIucnVuX2JlbmNobWFya190ZXN0KGltZ3MpCgogICAgcHJpbnQoJ1Rlc3QgcmVzdWx0OiBcbicsIHJlc3VsdCkK</text>
+        <text encoding="base64">ZGVmIHByaW50X3JlcyhyZXMpOgogICAgIAoK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -228,8 +243,8 @@
       <history-cmd>
         <entry>92</entry>
         <entry>75</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -261,6 +276,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
