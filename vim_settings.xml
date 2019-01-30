@@ -33,20 +33,26 @@
       <file name="/a.dummy" timestamp="1548827338370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" timestamp="1548829609638">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" timestamp="1548830412272">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="20" />
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1548827925908" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548830730576">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="25" column="16" />
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548827682649">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548830540496">
         <mark key="[" line="28" column="58" />
         <mark key="]" line="28" column="70" />
         <mark key="^" line="28" column="70" />
@@ -122,7 +128,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks.py" timestamp="1548827941937" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks.py" timestamp="1548830865909" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" timestamp="1548731705131">
         <mark key="'" line="7" column="47" />
         <mark key="[" line="14" column="7" />
