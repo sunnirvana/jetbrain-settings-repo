@@ -39,12 +39,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548832485901">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="44" column="36" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="44" column="36" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548832766792">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
         <mark key="[" line="14" column="4" />
@@ -277,63 +277,70 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" />
       <jump line="59" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="54" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="52" column="25" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="44" column="13" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nfs_path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>nfs_path</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>==</text>
+        <text encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZnNfaXAgPSBhcHBfY29uZmlnLm5mc19zZXJ2ZXJfaXAKICAgICAgICBuZnNfcGF0aCA9IGFwcF9jb25maWcubmZzX3NlcnZlcl9wYXRoCiAgICAgICAgbW91bnRfcG9pbnQgPSBhcHBfY29uZmlnLm1vdW50X3BvaW50CiAgICAgICAgc3Vkb19wdyA9IGFwcF9jb25maWcuc3Vkb19wYXNzd2QKCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYWxfdGVzdHJ1bl9wYXRoCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgdGVzdHJ1bl9uYW1lKCk6CiAgICAgICAgICAgIHJldHVybiAnJXNfJXMnICUgKHNlbGYudGVzdF90eXBlLCBzdHIoZ2V0X25vd190aW1lc3RhbXAoKSkpCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZnNfaXAgPSBhcHBfY29uZmlnLm5mc19zZXJ2ZXJfaXAKICAgICAgICBuZnNfcGF0aCA9IGFwcF9jb25maWcubmZzX3NlcnZlcl9wYXRoCiAgICAgICAgbW91bnRfcG9pbnQgPSBhcHBfY29uZmlnLm1vdW50X3BvaW50CiAgICAgICAgc3Vkb19wdyA9IGFwcF9jb25maWcuc3Vkb19wYXNzd2QKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbW9kZWxzOmRpY3QsIGltYWdlczpkaWN0LCApOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQk1LV29ya2VyOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>==</last-search>
-      <last-pattern>==</last-pattern>
+      <last-search encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</last-pattern>
       <last-replace>is</last-replace>
       <last-substitute>==</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>'</entry>
         <entry>attr</entry>
+        <entry encoding="base64">XDxsb2NhbF90ZXN0cnVuX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -342,6 +349,7 @@
         <entry>registers</entry>
         <entry>Vsp</entry>
         <entry>vsp</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
