@@ -39,12 +39,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548835995512">
-        <mark key="'" line="40" column="42" />
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548838448685">
+        <mark key="'" line="35" column="42" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
         <mark key="[" line="14" column="4" />
@@ -121,6 +121,13 @@
         <mark key="]" line="728" column="43" />
         <mark key="^" line="728" column="43" />
         <mark key="." line="728" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1548838348654">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="20" column="82" />
+        <mark key="." line="20" column="82" />
+        <mark key="^" line="20" column="82" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/.gitignore" timestamp="1548758370478">
         <mark key="[" line="0" column="2" />
@@ -282,55 +289,58 @@
       <jump line="44" column="13" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
       <jump line="32" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
       <jump line="38" column="42" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" />
+      <jump line="58" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" />
+      <jump line="22" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>check_consistency</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3RydW5fcGF0aCA9IE5vbmUK</text>
       </register>
       <register name="-" type="4">
-        <text>check_consistency</text>
+        <text>make</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</text>
+        <text encoding="base64">XDxfYWJzX2xvY2FsX3BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3RydW5fcGF0aCA9IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfbW91bnRfbGNvYWxfbmZzKHNlbGYpOgogICAgICAgIHBhc3MKCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vdW50IG5mcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZnNfaXAgPSBhcHBfY29uZmlnLm5mc19zZXJ2ZXJfaXAKICAgICAgICBuZnNfcGF0aCA9IGFwcF9jb25maWcubmZzX3NlcnZlcl9wYXRoCiAgICAgICAgbW91bnRfcG9pbnQgPSBhcHBfY29uZmlnLm1vdW50X3BvaW50CiAgICAgICAgc3Vkb19wdyA9IGFwcF9jb25maWcuc3Vkb19wYXNzd2QKCiAgICAgICAgIyBtb3VudAogICAgICAgIGxvZ2dlci5kZWJ1ZygnTW91bnQgTkZTICh7fSwge30sIHt9KScuZm9ybWF0KG5mc19pcCwgbmZzX3BhdGgsIG1vdW50X3BvaW50KSkKICAgICAgICBtb3VudChuZnNfaXAsIG5mc19wYXRoLCBtb3VudF9wb2ludCwgc3Vkb19wdykK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2FsX3Rlc3RydW5fcGF0aCA9IG9zLnBhdGguam9pbih0ZXN0cnVuX2Z1bGxwYXRoLCBzZWxmLnRlc3RfdHlwZSArICdfJyArIHN0cihnZXRfbm93X3RpbWVzdGFtcCgpKSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnTW91bnQgTkZTICh7fSwge30sIHt9KScuZm9ybWF0KGFwcG5mc19pcCwgbmZzX3BhdGgsIG1vdW50X3BvaW50KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhzZWxmLmxvY2FsX3Rlc3RydW5fcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ01vdW50IE5GUyAoe30sIHt9LCB7fSknLmZvcm1hdChhcHBuZnNfaXAsIG5mc19wYXRoLCBtb3VudF9wb2ludCkpCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">bmZzX3BhdGggPQptb3VudF9wb2luCnN1ZG9fcHcgPSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ01vdW50IE5GUyAoe30sIHt9LCB7fSknLmZvcm1hdChhcHBuZnNfaXAsIG5mc19wYXRoLCBtb3VudF9wb2ludCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgU2V0dXAgdGVzdCBlbnYKICAgICAgICBMb2FkIHdvcmtlciBjb25maWcgYW5kIGNyZWF0ZSBhIGRlZGljYXRlZCB0ZXN0cnVuIHBhdGggb24gbG9jYWwgTkZTCiAgICAgICAgOnBhcmFtIHRlc3RfdHlwZTogVGltaW5nLCBJbmZlcmVuY2UKICAgICAgICA6cmV0dXJuOiB0ZXN0cnVuIHBhdGggb24gbG9jYWxseSBtb3VudGVkIHBhdGgKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ01vdW50IE5GUyAoe30sIHt9LCB7fSknLmZvcm1hdChuZnNfaXAsIG5mc19wYXRoLCBtb3VudF9wb2ludCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBjaGVjayBleGlzdGVuY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxfYWJzX2xvY2FsX3BhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYWJzX2xvY2FsX3BhdGhcPg==</last-pattern>
       <last-replace>is</last-replace>
       <last-substitute>==</last-substitute>
       <last-dir>-1</last-dir>
@@ -342,6 +352,7 @@
         <entry>attr</entry>
         <entry encoding="base64">XDxsb2NhbF90ZXN0cnVuX3BhdGhcPg==</entry>
         <entry encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxfYWJzX2xvY2FsX3BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
