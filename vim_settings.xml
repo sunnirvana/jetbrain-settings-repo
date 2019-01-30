@@ -39,12 +39,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1548827925908" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548832013893">
-        <mark key="[" line="1" column="47" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="54" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548832485901">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="44" column="36" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="44" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
         <mark key="[" line="14" column="4" />
@@ -52,7 +52,7 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548832034749">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548832190035">
         <mark key="[" line="28" column="58" />
         <mark key="]" line="28" column="70" />
         <mark key="^" line="28" column="70" />
@@ -128,7 +128,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks.py" timestamp="1548830865909" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" timestamp="1548731705131">
         <mark key="'" line="7" column="47" />
         <mark key="[" line="14" column="7" />
@@ -152,7 +151,6 @@
       <file name="/Dummy.txt" timestamp="1548759308545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/env_example.ini" timestamp="1548831907237" />
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/house_password.py" timestamp="1548434857686">
         <mark key="'" line="3" column="388" />
         <mark key="[" line="24" column="25" />
@@ -244,7 +242,6 @@
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/celery.py" timestamp="1548828024135" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548675886459">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
@@ -278,13 +275,15 @@
       <jump line="37" column="35" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/all_the_same.py" />
       <jump line="3" column="388" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/house_password.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>nfs_path</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>nfs_path</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
@@ -293,31 +292,31 @@
         <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZnNfaXAgPSBhcHBfY29uZmlnLm5mc19zZXJ2ZXJfaXAKICAgICAgICBuZnNfcGF0aCA9IGFwcF9jb25maWcubmZzX3NlcnZlcl9wYXRoCiAgICAgICAgbW91bnRfcG9pbnQgPSBhcHBfY29uZmlnLm1vdW50X3BvaW50CiAgICAgICAgc3Vkb19wdyA9IGFwcF9jb25maWcuc3Vkb19wYXNzd2QKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbW9kZWxzOmRpY3QsIGltYWdlczpkaWN0LCApOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQk1LV29ya2VyOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbW9kZWxzOmRpY3QsIGltYWdlczpkaWN0LCApOgogICAgICAgIHBhc3MK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2xhc3MgQk1LV29ya2VyOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -382,7 +381,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
