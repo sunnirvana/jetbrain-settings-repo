@@ -40,11 +40,11 @@
         <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1548827925908" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548830730576">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548832013893">
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+        <mark key="." line="2" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
         <mark key="[" line="14" column="4" />
@@ -52,7 +52,7 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548830540496">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548832034749">
         <mark key="[" line="28" column="58" />
         <mark key="]" line="28" column="70" />
         <mark key="^" line="28" column="70" />
@@ -152,6 +152,7 @@
       <file name="/Dummy.txt" timestamp="1548759308545">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/env_example.ini" timestamp="1548831907237" />
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/house_password.py" timestamp="1548434857686">
         <mark key="'" line="3" column="388" />
         <mark key="[" line="24" column="25" />
@@ -279,11 +280,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
