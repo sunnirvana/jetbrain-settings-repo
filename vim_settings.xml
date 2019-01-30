@@ -42,7 +42,12 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548818819789" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548819192623">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+        <mark key="." line="44" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/non_unique_elements.py" timestamp="1548684870549">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="25" column="45" />
@@ -356,6 +361,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
