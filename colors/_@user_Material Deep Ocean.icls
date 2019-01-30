@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Deep Ocean" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-25T18:16:37</property>
+    <property name="created">2019-01-25T22:01:44</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-25T18:17:53</property>
+    <property name="modified">2019-01-25T22:17:06</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -137,10 +137,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
