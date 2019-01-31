@@ -59,7 +59,7 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548906409121">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548906583305">
         <mark key="'" line="164" column="34" />
         <mark key="[" line="315" column="0" />
         <mark key="]" line="315" column="55" />
@@ -166,12 +166,12 @@
       <file name="/Dummy.txt" timestamp="1548759308545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" timestamp="1548906433432">
-        <mark key="'" line="44" column="35" />
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="32" />
-        <mark key="." line="52" column="32" />
-        <mark key="^" line="52" column="32" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" timestamp="1548907100851">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="11" />
+        <mark key="^" line="55" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/env_example.ini" timestamp="1548903649018">
         <mark key="[" line="40" column="0" />
@@ -337,13 +337,17 @@
       <jump line="58" column="10" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
       <jump line="53" column="24" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
       <jump line="4" column="45" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="61" column="40" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" />
+      <jump line="2" column="12" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" />
+      <jump line="68" column="11" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" />
+      <jump line="7" column="45" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdrcw==</text>
+        <text>encoded</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdrcw==</text>
+        <text>encoded</text>
       </register>
       <register name="/" type="4">
         <text>do_timing</text>
@@ -352,31 +356,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3J1biBjbWQgb24gYm9hcmQ6ICVzJyAlIGNtZF9saW5lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX21hdGVyaWFsX3NzaChzZWxmKToKICAgICAgICAiIiJPdmVyd3JpdGUgaXQiIiIKICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5jb21tb24gaW0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIHByZXBhcmVfZW52KHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX21hdGVyaWFsX3NzaChzZWxmKToKICAgICAgICAiIiJPdmVyd3JpdGUgaXQiIiIKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUnVuIHRlc3Qgb24gYm9hcmQgLS0gY21kOiB7fScuZm9ybWF0KGNtZCkpCg==</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIHByZXBhcmVfZW52KHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfcGF0aCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
