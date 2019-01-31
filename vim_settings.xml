@@ -3,29 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548777858921">
-        <mark key="[" line="21" column="79" />
-        <mark key="]" line="21" column="78" />
-        <mark key="^" line="21" column="78" />
-        <mark key="." line="21" column="78" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/.gitignore" timestamp="1548406392558">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/all_test.py" timestamp="1541750167925">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="68" />
+        <mark key="^" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" timestamp="1548905477122">
+        <mark key="'" line="54" column="24" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="69" column="18" />
       </file>
       <file name="/Python Console" timestamp="1548401092195">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="35" />
-        <mark key="^" line="22" column="35" />
-        <mark key="." line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/pipelines.py" timestamp="1548348645923">
-        <mark key="'" line="158" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/attr_release/env_example.ini" timestamp="1548406907745">
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="21" column="60" />
-        <mark key="^" line="21" column="60" />
-        <mark key="." line="21" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548437212777">
         <mark key="[" line="33" column="0" />
@@ -33,50 +31,53 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="39" column="38" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi" timestamp="1548397242170">
-        <mark key="'" line="206" column="8" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/long_repeat.py" timestamp="1548754547086">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" timestamp="1548397360146">
-        <mark key="'" line="353" column="24" />
-        <mark key="[" line="728" column="56" />
-        <mark key="]" line="728" column="43" />
-        <mark key="^" line="728" column="43" />
-        <mark key="." line="728" column="43" />
+      <file name="/a.dummy" timestamp="1548843593827">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/all_the_same.py" timestamp="1548433975974">
-        <mark key="'" line="37" column="35" />
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="35" column="44" />
-        <mark key="." line="35" column="44" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" timestamp="1548830412272">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
-      <file name="f81ab405-5d80-4e1f-b0c0-53ee86cac9fb/dataset_filters/schemas/main/tables/CONTAINER_T" timestamp="1541754321473">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548843460465">
+        <mark key="'" line="57" column="5" />
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/spiders/joboole.py" timestamp="1548348200931">
-        <mark key="'" line="84" column="10" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="20" column="55" />
-        <mark key="^" line="20" column="55" />
-        <mark key="." line="20" column="55" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/benchmark_test.py" timestamp="1548757982161">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/.gitignore" timestamp="1548406392558">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548905584366">
+        <mark key="'" line="164" column="34" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="55" />
+        <mark key="^" line="28" column="70" />
+        <mark key="." line="251" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/encoding.py" timestamp="1541581403766">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/non_unique_elements.py" timestamp="1548684870549">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/log/server.log" timestamp="1541750151301">
-        <mark key="'" line="233" column="39" />
+      <file name="$USER_HOME$/Workspace/codes/my_flask/hello.py" timestamp="1541759279252">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/client/config/env.py" timestamp="1541745076646">
         <mark key="[" line="0" column="0" />
@@ -96,30 +97,84 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/all_test.py" timestamp="1541750167925">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="68" />
-        <mark key="^" line="19" column="68" />
-        <mark key="." line="19" column="68" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1548684322722">
+        <mark key="'" line="33" column="37" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/env.py" timestamp="1541745071763">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/fluent_python/iter_func_examples.py" timestamp="1548755817156">
+        <mark key="'" line="69" column="51" />
+        <mark key="[" line="95" column="47" />
+        <mark key="]" line="95" column="47" />
+        <mark key="." line="95" column="47" />
+        <mark key="^" line="95" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/my_flask/hello.py" timestamp="1541759279252">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="37" />
+      <file name="f81ab405-5d80-4e1f-b0c0-53ee86cac9fb/dataset_filters/schemas/main/tables/CONTAINER_T" timestamp="1541754321473">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/venv/lib/python3.7/site-packages/cv2/__init__.py" timestamp="1548404882073">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/attr_release/env_example.ini" timestamp="1548406907745">
+        <mark key="[" line="21" column="54" />
+        <mark key="]" line="21" column="60" />
+        <mark key="^" line="21" column="60" />
+        <mark key="." line="21" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" timestamp="1548397360146">
+        <mark key="'" line="353" column="24" />
+        <mark key="[" line="728" column="56" />
+        <mark key="]" line="728" column="43" />
+        <mark key="^" line="728" column="43" />
+        <mark key="." line="728" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1548838348654">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="20" column="82" />
+        <mark key="." line="20" column="82" />
+        <mark key="^" line="20" column="82" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/.gitignore" timestamp="1548758370478">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/inference_test.py" timestamp="1548731705131">
+        <mark key="'" line="7" column="47" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/scrapy/article-spider/ArticleSpider/spiders/joboole.py" timestamp="1548348200931">
+        <mark key="'" line="84" column="10" />
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/pawn_brotherhood.py" timestamp="1548684348751">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548759308545">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" timestamp="1548904928202">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/env_example.ini" timestamp="1548903649018">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="47" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/house_password.py" timestamp="1548434857686">
         <mark key="'" line="3" column="388" />
@@ -128,20 +183,110 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/config_inst.py" timestamp="1541744997990">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
+      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/env.py" timestamp="1541745071763">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/main.py" timestamp="1548397141979">
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/secret_message.py" timestamp="1548675165389">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/all_the_same.py" timestamp="1548433975974">
+        <mark key="'" line="37" column="35" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="35" column="44" />
+        <mark key="^" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/BMKWorker.py" timestamp="1548827295576">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/encoding.py" timestamp="1541581403766">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/NNIETester/cli.py" timestamp="1548729938573">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/builtin/do_base64.py" timestamp="1548732148358">
+        <mark key="'" line="41" column="9" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="15" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="41" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/say_history.py" timestamp="1548674955570">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/venv/lib/python3.7/site-packages/cv2/__init__.py" timestamp="1548404882073">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/.gitignore" timestamp="1548755674167">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="/iter_func_examples" timestamp="1548752094601">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/README.md" timestamp="1548758091990">
+        <mark key="'" line="156" column="28" />
+        <mark key="[" line="159" column="5" />
+        <mark key="]" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+        <mark key="^" line="159" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/function/reversed.py" timestamp="1541729741040">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1548411146534">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="33" column="7" />
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548675886459">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/monkey_typing.py" timestamp="1548777858921">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="21" column="78" />
+        <mark key="^" line="21" column="78" />
+        <mark key="." line="21" column="78" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/prototype/server/config/config_inst.py" timestamp="1541744997990">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/config.py" timestamp="1548903636924">
+        <mark key="'" line="59" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -157,69 +302,115 @@
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/venv/lib/python3.7/site-packages/cv2/__init__.py" />
       <jump line="37" column="35" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/all_the_same.py" />
       <jump line="3" column="388" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/house_password.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker_bmk.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="54" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="52" column="25" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="44" column="13" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="38" column="42" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" />
+      <jump line="58" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" />
+      <jump line="22" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/nfs.py" />
+      <jump line="373" column="33" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
+      <jump line="301" column="33" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
+      <jump line="245" column="33" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
+      <jump line="66" column="29" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="6" column="59" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="169" column="4" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="56" column="5" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" />
+      <jump line="78" column="35" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="129" column="4" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
+      <jump line="57" column="7" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="18" column="16" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="16" column="41" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="59" column="29" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/config.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="164" column="34" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
+      <jump line="52" column="36" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="58" column="10" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="53" column="24" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="4" column="45" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>word_list</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>word_list</text>
+        <text>cmd_line</text>
       </register>
       <register name="/" type="4">
-        <text>==</text>
+        <text>do_timing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnJva2VyID0gYW1xcDovL25uaWV0ZXN0Om5uaWV0ZXN0QDEyNy4wLjAuMTo1Njc0L3ZpZGVvL25uaWV0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3J1biBjbWQgb24gYm9hcmQ6ICVzJyAlIGNtZF9saW5lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdvcmRfbGlzdCA9IFsgdy5sb3dlcigpIGZvciB3IGluICBsaXN0KHRleHQuc3BsaXQoKSldCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN1YnN0cl9saXN0LCBzdWJzdHJfbGlzdFstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUnVuIHRlc3Qgb24gYm9hcmQgLS0gY21kOiB7fScuZm9ybWF0KGNtZCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heChzdWJzdHJfbGlzdCwga2V5PWxlbikpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfcGF0aCA9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JpcHQgPSBzZWxmLmJvYXJkWydpbmZlcmVuY2Vfc2NyaXB0J10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YnN0cl9saXN0W10K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR5cGUgPSBubmllX3R5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1heF9sZW4gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGJvYXJkIGNvbmZpZyBleGFtcGxlIChyZWZlciB0byBlbnZfZXhhbXBsZS5pbmkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpcnN0ID0gbGluZVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFtib2FyZF8xXQogICAgICAgICMgdHlwZSA9IE5OSUUgMzUxNgogICAgICAgICMgaXAgPSAxMC4xNjkuMC44NAogICAgICAgICMgdXNlciA9IHJvb3QKICAgICAgICAjIHBhc3N3ZCA9CiAgICAgICAgIyBzcGVlZF9zY3JpcHQgPSBsaXV6aXlhbmcvbGFiMi9zcGVlZF90ZXN0XzM1MTYKICAgICAgICAjIGluZmVyZW5jZV9zY3JpcHQgPQogICAgICAgICMgYmVuY2htYXJrX3NjcmlwdCA9IHN1bnl1Ym8vYmluL3drTk5JRTM1MTYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>==</last-search>
-      <last-pattern>==</last-pattern>
+      <last-search>do_timing</last-search>
+      <last-offset />
+      <last-pattern>do_timing</last-pattern>
       <last-replace>is</last-replace>
       <last-substitute>==</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>==</entry>
+        <entry>'</entry>
+        <entry>attr</entry>
+        <entry encoding="base64">XDxsb2NhbF90ZXN0cnVuX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDx0ZXN0cnVuX2Z1bGxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxfYWJzX2xvY2FsX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxfX2dldF9ydW5uaW5nX2NvbmZpZ1w+</entry>
+        <entry>_get_runn</entry>
+        <entry>board</entry>
+        <entry>do_timing</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
         <entry>75</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5zLz09L2lzL2c=</entry>
-        <entry>W</entry>
+        <entry>registers</entry>
+        <entry>Vsp</entry>
+        <entry>vsp</entry>
+        <entry>w'</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -250,8 +441,20 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
