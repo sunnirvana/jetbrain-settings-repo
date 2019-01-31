@@ -15,12 +15,12 @@
         <mark key="^" line="19" column="68" />
         <mark key="." line="19" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" timestamp="1548904740451">
-        <mark key="'" line="53" column="36" />
-        <mark key="[" line="54" column="67" />
-        <mark key="]" line="54" column="78" />
-        <mark key="." line="54" column="78" />
-        <mark key="^" line="54" column="78" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" timestamp="1548905477122">
+        <mark key="'" line="54" column="24" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="69" column="18" />
       </file>
       <file name="/Python Console" timestamp="1548401092195">
         <mark key="[" line="0" column="0" />
@@ -59,10 +59,10 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548904656957">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548905584366">
         <mark key="'" line="164" column="34" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="261" column="23" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="55" />
         <mark key="^" line="28" column="70" />
         <mark key="." line="251" column="54" />
       </file>
@@ -166,8 +166,11 @@
       <file name="/Dummy.txt" timestamp="1548759308545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" timestamp="1548843643342">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/SuperWorker.py" timestamp="1548904928202">
         <mark key="'" line="44" column="35" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/env_example.ini" timestamp="1548903649018">
         <mark key="[" line="40" column="0" />
@@ -330,49 +333,52 @@
       <jump line="164" column="34" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" />
       <jump line="52" column="36" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
       <jump line="0" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="58" column="10" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="53" column="24" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
+      <jump line="4" column="45" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/NNIEBoard.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>testrun_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>testrun_name</text>
+        <text>cmd_line</text>
       </register>
       <register name="/" type="4">
         <text>do_timing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgPSBvcy5wYXRoLmpvaW4oQk9BUkRfTEJYX05GU19ST09ULCBzY3JpcHQpCiAgICAgICAgdGVzdHJ1bl9uYW1lID0gb3MucGF0aC5iYXNlbmFtZShsb2NhbF90ZXN0cnVuX3BhdGgpCiAgICAgICAgYXJncyA9IG9zLnBhdGguam9pbigKICAgICAgICAgICAgQk9BUkRfTEJYX05GU19ST09ULAogICAgICAgICAgICBURVNUUlVOX1JPT1QsCiAgICAgICAgICAgIHRlc3RydW5fbmFtZSwKICAgICAgICAgICAgd2sKICAgICAgICApCiAgICAgICAgY21kX2xpbmUgPSAne30ge30nLmZvcm1hdChjbWQsIGFyZ3MpCiAgICAgICAgbG9nZ2VyLmluZm8oJ1J1biB0ZXN0IG9uIGJvYXJkIC0tIGNtZDoge30nLmZvcm1hdChjbWRfbGluZSkpCiAgICAgICAgcmV0dXJuIGNtZF9saW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3J1biBjbWQgb24gYm9hcmQ6ICVzJyAlIGNtZF9saW5lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0cnVuX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGxvY2FsX3Rlc3RydW5fcGF0aCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUnVuIHRlc3Qgb24gYm9hcmQgLS0gY21kOiB7fScuZm9ybWF0KGNtZCkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50ZWxfaXAsCiAgICAgICAgICAgIHNlbGYudGVsX3VzZXIsCiAgICAgICAgICAgIHNlbGYudGVsX3Bhc3N3ZCwK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfcGF0aCA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBubmllX3R5cGUgPT0gTk5JRVR5cGUuTk5JRV9UWVBFXzM1MTY6CiAgICAgICAgICAgIHNlbGYuYm9hcmQgPSBhcHBfY29uZmlnLmJvYXJkXzM1MTYKICAgICAgICBpZiBubmllX3R5cGUgPT0gTk5JRVR5cGUuTk5JRV9UWVBFXzM1NTlBOgogICAgICAgICAgICBzZWxmLmJvYXJkID0gYXBwX2NvbmZpZy5ib2FyZF8zNTU5YQo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JpcHQgPSBzZWxmLmJvYXJkWydpbmZlcmVuY2Vfc2NyaXB0J10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQgLSBwaXAucHkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR5cGUgPSBubmllX3R5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2JvYXJkX2luZm8oc2VsZiwgdGFyZ2V0X2JvYXJkLCB0ZXN0X3R5cGUpOgogICAgICAgIGlmIHRhcmdldF9ib2FyZCA9PSBOTklFVHlwZS5OTklFX1RZUEVfMzUxNjoKICAgICAgICAgICAgYm9hcmQgPSBhcHBfY29uZmlnLmJvYXJkXzM1MTYKICAgICAgICBlbGlmIHRhcmdldF9ib2FyZCA9PSBOTklFVHlwZS5OTklFX1RZUEVfMzU1OUE6CiAgICAgICAgICAgIGJvYXJkID0gYXBwX2NvbmZpZy5ib2FyZF8zNTU5YQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ05vdCBzdXBwb3J0IGJvYXJkIHR5cGUgKCJ7fSIpJy5mb3JtYXQodGFyZ2V0X2JvYXJkKSkKCiAgICAgICAgYm9hcmRfaXAgPSBib2FyZFsnaXAnXQogICAgICAgIGJvYXJkX3VzZXIgPSBib2FyZFsndXNlciddCiAgICAgICAgYm9hcmRfcHcgPSBib2FyZFsncGFzc3dkJ10KCiAgICAgICAgaWYgdGVzdF90eXBlID09IE5OSUVUZXN0VHlwZS5USU1JTkc6CiAgICAgICAgICAgIHNjcmlwdCA9IGJvYXJkWydzcGVlZF9zY3JpcHQnXQogICAgICAgIGVsaWYgdGVzdF90eXBlID09IE5OSUVUZXN0VHlwZS5JTkZFUkVOQ0U6CiAgICAgICAgICAgIHNjcmlwdCA9IGJvYXJkWydpbmZlcmVuY2Vfc2NyaXB0J10KICAgICAgICBlbGlmIHRlc3RfdHlwZSA9PSBOTklFVGVzdFR5cGUuQkVOQ0hNQVJLOgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ05vdCBzdXBwb3J0IHRlc3QgdHlwZSAoInt9IiknLmZvcm1hdCh0ZXN0X3R5cGUpKQoKICAgICAgICBuZnNfaXAgPSBhcHBfY29uZmlnLm5mc19zZXJ2ZXJfaXAKICAgICAgICBuZnNfcGF0aCA9IGFwcF9jb25maWcubmZzX3NlcnZlcl9wYXRoCgogICAgICAgIGxvZ2dlci5kZWJ1ZygnYm9hcmQgY29uZmlnICh7fSwge30sIHt9LCB7fSwge30sIHt9KScuZm9ybWF0KAogICAgICAgICAgICBib2FyZF9pcCwKICAgICAgICAgICAgYm9hcmRfdXNlciwKICAgICAgICAgICAgYm9hcmRfcHcsCiAgICAgICAgICAgIHNjcmlwdCwKICAgICAgICAgICAgbmZzX2lwLAogICAgICAgICAgICBuZnNfcGF0aAogICAgICAgICkpCgogICAgICAgIHNlbGYuYm9hcmRfaXAgPSBib2FyZF9pcAogICAgICAgIHNlbGYuYm9hcmRfdXNlciA9IGJvYXJkX3VzZXIKICAgICAgICBzZWxmLmJvYXJkX3B3ID0gYm9hcmRfcHcKCiAgICAgICAgcmV0dXJuIChib2FyZF9pcCwgYm9hcmRfdXNlciwgYm9hcmRfcHcsIHNjcmlwdCwgbmZzX2lwLCBuZnNfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGJvYXJkIGNvbmZpZyBleGFtcGxlIChyZWZlciB0byBlbnZfZXhhbXBsZS5pbmkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0ID0gYm9hcmRbJ2JlbmNobWFya19zY3JpcHQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFtib2FyZF8xXQogICAgICAgICMgdHlwZSA9IE5OSUUgMzUxNgogICAgICAgICMgaXAgPSAxMC4xNjkuMC44NAogICAgICAgICMgdXNlciA9IHJvb3QKICAgICAgICAjIHBhc3N3ZCA9CiAgICAgICAgIyBzcGVlZF9zY3JpcHQgPSBsaXV6aXlhbmcvbGFiMi9zcGVlZF90ZXN0XzM1MTYKICAgICAgICAjIGluZmVyZW5jZV9zY3JpcHQgPQogICAgICAgICMgYmVuY2htYXJrX3NjcmlwdCA9IHN1bnl1Ym8vYmluL3drTk5JRTM1MTYK</text>
       </register>
       <register name=":" type="4">
-        <text>.w</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -404,8 +410,8 @@
         <entry>Vsp</entry>
         <entry>vsp</entry>
         <entry>w'</entry>
-        <entry>w</entry>
         <entry>.w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
