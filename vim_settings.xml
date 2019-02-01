@@ -2,14 +2,106 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1549003981175" />
+      <file name="/a.dummy" timestamp="1549004066880">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/functional/decorator.py" timestamp="1549002884898" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" timestamp="1549004268662">
+        <mark key="'" line="30" column="52" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1549004728323">
+        <mark key="'" line="72" column="119" />
+        <mark key="[" line="84" column="66" />
+        <mark key="]" line="84" column="69" />
+        <mark key="." line="84" column="69" />
+        <mark key="^" line="84" column="69" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="12" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" />
+      <jump line="22" column="11" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" />
+      <jump line="32" column="7" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" />
+      <jump line="35" column="52" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" />
+      <jump line="60" column="28" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" />
+      <jump line="73" column="119" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>msg</text>
+      </register>
+      <register name="-" type="4">
+        <text>msg</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwZXJmX2RlY29yYXRvclw+</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdGYWlsZWQgdG8gdHJhbnNmZXIgdGVzdCBtYXRlcmlhbC4gVGhlIGVycm9yIG1lc3NhZ2UgaXMgXG4nLCBtc2cpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5tYXRlcmlhbHNfdHJhbnNfbW9kZSA9PSBOTklFVGVzdFRyYW5zTW9kZS5TU0g6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNfbW9kZT1zZWxmLm1hdGVyaWFsc190cmFuc19tb2RlLAogICAgICAgICAgICBicmFpbnBwX2FkZHI9c2VsZi5icmFpbnBwX2FkZHIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdHJ1bl9wYXRoLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUKZnJvbSBlbnVtIGltcG9ydCBJbnRFbnVtCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5kZWZpbmVzIGltcG9ydCBOTklFVGVzdFRyYW5zTW9kZSwgTk5JRVRlc3RUeXBlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxwZXJmX2RlY29yYXRvclw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwZXJmX2RlY29yYXRvclw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxwZXJmX2RlY29yYXRvclw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
