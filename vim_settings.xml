@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1549004066880">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548905584366">
         <mark key="'" line="164" column="34" />
         <mark key="[" line="315" column="0" />
@@ -31,11 +28,17 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1549160753153">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="32" column="33" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1549161881183">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/non_unique_elements.py" timestamp="1549162275580">
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" timestamp="1548397360146">
         <mark key="'" line="353" column="24" />
@@ -226,9 +229,6 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1548401092195">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/README.md" timestamp="1548758091990">
         <mark key="'" line="156" column="28" />
         <mark key="[" line="159" column="5" />
@@ -325,9 +325,6 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="95" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548759308545">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/encoding.py" timestamp="1541581403766">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -366,9 +363,6 @@
         <mark key="]" line="8" column="48" />
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
-      </file>
-      <file name="/iter_func_examples" timestamp="1548752094601">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/RPClient.py" timestamp="1549007136414">
         <mark key="[" line="11" column="21" />
@@ -420,10 +414,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGMsIGMxKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG1pbihjLmtleXMoKSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>xrange</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
@@ -432,31 +426,31 @@
         <text encoding="base64">ICAgIGggPSBpbnQodGltZS5zcGxpdCgnOicpWzBdKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGMsIGMxKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG1pbihjLmtleXMoKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGMsIGMxLCBjLm1vc3RfY29tbW9uKCkpCg==</text>
+        <text encoding="base64">ICAgIHsgZm9yIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbnkoW25vdCBdKQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQobWluKGMua2V5cygpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGMxID0gZGljdChjLml0ZW1zKCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYy5wb3AoaykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGMuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGMpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIF90ZXh0ID0gJycuam9pbihbaSBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkpIGlmICdhJyA8PSB0ZXh0W2ldIDw9ICd6JyBvciAnQScgPD0gdGV4dFtpXSA8PSAnWiddKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgJ2EnIDw9IGsgPD0gJ3onIGFuZCBub3QgJ0EnIDw9IGsgPD0gJ1onOgogICAgICAgICAgICBjLnBvcChrKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGMsIGMxKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGMsIGMxLCBjLm1vc3RfY29tbW9uKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
