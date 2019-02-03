@@ -31,11 +31,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1549159302978">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="34" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1549160753153">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="32" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/prototype/server/tests/test_end2end.py" timestamp="1548397360146">
         <mark key="'" line="353" column="24" />
@@ -419,11 +419,11 @@
       <jump line="20" column="94" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_TimingTester.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGMsIGMxKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>keys</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
@@ -432,31 +432,31 @@
         <text encoding="base64">ICAgIGggPSBpbnQodGltZS5zcGxpdCgnOicpWzBdKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGMsIGMxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGMsIGMxLCBjLm1vc3RfY29tbW9uKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhbnkoW25vdCBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1ZmZpeCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aW1lCg==</text>
+        <text encoding="base64">ICAgIGMxID0gZGljdChjLml0ZW1zKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYy5wb3AoaykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyLnRhc2tzIGltcG9ydCBFcnJvckNvZGUK</text>
+        <text encoding="base64">ICAgIGMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSB0ZXN0LnRlc3RfcnBjLnRlc3RfQk1LVGVzdGVyIGltcG9ydCBUZXN0Qk1LVGVzdGVyCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
