@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/pawn_brotherhood.py" timestamp="1549621776888">
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/pawn_brotherhood.py" timestamp="1549621912984">
         <mark key="'" line="29" column="14" />
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="10" />
-        <mark key="^" line="29" column="10" />
-        <mark key="." line="29" column="10" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="29" column="64" />
+        <mark key="^" line="29" column="64" />
+        <mark key="." line="29" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1548905584366">
         <mark key="'" line="164" column="34" />
@@ -348,6 +348,7 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/sort_array_by_element_frequency.py" timestamp="1549623346421" />
       <file name="$USER_HOME$/Workspace/codes/my_flask/routes.py" timestamp="1541756336253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
