@@ -348,11 +348,11 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/sort_array_by_element_frequency.py" timestamp="1549774377409">
-        <mark key="[" line="52" column="25" />
-        <mark key="]" line="52" column="23" />
-        <mark key="." line="52" column="23" />
-        <mark key="^" line="52" column="23" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/sort_array_by_element_frequency.py" timestamp="1549775119081">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/my_flask/routes.py" timestamp="1541756336253">
         <mark key="[" line="0" column="0" />
@@ -430,11 +430,11 @@
       <jump line="27" column="14" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/pawn_brotherhood.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
