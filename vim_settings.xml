@@ -348,11 +348,11 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/sort_array_by_element_frequency.py" timestamp="1549772410520">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/sort_array_by_element_frequency.py" timestamp="1549774377409">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/my_flask/routes.py" timestamp="1541756336253">
         <mark key="[" line="0" column="0" />
@@ -431,7 +431,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYWZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>file</text>
@@ -443,31 +443,31 @@
         <text encoding="base64">ICAgIF9maWxlID0gW2ZpbGVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYWZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzYWZlIG9uZXM6ICcsIHNhZmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiByYW5nZSh2KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBwYXduWzBdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbICBmb3Igayx2IGluIG9kLml0ZW1zKCldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzYWZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByYW5rID09ICdhJzoKICAgICAgICAgICAgcmFuayA9IHBhd25bMF0K</text>
+        <text encoding="base64">ICAgIHByaW50KCdzYWZlIG9uZXM6ICcsIHNhZmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBwYXduWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhbmsgPSBwYXduWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
