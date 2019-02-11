@@ -35,7 +35,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/the_warriors.py" timestamp="1549880055061" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/the_warriors.py" timestamp="1549894792669">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="37" />
+      </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/most_wanted_letter.py" timestamp="1549161881183">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -414,8 +419,8 @@
       <jump line="27" column="14" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/pawn_brotherhood.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v_set.pop()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>v_set.pop()</text>
@@ -427,31 +432,31 @@
         <text encoding="base64">ICAgIGRfc2V0MSA9IHNldChsMSkKICAgIGlmIGRfc2V0MSA9PSAxIGFuZCBkX3NldDEucG9wKCkgIT0gJy4nOgogICAgICAgIHJldHVybiBkX3NldDEucG9wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChoX3NldCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbHMgPSBbMCwxLDJdCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGwxID0gW10KICAgIGwyID0gW10K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gW10K</text>
+        <text encoding="base64">ICAgIGhlYWx0aCA9IDUwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiRCIgb3IgIlgiIG9yICJPIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChoX3NldCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHYK</text>
+        <text encoding="base64">ICAgIGNvbHMgPSBbMCwxLDJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGwyID0K</text>
+        <text encoding="base64">ICAgIGwxID0gW10KICAgIGwyID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
