@@ -304,11 +304,11 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/x_o_referee.py" timestamp="1549794198053">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="30" column="51" />
-        <mark key="." line="30" column="51" />
-        <mark key="^" line="30" column="53" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/x_o_referee.py" timestamp="1549869699306">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/.gitignore" timestamp="1548406392558">
         <mark key="[" line="1" column="0" />
@@ -418,8 +418,8 @@
       <jump line="27" column="14" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/pawn_brotherhood.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9zID0gbGlzdCgpCiAgICB4cyA9IGxpc3QoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -431,31 +431,31 @@
         <text encoding="base64">ICAgIF9maWxlID0gW2ZpbGVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIG9zID0gbGlzdCgpCiAgICB4cyA9IGxpc3QoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdhbWVfcmVzdWx0Lgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHdpbihpdGVtcyk6CiAgICBpZiBsZW4oaXRlbXMpID4gNjoKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgICMgZGlhZ29uYWwgWzAsMF0gWzEsMV0gWzIsMl0gb3IgWzIsMF0gWzEsMV0gWzAsMl0KCiAgICAjIGhvcml6b250YWwKCiAgICAjIHZlcnRpY2FsCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciByb3cgaW4gcmFuZ2UobGVuKGdhbWVfcmVzdWx0KSk6CiAgICAgICAgZm9yIGl0ZW0gaW4gcm93OgogICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gcmFuZ2Uocm93cyk6CiAgICAgICAgZm9yIGNvbCBpbiByYW5nZShjb2x1bW5zKToKICAgICAgICAgICAgaXRlbSA9IGdhbWVfcmVzdWx0W3Jvd11bY29sXQogICAgICAgICAgICBpZiBpdGVtID09ICdPJzoKICAgICAgICAgICAgICAgIG9zLmFwcGVuZCgocm93LCBjb2wpKQogICAgICAgICAgICBlbGlmIGl0ZW0gPT0gJ1gnOgogICAgICAgICAgICAgICAgeHMuYXBwZW5kKChyb3csIGNvbCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiByYW5nZSh2KToK</text>
+        <text encoding="base64">ICAgIGdhbWVfcmVzdWx0Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbICBmb3Igayx2IGluIG9kLml0ZW1zKCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gcmFuZ2UobGVuKGdhbWVfcmVzdWx0KSk6CiAgICAgICAgZm9yIGl0ZW0gaW4gcm93OgogICAgICAgICAgICBpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
