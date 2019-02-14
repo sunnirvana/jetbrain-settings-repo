@@ -44,11 +44,12 @@
         <mark key="^" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" timestamp="1550149764620">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" timestamp="1550151587948">
+        <mark key="'" line="20" column="26" />
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/inheritance.py" timestamp="1550126938122">
         <mark key="[" line="3" column="5" />
@@ -100,43 +101,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>timing_workers</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSBQb29sLmdldCh3b3JrZXJfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGltaW5nX3dvcmtlcnMgPSBkaWN0KCkK</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5wb3Aod29ya2VyX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
+        <text encoding="base64">dGltaW5nX3dvcmtlcnMgPSBkaWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHdvcmtlcikpCg==</text>
+        <text encoding="base64">ICAgIC5wb3Aod29ya2VyX2lkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0aW1pbmdfd29ya2Vycy5rZXlzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd29ya2VyX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdID0gd29ya2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHdvcmtlcikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
