@@ -70,10 +70,11 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/flatten_list.py" timestamp="1550133046902">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/flatten_list.py" timestamp="1550136135073">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550129356528">
         <mark key="[" line="14" column="0" />
@@ -97,43 +98,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
       </register>
       <register name="-" type="4">
-        <text>worker.id.hex</text>
+        <text>numbers.Integral</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0aW1pbmdfd29ya2Vycy5rZXlzKCkpCiAgICAgICAgcHJpbnQodHlwZSh3b3JrZXIpKQo=</text>
+      <register name="0" type="4">
+        <text>flat_list([1, 2, 3])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ZXIoKQo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoYXJyYXksIGxpc3QpOgogICAgICAgIGZvciBpIGluIGFycmF5OgogICAgICAgICAgICBmbGF0X2xpc3QoaSkKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIHJlcy5hcHBlbmQoYXJyYXkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0aW1pbmdfd29ya2Vycy5rZXlzKCkpCg==</text>
+        <text encoding="base64">cmVzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcnJvciAhPSBSUENFcnJvckNvZGUuTm9FcnJvcjoKICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBjbGVhbiB1cCB0aGUgZW52LCB0aGUgZXJyb3IgaXMgXG4nLCBtc2cpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bWJlcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSBwaWNrbGUubG9hZHMod29ya2VyKQo=</text>
+        <text encoding="base64">cmVzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfd29ya2VyID0gcGlja2xlLmxvYWRzKHdvcmtlcikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBhcnJheToKICAgICAgICAgICAgZmxhdF9saXN0KGkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzLmFwcGVuZChhcnJheSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByYW5kb20K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
