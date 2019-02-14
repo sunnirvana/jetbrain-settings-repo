@@ -21,11 +21,10 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550121087218">
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="47" column="34" />
-        <mark key="^" line="47" column="19" />
-        <mark key="." line="47" column="20" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550121425027">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1550115858061">
         <mark key="'" line="3" column="29" />
@@ -42,35 +41,44 @@
       <jump line="71" column="31" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>&quot;hieeelalaooo&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIHBocmFzZVtpXSA9PSAnJzoKICAgICAgICAgICAgaSArPSAxCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>Error</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCB0cmFuc2xhdGUoImhvb29vd2UgeXl5b29vdXV1IGR1b29vaWlpbmUiKSA9PSAiaG93IHlvdSBkb2luIiwgIkpvZXk/Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzICs9IHBocmFzZVtpXQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>&quot;hieeelalaooo&quot;</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHBocmFzZVtpXSA9PSAnJzoKICAgICAgICAgICAgaSArPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzICs9IHBocmFzZVtpXSAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYW5zbGF0ZSgiaGllZWVsYWxhb29vIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyLnRhc2tzIGltcG9ydCBFcnJvckNvZGUK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihwaHJhc2UpKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyIGltcG9ydCB0YXNrcyBhcyBycGMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzICs9IHBocmFzZVtpXQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzICs9IHBocmFzZVtpXSAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyLnRhc2tzIGltcG9ydCBFcnJvckNvZGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyIGltcG9ydCB0YXNrcyBhcyBycGMK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyLnRhc2tzIGltcG9ydCBFcnJvckNvZGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>tasks</text>
-      </register>
-      <register name="/" type="4">
-        <text>Error</text>
       </register>
     </registers>
     <search>
