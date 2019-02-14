@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1550126634217">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+      </file>
       <file name="/Python Console" timestamp="1550121095790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,15 +27,25 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550121425027">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/definition.py" timestamp="1550126986011">
+        <mark key="'" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550126359043">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1550115858061">
         <mark key="'" line="3" column="29" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/inheritance.py" timestamp="1550126938122">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -39,13 +55,14 @@
       <jump line="79" column="38" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" />
       <jump line="47" column="17" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" />
       <jump line="71" column="31" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Workspace/codes/my-python-repo/oop/definition.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHBocmFzZVtpXSA9PSAnJzoKICAgICAgICAgICAgaSArPSAxCg==</text>
+      <register name="&quot;" type="4">
+        <text>define</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>define</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
