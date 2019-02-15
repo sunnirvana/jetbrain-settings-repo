@@ -3,41 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1550215542854">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1550215998514">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1550121095790">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_TimingTester.py" timestamp="1550115344246" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" timestamp="1550115897633">
-        <mark key="'" line="80" column="38" />
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/definition.py" timestamp="1550126986011">
-        <mark key="'" line="44" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/datamaid/requirements-dev.txt" timestamp="1550216156874" />
+      <file name="$USER_HOME$/Workspace/projects/datamaid/setup.py" timestamp="1550216151211" />
+      <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/airflow/airflow.sh" timestamp="1550216278310" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550126359043">
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/model_wrapper/NNIEModel.py" timestamp="1550127870440" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/common.py" timestamp="1550130708826">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/best_stock.py" timestamp="1550215000344" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1550131720241">
         <mark key="'" line="3" column="29" />
         <mark key="[" line="58" column="33" />
@@ -58,6 +39,39 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/the_ship_teams.py" timestamp="1550199721000">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550129356528">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_TimingTester.py" timestamp="1550115344246" />
+      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/storage/redis_client.py" timestamp="1550216145050" />
+      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/tester.py" timestamp="1550216123811" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" timestamp="1550115897633">
+        <mark key="'" line="80" column="38" />
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/definition.py" timestamp="1550126986011">
+        <mark key="'" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/model_wrapper/NNIEModel.py" timestamp="1550127870440" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/common.py" timestamp="1550130708826">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/best_stock.py" timestamp="1550215000344" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550129768713">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="80" column="17" />
@@ -65,6 +79,7 @@
         <mark key="^" line="80" column="31" />
         <mark key="." line="80" column="31" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/nginx/datamaid-nginx.conf" timestamp="1550216236753" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" timestamp="1550115992923">
         <mark key="'" line="72" column="31" />
         <mark key="[" line="4" column="50" />
@@ -78,24 +93,14 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/the_ship_teams.py" timestamp="1550199721000">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/redis/redis.sh" timestamp="1550216203706" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/absolute_sorting.py" timestamp="1550212338450">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="26" column="51" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550129356528">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="24" column="58" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/mysql/mysql.sh" timestamp="1550216254366" />
     </filemarks>
     <jumps>
       <jump line="72" column="32" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" />
