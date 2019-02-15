@@ -232,7 +232,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1549989539559">
+      <file name="/Python Console" timestamp="1550254781341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/README.md" timestamp="1548758091990">
@@ -273,11 +273,10 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/ground_for_the_house.py" timestamp="1550253027307">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/ground_for_the_house.py" timestamp="1550254979649">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/WorkerMixin.py" timestamp="1548843460465">
         <mark key="'" line="57" column="5" />
@@ -434,11 +433,11 @@
       <jump line="27" column="14" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Home/pawn_brotherhood.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>last - first + 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>last - first + 1</text>
+        <text>reversed</text>
       </register>
       <register name="/" type="4">
         <text>attr</text>
@@ -447,16 +446,16 @@
         <text encoding="base64">ICAgIGRfc2V0MSA9IHNldChsMSkKICAgIGlmIGRfc2V0MSA9PSAxIGFuZCBkX3NldDEucG9wKCkgIT0gJy4nOgogICAgICAgIHJldHVybiBkX3NldDEucG9wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvcCA9IDAKICAgIGJvdHRvbSA9IDAKICAgIGZvciBpIGluIHJhbmdlKGxlbihyb3dzKSk6CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIGJvdHRvbSA+IHRvcDoKICAgICAgICBpZiByb3dzW3RvcF0uZmluZCgnIycpCiAgICAgICAgYm90dG9tIC09IDEgCiAgICAgICAgdG9wICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICBpZiBmaXJzdCA8IDA6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihyb3dzKSk6CiAgICAgICAgaWYgcm93c1tpXS5maW5kKCcjJykgPiAwIGFuZCAK</text>
+        <text encoding="base64">ICAgICAgICBpZiByb3dzW2ldLmZpbmQoJyMnKSA+IDAgYW5kIHRvcCA9PSAwOgogICAgICAgICAgICB0b3AK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGhlaWdodCA9IDAK</text>
@@ -465,13 +464,13 @@
         <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBoZWlnaHQgKz0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZmlyc3Q6IHt9LCBsYXN0OiB7fSwgYXJlYToge30nLmZvcm1hdChmaXJzdCwgbGFzdCwgYXJlYSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaGVpZ2h0ID4gMDoKICAgICAgICAgICAgICAgICMg5re75Yqg5Lik5Liq5pyJ5pWI6KGM5LmL6Ze055qE56m66KGMCiAgICAgICAgICAgICAgICBoZWlnaHQgKz0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSAwCg==</text>
+        <text encoding="base64">ICAgIHRvcCA9IDAKICAgIGJvdHRvbSA9IDAKICAgIGZvciBpIGluIHJhbmdlKGxlbihyb3dzKSk6CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodCA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
