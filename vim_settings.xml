@@ -20,6 +20,11 @@
       <file name="/Python Console" timestamp="1550121095790">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/redis_client.py" timestamp="1550222728277">
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/setup.py" timestamp="1550216151211" />
       <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/airflow/airflow.sh" timestamp="1550216278310" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550126359043">
@@ -35,18 +40,24 @@
         <mark key="^" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" timestamp="1550221373097">
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" timestamp="1550223134267">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="63" />
+        <mark key="^" line="20" column="63" />
+        <mark key="." line="20" column="63" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/inheritance.py" timestamp="1550126938122">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/cache.py" timestamp="1550222965319">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/the_ship_teams.py" timestamp="1550199721000">
         <mark key="[" line="18" column="10" />
@@ -124,46 +135,48 @@
       <jump line="57" column="7" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
       <jump line="9" column="58" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
       <jump line="56" column="26" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
+      <jump line="24" column="25" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/timing.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXRlbVsnbmFtZSddCg==</text>
+      <register name="&quot;" type="4">
+        <text>hit</text>
       </register>
       <register name="-" type="4">
-        <text>Pool</text>
+        <text>hit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2F2ZV9tYXRlcmlhbFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
+      <register name="0" type="4">
+        <text>worker.id.hex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXRlbVsnbmFtZSddCg==</text>
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5yZWRpc19jbGllbnQgaW1wb3J0IGdfcmVkaXMgYXMgcmVkaXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5yZWRpc19jbGllbnQgaW1wb3J0IGdfcmVkZGRpcyBhcyByZWRpcwo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICMgc2V0IHZhbHVlCiAgICBnX3JlZGlzLnNldCgndGVzdC1rZXknLCAndGVzdC12YWx1ZScpCiAgICBhc3NlcnQgZ19yZWRpcy5leGlzdHMoJ3Rlc3Qta2V5JykgPT0gVHJ1ZSwgJ3NldCcKICAgIGFzc2VydCBnX3JlZGlzLmdldCgndGVzdC1rZXknKSA9PSBiJ3Rlc3QtdmFsdWUnLCAnZ2V0JwogICAgIyByZW1vdmUKICAgIGdfcmVkaXMuZGVsZXRlKCd0ZXN0LWtleScpCiAgICBhc3NlcnQgZ19yZWRpcy5leGlzdHMoJ3Rlc3Qta2V5JykgPT0gRmFsc2UsICdyZW1vdmUnCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVkaXMuCg==</text>
+        <text encoding="base64">bm5pZV90ZXN0ZXIuZWdnLWluZm8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgQ2FjaGU6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZXhpc3RzKGtleSk6CiAgICAgICAgcmV0dXJuIHJlZGlzLmV4aXN0cyhrZXkpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHN0b3JlKGtleSwgaXRlbSk6CiAgICAgICAgcmV0dXJuIHJlZGlzLnNldChrZXksIHBpY2tsZS5kdW1wcyhpdGVtKSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0KGtleSk6CiAgICAgICAgcmV0dXJuIHBpY2tsZS5sb2FkcyhyZWRpcy5nZXQoa2V5KSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZGVsZXRlKGtleSk6CiAgICAgICAgcmV0dXJuIHJlZGlzLmRlbGV0ZShrZXkpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWRpcy5nZXQoaXRlbVsnbWQ1J10pCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci5ycGNfc2VydmVyIGltcG9ydCB3b3JrZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZCA9IFBvb2wuc3RvcmUod29ya2VyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdfcmVkaXMuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ga2V5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuciA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSB3b3JrZXIuaWQuaGV4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
