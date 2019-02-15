@@ -37,6 +37,7 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/best_stock.py" timestamp="1550212458186" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterTiming.py" timestamp="1550131720241">
         <mark key="'" line="3" column="29" />
         <mark key="[" line="58" column="33" />
@@ -83,7 +84,12 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/absolute_sorting.py" timestamp="1550199827893" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/absolute_sorting.py" timestamp="1550212338450">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550129356528">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -107,10 +113,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudW1iZXJzX2FycmF5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>tuple</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
@@ -119,28 +125,28 @@
         <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudW1iZXJzX2FycmF5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGltaW5nX3dvcmtlcnMgPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5wb3Aod29ya2VyX2lkKQo=</text>
+        <text encoding="base64">dGltaW5nX3dvcmtlcnMgPSBkaWN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
+        <text encoding="base64">ICAgIC5wb3Aod29ya2VyX2lkKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
