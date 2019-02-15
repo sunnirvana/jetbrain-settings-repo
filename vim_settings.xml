@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1550215998514">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/redis.py" timestamp="1550217339174">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1550216310573">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="34" />
@@ -11,6 +17,9 @@
         <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/requirements-dev.txt" timestamp="1550216156874" />
+      <file name="/Python Console" timestamp="1550121095790">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/setup.py" timestamp="1550216151211" />
       <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/airflow/airflow.sh" timestamp="1550216278310" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Home/bird_language.py" timestamp="1550126359043">
@@ -45,11 +54,8 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550129356528">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="24" column="58" />
+      <file name="/Dummy.txt" timestamp="1550217351663">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_TimingTester.py" timestamp="1550115344246" />
       <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/storage/redis_client.py" timestamp="1550216145050" />
@@ -61,9 +67,6 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/my-python-repo/oop/definition.py" timestamp="1550126986011">
-        <mark key="'" line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/model_wrapper/NNIEModel.py" timestamp="1550127870440" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/common.py" timestamp="1550130708826">
         <mark key="[" line="13" column="39" />
@@ -72,6 +75,9 @@
         <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/best_stock.py" timestamp="1550215000344" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/logger.py" timestamp="1550216764956">
+        <mark key="." line="48" column="43" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550129768713">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="80" column="17" />
@@ -118,7 +124,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudW1iZXJzX2FycmF5Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>tuple</text>
@@ -130,31 +136,31 @@
         <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudW1iZXJzX2FycmF5Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGdfcmVkaXMuc2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgIHNlbGYuciA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oY2xzLl93b3JrZXJzLmtleXMoKSkpCg==</text>
+        <text encoding="base64">Z19yZWRpcyA9IHJlZGlzLlJlZGlzICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlKQo=</text>
+        <text encoding="base64">Y2xhc3MgUmVkaXM6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5jb25uID0gICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGltaW5nX3dvcmtlcnMgPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5wb3Aod29ya2VyX2lkKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudW1iZXJzX2FycmF5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIgPSB0aW1pbmdfd29ya2Vyc1t3b3JrZXJfaWRdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
