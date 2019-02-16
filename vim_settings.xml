@@ -2,14 +2,44 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/cipher_map2.py" timestamp="1550291355072" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/ground_for_the_house.py" timestamp="1550291329320">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIGhvdXNlKHBsYW4pOgogICAgIyByZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICBpZiAnIycgbm90IGluIHBsYW46CiAgICAgICAgcmV0dXJuIDAKICAgIHJvd3MgPSBwbGFuLnNwbGl0KCdcbicpCiAgICAjIFdpZHRoCiAgICB3aWR0aCA9IDAKICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICBmaXJzdCA9IHJvdy5maW5kKCcjJykKICAgICAgICBpZiBmaXJzdCA8IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJvdy5yZmluZCgnIycpCiAgICAgICAgbmV3X3dpZHRoID0gbGFzdCAtIGZpcnN0ICsgMQogICAgICAgIGlmICBuZXdfd2lkdGggPiB3aWR0aDoKICAgICAgICAgICAgd2lkdGggPSBuZXdfd2lkdGgKCiAgICAjIEhlaWdodAogICAgaGVpZ2h0ID0gMAogICAgdG9wID0gMAogICAgYm90dG9tID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpKToKICAgICAgICBwb3MgPSByb3dzW2ldLmZpbmQoJyMnKQogICAgICAgIGlmIHBvcyA+PSAwOgogICAgICAgICAgICBpZiB0b3AgPT0gMDoKICAgICAgICAgICAgICAgIHRvcCA9IGkKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgIGhlaWdodCA9IGJvdHRvbSAtIHRvcCArIDEKCiAgICAjIHByaW50KCd3aWR0aDoge30sIGhlaWdodDoge30nLmZvcm1hdCh3aWR0aCwgaGVpZ2h0KSkKICAgICMgcHJpbnQoJ2FyZWE6ICcsIHdpZHRoICogaGVpZ2h0KQogICAgcmV0dXJuIHdpZHRoICogaGVpZ2h0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIGhvdXNlKHBsYW4pOgogICAgIyByZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICBpZiAnIycgbm90IGluIHBsYW46CiAgICAgICAgcmV0dXJuIDAKICAgIHJvd3MgPSBwbGFuLnNwbGl0KCdcbicpCiAgICAjIFdpZHRoCiAgICB3aWR0aCA9IDAKICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICBmaXJzdCA9IHJvdy5maW5kKCcjJykKICAgICAgICBpZiBmaXJzdCA8IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJvdy5yZmluZCgnIycpCiAgICAgICAgbmV3X3dpZHRoID0gbGFzdCAtIGZpcnN0ICsgMQogICAgICAgIGlmICBuZXdfd2lkdGggPiB3aWR0aDoKICAgICAgICAgICAgd2lkdGggPSBuZXdfd2lkdGgKCiAgICAjIEhlaWdodAogICAgaGVpZ2h0ID0gMAogICAgdG9wID0gMAogICAgYm90dG9tID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpKToKICAgICAgICBwb3MgPSByb3dzW2ldLmZpbmQoJyMnKQogICAgICAgIGlmIHBvcyA+PSAwOgogICAgICAgICAgICBpZiB0b3AgPT0gMDoKICAgICAgICAgICAgICAgIHRvcCA9IGkKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgIGhlaWdodCA9IGJvdHRvbSAtIHRvcCArIDEKCiAgICAjIHByaW50KCd3aWR0aDoge30sIGhlaWdodDoge30nLmZvcm1hdCh3aWR0aCwgaGVpZ2h0KSkKICAgICMgcHJpbnQoJ2FyZWE6ICcsIHdpZHRoICogaGVpZ2h0KQogICAgcmV0dXJuIHdpZHRoICogaGVpZ2h0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIGhvdXNlKHBsYW4pOgogICAgIyByZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICBpZiAnIycgbm90IGluIHBsYW46CiAgICAgICAgcmV0dXJuIDAKICAgIHJvd3MgPSBwbGFuLnNwbGl0KCdcbicpCiAgICAjIFdpZHRoCiAgICB3aWR0aCA9IDAKICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICBmaXJzdCA9IHJvdy5maW5kKCcjJykKICAgICAgICBpZiBmaXJzdCA8IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJvdy5yZmluZCgnIycpCiAgICAgICAgbmV3X3dpZHRoID0gbGFzdCAtIGZpcnN0ICsgMQogICAgICAgIGlmICBuZXdfd2lkdGggPiB3aWR0aDoKICAgICAgICAgICAgd2lkdGggPSBuZXdfd2lkdGgKCiAgICAjIEhlaWdodAogICAgaGVpZ2h0ID0gMAogICAgdG9wID0gMAogICAgYm90dG9tID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpKToKICAgICAgICBwb3MgPSByb3dzW2ldLmZpbmQoJyMnKQogICAgICAgIGlmIHBvcyA+PSAwOgogICAgICAgICAgICBpZiB0b3AgPT0gMDoKICAgICAgICAgICAgICAgIHRvcCA9IGkKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgIGhlaWdodCA9IGJvdHRvbSAtIHRvcCArIDEKCiAgICAjIHByaW50KCd3aWR0aDoge30sIGhlaWdodDoge30nLmZvcm1hdCh3aWR0aCwgaGVpZ2h0KSkKICAgICMgcHJpbnQoJ2FyZWE6ICcsIHdpZHRoICogaGVpZ2h0KQogICAgcmV0dXJuIHdpZHRoICogaGVpZ2h0Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
