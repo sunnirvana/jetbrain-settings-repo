@@ -14,11 +14,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/friends.py" timestamp="1550330753716">
-        <mark key="[" line="111" column="55" />
-        <mark key="]" line="111" column="55" />
-        <mark key="." line="111" column="55" />
-        <mark key="^" line="111" column="55" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/friends.py" timestamp="1550332859187">
+        <mark key="[" line="111" column="61" />
+        <mark key="]" line="111" column="61" />
+        <mark key="." line="111" column="61" />
+        <mark key="^" line="111" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/compass_map_and_spyglass.py" timestamp="1550303040289">
         <mark key="[" line="23" column="42" />
@@ -30,13 +30,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>connection</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>connection</text>
+        <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNpcGhlcl9ncmlsbGVfOTAgPSB0cmFuc185MChjaXBoZXJfZ3JpbGxlKQo=</text>
+      <register name="0" type="4">
+        <text>list(connection - set(name))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
