@@ -14,7 +14,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/friends.py" timestamp="1550303193382" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/friends.py" timestamp="1550329566335">
+        <mark key="[" line="100" column="34" />
+        <mark key="]" line="100" column="47" />
+        <mark key="." line="100" column="47" />
+        <mark key="^" line="100" column="47" />
+      </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/compass_map_and_spyglass.py" timestamp="1550303040289">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="57" />
@@ -25,40 +30,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>row</text>
+        <text>names</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>names</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNpcGhlcl9ncmlsbGVfOTAgPSB0cmFuc185MChjaXBoZXJfZ3JpbGxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYW5zXzkwKCkKICAgIGV4aXQoKQoK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxlbmd0aCA9IGxlbihjaXBoZXJfZ3JpbGxlWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsZWFyID0gJycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbmd0aCk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoKToKICAgICAgICAgICAgaWYgY2lwaGVyX2dyaWxsZVtpXVtqXSA9PSAnWCc6CiAgICAgICAgICAgICAgICBjbGVhciArPSBjaXBoZXJlZF9wYXNzd29yZFtpXVtqXQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdyaWxsZSwgbmV3X2dyaWxsZSkK</text>
+        <text encoding="base64">ICAgIHRyYW5zXzkwKCkKICAgIGV4aXQoKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGEgPSAoJ1guLi4nLCAnLi5YLicsICdYLi5YJywgJy4uLi4nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IGxlbihjaXBoZXJfZ3JpbGxlWzBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -69,10 +74,13 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
