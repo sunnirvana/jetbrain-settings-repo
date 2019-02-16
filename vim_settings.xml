@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/cipher_map2.py" timestamp="1550292527474" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/cipher_map2.py" timestamp="1550295745069">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/ground_for_the_house.py" timestamp="1550291329320">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -12,20 +17,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zXzkwKCkKICAgIGV4aXQoKQoK</text>
+      </register>
+      <register name="-" type="4">
+        <text>cipher_grille</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNpcGhlcl9ncmlsbGVfOTAgPSB0cmFuc185MChjaXBoZXJfZ3JpbGxlKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyYW5zXzkwKCkKICAgIGV4aXQoKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGhvdXNlKHBsYW4pOgogICAgIyByZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICBpZiAnIycgbm90IGluIHBsYW46CiAgICAgICAgcmV0dXJuIDAKICAgIHJvd3MgPSBwbGFuLnNwbGl0KCdcbicpCiAgICAjIFdpZHRoCiAgICB3aWR0aCA9IDAKICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICBmaXJzdCA9IHJvdy5maW5kKCcjJykKICAgICAgICBpZiBmaXJzdCA8IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJvdy5yZmluZCgnIycpCiAgICAgICAgbmV3X3dpZHRoID0gbGFzdCAtIGZpcnN0ICsgMQogICAgICAgIGlmICBuZXdfd2lkdGggPiB3aWR0aDoKICAgICAgICAgICAgd2lkdGggPSBuZXdfd2lkdGgKCiAgICAjIEhlaWdodAogICAgaGVpZ2h0ID0gMAogICAgdG9wID0gMAogICAgYm90dG9tID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpKToKICAgICAgICBwb3MgPSByb3dzW2ldLmZpbmQoJyMnKQogICAgICAgIGlmIHBvcyA+PSAwOgogICAgICAgICAgICBpZiB0b3AgPT0gMDoKICAgICAgICAgICAgICAgIHRvcCA9IGkKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgIGhlaWdodCA9IGJvdHRvbSAtIHRvcCArIDEKCiAgICAjIHByaW50KCd3aWR0aDoge30sIGhlaWdodDoge30nLmZvcm1hdCh3aWR0aCwgaGVpZ2h0KSkKICAgICMgcHJpbnQoJ2FyZWE6ICcsIHdpZHRoICogaGVpZ2h0KQogICAgcmV0dXJuIHdpZHRoICogaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGhvdXNlKHBsYW4pOgogICAgIyByZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICBpZiAnIycgbm90IGluIHBsYW46CiAgICAgICAgcmV0dXJuIDAKICAgIHJvd3MgPSBwbGFuLnNwbGl0KCdcbicpCiAgICAjIFdpZHRoCiAgICB3aWR0aCA9IDAKICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICBmaXJzdCA9IHJvdy5maW5kKCcjJykKICAgICAgICBpZiBmaXJzdCA8IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJvdy5yZmluZCgnIycpCiAgICAgICAgbmV3X3dpZHRoID0gbGFzdCAtIGZpcnN0ICsgMQogICAgICAgIGlmICBuZXdfd2lkdGggPiB3aWR0aDoKICAgICAgICAgICAgd2lkdGggPSBuZXdfd2lkdGgKCiAgICAjIEhlaWdodAogICAgaGVpZ2h0ID0gMAogICAgdG9wID0gMAogICAgYm90dG9tID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpKToKICAgICAgICBwb3MgPSByb3dzW2ldLmZpbmQoJyMnKQogICAgICAgIGlmIHBvcyA+PSAwOgogICAgICAgICAgICBpZiB0b3AgPT0gMDoKICAgICAgICAgICAgICAgIHRvcCA9IGkKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgIGhlaWdodCA9IGJvdHRvbSAtIHRvcCArIDEKCiAgICAjIHByaW50KCd3aWR0aDoge30sIGhlaWdodDoge30nLmZvcm1hdCh3aWR0aCwgaGVpZ2h0KSkKICAgICMgcHJpbnQoJ2FyZWE6ICcsIHdpZHRoICogaGVpZ2h0KQogICAgcmV0dXJuIHdpZHRoICogaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IGxlbihjaXBoZXJfZ3JpbGxlWzBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGhvdXNlKHBsYW4pOgogICAgIyByZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICBpZiAnIycgbm90IGluIHBsYW46CiAgICAgICAgcmV0dXJuIDAKICAgIHJvd3MgPSBwbGFuLnNwbGl0KCdcbicpCiAgICAjIFdpZHRoCiAgICB3aWR0aCA9IDAKICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICBmaXJzdCA9IHJvdy5maW5kKCcjJykKICAgICAgICBpZiBmaXJzdCA8IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJvdy5yZmluZCgnIycpCiAgICAgICAgbmV3X3dpZHRoID0gbGFzdCAtIGZpcnN0ICsgMQogICAgICAgIGlmICBuZXdfd2lkdGggPiB3aWR0aDoKICAgICAgICAgICAgd2lkdGggPSBuZXdfd2lkdGgKCiAgICAjIEhlaWdodAogICAgaGVpZ2h0ID0gMAogICAgdG9wID0gMAogICAgYm90dG9tID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpKToKICAgICAgICBwb3MgPSByb3dzW2ldLmZpbmQoJyMnKQogICAgICAgIGlmIHBvcyA+PSAwOgogICAgICAgICAgICBpZiB0b3AgPT0gMDoKICAgICAgICAgICAgICAgIHRvcCA9IGkKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvdHRvbSA9IGkKICAgIGhlaWdodCA9IGJvdHRvbSAtIHRvcCArIDEKCiAgICAjIHByaW50KCd3aWR0aDoge30sIGhlaWdodDoge30nLmZvcm1hdCh3aWR0aCwgaGVpZ2h0KSkKICAgICMgcHJpbnQoJ2FyZWE6ICcsIHdpZHRoICogaGVpZ2h0KQogICAgcmV0dXJuIHdpZHRoICogaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIGNsZWFyID0gJycK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbmd0aCk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoKToKICAgICAgICAgICAgaWYgY2lwaGVyX2dyaWxsZVtpXVtqXSA9PSAnWCc6CiAgICAgICAgICAgICAgICBjbGVhciArPSBjaXBoZXJlZF9wYXNzd29yZFtpXVtqXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGdyaWxsZSwgbmV3X2dyaWxsZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGEgPSAoJ1guLi4nLCAnLi5YLicsICdYLi5YJywgJy4uLi4nKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -37,9 +63,14 @@
     </search>
     <history>
       <history-cmd>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
