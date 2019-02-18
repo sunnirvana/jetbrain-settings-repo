@@ -9,12 +9,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" timestamp="1550461971581">
-        <mark key="'" line="11" column="68" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/requirements-dev.txt" timestamp="1550216156874" />
       <file name="/Python Console" timestamp="1550121095790">
         <mark key="[" line="0" column="0" />
@@ -50,12 +44,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerBMK.py" timestamp="1550471075055">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerBMK.py" timestamp="1550475595928">
         <mark key="'" line="45" column="24" />
-        <mark key="[" line="20" column="78" />
-        <mark key="]" line="20" column="78" />
-        <mark key="." line="20" column="78" />
-        <mark key="^" line="20" column="78" />
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+        <mark key="^" line="13" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/worker.py" timestamp="1550463145775" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/cache.py" timestamp="1550470695936">
@@ -81,12 +75,12 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550467118034">
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEBoard.py" timestamp="1550475439186">
         <mark key="'" line="2" column="17" />
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="90" column="7" />
-        <mark key="." line="90" column="7" />
-        <mark key="^" line="90" column="7" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1550227851828">
         <mark key="[" line="0" column="0" />
@@ -123,8 +117,11 @@
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/best_stock.py" timestamp="1550215000344" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/RPClient.py" timestamp="1550226920008" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550461611382">
-        <mark key="'" line="22" column="13" />
+      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/human-attributes/AttributesBenchmark/MegBench_v4.py" timestamp="1550474603741">
+        <mark key="'" line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550475606568">
+        <mark key="'" line="19" column="23" />
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
@@ -144,13 +141,6 @@
         <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/redis/redis.sh" timestamp="1550216203706" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerInference.py" timestamp="1550462293203">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/benchmark.py" timestamp="1550472383005">
         <mark key="'" line="70" column="26" />
         <mark key="[" line="58" column="7" />
@@ -164,12 +154,12 @@
         <mark key="^" line="26" column="51" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1550473622857">
-        <mark key="'" line="51" column="21" />
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="50" />
-        <mark key="^" line="49" column="50" />
-        <mark key="." line="49" column="50" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1550475020533">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/celery.py" timestamp="1550471285213">
         <mark key="[" line="12" column="45" />
@@ -178,6 +168,12 @@
         <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/deploy/mysql/mysql.sh" timestamp="1550216254366" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/single_model.py" timestamp="1550475568818">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="72" column="32" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" />
@@ -201,7 +197,6 @@
       <jump line="2" column="12" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/common.py" />
       <jump line="1" column="7" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" />
       <jump line="14" column="13" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" />
-      <jump line="19" column="34" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
       <jump line="22" column="13" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
       <jump line="10" column="23" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" />
       <jump line="12" column="41" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerTiming.py" />
@@ -225,55 +220,65 @@
       <jump line="1" column="48" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" />
       <jump line="10" column="28" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
       <jump line="48" column="21" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="49" column="34" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="46" column="50" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="30" column="30" filename="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/human-attributes/AttributesBenchmark/MegBench_v4.py" />
+      <jump line="40" column="31" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="38" column="34" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="44" column="23" filename="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" />
+      <jump line="52" column="60" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
+      <jump line="21" column="13" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TestTimingTester</text>
+        <text>TIMING</text>
       </register>
       <register name="-" type="4">
-        <text>TestTimingTester</text>
+        <text>TIMING</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOTklFVGVzdGVyQmVuY2htYXJrXD4=</text>
+        <text encoding="base64">XDx0ZXN0X3R5cGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW3drWydtZDUnXSBmb3Igd2sgaW4gc2VsZi5ubmllX3RhcmdldHNdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBucC5hc2NvbnRpZ3VvdXNhcnJheQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjdjIuaW1kZWNvZGUoKQogICAgICAgICAgICAjIGltZyA9IG5wLmFzY29udGlndW91c2FycmF5KHNlbGYucHJlKGltYWdlLCBpbnB1dF9zaXplKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuUlBDbGllbnQgaW1wb3J0IFJQQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9zaXplID0gKDEyOCwgMjU2KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5kZWZpbmVzIGltcG9ydCBOTklFVHlwZSwgTk5JRVRlc3RUcmFuc01vZGUsIE5OSUVUZXN0VHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBuciA9IG5vcmkuRmV0Y2hlcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5jb21tb24gaW1wb3J0IGJpbjJiNjRjLCBnZXRfZmlsZV9tZDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgojIGZyb20gYXR0cl9yZWxlYXNlLnV0aWxzLmxvZ2dlciBpbXBvcnQgZ19sb2dnZXIgYXMgbG9nZ2VyCiMgZnJvbSBhdHRyX3JlbGVhc2UudXRpbHMuY29uZmlnIGltcG9ydCBnX2FwcF9jb25maWcgYXMgYXBwX2NvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KaW1wb3J0IG9zCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpbXBvcnQgY29uZmlncGFyc2VyCg==</text>
+        <text encoding="base64">ZnJvbSAuUlBDbGllbnQgaW1wb3J0IFJQQ2xpZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZnJvbSBubmllX3Rlc3Rlci51dGlscy5kZWZpbmVzIGltcG9ydCBOTklFVHlwZSwgTk5JRVRlc3RUcmFuc01vZGUsIE5OSUVUZXN0VHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOTklFVGVzdGVyQmVuY2htYXJrXD4=</last-search>
+      <last-search encoding="base64">XDx0ZXN0X3R5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOTklFVGVzdGVyQmVuY2htYXJrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0X3R5cGVcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -289,6 +294,9 @@
         <entry encoding="base64">XDx0ZXN0X2JlbmNobWFya19ydW5cPg==</entry>
         <entry encoding="base64">XDxOTklFVGVzdFRyYW5zTW9kZVw+</entry>
         <entry encoding="base64">XDxOTklFVGVzdGVyQmVuY2htYXJrXD4=</entry>
+        <entry encoding="base64">XDxpbWFnZVw+</entry>
+        <entry encoding="base64">XDxtYXRlcmlhbF9wYXRoXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0X3R5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz52c3A=</entry>
