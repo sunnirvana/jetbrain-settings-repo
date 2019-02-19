@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" timestamp="1550541475138">
+        <mark key="'" line="53" column="39" />
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="56" />
+        <mark key="^" line="28" column="56" />
+      </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/cipher_map2.py" timestamp="1550296792387">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -38,46 +45,48 @@
         <mark key="." line="23" column="57" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="55" column="39" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpYm9uYWNjaV9udW1zKCk6CiAgICBhLCBiID0gMSwgMQogICAgeWllbGQgYQogICAgeWllbGQgYgogICAgd2hpbGUgVHJ1ZToKICAgICAgICBhLCBiID0gYiwgYSArIGIKICAgICAgICB5aWVsZCBhICsgYgoKCmRlZiBjaGVja2lvKG9wYWNpdHkpOgogICAgaWYgb3BhY2l0eSA9PSAxMDAwMDoKICAgICAgICByZXR1cm4gMAogICAgZWxzZToKCiAgICByZXR1cm4gMAo=</text>
+      <register name="&quot;" type="4">
+        <text>.replace(' ', '.')</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.replace(' ', '.')</text>
       </register>
       <register name="/" type="4">
         <text>Fab</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Rmlib25hY2NpIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNldChvZGRfbGV0dGVycykgJiBzZXQoVk9XRUxTKSA9PSBzZXQob2RkX2xldHRlcnMpIGFuZCBzZXQoZXZlbl9sZXR0ZXJzKSAmIHNldChDT05TT05BTlRTKSA9PSBzZXQoZXZlbl9sZXR0ZXJzKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGZpYm9uYWNjaV9udW1zKCk6CiAgICBhLCBiID0gMSwgMQogICAgeWllbGQgYQogICAgeWllbGQgYgogICAgd2hpbGUgVHJ1ZToKICAgICAgICBhLCBiID0gYiwgYSArIGIKICAgICAgICB5aWVsZCBhICsgYgoKCmRlZiBjaGVja2lvKG9wYWNpdHkpOgogICAgaWYgb3BhY2l0eSA9PSAxMDAwMDoKICAgICAgICByZXR1cm4gMAogICAgZWxzZToKCiAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlLnNwbGl0KCdcLicsIHRleHQucmVwbGFjZSgnICcsICcuJykpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwbGl0dGVyX2xpc3QgPSBbJyAnLCAnLCcsICcuJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBzcGxpdHRlciBpbiBzcGxpdHRlcl9saXN0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS9nOiAhe+8mkFjZUZyZWV6ZQrmnaXmupDvvJpDU0ROCuWOn+aWh++8mmh0dHBzOiAvLyBibG9nLmNzZG4ubmV0IC8gQWNlRnJlZXplIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA3ODc4NDE0NQrniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEsIGIgPSAxLCAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9kZF9sZXR0ZXJzID0gd29yZFs6OjJdCiAgICAgICAgICAgICAgICBldmVuX2xldHRlcnMgPSB3b3JkWzE6OjJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG4gPT0gMToKICAgICAgICByZXR1cm4gMQogICAgZWxzZToKICAgICAgICByZXR1cm4gbiArIEZpYm9uYWNjaShuLTEpCg==</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2V0KHdvcmQpICYgc2V0KFZPV0VMUykgPT0gc2V0KHdvcmQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxldHRlciBpbiBsaXN0KHdvcmQpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
