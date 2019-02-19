@@ -59,16 +59,22 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="57" />
       </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550562183301">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="55" column="39" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB2YWx1ZSh3b3JkKToKICAgICAgICByZXR1cm4KCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>sum([VALUES[letter] for letter in word])</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Fab</text>
