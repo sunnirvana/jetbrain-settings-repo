@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" timestamp="1550541475138">
+      <file name="/Python Console" timestamp="1550543425626">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" timestamp="1550542232490">
         <mark key="'" line="53" column="39" />
         <mark key="[" line="28" column="54" />
         <mark key="]" line="28" column="56" />
@@ -16,6 +19,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="32" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550543489525">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="12" />
+        <mark key="." line="67" column="12" />
+        <mark key="^" line="67" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/ghosts_age.py" timestamp="1550419212574">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -27,6 +36,7 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/worth_of_words.py" timestamp="1550544020215" />
       <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/ground_for_the_house.py" timestamp="1550296936173">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -49,44 +59,44 @@
       <jump line="55" column="39" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.replace(' ', '.')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhpc3RvcnkgPSBkaWN0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.replace(' ', '.')</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Fab</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNldChvZGRfbGV0dGVycykgJiBzZXQoVk9XRUxTKSA9PSBzZXQob2RkX2xldHRlcnMpIGFuZCBzZXQoZXZlbl9sZXR0ZXJzKSAmIHNldChDT05TT05BTlRTKSA9PSBzZXQoZXZlbl9sZXR0ZXJzKToK</text>
+      <register name="0" type="4">
+        <text>[{:font}]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlLnNwbGl0KCdcLicsIHRleHQucmVwbGFjZSgnICcsICcuJykpKQo=</text>
+        <text encoding="base64">ICAgIGhpc3RvcnkgPSBkaWN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwbGl0dGVyX2xpc3QgPSBbJyAnLCAnLCcsICcuJ10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBzcGxpdHRlciBpbiBzcGxpdHRlcl9saXN0Ogo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlLnNwbGl0KCdcLicsIHRleHQucmVwbGFjZSgnICcsICcuJykpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9kZF9sZXR0ZXJzID0gd29yZFs6OjJdCiAgICAgICAgICAgICAgICBldmVuX2xldHRlcnMgPSB3b3JkWzE6OjJdCg==</text>
+        <text encoding="base64">ICAgIHNwbGl0dGVyX2xpc3QgPSBbJyAnLCAnLCcsICcuJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIGZvciBzcGxpdHRlciBpbiBzcGxpdHRlcl9saXN0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2V0KHdvcmQpICYgc2V0KFZPV0VMUykgPT0gc2V0KHdvcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxldHRlciBpbiBsaXN0KHdvcmQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
