@@ -9,13 +9,13 @@
         <mark key="^" line="55" column="94" />
         <mark key="." line="55" column="94" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/count_consecutive_summers.py" timestamp="1550641207701" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/count_consecutive_summers.py" timestamp="1550642174398" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550634086222" />
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550641199613">
-        <mark key="[" line="46" column="38" />
-        <mark key="]" line="46" column="40" />
-        <mark key="." line="46" column="40" />
-        <mark key="^" line="46" column="40" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550642483726">
+        <mark key="[" line="43" column="78" />
+        <mark key="]" line="43" column="81" />
+        <mark key="^" line="43" column="81" />
+        <mark key="." line="43" column="81" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" timestamp="1550640979384" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" timestamp="1550634473163">
@@ -38,7 +38,12 @@
         <mark key="." line="66" column="33" />
         <mark key="^" line="66" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550641564195" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550642143947">
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="64" column="38" />
+        <mark key="^" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="108" column="24" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" />
@@ -48,43 +53,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGVuKGJyYWNrZXRfc3RhY2spID09IDAg</text>
+        <text>values</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bGVuKGJyYWNrZXRfc3RhY2spID09IDAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnKCc6ICcpJywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>')'
+']'
+'}'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGVmIHB1c2goKQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">OiAKOiAKOiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaHIgaW4gWyd9JywgJ10nLCAnfSddOgogICAgICAgICAgICBfY2hyID0gYnJhY2tldF9zdGFjay5wb3AoMCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgKCwgWywgeyAgcHVzaCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxlZnRfcGFyZW50aGVzZXMgPSBsaXN0KCkKICAgIHJpZ2h0X3BhcmVudGhlc2VzID0gbGlzdCgpCiAgICBsZWZ0X2JyYWNrZXQgPSBsaXN0KCkKICAgIHJpZ2h0X2JyYWNrZXQgPSBsaXN0KCkKICAgIGxlZnRfYnJhY2VzID0gbGlzdCgpCiAgICByaWdodF9icmFjZXMgPSBsaXN0KCkKICAgIGZvciAoaSwgdikgaW4gZW51bWVyYXRlKGV4cHJlc3Npb24pOgogICAgICAgIGlmIHYgPT0gJygnOgogICAgICAgICAgICBsZWZ0X3BhcmVudGhlc2VzLmFwcGVuZChpKQogICAgICAgIGlmIHYgPT0gJyknOgogICAgICAgICAgICByaWdodF9wYXJlbnRoZXNlcy5hcHBlbmQoaSkKICAgICAgICBpZiB2ID09ICdbJzoKICAgICAgICAgICAgbGVmdF9icmFja2V0LmFwcGVuZChpKQogICAgICAgIGlmIHYgPT0gJ10nOgogICAgICAgICAgICByaWdodF9icmFja2V0LmFwcGVuZChpKQogICAgICAgIGlmIHYgPT0gJ3snOgogICAgICAgICAgICBsZWZ0X2JyYWNlcy5hcHBlbmQoaSkKICAgICAgICBpZiB2ID09ICd9JzoKICAgICAgICAgICAgcmlnaHRfYnJhY2VzLmFwcGVuZChpKQoKICAgIHJldHVybiBhbGwoWwogICAgICAgIGxlbihsZWZ0X2JyYWNlcykgPT0gbGVuKHJpZ2h0X2JyYWNlcyksCiAgICAgICAgbGVuKGxlZnRfYnJhY2tldCkgPT0gbGVuKHJpZ2h0X2JyYWNrZXQpLAogICAgICAgIGxlbihsZWZ0X3BhcmVudGhlc2VzKSA9PSBsZW4ocmlnaHRfcGFyZW50aGVzZXMpCiAgICBdKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjaHIgPT0gJ10nOgogICAgICAgICAgICBpZiBsZW4oYnJhY2tldF9zdGFjaykgPT0gMCBvciBicmFja2V0X3N0YWNrLnBvcCgwKSAhPSAnWyc6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgaWYgY2hyID09ICd9JzoKICAgICAgICAgICAgaWYgbGVuKGJyYWNrZXRfc3RhY2spID09IDAgb3IgYnJhY2tldF9zdGFjay5wb3AoMCkgIT0gJ3snOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpc3RvcnlbbGVuKHNlbGYuaGlzdG9yeSldID0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmhpc3RvcnkgPSBkaWN0KCkKICAgICAgICBwYXNzCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZvbnQgIT0gJyc6CiAgICAgICAgICAgIGZvbnQgPSAnW3t9XScuZm9ybWF0KHNlbGYuZm9udCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZvbnQgPSBoaXN0b3J5WzFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBjaHIgaW4gZXhwcmVzc2lvbjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -109,6 +116,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
