@@ -6,8 +6,14 @@
       <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/utils/imgproc.py" timestamp="1550643459251">
         <mark key="'" line="40" column="42" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/incar-attributes/incar_attribute_tester.py" timestamp="1550644883233" />
       <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/storage/oss.py" timestamp="1550643618724">
         <mark key="'" line="73" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli.py" timestamp="1550645721458">
+        <mark key="[" line="95" column="42" />
+        <mark key="]" line="95" column="42" />
+        <mark key="." line="95" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/tester.py" timestamp="1550643343581" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550642143947">
@@ -52,6 +58,12 @@
         <mark key="." line="66" column="33" />
         <mark key="^" line="66" column="33" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli_command/tunnel.py" timestamp="1550645887512">
+        <mark key="[" line="54" column="6" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+        <mark key="^" line="55" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="108" column="24" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" />
@@ -69,45 +81,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>values</text>
+        <text>keeping</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>keeping</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTeXN0ZW1FeGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnKCc6ICcpJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb21tYW5kID0gImF1dG9zc2ggIC1mTlIgICB7fTp7fToxMC4xNTEuMC4yNDE6NTY3MiIuZm9ybWF0KHdzLHBvcnQpKyIgIisie30iLmZvcm1hdCh3cykK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3t3c30nLmZvcm1hdCh3cz13cykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>')'
 ']'
 '}'</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text encoding="base64">OiAKOiAKOiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaHIgPT0gJ10nOgogICAgICAgICAgICBpZiBsZW4oYnJhY2tldF9zdGFjaykgPT0gMCBvciBicmFja2V0X3N0YWNrLnBvcCgwKSAhPSAnWyc6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgaWYgY2hyID09ICd9JzoKICAgICAgICAgICAgaWYgbGVuKGJyYWNrZXRfc3RhY2spID09IDAgb3IgYnJhY2tldF9zdGFjay5wb3AoMCkgIT0gJ3snOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpc3RvcnlbbGVuKHNlbGYuaGlzdG9yeSldID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmhpc3RvcnkgPSBkaWN0KCkKICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaHIgPT0gJ10nOgogICAgICAgICAgICBpZiBsZW4oYnJhY2tldF9zdGFjaykgPT0gMCBvciBicmFja2V0X3N0YWNrLnBvcCgwKSAhPSAnWyc6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgaWYgY2hyID09ICd9JzoKICAgICAgICAgICAgaWYgbGVuKGJyYWNrZXRfc3RhY2spID09IDAgb3IgYnJhY2tldF9zdGFjay5wb3AoMCkgIT0gJ3snOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZvbnQgIT0gJyc6CiAgICAgICAgICAgIGZvbnQgPSAnW3t9XScuZm9ybWF0KHNlbGYuZm9udCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpc3RvcnlbbGVuKHNlbGYuaGlzdG9yeSldID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvbnQgPSBoaXN0b3J5WzFdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmhpc3RvcnkgPSBkaWN0KCkKICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZvbnQgIT0gJyc6CiAgICAgICAgICAgIGZvbnQgPSAnW3t9XScuZm9ybWF0KHNlbGYuZm9udCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -133,6 +145,7 @@
         <entry encoding="base64">XDxTeXN0ZW1FeGl0XD4=</entry>
       </history-search>
       <history-cmd>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
