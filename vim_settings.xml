@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/utils/imgproc.py" timestamp="1550643459251">
-        <mark key="'" line="40" column="42" />
+      <file name="/Python Console" timestamp="1550664750208">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/incar-attributes/incar_attribute_tester.py" timestamp="1550644883233" />
-      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/storage/oss.py" timestamp="1550643618724">
-        <mark key="'" line="73" column="18" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/cli.py" timestamp="1550645721458">
-        <mark key="[" line="95" column="42" />
-        <mark key="]" line="95" column="42" />
-        <mark key="." line="95" column="42" />
+      <file name="/fragment.py" timestamp="1550664845631">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550642143947">
         <mark key="[" line="63" column="25" />
@@ -34,8 +28,12 @@
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/cache.py" timestamp="1550647594604" />
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" timestamp="1550640979384" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" timestamp="1550663875174">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/.gitignore" timestamp="1550652369017">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="2" column="39" />
@@ -49,8 +47,6 @@
         <mark key="^" line="64" column="61" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/human-attributes/attribute_tester.py" timestamp="1550647780639" />
-      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/tester.py" timestamp="1550643343581" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_InferTester.py" timestamp="1550652100846">
         <mark key="[" line="52" column="52" />
         <mark key="]" line="52" column="57" />
@@ -76,13 +72,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1550663308070">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1550664742864">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+        <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550652967233" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550642483726">
         <mark key="[" line="43" column="78" />
         <mark key="]" line="43" column="81" />
@@ -157,10 +152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max(histogram[i], histogram[j], histogram[i] * histogram[j])</text>
+        <text>histogram[min_pos_list[i] + 1</text>
       </register>
       <register name="-" type="4">
-        <text>max(histogram[i], histogram[j], histogram[i] * histogram[j])</text>
+        <text>histogram[min_pos_list[i] + 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -169,31 +164,31 @@
         <text encoding="base64">ICAgIGhvdXJfc3VmZml4ID0gJ2hvdXInIGlmIGhvdXIgPT0gJzAxJyBlbHNlICdob3VycycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cmluZykK</text>
+        <text encoding="base64">IHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGUsIG1vbnRoLCB5ZWFyLCBob3VyLCBob3VyX3N1ZmZpeCwgbWludXRlLCBtaW51dGVfc3VmZml4KQo=</text>
+        <text encoding="base64">ICAgIGxhcmdlc3RfaGlzdG9ncmFtKAogICAgICAgIFswLCAzLCA2LCA5LCAxMiwgMTUsIDE4LCAyMiwgMjUsIDI4LCAzMSwgMzQsIDM3LCA0MSwgNDQsIDQ3LCA1MCwgNTMsIDU2LCA2MCwgNjMsIDY2LCA2OSwgNzIsIDc1LCA3OSwgODIsIDg1LCA4OCwKICAgICAgICAgOTEsCiAgICAgICAgIDk0LCA5NywgMTAxLCAxMDQsIDEwNywgMTEwLCAxMTMsIDExNiwgMTE5LCAxMjMsIDEyNiwgMTI5LCAxMzIsIDEzNSwgMTM4LCAxNDEsIDE0NSwgMTQ4LCAxNTEsIDE1NCwgMTU3LCAxNjAsCiAgICAgICAgIDE2MywKICAgICAgICAgMTY2LCAxNjksIDE3MywgMTc2LCAxNzksIDE4MiwgMTg1LCAxODgsIDE5MSwgMTk0LCAxOTcsIDIwMSwgMjA0LCAyMDcsIDIxMCwgMjEzLCAyMTYsIDIxOSwgMjIyLCAyMjUsIDIyOCwgMjMxLAogICAgICAgICAyMzUsCiAgICAgICAgIDIzOCwgMjQxLCAyNDQsIDI0NywgMjUwLCAyNTMsIDI1NiwgMjU5LCAyNjIsIDI2NSwgMjY4LCAyNzEsIDI3NCwgMjc3LCAyODAsIDI4MywgMjg2LCAyODksIDI5MiwgMjk2LCAyOTksIDMwMiwKICAgICAgICAgMzA1LAogICAgICAgICAzMDgsIDMxMSwgMzE0LCAzMTcsIDMyMCwgMzIzLCAzMjYsIDMyOSwgMzMyLCAzMzUsIDMzOCwgMzQwLCAzNDMsIDM0NiwgMzQ5LCAzNTIsIDM1NSwgMzU4LCAzNjEsIDM2NCwgMzY3LCAzNzAsCiAgICAgICAgIDM3MywKICAgICAgICAgMzc2LCAzNzksIDM4MiwgMzg1LCAzODgsIDM5MSwgMzkzLCAzOTYsIDM5OSwgNDAyLCA0MDUsIDQwOCwgNDExLCA0MTQsIDQxNywgNDE5LCA0MjIsIDQyNSwgNDI4LCA0MzEsIDQzNCwgNDM3LAogICAgICAgICA0MzksCiAgICAgICAgIDQ0MiwgNDQ1LCA0NDgsIDQ1MSwgNDU0LCA0NTYsIDQ1OSwgNDYyLCA0NjUsIDQ2OCwgNDcwLCA0NzMsIDQ3NiwgNDc5LCA0ODIsIDQ4NCwgNDg3LCA0OTAsIDQ5MywgNDk1LCA0OTgsIDUwMSwKICAgICAgICAgNTA0LAogICAgICAgICA1MDYsIDUwOSwgNTEyLCA1MTQsIDUxNywgNTIwLCA1MjMsIDUyNSwgNTI4LCA1MzEsIDUzMywgNTM2LCA1MzksIDU0MSwgNTQ0LCA1NDcsIDU0OSwgNTUyLCA1NTUsIDU1NywgNTYwLCA1NjIsCiAgICAgICAgIDU2NSwKICAgICAgICAgNTY4LCA1NzAsIDU3MywgNTc1LCA1NzgsIDU4MSwgNTgzLCA1ODYsIDU4OCwgNTkxLCA1OTMsIDU5NiwgNTk4LCA2MDEsIDYwMywgNjA2LCA2MDksIDYxMSwgNjE0LCA2MTYsIDYxOCwgNjIxLAogICAgICAgICA2MjMsCiAgICAgICAgIDYyNiwgNjI4LCA2MzEsIDYzMywgNjM2LCA2MzgsIDY0MSwgNjQzLCA2NDUsIDY0OCwgNjUwLCA2NTMsIDY1NSwgNjU3LCA2NjAsIDY2MiwgNjY1LCA2NjcsIDY2OSwgNjcyLCA2NzQsIDY3NiwKICAgICAgICAgNjc5LAogICAgICAgICA2ODEsIDY4MywgNjg2LCA2ODgsIDY5MCwgNjkyLCA2OTUsIDY5NywgNjk5LCA3MDEsIDcwNCwgNzA2LCA3MDgsIDcxMCwgNzEzLCA3MTUsIDcxNywgNzE5LCA3MjEsIDcyNCwgNzI2LCA3MjgsCiAgICAgICAgIDczMCwKICAgICAgICAgNzMyLCA3MzQsIDczNywgNzM5LCA3NDEsIDc0MywgNzQ1LCA3NDcsIDc0OSwgNzUxLCA3NTMsIDc1NiwgNzU4LCA3NjAsIDc2MiwgNzY0LCA3NjYsIDc2OCwgNzcwLCA3NzIsIDc3NCwgNzc2LAogICAgICAgICA3NzgsCiAgICAgICAgIDc4MCwgNzgyLCA3ODQsIDc4NiwgNzg4LCA3OTAsIDc5MiwgNzk0LCA3OTUsIDc5NywgNzk5LCA4MDEsIDgwMywgODA1LCA4MDcsIDgwOSwgODEwLCA4MTIsIDgxNCwgODE2LCA4MTgsIDgyMCwKICAgICAgICAgODIxLAogICAgICAgICA4MjMsIDgyNSwgODI3LCA4MjksIDgzMCwgODMyLCA4MzQsIDgzNiwgODM3LCA4MzksIDg0MSwgODQyLCA4NDQsIDg0NiwgODQ4LCA4NDksIDg1MSwgODUzLCA4NTQsIDg1NiwgODU3LCA4NTksCiAgICAgICAgIDg2MSwKICAgICAgICAgODYyLCA4NjQsIDg2NSwgODY3LCA4NjksIDg3MCwgODcyLCA4NzMsIDg3NSwgODc2LCA4NzgsIDg3OSwgODgxLCA4ODIsIDg4NCwgODg1LCA4ODcsIDg4OCwgODkwLCA4OTEsIDg5MywgODk0LAogICAgICAgICA4OTUsCiAgICAgICAgIDg5NywgODk4LCA5MDAsIDkwMSwgOTAyLCA5MDQsIDkwNSwgOTA2LCA5MDgsIDkwOSwgOTEwLCA5MTIsIDkxMywgOTE0LCA5MTUsIDkxNywgOTE4LCA5MTksIDkyMCwgOTIyLCA5MjMsIDkyNCwKICAgICAgICAgOTI1LAogICAgICAgICA5MjYsIDkyOCwgOTI5LCA5MzAsIDkzMSwgOTMyLCA5MzMsIDkzNSwgOTM2LCA5MzcsIDkzOCwgOTM5LCA5NDAsIDk0MSwgOTQyLCA5NDMsIDk0NCwgOTQ1LCA5NDYsIDk0NywgOTQ4LCA5NDksCiAgICAgICAgIDk1MCwKICAgICAgICAgOTUxLCA5NTIsIDk1MywgOTU0LCA5NTUsIDk1NiwgOTU3LCA5NTgsIDk1OSwgOTYwLCA5NjEsIDk2MSwgOTYyLCA5NjMsIDk2NCwgOTY1LCA5NjYsIDk2NiwgOTY3LCA5NjgsIDk2OSwgOTcwLAogICAgICAgICA5NzAsCiAgICAgICAgIDk3MSwgOTcyLCA5NzMsIDk3MywgOTc0LCA5NzUsIDk3NSwgOTc2LCA5NzcsIDk3NywgOTc4LCA5NzksIDk3OSwgOTgwLCA5ODEsIDk4MSwgOTgyLCA5ODIsIDk4MywgOTg0LCA5ODQsIDk4NSwKICAgICAgICAgOTg1LAogICAgICAgICA5ODYsIDk4NiwgOTg3LCA5ODcsIDk4OCwgOTg4LCA5ODksIDk4OSwgOTkwLCA5OTAsIDk5MCwgOTkxLCA5OTEsIDk5MiwgOTkyLCA5OTIsIDk5MywgOTkzLCA5OTQsIDk5NCwgOTk0LCA5OTUsCiAgICAgICAgIDk5NSwKICAgICAgICAgOTk1LCA5OTUsIDk5NiwgOTk2LCA5OTYsIDk5NiwgOTk3LCA5OTcsIDk5NywgOTk3LCA5OTgsIDk5OCwgOTk4LCA5OTgsIDk5OCwgOTk4LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LAogICAgICAgICA5OTksCiAgICAgICAgIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OSwgOTk5LCA5OTksIDk5OCwKICAgICAgICAgOTk4LAogICAgICAgICA5OTgsIDk5OCwgOTk4LCA5OTgsIDk5NywgOTk3LCA5OTcsIDk5NywgOTk3LCA5OTYsIDk5NiwgOTk2LCA5OTUsIDk5NSwgOTk1LCA5OTUsIDk5NCwgOTk0LCA5OTQsIDk5MywgOTkzLCA5OTIsCiAgICAgICAgIDk5MiwKICAgICAgICAgOTkyLCA5OTEsIDk5MSwgOTkxLCA5OTAsIDk5MCwgOTg5LCA5ODksIDk4OCwgOTg4LCA5ODcsIDk4NywgOTg2LCA5ODYsIDk4NSwgOTg1LCA5ODQsIDk4NCwgOTgzLCA5ODIsIDk4MiwgOTgxLAogICAgICAgICA5ODEsCiAgICAgICAgIDk4MCwgOTc5LCA5NzksIDk3OCwgOTc3LCA5NzcsIDk3NiwgOTc1LCA5NzUsIDk3NCwgOTczLCA5NzMsIDk3MiwgOTcxLCA5NzAsIDk3MCwgOTY5LCA5NjgsIDk2NywgOTY3LCA5NjYsIDk2NSwKICAgICAgICAgOTY0LAogICAgICAgICA5NjMsIDk2MiwgOTYxLCA5NjEsIDk2MCwgOTU5LCA5NTgsIDk1NywgOTU2LCA5NTUsIDk1NCwgOTUzLCA5NTIsIDk1MSwgOTUwLCA5NDksIDk0OCwgOTQ3LCA5NDYsIDk0NSwgOTQ0LCA5NDMsCiAgICAgICAgIDk0MiwKICAgICAgICAgOTQxLCA5NDAsIDkzOSwgOTM4LCA5MzcsIDkzNiwgOTM1LCA5MzQsIDkzMiwgOTMxLCA5MzAsIDkyOSwgOTI4LCA5MjcsIDkyNSwgOTI0LCA5MjMsIDkyMiwgOTIxLCA5MTksIDkxOCwgOTE3LAogICAgICAgICA5MTYsCiAgICAgICAgIDkxNCwgOTEzLCA5MTIsIDkxMCwgOTA5LCA5MDgsIDkwNiwgOTA1LCA5MDQsIDkwMiwgOTAxLCA5MDAsIDg5OCwgODk3LCA4OTYsIDg5NCwgODkzLCA4OTEsIDg5MCwgODg4LCA4ODcsIDg4NSwKICAgICAgICAgODg0LAogICAgICAgICA4ODMsIDg4MSwgODgwLCA4NzgsIDg3NywgODc1LCA4NzMsIDg3MiwgODcwLCA4NjksIDg2NywgODY2LCA4NjQsIDg2MiwgODYxLCA4NTksIDg1OCwgODU2LCA4NTQsIDg1MywgODUxLCA4NDksCiAgICAgICAgIDg0OCwKICAgICAgICAgODQ2LCA4NDQsIDg0MywgODQxLCA4MzksIDgzOCwgODM2LCA4MzQsIDgzMiwgODMxLCA4MjksIDgyNywgODI1LCA4MjMsIDgyMiwgODIwLCA4MTgsIDgxNiwgODE0LCA4MTMsIDgxMSwgODA5LAogICAgICAgICA4MDcsCiAgICAgICAgIDgwNSwgODAzLCA4MDEsIDc5OSwgNzk4LCA3OTYsIDc5NCwgNzkyLCA3OTAsIDc4OCwgNzg2LCA3ODQsIDc4MiwgNzgwLCA3NzgsIDc3NiwgNzc0LCA3NzIsIDc3MCwgNzY4LCA3NjYsIDc2NCwKICAgICAgICAgNzYyLAogICAgICAgICA3NjAsIDc1OCwgNzU2LCA3NTQsIDc1MiwgNzUwLCA3NDcsIDc0NSwgNzQzLCA3NDEsIDczOSwgNzM3LCA3MzUsIDczMywgNzMwLCA3MjgsIDcyNiwgNzI0LCA3MjIsIDcyMCwgNzE3LCA3MTUsCiAgICAgICAgIDcxMywKICAgICAgICAgNzExLCA3MDgsIDcwNiwgNzA0LCA3MDIsIDcwMCwgNjk3LCA2OTUsIDY5MywgNjkwLCA2ODgsIDY4NiwgNjg0LCA2ODEsIDY3OSwgNjc3LCA2NzQsIDY3MiwgNjcwLCA2NjcsIDY2NSwgNjYyLAogICAgICAgICA2NjAsCiAgICAgICAgIDY1OCwgNjU1LCA2NTMsIDY1MSwgNjQ4LCA2NDYsIDY0MywgNjQxLCA2MzgsIDYzNiwgNjM0LCA2MzEsIDYyOSwgNjI2LCA2MjQsIDYyMSwgNjE5LCA2MTYsIDYxNCwgNjExLCA2MDksIDYwNiwKICAgICAgICAgNjA0LAogICAgICAgICA2MDEsIDU5OSwgNTk2LCA1OTQsIDU5MSwgNTg5LCA1ODYsIDU4MywgNTgxLCA1NzgsIDU3NiwgNTczLCA1NzEsIDU2OCwgNTY1LCA1NjMsIDU2MCwgNTU3LCA1NTUsIDU1MiwgNTUwLCA1NDcsCiAgICAgICAgIDU0NCwKICAgICAgICAgNTQyLCA1MzksIDUzNiwgNTM0LCA1MzEsIDUyOCwgNTI2LCA1MjMsIDUyMCwgNTE3LCA1MTUsIDUxMiwgNTA5LCA1MDcsIDUwNCwgNTAxLCA0OTgsIDQ5NiwgNDkzLCA0OTAsIDQ4NywgNDg1LAogICAgICAgICA0ODIsCiAgICAgICAgIDQ3OSwgNDc2LCA0NzQsIDQ3MSwgNDY4LCA0NjUsIDQ2MiwgNDYwLCA0NTcsIDQ1NCwgNDUxLCA0NDgsIDQ0NSwgNDQzLCA0NDAsIDQzNywgNDM0LCA0MzEsIDQyOCwgNDI2LCA0MjMsIDQyMCwKICAgICAgICAgNDE3LAogICAgICAgICA0MTQsIDQxMSwgNDA4LCA0MDUsIDQwMywgNDAwLCAzOTcsIDM5NCwgMzkxLCAzODgsIDM4NSwgMzgyLCAzNzksIDM3NiwgMzczLCAzNzAsIDM2NywgMzY1LCAzNjIsIDM1OSwgMzU2LCAzNTMsCiAgICAgICAgIDM1MCwKICAgICAgICAgMzQ3LCAzNDQsIDM0MSwgMzM4LCAzMzUsIDMzMiwgMzI5LCAzMjYsIDMyMywgMzIwLCAzMTcsIDMxNCwgMzExLCAzMDgsIDMwNSwgMzAyLCAyOTksIDI5NiwgMjkzLCAyOTAsIDI4NywgMjg0LAogICAgICAgICAyODEsCiAgICAgICAgIDI3OCwgMjc1LCAyNzIsIDI2OSwgMjY2LCAyNjIsIDI1OSwgMjU2LCAyNTMsIDI1MCwgMjQ3LCAyNDQsIDI0MSwgMjM4LCAyMzUsIDIzMiwgMjI5LCAyMjYsIDIyMywgMjIwLCAyMTYsIDIxMywKICAgICAgICAgMjEwLAogICAgICAgICAyMDcsIDIwNCwgMjAxLCAxOTgsIDE5NSwgMTkyLCAxODksIDE4NSwgMTgyLCAxNzksIDE3NiwgMTczLCAxNzAsIDE2NywgMTY0LCAxNjEsIDE1NywgMTU0LCAxNTEsIDE0OCwgMTQ1LCAxNDIsCiAgICAgICAgIDEzOSwKICAgICAgICAgMTM2LCAxMzIsIDEyOSwgMTI2LCAxMjMsIDEyMCwgMTE3LCAxMTQsIDExMCwgMTA3LCAxMDQsIDEwMSwgOTgsIDk1LCA5MiwgODgsIDg1LCA4MiwgNzksIDc2LCA3MywgNjksIDY2LCA2MywgNjAsCiAgICAgICAgIDU3LAogICAgICAgICA1NCwgNTAsIDQ3LCA0NCwgNDEsIDM4LCAzNSwgMzIsIDI4LCAyNSwgMjIsIDE5LCAxNiwgMTMsIDksIDYsIDNdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhvdXJfZGljdCA9IHsKICAgICAgICAnMDEnOiAnaG91cicsCiAgICAgICAgJycKICAgIH0K</text>
+        <text encoding="base64">IAogCiAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgbWF4X3JlY3QgPSBtaW4oaGlzdG9ncmFtKSAqIGxlbihoaXN0b2dyYW0pCiAgICAjIGksIGogPSAwLCAxCiAgICAjIHdoaWxlIGogPCBsZW4oaGlzdG9ncmFtKToKICAgICMgICAgIF9tYXhfdW5pdCA9IG1heChoaXN0b2dyYW1baV0sIGhpc3RvZ3JhbVtqXSwgbWluKGhpc3RvZ3JhbVtpXSwgaGlzdG9ncmFtW2pdKSAqIDIpCiAgICAjICAgICBpZiBtYXhfcmVjdCA8IF9tYXhfdW5pdDoKICAgICMgICAgICAgICBtYXhfcmVjdCA9IF9tYXhfdW5pdAogICAgIyAgICAgaSArPSAxCiAgICAjICAgICBqICs9IDEKICAgICMKICAgICMgcHJpbnQobWF4X3JlY3QpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
+        <text encoding="base64">ICAgIG1pbl9oZWlnaHQgPSBtaW4oaGlzdG9ncmFtKQogICAgaWYgcmVjdF9saXN0IGlzIE5vbmU6CiAgICAgICAgIHJlY3RfbGlzdC5hcHBlbmQobWluX2hlaWdodCAqIGxlbihoaXN0b2dyYW0pKQogICAgbWluX3BvcyA9IFtpIGZvciBpLCB2IGluIGVudW1lcmF0ZShoaXN0b2dyYW0pIGlmIHYgPT0gbWluX2hlaWdodF0KICAgIGlmIGxlbihoaXN0b2dyYW0pID09IDE6CiAgICAgICAgcmVjdF9saXN0LmFwcGVuZChoaXN0b2dyYW1bMF0pCiAgICBlbHNlOgogICAgICAgIHJlY3RfbGlzdC5hcHBlbmQobWluX2hlaWdodCAqIGxlbihoaXN0b2dyYW0pKQogICAgICAgIGksIGogPSAwLCAxCiAgICAgICAgd2hpbGUgaiA8IGxlbihoaXN0b2dyYW0pOgogICAgICAgICAgICByZXR1cm4gbGFyZ2VzdF9oaXN0b2dyYW0oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -226,6 +221,8 @@
         <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
