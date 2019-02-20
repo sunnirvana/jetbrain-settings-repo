@@ -64,7 +64,13 @@
         <mark key="^" line="88" column="20" />
         <mark key="." line="88" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550634086222" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/tasks/common.py" timestamp="1550653048324">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550652967233" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550642483726">
         <mark key="[" line="43" column="78" />
         <mark key="]" line="43" column="81" />
@@ -139,10 +145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>benchmark</text>
+        <text>item['name']</text>
       </register>
       <register name="-" type="4">
-        <text>benchmark</text>
+        <text>item['name']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -178,7 +184,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGVzdHJ1bl9wYXRoLAogICAgICAgICAgICBib2FyZF93a3MsCiAgICAgICAgICAgIHNlbGYudGFyZ2V0X2JvYXJkLAogICAgICAgICAgICBib2FyZF9pbWdzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -204,8 +210,8 @@
       <history-cmd>
         <entry>W</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
