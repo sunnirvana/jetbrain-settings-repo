@@ -59,6 +59,13 @@
         <mark key="^" line="71" column="33" />
         <mark key="." line="71" column="33" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerInference.py" timestamp="1550650805683">
+        <mark key="'" line="17" column="63" />
+        <mark key="[" line="65" column="52" />
+        <mark key="]" line="65" column="48" />
+        <mark key="." line="65" column="48" />
+        <mark key="^" line="65" column="48" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1550633999601">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="75" />
@@ -85,13 +92,14 @@
       <jump line="54" column="10" filename="$USER_HOME$/Workspace/projects/datamaid/datamaid2/utils/imgproc.py" />
       <jump line="40" column="42" filename="$USER_HOME$/Workspace/projects/datamaid/datamaid2/utils/imgproc.py" />
       <jump line="73" column="18" filename="$USER_HOME$/Workspace/projects/datamaid/datamaid2/storage/oss.py" />
+      <jump line="17" column="63" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/NNIEWorkerInference.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keeping</text>
+        <text>BENCHMARK</text>
       </register>
       <register name="-" type="4">
-        <text>keeping</text>
+        <text>BENCHMARK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTeXN0ZW1FeGl0XD4=</text>
