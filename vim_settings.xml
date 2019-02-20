@@ -76,7 +76,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1550660613075" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1550662148426">
+        <mark key="[" line="100" column="69" />
+        <mark key="]" line="100" column="69" />
+        <mark key="." line="100" column="69" />
+        <mark key="^" line="100" column="69" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550652967233" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550642483726">
         <mark key="[" line="43" column="78" />
@@ -151,11 +156,11 @@
       <jump line="88" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>max(histogram[i], histogram[j], histogram[i] * histogram[j])</text>
       </register>
       <register name="-" type="4">
-        <text>hour</text>
+        <text>max(histogram[i], histogram[j], histogram[i] * histogram[j])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -164,31 +169,31 @@
         <text encoding="base64">ICAgIGhvdXJfc3VmZml4ID0gJ2hvdXInIGlmIGhvdXIgPT0gJzAxJyBlbHNlICdob3VycycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJpbmcK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cmluZykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGUsIG1vbnRoLCB5ZWFyLCBob3VyLCBob3VyX3N1ZmZpeCwgbWludXRlLCBtaW51dGVfc3VmZml4KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGhvdXJfZGljdCA9IHsKICAgICAgICAnMDEnOiAnaG91cicsCiAgICAgICAgJycKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdHJpbmcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHN0cmluZykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGUsIG1vbnRoLCB5ZWFyLCBob3VyLCBob3VyX3N1ZmZpeCwgbWludXRlLCBtaW51dGVfc3VmZml4KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGhvdXJfZGljdCA9IHsKICAgICAgICAnMDEnOiAnaG91cicsCiAgICAgICAgJycKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtYWlucyA9IG51bSAvLyBpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
