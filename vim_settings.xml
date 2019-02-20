@@ -10,7 +10,12 @@
         <mark key="." line="55" column="94" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550634086222" />
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550637034996" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550638055603">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="8" />
+        <mark key="^" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterBenchmark.py" timestamp="1550634473163">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="79" column="9" />
@@ -40,31 +45,34 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncmVzdWx0ICh7fSkgYXJlOiB7fScuZm9ybWF0KGxlbihyZXN1bHQpLCAnXG4nLmpvaW4ocmVzdWx0KSkpCg==</text>
+        <text encoding="base64">ICAgIGxlZnRfYnJhY2tldCA9IGxpc3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcGluZ190YXNrLnJlYWR5KCk6CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMykKICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBjaHIgaW4gZXhwcmVzc2lvbjoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcGluZ190YXNrLnJlYWR5KCk6CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMykKICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>left</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHBpbmdfdGFzay5yZWFkeSgpOgogICAgICAgICAgICAgICAgcHJpbnQoJ05vIHJlc3BvbnNlIHJlY2VpdmVkLCBhYm9ydCB0ZXN0aW5nJykKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcGluZ190YXNrLnJlYWR5KCk6CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMykKICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHBpbmdfdGFzay5yZWFkeSgpOgogICAgICAgICAgICAgICAgcHJpbnQoJ05vIHJlc3BvbnNlIHJlY2VpdmVkLCBhYm9ydCB0ZXN0aW5nJykKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gbGlzdCgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGVzdGVyID0gTk5JRVRlc3RlckJlbmNobWFyayhOTklFVHlwZS5OTklFX1RZUEVfMzU1OUEsIFttb2RlbF9maWxlXSwgW2ltZ19maWxlXSkKICAgICAgICAgICAgcmVzdWx0ID0gdGVzdGVyLnJ1bigpCiAgICAgICAgICAgIHJlc3VsdHMuYXBwZW5kKHJlc3VsdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>(error, result)</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRzXD4=</text>
