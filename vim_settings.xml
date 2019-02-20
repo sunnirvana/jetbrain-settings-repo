@@ -7,7 +7,7 @@
         <mark key="'" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/incar-attributes/incar_attribute_tester.py" timestamp="1550644883233" />
-      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/human-attributes/attribute_tester.py" timestamp="1550646735932" />
+      <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/benchmark/human-attributes/attribute_tester.py" timestamp="1550647780639" />
       <file name="$USER_HOME$/Workspace/projects/datamaid/datamaid2/storage/oss.py" timestamp="1550643618724">
         <mark key="'" line="73" column="18" />
       </file>
@@ -30,9 +30,14 @@
         <mark key="^" line="55" column="94" />
         <mark key="." line="55" column="94" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/count_consecutive_summers.py" timestamp="1550642174398" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/count_consecutive_summers.py" timestamp="1550648299202">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_server/workers/SuperWorker.py" timestamp="1550634086222" />
-      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/cache.py" timestamp="1550647111371" />
+      <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/cache.py" timestamp="1550647594604" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/brackets.py" timestamp="1550642483726">
         <mark key="[" line="43" column="78" />
         <mark key="]" line="43" column="81" />
