@@ -47,11 +47,12 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" timestamp="1550663875174">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" timestamp="1550737099328">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/.gitignore" timestamp="1550652369017">
         <mark key="[" line="1" column="32" />
@@ -97,6 +98,13 @@
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1550714867166">
+        <mark key="'" line="41" column="18" />
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/say_history.py" timestamp="1550732330847" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/right_to_left.py" timestamp="1550732201540">
@@ -177,10 +185,12 @@
       <jump line="88" column="15" filename="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/rpc_client/NNIETesterInference.py" />
       <jump line="38" column="37" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" />
       <jump line="41" column="18" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" />
+      <jump line="60" column="19" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICNUaGVzZSAiYXNzZXJ0cyIgdXNpbmcgb25seSBmb3Igc2VsZi1jaGVja2luZyBhbmQgbm90IG5lY2Vzc2FyeSBmb3IgYXV0by10ZXN0aW5nCgogICAgY2h1Y2sgPSBXYXJyaW9yKCkKICAgIGJydWNlID0gV2FycmlvcigpCiAgICBjYXJsID0gS25pZ2h0KCkKICAgIGRhdmUgPSBXYXJyaW9yKCkKICAgIG1hcmsgPSBXYXJyaW9yKCkKCiAgICBhc3NlcnQgZmlnaHQoY2h1Y2ssIGJydWNlKSA9PSBUcnVlCiAgICBhc3NlcnQgZmlnaHQoZGF2ZSwgY2FybCkgPT0gRmFsc2UKICAgIGFzc2VydCBjaHVjay5pc19hbGl2ZSA9PSBUcnVlCiAgICBhc3NlcnQgYnJ1Y2UuaXNfYWxpdmUgPT0gRmFsc2UKICAgIGFzc2VydCBjYXJsLmlzX2FsaXZlID09IFRydWUKICAgIGFzc2VydCBkYXZlLmlzX2FsaXZlID09IEZhbHNlCiAgICBhc3NlcnQgZmlnaHQoY2FybCwgbWFyaykgPT0gRmFsc2UKICAgIGFzc2VydCBjYXJsLmlzX2FsaXZlID09IEZhbHNlCgogICAgcHJpbnQoIkNvZGluZyBjb21wbGV0ZT8gTGV0J3MgdHJ5IHRlc3RzISIpCgo=</text>
       </register>
       <register name="-" type="4">
         <text>lst</text>
@@ -192,31 +202,31 @@
         <text>text[res_end + 1:res_end + 7:]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICNUaGVzZSAiYXNzZXJ0cyIgdXNpbmcgb25seSBmb3Igc2VsZi1jaGVja2luZyBhbmQgbm90IG5lY2Vzc2FyeSBmb3IgYXV0by10ZXN0aW5nCgogICAgY2h1Y2sgPSBXYXJyaW9yKCkKICAgIGJydWNlID0gV2FycmlvcigpCiAgICBjYXJsID0gS25pZ2h0KCkKICAgIGRhdmUgPSBXYXJyaW9yKCkKICAgIG1hcmsgPSBXYXJyaW9yKCkKCiAgICBhc3NlcnQgZmlnaHQoY2h1Y2ssIGJydWNlKSA9PSBUcnVlCiAgICBhc3NlcnQgZmlnaHQoZGF2ZSwgY2FybCkgPT0gRmFsc2UKICAgIGFzc2VydCBjaHVjay5pc19hbGl2ZSA9PSBUcnVlCiAgICBhc3NlcnQgYnJ1Y2UuaXNfYWxpdmUgPT0gRmFsc2UKICAgIGFzc2VydCBjYXJsLmlzX2FsaXZlID09IFRydWUKICAgIGFzc2VydCBkYXZlLmlzX2FsaXZlID09IEZhbHNlCiAgICBhc3NlcnQgZmlnaHQoY2FybCwgbWFyaykgPT0gRmFsc2UKICAgIGFzc2VydCBjYXJsLmlzX2FsaXZlID09IEZhbHNlCgogICAgcHJpbnQoIkNvZGluZyBjb21wbGV0ZT8gTGV0J3MgdHJ5IHRlc3RzISIpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMgPSBbaSBmb3IgaSBpbiByYW5nZShsZW4obHN0KSkgaWYgbHN0W2ldLmlzbnVtZXJpYygpXQogICAgaWYgbm90IG51bWJlcnMgYW5kIGxlbih3b3JkcykgPj0gMzoKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIG51bWJlcnMgPSBbMF0gKyBudW1iZXJzICsgW2xlbihsc3QpXQoKICAgICMgIHByaW50KG51bWJlcnMpCiAgICBmb3IgaSBpbiByYW5nZSgxLCBsZW4obnVtYmVycykpOgogICAgICAgIGlmIChudW1iZXJzW2ldIC0gbnVtYmVyc1tpLTFdKSA+IDM6CiAgICAgICAgICAgIHJldHVybiBUcnVlCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbih3b3JkcykgPCAzOgogICAgICAgIHJldHVybiBGYWxzZQoK</text>
+        <text encoding="base64">ICAgIG51bWJlcnMgPSBbaSBmb3IgaSBpbiByYW5nZShsZW4obHN0KSkgaWYgbHN0W2ldLmlzbnVtZXJpYygpXQogICAgaWYgbm90IG51bWJlcnMgYW5kIGxlbih3b3JkcykgPj0gMzoKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIG51bWJlcnMgPSBbMF0gKyBudW1iZXJzICsgW2xlbihsc3QpXQoKICAgICMgIHByaW50KG51bWJlcnMpCiAgICBmb3IgaSBpbiByYW5nZSgxLCBsZW4obnVtYmVycykpOgogICAgICAgIGlmIChudW1iZXJzW2ldIC0gbnVtYmVyc1tpLTFdKSA+IDM6CiAgICAgICAgICAgIHJldHVybiBUcnVlCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbih3b3JkcykgPCAzOgogICAgICAgIHJldHVybiBGYWxzZQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwcGVyX2NoYXJfbGlzdCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBjIGluIHRleHQ6CiAgICAgICAgaWYgYyBpbiBzdHJpbmcuYXNjaWlfdXBwZXJjYXNlOgogICAgICAgICAgICB1cHBlcl9jaGFyX2xpc3QuYXBwZW5kKGMpCg==</text>
+        <text encoding="base64">ICAgIHVwcGVyX2NoYXJfbGlzdCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRbc3RhcnQ6Ol0pCg==</text>
+        <text encoding="base64">ICAgIGZvciBjIGluIHRleHQ6CiAgICAgICAgaWYgYyBpbiBzdHJpbmcuYXNjaWlfdXBwZXJjYXNlOgogICAgICAgICAgICB1cHBlcl9jaGFyX2xpc3QuYXBwZW5kKGMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRleHRbc3RhcnQ6Ol0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zMiArIHN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
