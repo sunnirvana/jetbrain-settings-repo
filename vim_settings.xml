@@ -48,6 +48,12 @@
         <mark key="." line="52" column="57" />
         <mark key="^" line="52" column="57" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/even_last.py" timestamp="1550720943259">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/date_and_time_converter.py" timestamp="1550715772007">
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="9" />
@@ -61,6 +67,12 @@
         <mark key="." line="47" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/best_stock.py" timestamp="1550716934549" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/easy_unpack.py" timestamp="1550720762935">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1550714867166">
         <mark key="'" line="41" column="18" />
         <mark key="[" line="51" column="35" />
@@ -79,6 +91,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/first_word.py" timestamp="1550721849030">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="42" />
+        <mark key="^" line="44" column="42" />
+        <mark key="." line="44" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/test/test_rpc/test_BMKTester.py" timestamp="1550660423473">
         <mark key="[" line="52" column="54" />
@@ -124,43 +142,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG51bXMgPSBzZXQoc3RyKG51bWJlcikpCiAgICBpZiAnMCcgaW4gbnVtczoKICAgICAgICBudW1zLnJlbW92ZSgnMCcpCiAgICByZXMgPSAxCiAgICBmb3IgbnVtIGluIG51bXM6CiAgICAgICAgcmVzICo9IGludChudW0pCiAgICBwcmludChyZXMpCg==</text>
+        <text encoding="base64">ICAgICMgeW91ciBjb2RlIGhlcmUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBsZW4oX2hpc3RvZ3JhbSkgPT0gMA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhvdXJfc3VmZml4ID0gJ2hvdXInIGlmIGhvdXIgPT0gJzAxJyBlbHNlICdob3VycycK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIGFycmF5Wy0xXSAqIHN1bShbYXJyYXlbaV0gZm9yIGkgaW4gcmFuZ2UobGVuKGFycmF5KSkgaWYgaSAlIDIgPT0gMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG51bXMgPSBzZXQoc3RyKG51bWJlcikpCiAgICBpZiAnMCcgaW4gbnVtczoKICAgICAgICBudW1zLnJlbW92ZSgnMCcpCiAgICByZXMgPSAxCiAgICBmb3IgbnVtIGluIG51bXM6CiAgICAgICAgcmVzICo9IGludChudW0pCiAgICBwcmludChyZXMpCg==</text>
+        <text encoding="base64">ICAgICMgeW91ciBjb2RlIGhlcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBudW0gaW4gbnVtczoK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gTm9uZQogICAgZW5kID0gTm9uZQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICBpZiAneicgPj0gdGV4dFtpXSA+PSAnYScgb3IgJ1onID49IHRleHRbaV0gPj0gJ0EnOgogICAgICAgICAgICBpZiBzdGFydCBpcyBOb25lOgogICAgICAgICAgICAgICAgc3RhcnQgPSBpCgogICAgICAgIGlmIHRleHRbaV0gaW4gWycuJywgJywnLCAnICddIGFuZCBzdGFydCBpcyBub3QgTm9uZToKICAgICAgICAgICAgZW5kID0gaQogICAgICAgICAgICBicmVhawogICAgIyAgcHJpbnQoJ3JldHVybiBmaXJzdCB3b3JrZCwgJywgdGV4dFtzdGFydDplbmRdKQogICAgcmV0dXJuIHRleHRbc3RhcnQ6ZW5kXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2hpc3RvZ3JhbSA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KF9oaXN0b2dyYW0pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWN0X2xpc3QuYXBwZW5kKG1pbl92YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWN0X2xpc3QuYXBwZW5kKG1pbl92YWx1ZSAqIGxlbihoaXN0b2dyYW0pKQogICAgICAgIGxlZnQsIHJpZ2h0ID0gMCwgMAogICAgICAgIGZvciBpLCB2IGluIGVudW1lcmF0ZShoaXN0b2dyYW0pOgogICAgICAgICAgICBpZiB2ID09IG1pbl92YWx1ZSBvciBpID09IGxlbihoaXN0b2dyYW0pOgogICAgICAgICAgICAgICAgcmlnaHQgPSBpCgogICAgICAgICAgICBpZiBsZWZ0ID49IDAgYW5kIHJpZ2h0ID49IDA6CiAgICAgICAgICAgICAgICBpZiByaWdodCA+IGxlZnQ6CiAgICAgICAgICAgICAgICAgICAgX2xhcmdlc3RfaGlzdG9ncmFtKGhpc3RvZ3JhbVtsZWZ0OnJpZ2h0XSwgcmVjdF9saXN0KQogICAgICAgICAgICAgICAgbGVmdCwgcmlnaHQgPSByaWdodCArIDEsIDAK</text>
+        <text encoding="base64">ICAgIG51bXMgPSBzZXQoc3RyKG51bWJlcikpCiAgICBpZiAnMCcgaW4gbnVtczoKICAgICAgICBudW1zLnJlbW92ZSgnMCcpCiAgICByZXMgPSAxCiAgICBmb3IgbnVtIGluIG51bXM6CiAgICAgICAgcmVzICo9IGludChudW0pCiAgICBwcmludChyZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGxlbihoaXN0b2dyYW0pID09IDA6CiAgICAgICAgIyAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIGZvciBudW0gaW4gbnVtczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSBsZW4oaGlzdG9ncmFtKToKICAgICAgICAgICAgICAgIHJpZ2h0ID0gaQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hpc3RvZ3JhbSA9IGxpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
