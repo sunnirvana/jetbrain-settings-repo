@@ -15,6 +15,12 @@
       <file name="/fragment.py" timestamp="1550664845631">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/three_words.py" timestamp="1550734206416">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="54" column="15" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/correct_sentence.py" timestamp="1550718834856" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550642143947">
         <mark key="[" line="63" column="25" />
@@ -61,7 +67,7 @@
         <mark key="." line="52" column="57" />
         <mark key="^" line="52" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/secret_message.py" timestamp="1550733193484">
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/secret_message.py" timestamp="1550734022771">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="18" />
@@ -174,7 +180,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbih3b3JkcykgPCAzOgogICAgICAgIHJldHVybiBGYWxzZQoK</text>
       </register>
       <register name="-" type="4">
         <text>upper_char_list</text>
@@ -186,31 +192,31 @@
         <text>text[res_end + 1:res_end + 7:]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbih3b3JkcykgPCAzOgogICAgICAgIHJldHVybiBGYWxzZQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVwcGVyX2NoYXJfbGlzdCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBjIGluIHRleHQ6CiAgICAgICAgaWYgYyBpbiBzdHJpbmcuYXNjaWlfdXBwZXJjYXNlOgogICAgICAgICAgICB1cHBlcl9jaGFyX2xpc3QuYXBwZW5kKGMpCg==</text>
+        <text encoding="base64">ICAgIHVwcGVyX2NoYXJfbGlzdCA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRbc3RhcnQ6Ol0pCg==</text>
+        <text encoding="base64">ICAgIGZvciBjIGluIHRleHQ6CiAgICAgICAgaWYgYyBpbiBzdHJpbmcuYXNjaWlfdXBwZXJjYXNlOgogICAgICAgICAgICB1cHBlcl9jaGFyX2xpc3QuYXBwZW5kKGMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRleHRbc3RhcnQ6Ol0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zMiArIHN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwb3MyIGlmIHBvczIgPiAwIGVsc2UgTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zMiArIHN0YXJ0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3ltYm9sKSA9PSAxLCAnc3ltYm9sIHNoYWxsIG9ubHkgYmUgMSBjaGFyYWN0ZXInCiAgICBtYXRjaF90aW1lcyA9IDAKICAgIGZvciBjIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgaWYgdGV4dFtjXSA9PSBzeW1ib2w6CiAgICAgICAgICAgIG1hdGNoX3RpbWVzICs9IDEKICAgICAgICAgICAgaWYgbWF0Y2hfdGltZXMgPT0gMjoKICAgICAgICAgICAgICAgIHJldHVybiBjCgogICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBwb3MyIGlmIHBvczIgPiAwIGVsc2UgTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnYScucmVwbGFjZSgncmlnaHQnLCAnbGknLCAtMSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsZW4oc3ltYm9sKSA9PSAxLCAnc3ltYm9sIHNoYWxsIG9ubHkgYmUgMSBjaGFyYWN0ZXInCiAgICBtYXRjaF90aW1lcyA9IDAKICAgIGZvciBjIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgaWYgdGV4dFtjXSA9PSBzeW1ib2w6CiAgICAgICAgICAgIG1hdGNoX3RpbWVzICs9IDEKICAgICAgICAgICAgaWYgbWF0Y2hfdGltZXMgPT0gMjoKICAgICAgICAgICAgICAgIHJldHVybiBjCgogICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
