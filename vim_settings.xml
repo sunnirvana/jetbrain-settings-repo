@@ -2,143 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="/Python Console" timestamp="1550543425626">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" timestamp="1550542232490">
-        <mark key="'" line="53" column="39" />
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="56" />
-        <mark key="^" line="28" column="56" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/cipher_map2.py" timestamp="1550296792387">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="32" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1550543489525">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="12" />
-        <mark key="." line="67" column="12" />
-        <mark key="^" line="67" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/ghosts_age.py" timestamp="1550419212574">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/i_love_python.py" timestamp="1550419287135">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/worth_of_words.py" timestamp="1550545419987">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/ground_for_the_house.py" timestamp="1550296936173">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/friends.py" timestamp="1550333623825">
-        <mark key="[" line="111" column="51" />
-        <mark key="]" line="111" column="47" />
-        <mark key="." line="111" column="47" />
-        <mark key="^" line="111" column="47" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Escher/compass_map_and_spyglass.py" timestamp="1550303040289">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="57" />
-        <mark key="^" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550562183301">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="55" column="39" filename="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/O'Reilly/striped_words.py" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="/" type="4">
-        <text>Fab</text>
-      </register>
-      <register name="0" type="4">
-        <text>[{:font}]</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB2YWx1ZSh3b3JkKToKICAgICAgICByZXR1cm4KCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3b3Jkcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGV0dGVyIGluIHNldCh3b3JkKToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFsgc2V0KHdvcmQpIGZvciB3b3JkIGluIHdvcmRzIF0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1heCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnkgPSBkaWN0KCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search>Fab</last-search>
-      <last-offset />
-      <last-pattern>Fab</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>fab</entry>
-        <entry>Fab</entry>
-      </history-search>
-      <history-cmd>
-        <entry>W</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
