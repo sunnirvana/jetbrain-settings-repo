@@ -110,6 +110,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1550802933536">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/absolute_sorting.py" timestamp="1550716856797" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/syscmd.py" timestamp="1550739837693" />
     </filemarks>
@@ -139,11 +145,11 @@
       <jump line="11" column="8" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/army_battles.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIucmVwbGFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>total</text>
       </register>
       <register name="-" type="4">
-        <text>lst</text>
+        <text>total</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRfdW5pdHNcPg==</text>
@@ -152,31 +158,39 @@
         <text>text[res_end + 1:res_end + 7:]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIucmVwbGFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">JycnCicnJwoKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMxID0gYXJteTEucG9wKDApCg==</text>
+      <register name="4" type="8">
+        <text>(centum),
+(quingent
+ (mille),</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="5" type="8">
+        <text>,
+ue),
+m),
+quaginta),</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="6" type="8">
+        <text>(unus)
+(quinq
+ (dece
+ (quin</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">J0knOgkxICh1bnVzKSwKJ1YnOgk1IChxdWlucXVlKSwKJ1gnOgkxMCAoZGVjZW0pLAonTCc6IDUwIChxdWlucXVhZ2ludGEpLAonQyc6IDEwMCAoY2VudHVtKSwKJ0QnOiA1MDAgKHF1aW5nZW50aSksCidNJzogMTAwMCAobWlsbGUpLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHIucmVwbGFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -224,6 +238,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
