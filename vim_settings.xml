@@ -68,7 +68,7 @@
         <mark key="^" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/popular_words.py" timestamp="1550731612400" />
-      <file name="/Python Console" timestamp="1550724957513">
+      <file name="/Python Console" timestamp="1550805062160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550664845631">
@@ -105,17 +105,16 @@
         <mark key="." line="51" column="35" />
         <mark key="^" line="51" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550805667897" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/right_to_left.py" timestamp="1550800068399">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1550804524793">
-        <mark key="'" line="35" column="19" />
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1550805647026">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/absolute_sorting.py" timestamp="1550716856797" />
       <file name="$USER_HOME$/Workspace/projects/nnie-tester/nnie_tester/utils/syscmd.py" timestamp="1550739837693" />
@@ -148,10 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRvdGFsICsgcm9tYW5fZGljdFtyb21hbl9zdHJpbmdbLTFdXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>postive</text>
+        <text>total</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRfdW5pdHNcPg==</text>
@@ -160,39 +159,31 @@
         <text>text[res_end + 1:res_end + 7:]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRvdGFsICsgcm9tYW5fZGljdFtyb21hbl9zdHJpbmdbLTFdXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gc3VtKFtyb21hbl9kaWN0W251bWVyYWxdIGZvciBudW1lcmFsIGluIHJvbWFuX3N0cmluZ10pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNwZWNpYWxzID0gewogICAgICAgICdJVic6IDQsCiAgICAgICAgJ0lYJzogOSwKICAgICAgICAnWEwnOiA0MCwKICAgICAgICAnWEMnOiA5MCwKICAgICAgICAnQ0QnOiA0MDAsCiAgICAgICAgJ0NNJzogOTAwCiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="8">
+        <text encoding="base64">KDAsIAooMSwgCigyLCAKKDMsIAooNCwgCig1LCAKKDYsIA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRvdGFsID0gMAogICAgZm9yIGksIGNoYXIgaW4gZW51bWVyYXRlKHJvbWFuX3N0cmluZyk6CiAgICAgICAgaWYgaSA+PSBsZW4ocm9tYW5fZGljdCkgLSAyOgogICAgICAgICAgICBzaWduID0gMQogICAgICAgIGVsaWYgcm9tYW5fZGljdFtyb21hbl9zdHJpbmdbaSsxXV1bMF0gPiByb21hbl9kaWN0W3JvbWFuX3N0cmluZ1tpXV1bMF06CiAgICAgICAgICAgIHNpZ24gPSAtMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNpZ24gPSAxCgogICAgICAgIHRvdGFsICs9IChzaWduICogcm9tYW5fZGljdFtyb21hbl9zdHJpbmdbaV1dWzFdKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXIgPSByb21hbl9kaWN0W2NoYXJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JycnCicnJwoKCg==</text>
+        <text encoding="base64">ICAgIHNlcXMgPSBbJ0knLCAnVicsICdYJywgJ0wnLCAnQycsICdEJywgJ00nXQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>(centum),
-(quingent
- (mille),</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>,
-ue),
-m),
-quaginta),</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbHVlID0gc3VtKFtyb21hbl9kaWN0W251bWVyYWxdIGZvciBudW1lcmFsIGluIHJvbWFuX3N0cmluZ10pCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>(unus)
-(quinq
- (dece
- (quin</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNwZWNpYWxzID0gewogICAgICAgICdJVic6IDQsCiAgICAgICAgJ0lYJzogOSwKICAgICAgICAnWEwnOiA0MCwKICAgICAgICAnWEMnOiA5MCwKICAgICAgICAnQ0QnOiA0MDAsCiAgICAgICAgJ0NNJzogOTAwCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
