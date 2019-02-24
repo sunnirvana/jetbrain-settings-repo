@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550919757180">
-        <mark key="[" line="45" column="58" />
-        <mark key="]" line="45" column="59" />
-        <mark key="^" line="45" column="59" />
-        <mark key="." line="45" column="59" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550974222636">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="^" line="51" column="31" />
+        <mark key="." line="51" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550841290272">
         <mark key="[" line="3" column="5" />
@@ -22,7 +22,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>property</text>
+        <text>)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSh0YXJnZXQvLzIpOgo=</text>
@@ -31,7 +31,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>property</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
