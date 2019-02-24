@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550974222636">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="^" line="51" column="31" />
-        <mark key="." line="51" column="31" />
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550975515578">
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="52" column="45" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550841290272">
         <mark key="[" line="3" column="5" />
@@ -19,12 +19,18 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="&quot;" type="4">
         <text>)</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyYXkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSh0YXJnZXQvLzIpOgo=</text>
       </register>
       <register name=":" type="4">
