@@ -2,69 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="/Python Console" timestamp="1550986555462">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1551186878343">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550841290272">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyYXkpCiAgICAgICAgICAgIHByaW50KFtsZW4oW2sgZm9yIGsgaW4gal0pIGZvciBfLCBqIGluIGl0ZXJ0b29scy5ncm91cGJ5KGFycmF5KV0pCiAgICAgICAgICAgIGlmIHN1bShhcnJheSkgPT0gdGFyZ2V0OgogICAgICAgICAgICAgICAgaWYgbGVuKHNldChhcnJheSkpID09IDE6CiAgICAgICAgICAgICAgICAgICAgdGltZXMgKz0gMQogICAgICAgICAgICAgICAgaWYgbGVuKHNldChhcnJheSkpID4gMToKICAgICAgICAgICAgICAgICAgICB0aW1lcyArPSAxICogbGVuKHNldChhcnJheSkpCgogICAgcHJvYiA9IHRpbWVzIC8gKHNpZGVzICoqIGRpY2VfbnVtYmVyKQogICAgcHJpbnQodGltZXMsIHNpZGVzICoqIGRpY2VfbnVtYmVyLCBwcm9iKQogICAgcmV0dXJuIHByb2IK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyBwcmludCgnZ3JvdXBieTogJywgaSwgaikgZm9yIGksIGogaW4gaXRlcnRvb2xzLmdyb3VwYnkoYXJyYXkpXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlcnRvb2xzLmdyb3VwYnkoYXJyYXkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXJyYXkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSh0YXJnZXQvLzIpOgo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>itertools.</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-cmd>
-        <entry>W</entry>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
