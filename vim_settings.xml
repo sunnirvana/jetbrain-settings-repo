@@ -4,19 +4,20 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/Dockerfile_hdfs" timestamp="1551440726681" />
+      <file name="$USER_HOME$/Wokrspace/projects/python_basics/hadoop_configs/bj-config/hadoop-env.sh" timestamp="1551442887429" />
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/utils.py" timestamp="1551440550508" />
       <file name="/Python Console" timestamp="1550986555462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/ssh_utils.py" timestamp="1551440758330" />
-      <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551440798313" />
+      <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551442782097" />
       <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550841290272">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/python_basics/decorators.py" timestamp="1551440700791" />
+      <file name="$USER_HOME$/Wokrspace/projects/python_basics/decorators.py" timestamp="1551442829099" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Elementary/absolute_sorting.py" timestamp="1551430458382">
         <mark key="[" line="25" column="32" />
         <mark key="]" line="25" column="24" />
