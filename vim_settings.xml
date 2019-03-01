@@ -6,17 +6,17 @@
       <file name="/Python Console" timestamp="1550986555462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550986616777">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="27" />
-      </file>
       <file name="$USER_HOME$/Workspace/Learning/checkio/.gitignore" timestamp="1550841290272">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Learning/checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1550986616777">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="27" />
       </file>
     </filemarks>
     <jumps />
@@ -60,11 +60,17 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
