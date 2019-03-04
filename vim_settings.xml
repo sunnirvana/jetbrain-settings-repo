@@ -5,15 +5,67 @@
     <filemarks>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/Dockerfile_hdfs" timestamp="1551671718196" />
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551671704141" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/venv/lib/python3.7/site-packages/checkio_client/api.py" timestamp="1551674473066" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/time_converter_12h_to_24h.py" timestamp="1551675336859">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/elastic_utils.py" timestamp="1551661507417" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGhvdXIgPSB0aW1lLnNwbGl0KCc6JylbMF0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGwK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>hour</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aW1lCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBfdGltZSA9ICcnCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>hour</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
