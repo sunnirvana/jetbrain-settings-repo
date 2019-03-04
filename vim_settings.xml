@@ -12,6 +12,14 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" timestamp="1551688057610">
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1551686786665" />
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/elastic_utils.py" timestamp="1551661507417" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/speechmodule.py" timestamp="1551681761297">
         <mark key="[" line="33" column="32" />
@@ -20,13 +28,15 @@
         <mark key="^" line="33" column="40" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="23" column="16" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OTHER_TENS</text>
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>OTHER_TENS</text>
+        <text>I</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHRpbWVfY29udmVydGVyKCcxMjozMCBwLm0uJykpCg==</text>
