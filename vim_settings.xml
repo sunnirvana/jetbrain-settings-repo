@@ -4,6 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/Dockerfile_hdfs" timestamp="1551671718196" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/multicolored_lamp.py" timestamp="1551689807057">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551692005418">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551671704141" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/venv/lib/python3.7/site-packages/checkio_client/api.py" timestamp="1551674473066" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/time_converter_12h_to_24h.py" timestamp="1551678463295">
@@ -12,12 +25,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" timestamp="1551688057610">
-        <mark key="'" line="27" column="16" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="36" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="29" column="36" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" timestamp="1551689339728">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+        <mark key="." line="38" column="31" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1551686786665" />
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/elastic_utils.py" timestamp="1551661507417" />
@@ -30,53 +43,63 @@
     </filemarks>
     <jumps>
       <jump line="23" column="16" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>I</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICAgICAgaiA9IGogKiAoLTEpCiAgICAgICAgICAgIGlmIHRleHRbaV0gPT0gdGV4dFtqXToK</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>thousands</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxyZXNfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHRpbWVfY29udmVydGVyKCcxMjozMCBwLm0uJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbnMgPT0gMSBhbmQgb25lcyA9PSAwOgogICAgICAgICMgMTAKICAgICAgICByZXMuYXBwZW5kKFNFQ09ORF9URU5bMF0pCgo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICAgICAgaiA9IGogKiAoLTEpCiAgICAgICAgICAgIGlmIHRleHRbaV0gPT0gdGV4dFtqXToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbnMgPT0gMToKICAgICAgICByZXMuYXBwZW5kKEZJUlNUX1RFTltvbmVzXSkKICAgIGVsaWYgdGVucyA+IDE6CiAgICAgICAgcmVzLmFwcGVuZChTRUNPTkRfVEVOW3RlbnNdKQogICAgICAgIHJlcy5hcHBlbmQoRklSU1RfVEVOW29uZXNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4odGUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdGVucwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbnMgPT0gMToKICAgICAgICByZXMuYXBwZW5kKEZJUlNUX1RFTltvbmVzXSkKICAgIGVsaWYgdGVucyA+IDE6CiAgICAgICAgcmVzLmFwcGVuZChTRUNPTkRfVEVOW3RlbnNdKQogICAgICAgIHJlcy5hcHBlbmQoRklSU1RfVEVOW29uZXNdKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9zdHIgPSBzdHIobnVtYmVyKQogICAgcmVzdWx0ID0gJycKCiAgICBpZiBsZW4obnVtYmVyX3N0cikgPT0gMzoKICAgICAgICByZXN1bHQgPSBGSVJTVF9URU5baW50KG51bWJlcl9zdHJbMF0pICsgMV0gKyAKCiAgICBlbGlmIGxlbihudW1iZXJfc3RyKSA9PSAyOgogICAgICAgIHBhc3MKICAgIGVsaWYgbGVuKG51bWJlcl9zdHIpID09IDE6CiAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGxpc3QoKQoKICAgIHdoaWxlIFRydWU6CiAgICAgICAgZmFjdG9yID0gMQogICAgICAgIHJlc3VsdC5pbnNlcnQoMCwgKQoKICAgICAgICBmYWN0b3IgPSBmYWN0b3IgKiAxMAoKICAgICNyZXBsYWNlIHRoaXMgZm9yIHNvbHV0aW9uCiAgICByZXR1cm4gJ3N0cmluZyByZXByZXNlbnRhdGlvbiBvZiBuJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">ICAgIHJlcyA9IHRob3VzYW5kX2xpc3RbdGhvdXNhbmRzIC0gMV0gKyBodW5kcmVkX2xpc3RbaHVuZHJlZHMgLSAxXSArIHRlbl9saXN0W3RlbnMgLSAxXSArIG9uZV9saXN0W29uZXMgLSAxXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxyZXNfbGlzdFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxyZXNfbGlzdFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry encoding="base64">XDxyZXNfbGlzdFw+</entry>
+      </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>w</entry>
