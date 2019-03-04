@@ -10,11 +10,11 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551698555995">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551702285569">
+        <mark key="[" line="56" column="62" />
+        <mark key="]" line="56" column="65" />
+        <mark key="^" line="56" column="65" />
+        <mark key="." line="56" column="65" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551671704141" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/venv/lib/python3.7/site-packages/checkio_client/api.py" timestamp="1551674473066" />
@@ -33,6 +33,7 @@
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1551686786665" />
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/elastic_utils.py" timestamp="1551661507417" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551702820430" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/speechmodule.py" timestamp="1551681761297">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="40" />
@@ -45,44 +46,44 @@
       <jump line="19" column="4" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc19saXN0ID0gbGlzdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>the</text>
       </register>
       <register name="-" type="4">
-        <text>thousands</text>
+        <text>the</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNfbGlzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWVfY29udmVydGVyKCcxMjozMCBwLm0uJykpCg==</text>
+      <register name="0" type="4">
+        <text>text[pair[0]:pair[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc19saXN0ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGlzX3BhbGluZHJvbWljKHRleHQpOgogICAgaSwgaiA9IDAsIC0gMQogICAgd2hpbGUgaSA8PSBqOgogICAgICAgIGlmIHRleHRbaV0gIT0gdGV4dFtqXToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgaSArPSAxCiAgICAgICAgaiAtPSAxCgogICAgcmV0dXJuIFRydWUKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyX2RpY3Rbdl0gPSAK</text>
+        <text encoding="base64">ICAgICAgICByZXNfbGlzdC5leHRlbmQoW3RleHQgIF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc19saXN0ID0gJycKICAgIGksIGogPSAwLCBsZW4odGV4dCkgLSAxCiAgICB3aGlsZSBpID49IGo6CiAgICAgICAgaWYgdGV4dFtpXSA9PSB0ZXh0W2pdOgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICAgICAgaiA9IGogKiAoLTEpCiAgICAgICAgICAgIGlmIHRleHRbaV0gPT0gdGV4dFtqXToK</text>
+        <text encoding="base64">ICAgIHJlc19saXN0ID0gbGlzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4odGUpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyX2RpY3Rbdl0gPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
