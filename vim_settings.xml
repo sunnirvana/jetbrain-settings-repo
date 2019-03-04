@@ -33,10 +33,10 @@
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1551686786665" />
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/elastic_utils.py" timestamp="1551661507417" />
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551705325958">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551706507653">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/speechmodule.py" timestamp="1551681761297">
         <mark key="[" line="33" column="32" />
@@ -51,10 +51,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRpZ2l0X2xpc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>digit</text>
+        <text>''.join(sorted(digit_list))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNfbGlzdFw+</text>
@@ -63,31 +63,31 @@
         <text>text[pair[0]:pair[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRpZ2l0X2xpc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb3JuZXIgY2FzZSwgaWYgcmVtaW5kZXIgPiAxLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBkaWdpdCBpbiBkaWdpdF9saXN0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlnaXRfbGlzdC5hcHBlbmQoc3RyKF9udW1iZXIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bWJlciA9IG51bWJlcgo=</text>
+        <text encoding="base64">ICAgIGpkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxvY2FsX251bWJlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmb3VuZCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgIGZvciBkaWdpdCBpbiBkaWdpdF9saXN0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
