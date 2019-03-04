@@ -10,11 +10,11 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551693708504">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="28" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551697102571">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551671704141" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/venv/lib/python3.7/site-packages/checkio_client/api.py" timestamp="1551674473066" />
@@ -46,7 +46,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJlc19saXN0ID0gbGlzdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>thousands</text>
@@ -58,31 +58,31 @@
         <text encoding="base64">ICAgIHByaW50KHRpbWVfY29udmVydGVyKCcxMjozMCBwLm0uJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJlc19saXN0ID0gbGlzdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyX2RpY3Rbdl0gPSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc19saXN0ID0gJycKICAgIGksIGogPSAwLCBsZW4odGV4dCkgLSAxCiAgICB3aGlsZSBpID49IGo6CiAgICAgICAgaWYgdGV4dFtpXSA9PSB0ZXh0W2pdOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICAgICAgaiA9IGogKiAoLTEpCiAgICAgICAgICAgIGlmIHRleHRbaV0gPT0gdGV4dFtqXToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4odGUpKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyX2RpY3Rbdl0gPSAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc19saXN0ID0gJycKICAgIGksIGogPSAwLCBsZW4odGV4dCkgLSAxCiAgICB3aGlsZSBpID49IGo6CiAgICAgICAgaWYgdGV4dFtpXSA9PSB0ZXh0W2pdOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICAgICAgaiA9IGogKiAoLTEpCiAgICAgICAgICAgIGlmIHRleHRbaV0gPT0gdGV4dFtqXToK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4odGUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
