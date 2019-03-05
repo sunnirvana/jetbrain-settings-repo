@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1551765838660">
+      <file name="/start_script.py" timestamp="1551766193682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/multicolored_lamp.py" timestamp="1551689807057">
@@ -12,6 +12,7 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/clear.py" timestamp="1551766750692" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/time_converter_12h_to_24h.py" timestamp="1551678463295">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="32" column="39" />
@@ -25,26 +26,29 @@
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.sh" timestamp="1551766011894" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/get0101.py" timestamp="1551766585907" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/generate_img.py" timestamp="1551766637192" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/deletegroup.py" timestamp="1551766734161" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.sh" timestamp="1551766316367" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/speechmodule.py" timestamp="1551681761297">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="40" />
         <mark key="." line="33" column="40" />
         <mark key="^" line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/getfeature.py" timestamp="1551766026163" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551702285569">
         <mark key="[" line="56" column="62" />
         <mark key="]" line="56" column="65" />
         <mark key="^" line="56" column="65" />
         <mark key="." line="56" column="65" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1551765934787">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="27" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="40" column="27" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1551766867088">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/check_miss_push.py" timestamp="1551766811995" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551706507653">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -56,14 +60,13 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/.gitignore" timestamp="1551765894272">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/.gitignore" timestamp="1551766307890">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/statistic.py" timestamp="1551766021465" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1551766098984" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/statistic.py" timestamp="1551766566487" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1551767431064" />
     </filemarks>
     <jumps>
       <jump line="23" column="16" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" />
@@ -71,7 +74,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="-" type="4">
         <text>min</text>
@@ -83,31 +86,31 @@
         <text>text[pair[0]:pair[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1pbikK</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih3YWxsX2xpc3RbMF0pKToKICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4od2FsbF9saXN0KSk6CiAgICAgICAgICAgIHdhbGxfbGlzdFtdCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1pbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hcnJvd19saXN0ID0gbGlzdCgpCiAgICBmb3IgaSBpbiByYW5nZShsZW4od2FsbF9saXN0WzBdKSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHdhbGxfbGlzdCkpOgogICAgICAgICAgICB3YWxsX2xpc3RbXQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbih3YWxsX2xpc3RbMF0pKToKICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4od2FsbF9saXN0KSk6CiAgICAgICAgICAgIHdhbGxfbGlzdFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYXJyb3dfbGlzdC5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICAgIG5hcnJvd19saXN0ID0gbGlzdCgpCiAgICBmb3IgaSBpbiByYW5nZShsZW4od2FsbF9saXN0WzBdKSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHdhbGxfbGlzdCkpOgogICAgICAgICAgICB3YWxsX2xpc3RbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRpZ2l0X2xpc3QK</text>
+        <text encoding="base64">ICAgICAgICBuYXJyb3dfbGlzdC5hcHBlbmQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb3JuZXIgY2FzZSwgaWYgcmVtaW5kZXIgPiAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRpZ2l0X2xpc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlnaXRfbGlzdC5hcHBlbmQoc3RyKF9udW1iZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb3JuZXIgY2FzZSwgaWYgcmVtaW5kZXIgPiAxLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlnaXRfbGlzdC5hcHBlbmQoc3RyKF9udW1iZXIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
