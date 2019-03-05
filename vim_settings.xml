@@ -9,12 +9,6 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551702285569">
-        <mark key="[" line="56" column="62" />
-        <mark key="]" line="56" column="65" />
-        <mark key="^" line="56" column="65" />
-        <mark key="." line="56" column="65" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/time_converter_12h_to_24h.py" timestamp="1551678463295">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="32" column="39" />
@@ -28,17 +22,30 @@
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1551756292507" />
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551706507653">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/speechmodule.py" timestamp="1551681761297">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="40" />
         <mark key="." line="33" column="40" />
         <mark key="^" line="33" column="40" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551702285569">
+        <mark key="[" line="56" column="62" />
+        <mark key="]" line="56" column="65" />
+        <mark key="^" line="56" column="65" />
+        <mark key="." line="56" column="65" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1551758261560" />
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551706507653">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Escher/the_stone_wall.py" timestamp="1551758718068" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/.gitignore" timestamp="1551758249172">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
     </filemarks>
     <jumps>
