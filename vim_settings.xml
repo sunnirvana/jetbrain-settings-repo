@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Wokrspace/projects/python_basics/Dockerfile_hdfs" timestamp="1551671718196" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/multicolored_lamp.py" timestamp="1551689807057">
         <mark key="[" line="38" column="20" />
         <mark key="]" line="39" column="31" />
@@ -16,8 +15,6 @@
         <mark key="^" line="56" column="65" />
         <mark key="." line="56" column="65" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/python_basics/hdfs_utils.py" timestamp="1551671704141" />
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/venv/lib/python3.7/site-packages/checkio_client/api.py" timestamp="1551674473066" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/time_converter_12h_to_24h.py" timestamp="1551678463295">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="32" column="39" />
@@ -31,8 +28,7 @@
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1551686786665" />
-      <file name="$USER_HOME$/Wokrspace/projects/python_basics/elastic_utils.py" timestamp="1551661507417" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1551756292507" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551706507653">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -108,6 +104,8 @@
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
