@@ -77,11 +77,17 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/statistic.py" timestamp="1551838927624" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1551855556241" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1551856601740">
+        <mark key="'" line="55" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="16" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/roman_numerals.py" />
       <jump line="19" column="4" filename="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" />
+      <jump line="62" column="39" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" />
+      <jump line="59" column="19" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" />
+      <jump line="56" column="21" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" />
+      <jump line="55" column="13" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -91,7 +97,7 @@
         <text>numbers</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNfbGlzdFw+</text>
+        <text encoding="base64">XDxpbWFnZWluZm9cPg==</text>
       </register>
       <register name="0" type="4">
         <text>self.channels[self.index]</text>
@@ -128,15 +134,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNfbGlzdFw+</last-search>
+      <last-search encoding="base64">XDxpbWFnZWluZm9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNfbGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZWluZm9cPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxyZXNfbGlzdFw+</entry>
+        <entry encoding="base64">XDxpbWFnZWluZm9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
