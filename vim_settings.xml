@@ -80,6 +80,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_config.py" timestamp="1552054102678">
+        <mark key="[" line="57" column="53" />
+        <mark key="]" line="57" column="52" />
+        <mark key="." line="57" column="52" />
+        <mark key="^" line="57" column="52" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552052766076">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -104,6 +110,7 @@
         <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" timestamp="1552027947430" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/statistic.py" timestamp="1552054820120" />
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/multicolored_lamp.py" timestamp="1551689807057">
         <mark key="[" line="38" column="20" />
         <mark key="]" line="39" column="31" />
@@ -199,7 +206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA5ZTMzZmMwNDRlYWMyNzAxYzllMDFmYjIzOTE2ZTJiMmZiZTBhYjFjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -211,31 +218,31 @@
         <text encoding="base64">cmVzdWx0X3BhdGggPSBvcy5wYXRoLmpvaW4ocm9vdF9wYXRoLCAncmVzdWx0cycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA5ZTMzZmMwNDRlYWMyNzAxYzllMDFmYjIzOTE2ZTJiMmZiZTBhYjFjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmFyZ19saXN0ID0gWyAoaSwgdikgZm9yIGksIHYgaW4gZW51bWVyYXRlKGNvbmZpZ19saXN0KV0KcHJpbnQoYXJnX2xpc3QpCmV4aXQoMCkKPT09PT09PQojICBwcmludChjb25maWdfbGlzdFszOjVdKQojICBleGl0KDApCgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA5ZTMzZmMwNDRlYWMyNzAxYzllMDFmYjIzOTE2ZTJiMmZiZTBhYjFjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwLgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmFyZ19saXN0ID0gWyAoaSwgdikgZm9yIGksIHYgaW4gZW51bWVyYXRlKGNvbmZpZ19saXN0KV0KcHJpbnQoYXJnX2xpc3QpCmV4aXQoMCkKPT09PT09PQojICBwcmludChjb25maWdfbGlzdFszOjVdKQojICBleGl0KDApCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z29fcGF0aCA9ICcvaG9tZS95YnN1bi9nby9zcmMvZ2l0bGFiLmFpYmVlLmNuL3dlYicKY29tbW9uX3B1c2hfcGF0aCA9IG9zLnBhdGguam9pbihnb19wYXRoLCAnY29tbW9uLXB1c2gnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nX3BhdGggPSAiL2hvbWUveWJzdW4vcHJvamVjdHMvcmVkc3Rhci9sb2dzIgo=</text>
+        <text encoding="base64">Z29fcGF0aCA9ICcvaG9tZS95YnN1bi9nby9zcmMvZ2l0bGFiLmFpYmVlLmNuL3dlYicKY29tbW9uX3B1c2hfcGF0aCA9IG9zLnBhdGguam9pbihnb19wYXRoLCAnY29tbW9uLXB1c2gnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICcvaG9tZS95YnN1bi9wcm9qZWN0cy9yZWRzdGFyL3Rlc3RfZGF0YS93ZWJfY29uZmlncycK</text>
+        <text encoding="base64">bG9nX3BhdGggPSAiL2hvbWUveWJzdW4vcHJvamVjdHMvcmVkc3Rhci9sb2dzIgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICcvaG9tZS95YnN1bi9wcm9qZWN0cy9yZWRzdGFyL3Rlc3RfZGF0YS93ZWJfY29uZmlncycK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgojIGV4aXQoMCk=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
