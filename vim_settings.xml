@@ -19,12 +19,6 @@
         <mark key="^" line="306" column="21" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/multicolored_lamp.py" timestamp="1551689807057">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="39" column="31" />
-        <mark key="." line="39" column="31" />
-        <mark key="^" line="39" column="31" />
-      </file>
       <file name="/Python Console" timestamp="1551772467873">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,13 +26,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" timestamp="1552016226578">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="8" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="95" column="8" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/time_converter_12h_to_24h.py" timestamp="1551678463295">
         <mark key="[" line="31" column="24" />
@@ -61,30 +48,23 @@
         <mark key="." line="33" column="40" />
         <mark key="^" line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/defines.py" timestamp="1552015143063">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="69" />
-        <mark key="^" line="12" column="69" />
-        <mark key="." line="12" column="69" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/the_longest_palindromic.py" timestamp="1551702285569">
         <mark key="[" line="56" column="62" />
         <mark key="]" line="56" column="65" />
         <mark key="^" line="56" column="65" />
         <mark key="." line="56" column="65" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/db.py" timestamp="1552016254023">
-        <mark key="'" line="45" column="26" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="45" column="26" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="45" column="26" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_cmd.py" timestamp="1552015612288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552019074120">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1552007685510">
         <mark key="[" line="42" column="27" />
@@ -106,11 +86,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552015814713">
-        <mark key="'" line="79" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552019101804">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/number_factory.py" timestamp="1551706507653">
         <mark key="[" line="38" column="0" />
@@ -123,11 +104,6 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/.gitignore" timestamp="1551766307890">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1552010035309">
         <mark key="'" line="55" column="13" />
         <mark key="[" line="16" column="22" />
@@ -135,12 +111,42 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" timestamp="1552016498396">
-        <mark key="'" line="75" column="25" />
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="11" />
-        <mark key="^" line="39" column="11" />
-        <mark key="." line="39" column="11" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" timestamp="1552019087056">
+        <mark key="'" line="21" column="75" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/multicolored_lamp.py" timestamp="1551689807057">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" timestamp="1552016226578">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="8" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="95" column="8" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/defines.py" timestamp="1552015143063">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="69" />
+        <mark key="^" line="12" column="69" />
+        <mark key="." line="12" column="69" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/db.py" timestamp="1552016254023">
+        <mark key="'" line="45" column="26" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/.gitignore" timestamp="1551766307890">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -178,22 +184,26 @@
       <jump line="92" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
       <jump line="15" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
       <jump line="75" column="25" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
+      <jump line="63" column="15" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
+      <jump line="14" column="50" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
+      <jump line="19" column="75" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>post_feature_txt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>post_feature_txt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfcmF3X2ZhY2VfbGlzdFw+</text>
+        <text encoding="base64">XDxsaW5lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>self.channels[self.index]</text>
+        <text>[ json.loads(raw_face) for raw_face in raw_face_list ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdldF9mYWNlX2ZlYXR1cmUoZmFjZV9iYXNlNjQpOgogICAgJycnIGdldCBmYWNlIGZlYXR1cmUgJycnCiAgICBmYWNlX3VybCA9ICdodHRwczovL2ZhY2UuYWliZWUuY24vcnNtLXgvMXZuL2ZhY2UvdjEvZXh0cmFjdD9zZWNyZXQ9OWRmOWFmYTk5YzIyNjI5MTVhZmU5ZjRjMjZiYWMwNzQnCiAgICBib2R5ID0geyAnaW1hZ2UnOiBmYWNlX2Jhc2U2NCB9CiAgICByZXNwID0gcmVxdWVzdHMucG9zdChmYWNlX3VybCwgZGF0YT1qc29uLmR1bXBzKGJvZHkpKQogICAgcmVzcG9uc2UgPSBqc29uLmxvYWRzKHJlc3AuY29udGVudCkKICAgICMgICAgIHByaW50KHJlc3BvbnNlWydlcnJvcl9ubyddKQogICAgaWYgcmVzcG9uc2VbJ2Vycm9yX25vJ10gIT0gMDoKICAgICAgICBwcmludChyZXNwb25zZSkKICAgICAgICBpZiByZXNwb25zZVsnZXJyb3Jfbm8nXSA9PSA1MDA6CiAgICAgICAgICAgICMgdHJ5IGFnYWluCiAgICAgICAgICAgIGdldF9mYWNlX2ZlYXR1cmUoZmFjZV9iYXNlNjQpCiAgICAgICAgcmV0dXJuICcnCiAgICBlbHNlOgogICAgICAgICMgICAgICAgICBwcmludChyZXNwb25zZSkKICAgICAgICByZXR1cm4gcmVzcG9uc2VbJ2RhdGEnXVsnZmVhdHVyZV9tYXRyaXgnXQoKCmRlZiB3b3JrZXIoZmFjZSk6CiAgICAnJycgZmVhdHVyZSBmZXRjaGVyIHdvcmtlciAnJycKICAgIGZhY2UgPSBqc29uLmxvYWRzKGZhY2UpCiAgICAjICAgICBwcmludChmYWNlWydmYWNlX2lkJ10pCiAgICBmb3IgcGhvdG8gaW4gZmFjZVsncGhvdG9zJ106CiAgICAgICAgcGhvdG9bJ3Bob3RvX2ZlYXR1cmUnXSA9IGdldF9mYWNlX2ZlYXR1cmUocGhvdG9bJ3Bob3RvX2Jhc2U2NCddKQogICAgcGlja2xlLmR1bXAoZmFjZSwgb3Blbihvcy5wYXRoLmpvaW4ocGtsX3BhdGgsIGZhY2VbJ2ZhY2VfaWQnXSksICd3YicpKQoKCmRlZiBhcHBlbmRfZmVhdHVyZV90b19mYWNlX2FzeW5jKCk6CiAgICAnJycgbXVsdGkgcHJvY2Vzc2VzICcnJwogICAgbmNwdSA9IHBzdXRpbC5jcHVfY291bnQoKQogICAgZmFjZV9saXN0ID0gZ2V0X3Jhd19mYWNlX2xpc3QoKQogICAgd2l0aCBQb29sKG5jcHUpIGFzIHA6CiAgICAgICAgciA9IGxpc3QodHFkbS50cWRtX25vdGVib29rKHAuaW1hcCh3b3JrZXIsIGZhY2VfbGlzdCksIHRvdGFsPWxlbihmYWNlX2xpc3QpKSkKCgpkZWYgbWVyZ2VfcGtscygpOgogICAgdG90YWwgPSBsaXN0KCkKICAgIGNudCA9IDAKICAgIGZvciBwa2wgaW4gdHFkbS50cWRtKG9zLmxpc3RkaXIocGtsX3BhdGgpLCBkZXNjPSdtZXJnaW5nLi4uJyk6CiAgICAgICAgY250ICs9IDEKICAgICAgICBvYmogPSBwaWNrbGUubG9hZChvcGVuKG9zLnBhdGguam9pbihwa2xfcGF0aCwgcGtsKSwgJ3JiJykpCiAgICAgICAgdG90YWwuYXBwZW5kKG9iaikKICAgIHByaW50KCdtZXJnZWQgbGVuOicsIGxlbih0b3RhbCksICdmaWxlIGNvdW50OiAnLCBjbnQpCiAgICBwaWNrbGUuZHVtcCh0b3RhbCwgb3BlbihwcmVfZmFjZV9mZWF0dXJlX3BrbCwgJ3diJykpCgoKZGVmIGNoZWNrX3BrbCgpOgogICAgbWlzc2luZ19mZWF0dXJlX2ZhY2VfaWQgPSBbXQogICAgZmFjZV9saXN0ID0gcGlja2xlLmxvYWQob3BlbihwcmVfZmFjZV9mZWF0dXJlX3BrbCwgJ3JiJykpCiAgICBmb3IgZmFjZSBpbiBmYWNlX2xpc3Q6CiAgICAgICAgZmVhdHVyZV9leGlzdCA9IFtdCiAgICAgICAgZm9yIHBob3RvIGluIGZhY2VbJ3Bob3RvcyddOgogICAgICAgICAgICBleGlzdCA9IFRydWUgaWYgcGhvdG9bJ3Bob3RvX2ZlYXR1cmUnXSAhPSAnJyBlbHNlIEZhbHNlCiAgICAgICAgICAgIGZlYXR1cmVfZXhpc3QuYXBwZW5kKGV4aXN0KQogICAgICAgIGlmIG5vdCBhbGwoZmVhdHVyZV9leGlzdCk6CiAgICAgICAgICAgIG1pc3NpbmdfZmVhdHVyZV9mYWNlX2lkLmFwcGVuZChmYWNlWydmYWNlX2lkJ10pCiAgICBwcmludChsZW4obWlzc2luZ19mZWF0dXJlX2ZhY2VfaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -202,31 +212,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mYWNlX2xpc3QgPSBbIGpzb24ubG9hZHMocmF3X2ZhY2UpIGZvciByYXdfZmFjZSBpbiByYXdfZmFjZV9saXN0IGlmIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuZGVmaW5lIGltcG9ydCAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBzdXRpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgcmVxdWVzdHMKaW1wb3J0IHJlcHJsaWIKaW1wb3J0IHRpbWUKaW1wb3J0IHBpY2tsZQpmcm9tIHRxZG0gaW1wb3J0IHRxZG1fbm90ZWJvb2sKaW1wb3J0IG11bHRpcHJvY2Vzc2luZyBhcyBtcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhY2VfbGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfcmF3X2ZhY2VfbGlzdFw+</last-search>
+      <last-search encoding="base64">XDxsaW5lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfcmF3X2ZhY2VfbGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5lXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -239,7 +249,9 @@
         <entry encoding="base64">XDxnZXRfY29uZmlnX3RlbXBsYXRlXD4=</entry>
         <entry># [</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X3Jhd19mYWNlX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRfcmF3X2ZhY2VfbGlzdFw+</entry>
+        <entry encoding="base64">XDxsaW5lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
