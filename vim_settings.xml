@@ -57,11 +57,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552307384815">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552308831681">
+        <mark key="'" line="66" column="56" />
+        <mark key="[" line="66" column="49" />
+        <mark key="]" line="66" column="56" />
+        <mark key="." line="66" column="56" />
+        <mark key="^" line="66" column="56" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" timestamp="1552295285181" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/utils/define.py" timestamp="1552297354279" />
@@ -174,13 +175,15 @@
       <jump line="25" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" />
       <jump line="41" column="15" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" />
+      <jump line="65" column="12" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
+      <jump line="66" column="56" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>data_path</text>
       </register>
       <register name="-" type="4">
-        <text>raw_face_list</text>
+        <text>data_path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdfZmlsZV9saXN0XD4=</text>
