@@ -24,12 +24,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/login_tests/invalid_login.robot" timestamp="1552290375886" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552319333336">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="24" column="67" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-        <mark key="^" line="24" column="35" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552319776333">
+        <mark key="'" line="57" column="29" />
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="41" />
+        <mark key="." line="57" column="41" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push.py" timestamp="1552303757314">
         <mark key="'" line="182" column="0" />
@@ -47,7 +47,7 @@
         <mark key="." line="56" column="23" />
         <mark key="^" line="56" column="23" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552305950000">
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552319941508">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="51" column="32" />
@@ -122,8 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
       <jump line="138" column="2" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
       <jump line="132" column="4" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
       <jump line="209" column="14" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
@@ -222,61 +220,62 @@
       <jump line="22" column="20" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
       <jump line="105" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
       <jump line="41" column="25" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
+      <jump line="56" column="29" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>ConfigMaker</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ConfigMaker</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX3Bvc3RfZGF0YVw+</text>
+        <text encoding="base64">XDx0ZXN0X3J1bl9mdWxsbmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvc3RfZGF0YSA9IAo=</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocG9zdF9kYXRhLCAncicpIGFzIGZwOgogICAgICAgICAgICBzZWxmLmZhY2VfbGlzdCA9IFtqc29uLmxvYWRzKGxpbmUpIGZvciBsaW5lIGluIGZwLnJlYWRsaW5lcygpXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvc3RfZGF0YSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocG9zdF9kYXRhLCAncicpIGFzIGZwOgogICAgICAgICAgICBzZWxmLmZhY2VfbGlzdCA9IFtqc29uLmxvYWRzKGxpbmUpIGZvciBsaW5lIGluIGZwLnJlYWRsaW5lcygpXQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcG9zdF9wYXlsb2FkKHNlbGYsIGZhY2UpOgogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgImZhY2VfaWQiOiBmYWNlWydmYWNlX2lkJ10sCiAgICAgICAgICAgICAgICAicGhvdG9zIjogZmFjZVsncGhvdG9zJ10sCiAgICAgICAgICAgICAgICAjICAgICAgICAgInByb2plY3RfaWQiOiBmYWNlX3dpdGhfZmVhdHVyZVsncHJvamVjdF9pZCddLAogICAgICAgICAgICAgICAgInByb2plY3RfaWQiOiAncnNtJywKICAgICAgICAgICAgICAgICJhcmVhX2lkIjogZmFjZVsnYWRkcmVzc19pZCddLAogICAgICAgICAgICAgICAgImNhbWVyYV9pcCI6IGZhY2VbJ2NhbWVyYV9pcCddLAogICAgICAgICAgICAgICAgImNhbWVyYV9pZCI6IGZhY2VbJ2NhbWVyYV9pZCddLAogICAgICAgICAgICAgICAgImZpcnN0X3RpbWUiOiBmYWNlWydmaXJzdF90aW1lJ10KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX3Bvc3RfZGF0YVw+</last-search>
+      <last-search encoding="base64">XDx0ZXN0X3J1bl9mdWxsbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX3Bvc3RfZGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0X3J1bl9mdWxsbmFtZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZmFjZV9mZWF0dXJlXD4=</entry>
         <entry encoding="base64">XDxnZXRfYWxsX2ZhY2VfZmVhdHVyZXNcPg==</entry>
         <entry encoding="base64">XDxzZXRfY29uZmlnX3RocmVzaG9sZHNcPg==</entry>
         <entry encoding="base64">XDxnZXRfY29uZmlnX3RlbXBsYXRlXD4=</entry>
@@ -296,6 +295,7 @@
         <entry encoding="base64">XDxtZXJnZWRfcGtsX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxwb3N0X2RhdGFcPg==</entry>
         <entry encoding="base64">XDxtYWtlX3Bvc3RfZGF0YVw+</entry>
+        <entry encoding="base64">XDx0ZXN0X3J1bl9mdWxsbmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
