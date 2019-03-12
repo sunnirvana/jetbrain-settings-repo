@@ -6,30 +6,16 @@
       <file name="/start_script.py" timestamp="1551766193682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" timestamp="1552015081864">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="306" column="21" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1551772467873">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/login_tests/invalid_login.robot" timestamp="1552290375886" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552358719603">
-        <mark key="'" line="85" column="25" />
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="45" column="33" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552359798659">
+        <mark key="'" line="95" column="25" />
+        <mark key="[" line="40" column="83" />
+        <mark key="]" line="41" column="7" />
+        <mark key="." line="41" column="7" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push.py" timestamp="1552303757314">
         <mark key="'" line="182" column="0" />
@@ -40,32 +26,25 @@
       <file name="/a.dummy" timestamp="1552304873294">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1552310219202">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="23" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1552359814131">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552358688609">
-        <mark key="'" line="8" column="53" />
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="48" column="15" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552359453047">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552295264118">
         <mark key="[" line="3" column="55" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_config.py" timestamp="1552295213072" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552353527256">
@@ -88,21 +67,7 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1552052278823">
-        <mark key="'" line="55" column="13" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" timestamp="1552295285181" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" timestamp="1552016226578">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="8" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="95" column="8" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/utils/define.py" timestamp="1552310249966" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/utils/statistic.py" timestamp="1552297772248" />
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/tasks.py" timestamp="1552295192169" />
@@ -123,10 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" />
       <jump line="125" column="16" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_config.py" />
       <jump line="79" column="4" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" />
       <jump line="9" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" />
@@ -222,63 +183,65 @@
       <jump line="90" column="25" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" />
       <jump line="10" column="11" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" />
-      <jump line="8" column="53" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" />
+      <jump line="8" column="23" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" />
+      <jump line="14" column="82" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" />
+      <jump line="13" column="86" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" />
+      <jump line="12" column="22" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>config_file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>config_file</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhbnVwX2NvbmZpZ19wYXRoXD4=</text>
+        <text encoding="base64">XDxzdWZmaXhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBpbl9wbGFjZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50CiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50WzpdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaXIgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYmFzZV9wb3J0ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVjcmVhdGU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiX25hbWUgPSBzZWxmLmJhc2VfZGJfbmFtZSArICdfJyArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICByZWNyZWF0ZT1UcnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2VfZGJfbmFtZSA9IGJhc2VfZGJfbmFtZSArICdfJyArIHNlbGYudGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19wYXRoID0gY29uZmlnX3BhdGgK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY29uZmlnIGluIGNvbmZpZ19saXN0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY29uZmlnIGluIGNvbmZpZ19maWxlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudGVzdF9ydW5fZnVsbG5hbWUgPSBvcy5wYXRoLmpvaW4oc2VsZi5jb25maWdbJ291dHB1dCddLCBzZWxmLnRlc3RfcnVuX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFpclsnY29uZmlnX2ZpbGUnXQogICAgICAgICAgICBwYWlyWydkYl9uYW1lJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhbnVwX2NvbmZpZ19wYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxzdWZmaXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhbnVwX2NvbmZpZ19wYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdWZmaXhcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRfY29uZmlnX3RocmVzaG9sZHNcPg==</entry>
-        <entry encoding="base64">XDxnZXRfY29uZmlnX3RlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VfdGhyZXNob2xkc1w+</entry>
@@ -297,6 +260,8 @@
         <entry encoding="base64">XDxtYWtlX3Bvc3RfZGF0YVw+</entry>
         <entry encoding="base64">XDx0ZXN0X3J1bl9mdWxsbmFtZVw+</entry>
         <entry encoding="base64">XDxjbGVhbnVwX2NvbmZpZ19wYXRoXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0X3J1bl9wYXRoXD4=</entry>
+        <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
