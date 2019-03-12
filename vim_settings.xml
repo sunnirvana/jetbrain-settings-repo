@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1551766193682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551772467873">
+      <file name="/Python Console" timestamp="1552394488619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/login_tests/invalid_login.robot" timestamp="1552290375886" />
@@ -32,11 +32,25 @@
       <file name="/a.dummy" timestamp="1552304873294">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/requirements.txt" timestamp="1552393989711">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/GitHub/voice_tv_control.py" timestamp="1551772681148">
         <mark key="[" line="45" column="21" />
         <mark key="]" line="45" column="22" />
         <mark key="." line="45" column="22" />
         <mark key="^" line="65" column="20" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" timestamp="1552394786192">
+        <mark key="'" line="55" column="23" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/py-checkio/checkio_solutions/Electronic Station/speechmodule.py" timestamp="1551681761297">
         <mark key="[" line="33" column="32" />
@@ -74,11 +88,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test/test_workflow.py" timestamp="1552393143847">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test/test_workflow.py" timestamp="1552394909147">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/run.py" timestamp="1552007685510">
         <mark key="[" line="42" column="27" />
@@ -113,6 +127,12 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/utils/db.py" timestamp="1552394669162">
+        <mark key="[" line="43" column="103" />
+        <mark key="]" line="43" column="100" />
+        <mark key="." line="43" column="100" />
+        <mark key="^" line="43" column="100" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" timestamp="1552295285181" />
       <file name="/Dummy.txt" timestamp="1552371390244">
         <mark key="[" line="0" column="0" />
@@ -144,11 +164,21 @@
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1552369909364">
         <mark key="[" line="25" column="122" />
       </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
+        <mark key="'" line="30" column="1" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="28" column="49" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/modules/tester.py" timestamp="1552394757870">
+        <mark key="[" line="109" column="90" />
+        <mark key="]" line="110" column="23" />
+        <mark key="^" line="110" column="23" />
+        <mark key="." line="110" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" />
-      <jump line="50" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
       <jump line="58" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
       <jump line="56" column="69" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_post.py" />
       <jump line="84" column="7" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/web_config.py" />
@@ -246,46 +276,49 @@
       <jump line="79" column="28" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="74" column="17" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="256" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
+      <jump line="37" column="1" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" />
+      <jump line="8" column="10" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/requirements.txt" />
+      <jump line="55" column="23" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdHVzZXJfZmFjZXNfcGF0aAo=</text>
       </register>
       <register name="-" type="4">
-        <text>gen_thresholds_callback</text>
+        <text>user_faces_path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXNoX2ZhY2VpZF91aWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ21haW5faCc6IGgsCiAgICAgICAgICAgICAgICAgICAgICAgICdtYWluX2wnOiBsLAogICAgICAgICAgICAgICAgICAgICAgICAndGVtcF9oJzogaCwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RlbXBfbCc6IGwsCiAgICAgICAgICAgICAgICAgICAgICAgICdxdWFsaXR5JzogcQo=</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdHVzZXJfZmFjZXNfcGF0aAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSAuZGVmaW5lIGltcG9ydCAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAiYW1xcD09Mi4zLjIiLAogICAgICAgICJhc3Ryb2lkPT0yLjEuMCIsCiAgICAgICAgImF1dG9wZXA4PT0xLjQuMyIsCiAgICAgICAgImJpbGxpYXJkPT0zLjUuMC40IiwKICAgICAgICAiY2VsZXJ5PT00LjIuMSIsCiAgICAgICAgIkNsaWNrPT03LjAiLAogICAgICAgICJjb2xvcmxvZz09My4xLjQiLAogICAgICAgICJpc29ydD09NC4zLjQiLAogICAgICAgICJrb21idT09NC4yLjEiLAogICAgICAgICJsYXp5LW9iamVjdC1wcm94eT09MS4zLjEiLAogICAgICAgICJtY2NhYmU9PTAuNi4xIiwKICAgICAgICAicHljb2Rlc3R5bGU9PTIuNC4wIiwKICAgICAgICAicHlsaW50PT0yLjIuMSIsCiAgICAgICAgInB5dHo9PTIwMTguNyIsCiAgICAgICAgInNpeD09MS4xMS4wIiwKICAgICAgICAidmluZT09MS4xLjQiLAogICAgICAgICJ3cmFwdD09MS4xMC4xMSIsCiAgICAgICAgInZhci1kdW1wPT0xLjIiLAogICAgICAgICJudW1weSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGRfbGlzdCA9IGdlbl90aHJlc2hvbGRzX2NhbGxiYWNrKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRocmVzaG9sZF9saXN0ID0gbGlzdCgpCiAgICAgICAgIwogICAgICAgICMgZm9yIHEgaW4gcV9saXN0OgogICAgICAgICMgICAgIGZvciBoIGluIGhpZ2hfbGlzdDoKICAgICAgICAjICAgICAgICAgZm9yIGwgaW4gbG93X2xpc3Q6CiAgICAgICAgIyAgICAgICAgICAgICBtYXRjaCA9IHsKICAgICAgICAjICAgICAgICAgICAgICAgICAnbWFpbl9oJzogaCwKICAgICAgICAjICAgICAgICAgICAgICAgICAnbWFpbl9sJzogbCwKICAgICAgICAjICAgICAgICAgICAgICAgICAndGVtcF9oJzogaCwKICAgICAgICAjICAgICAgICAgICAgICAgICAndGVtcF9sJzogbCwKICAgICAgICAjICAgICAgICAgICAgICAgICAncXVhbGl0eSc6IHEKICAgICAgICAjICAgICAgICAgICAgIH0KICAgICAgICAjICAgICAgICAgICAgICMgIGlmIGggPiBsOiBjcm9zc190aHJlc2hvbGQuYXBwZW5kKG1hdGNoKQogICAgICAgICMgICAgICAgICAgICAgdGhyZXNob2xkX2xpc3QuYXBwZW5kKG1hdGNoKQogICAgICAgICMgcHByaW50KHRocmVzaG9sZF9saXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlc2hvbGRfbGlzdCA9IGdlbl90aHJlc2hvbGRzX2NhbGxiYWNrKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRocmVzaG9sZF9saXN0ID0gbGlzdCgpCiAgICAgICAgIwogICAgICAgICMgZm9yIHEgaW4gcV9saXN0OgogICAgICAgICMgICAgIGZvciBoIGluIGhpZ2hfbGlzdDoKICAgICAgICAjICAgICAgICAgZm9yIGwgaW4gbG93X2xpc3Q6CiAgICAgICAgIyAgICAgICAgICAgICBtYXRjaCA9IHsKICAgICAgICAjICAgICAgICAgICAgICAgICAnbWFpbl9oJzogaCwKICAgICAgICAjICAgICAgICAgICAgICAgICAnbWFpbl9sJzogbCwKICAgICAgICAjICAgICAgICAgICAgICAgICAndGVtcF9oJzogaCwKICAgICAgICAjICAgICAgICAgICAgICAgICAndGVtcF9sJzogbCwKICAgICAgICAjICAgICAgICAgICAgICAgICAncXVhbGl0eSc6IHEKICAgICAgICAjICAgICAgICAgICAgIH0KICAgICAgICAjICAgICAgICAgICAgICMgIGlmIGggPiBsOiBjcm9zc190aHJlc2hvbGQuYXBwZW5kKG1hdGNoKQogICAgICAgICMgICAgICAgICAgICAgdGhyZXNob2xkX2xpc3QuYXBwZW5kKG1hdGNoKQogICAgICAgICMgcHByaW50KHRocmVzaG9sZF9saXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
