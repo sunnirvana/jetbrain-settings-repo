@@ -10,12 +10,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/login_tests/invalid_login.robot" timestamp="1552290375886" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552359798659">
-        <mark key="'" line="95" column="25" />
-        <mark key="[" line="40" column="83" />
-        <mark key="]" line="41" column="7" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552361062351">
+        <mark key="'" line="97" column="25" />
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push.py" timestamp="1552303757314">
         <mark key="'" line="182" column="0" />
@@ -26,12 +26,11 @@
       <file name="/a.dummy" timestamp="1552304873294">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1552359814131">
-        <mark key="'" line="12" column="22" />
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="39" column="42" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1552360727292">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552359453047">
         <mark key="'" line="8" column="23" />
@@ -53,7 +52,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552356035935">
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552360317697">
         <mark key="'" line="39" column="12" />
         <mark key="[" line="19" column="67" />
         <mark key="]" line="19" column="86" />
@@ -80,7 +79,7 @@
         <mark key="^" line="58" column="55" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/login_tests/resource.robot" timestamp="1552290362642" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1552354632632">
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1552360812033">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
@@ -191,7 +190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXJ2ZXJfYmluLmNvbW1vbl9wdXNoX2luaXQocGFpclsnY29uZmlnJ10pCg==</text>
       </register>
       <register name="-" type="4">
         <text>self.</text>
@@ -203,31 +202,31 @@
         <text encoding="base64">ICAgICAgICBpZiBpbl9wbGFjZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50CiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50WzpdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXJ2ZXJfYmluLmNvbW1vbl9wdXNoX2luaXQocGFpclsnY29uZmlnJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnUG9zdCBkYXRhIGRvbmUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVjcmVhdGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvc3RfbG9nX2ZpbGUgPSBvcy5wYXRoLmpvaW4oc2VsZi5sb2dfcGF0aCwgJ2xvZ19wb3N0X3t9LmxvZycuZm9ybWF0KHNlbGYuX2dldF9sb2dfc3VmZml4KGNvbmZpZykpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICByZWNyZWF0ZT1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZlcl9sb2dfZmlsZSA9IG9zLnBhdGguam9pbihzZWxmLmxvZ19wYXRoLCAnbG9nX3NlcnZlcl97fS5sb2cnLmZvcm1hdChzZWxmLl9nZXRfbG9nX3N1ZmZpeChjb25maWcpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VmZml4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29uZmlnIGluIGNvbmZpZ19saXN0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBzdWZmaXggPQogICAgICAgIHRpbWVzdGFtcCA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29uZmlnIGluIGNvbmZpZ19maWxlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzdWZmaXggPSBvcy5wYXRoLmJhc2VuYW1lKGNvbmZpZylbNzpdCiAgICAgICAgdGltZXN0YW1wID0gaW50KHRpbWUudGltZV9ucygpKQogICAgICAgIHNlbGYuc3VmZml4ID0gc3VmZml4ICsgJ18nICsgc3RyKHRpbWVzdGFtcCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFpclsnY29uZmlnX2ZpbGUnXQogICAgICAgICAgICBwYWlyWydkYl9uYW1lJ10K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZlcl9iaW4gPSBTZXJ2ZXJDbWQoc2VsZi5jb25maWdbJ2NvbW1vbl9wdXNoX3BhdGgnXSwgc2VsZi5sb2dfcGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -265,9 +264,9 @@
       </history-search>
       <history-cmd>
         <entry>q!</entry>
-        <entry>W</entry>
         <entry>Vsp</entry>
         <entry>vsp</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
