@@ -24,12 +24,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/codes/WebDemo/login_tests/invalid_login.robot" timestamp="1552290375886" />
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552357843891">
-        <mark key="'" line="84" column="25" />
-        <mark key="[" line="44" column="67" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="20" />
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552358719603">
+        <mark key="'" line="85" column="25" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push.py" timestamp="1552303757314">
         <mark key="'" line="182" column="0" />
@@ -47,12 +47,12 @@
         <mark key="." line="56" column="23" />
         <mark key="^" line="56" column="23" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552357856554">
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552358688609">
         <mark key="'" line="8" column="53" />
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="45" column="55" />
-        <mark key="^" line="45" column="55" />
-        <mark key="." line="45" column="55" />
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552295264118">
         <mark key="[" line="3" column="55" />
@@ -226,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new_content</text>
+        <text>config_file</text>
       </register>
       <register name="-" type="4">
-        <text>new_content</text>
+        <text>config_file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbnVwX2NvbmZpZ19wYXRoXD4=</text>
@@ -238,31 +238,31 @@
         <text encoding="base64">ICAgICAgICBpZiBpbl9wbGFjZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50CiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50WzpdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudGVzdF9ydW5fZnVsbG5hbWUgPSBvcy5wYXRoLmpvaW4oc2VsZi5jb25maWdbJ291dHB1dCddLCBzZWxmLnRlc3RfcnVuX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaXIgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYmFzZV9wb3J0ICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiX25hbWUgPSBzZWxmLmJhc2VfZGJfbmFtZSArICdfJyArCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhc2VfZGJfbmFtZSA9IGJhc2VfZGJfbmFtZSArICdfJyArIHNlbGYudGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ19wYXRoID0gY29uZmlnX3BhdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvb3RfcGF0aCA9IHN0cihQYXRoLmN3ZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYudGVzdF9ydW5fZnVsbG5hbWUgPSBvcy5wYXRoLmpvaW4oc2VsZi5jb25maWdbJ291dHB1dCddLCBzZWxmLnRlc3RfcnVuX25hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3RfcGF0aCA9IHJvb3RfcGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
