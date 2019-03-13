@@ -62,11 +62,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="29" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552455593434">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="87" />
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552458630811">
+        <mark key="[" line="120" column="72" />
+        <mark key="]" line="120" column="47" />
+        <mark key="." line="120" column="47" />
+        <mark key="^" line="120" column="47" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test.sh" timestamp="1552441593932">
         <mark key="[" line="2" column="52" />
@@ -388,10 +388,10 @@
       <history-cmd>
         <entry>q!</entry>
         <entry>Vsp</entry>
-        <entry>W</entry>
         <entry>116</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
