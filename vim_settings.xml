@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1551766193682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552442951537">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="9" />
-        <mark key="^" line="39" column="9" />
-        <mark key="." line="39" column="9" />
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552444719296">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/feature.py" timestamp="1552016213961">
         <mark key="[" line="8" column="0" />
@@ -120,11 +120,11 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552444037852">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="39" column="7" />
-        <mark key="." line="39" column="7" />
-        <mark key="^" line="39" column="7" />
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552444773390">
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="57" />
+        <mark key="." line="47" column="57" />
+        <mark key="^" line="47" column="57" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
@@ -290,11 +290,11 @@
       <jump line="138" column="17" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jcmVhdGVfZm9sZGVycyhzZWxmLnRlc3RfcnVuX3BhdGgsIHNlbGYuY29uZmlnX3BhdGgsIHNlbGYubG9nX3BhdGgsIHNlbGYuZGJfZGF0YV9wYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYudGVzdF9kYXRhX3BhdGgsIHNlbGYucmVwb3J0X3BhdGgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>test_run_path</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>test_run_path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHVzaF9mYWNlaWRfdWlkXD4=</text>
