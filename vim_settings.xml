@@ -146,7 +146,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1552651637241" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1552652676337">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
         <mark key="'" line="139" column="4" />
         <mark key="[" line="131" column="43" />
