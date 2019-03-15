@@ -85,13 +85,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test/test_workflow.py" timestamp="1552396377641">
-        <mark key="[" line="1" column="5" />
-        <mark key="k" line="1" column="6" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="5" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="2" column="9" />
@@ -104,6 +97,9 @@
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/video_merger.py" timestamp="1552632039864">
+        <mark key="^" line="0" column="189" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552441019407">
         <mark key="[" line="42" column="0" />
@@ -151,6 +147,12 @@
         <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/py_checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1552540309139" />
+      <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552632676008">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="26" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" timestamp="1552016226578">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="95" column="0" />
@@ -204,10 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
-      <jump line="4" column="7" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
-      <jump line="24" column="73" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
       <jump line="28" column="3" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
       <jump line="34" column="74" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" />
@@ -304,62 +302,64 @@
       <jump line="26" column="55" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/Readme.md" />
       <jump line="29" column="0" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/Readme.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/Readme.md" />
+      <jump line="264" column="189" filename="$USER_HOME$/Workspace/projects/video_merger.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/projects/video_merger.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0X2RhdGFcPg==</text>
+        <text encoding="base64">XDxmZm1wZWdfY29mbmlnX3BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbl9wbGFjZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50CiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV3X2NvbnRlbnQgPSBjb250ZW50WzpdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoMDEwMDFfMjAxOTAzMDIwOTE2MjUubXA0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgcHJpbnQobGVuKHZpZGVvX2RpY3QpLCB2aWRlb19kaWN0LmtleXMoKSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXNhZ2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X19weWNhY2hlX18K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1xuJykK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JpX3ZpZGVvX3BhdGggPSAiL2RhdGEvcmVkc3Rhcl92aWRlb3NfMjAxOTAzMDIvMjAxOTAzMDIvIgptZXJnZWRfdmlkZW9fcGF0aCA9ICIvZGF0YS9yZWRzdGFyX3ZpZGVvc18yMDE5MDMwMi8yMDE5MDMwMl9tZXJnZWRfb3JkZXJlZC8iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZGVidWc6Cg==</text>
+        <text encoding="base64">IyBmZm1wZWdfY29mbmlnX3BhdGggPSAiL2RhdGEvcmVkc3Rhcl92aWRlb3NfMjAxOTAzMDIvZmZtcGVnX2NvbmZpZ3MiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLSBydW4gY2FzZXMgKHt9KScuZm9ybWF0KGxlbihjb25maWdfZGJfcGFpcnMpKSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0X2RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxmZm1wZWdfY29mbmlnX3BhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0X2RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmZm1wZWdfY29mbmlnX3BhdGhcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVfZmFjZV9mZWF0dXJlX3BrbFw+</entry>
-        <entry encoding="base64">XDxjbnRcPg==</entry>
         <entry encoding="base64">XDxjaGVja19wa2xcPg==</entry>
         <entry encoding="base64">XDxtZXJnZWRfcGtsX2RhdGFcPg==</entry>
         <entry encoding="base64">XDx0ZXN0X3J1bl9mdWxsbmFtZVw+</entry>
@@ -378,6 +378,8 @@
         <entry encoding="base64">XDxkYlw+</entry>
         <entry>debug</entry>
         <entry encoding="base64">XDxwb3N0X2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxvcmlfdmlkZW9fcGF0aFw+</entry>
+        <entry encoding="base64">XDxmZm1wZWdfY29mbmlnX3BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
