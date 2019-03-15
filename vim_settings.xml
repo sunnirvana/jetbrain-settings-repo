@@ -147,12 +147,12 @@
         <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/py_checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1552540309139" />
-      <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552637422691">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="100" column="70" />
-        <mark key="]" line="100" column="83" />
-        <mark key="." line="100" column="83" />
-        <mark key="^" line="100" column="83" />
+      <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
+        <mark key="'" line="139" column="4" />
+        <mark key="[" line="131" column="43" />
+        <mark key="]" line="131" column="51" />
+        <mark key="." line="131" column="51" />
+        <mark key="^" line="131" column="51" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" timestamp="1552016226578">
         <mark key="'" line="42" column="0" />
@@ -207,17 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="14" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="86" column="59" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="82" column="12" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="113" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="21" column="13" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="14" column="13" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="118" column="42" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="107" column="42" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="91" column="20" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
       <jump line="108" column="23" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
       <jump line="22" column="20" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
       <jump line="105" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
@@ -296,7 +285,6 @@
       <jump line="112" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="110" column="24" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="125" column="8" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="136" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="8" column="13" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="68" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
@@ -307,65 +295,72 @@
       <jump line="111" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="107" column="26" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="89" column="31" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="51" column="24" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="120" column="7" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="118" column="41" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="115" column="22" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="114" column="30" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
+      <jump line="136" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ch01001_merged.mp4</text>
+        <text>channel_list</text>
       </register>
       <register name="-" type="4">
-        <text>ch01001_merged.mp4</text>
+        <text>channel_list</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXJnZV92aWRlb193b3JrZXJcPg==</text>
+        <text encoding="base64">XDxfbWVyZ2VfY2hhbm5lbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdtZXJnaW5nIGNoYW5uZWwgaW5mby4uLiAnLCBjaGFubmVsX2RpY3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdtZXJnZWQgY2hhbm5lbCBjb3VudDogJywgbGVuKG1lcmdlZF9jaGFubmVsX2xpc3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdtZXJnaW5nIGNoYW5uZWwgbGlzdCh7fSkuLi4gJy5mb3JtYXQobGVuKGNoYW5uZWxfbGlzdCkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldHVwKGRzdF9wYXRoLCBjbGVhbnVwPVRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBvcy5wYXRoLmpvaW4oZHN0X3BhdGgsICd7fV9jb25maWcudHh0Jy5mb3JtYXQoY2gpKQogICAgd2l0aCBvcGVuKGZpbGUsICd3JykgYXMgZnA6CiAgICAgICAgZnAud3JpdGUoJ1xuJy5qb2luKFsnZmlsZSAnICsgdmlkZW8gZm9yIHZpZGVvIGluIHZpZGVvX2xpc3RdKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjaGFubmVsX2RpY3Q6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICBfZ2V0X2ZpcnRfZnJhbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBtZXRhOiAKICAgIDpwYXJhbSBkc3RfcGF0aDogCiAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAjIGdldCB0aGUgZmlyc3QgZnJhbWUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2aWRlb19saXN0OiAKICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICMgZ2V0IHRoZSBmaXJzdCBmcmFtZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2aWRlb19saXN0OiAKICAgIDpwYXJhbSBkc3RfcGF0aDogCiAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzcmNfcGF0aDogCiAgICA6cGFyYW0gZHN0X3BhdGg6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxfbGlzdF9maWxlID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkc3RfcGF0aDogCiAgICA6cGFyYW0gY2xlYW51cDogCiAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIGZpbGUgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXJnZV92aWRlb193b3JrZXJcPg==</last-search>
+      <last-search encoding="base64">XDxfbWVyZ2VfY2hhbm5lbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXJnZV92aWRlb193b3JrZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbWVyZ2VfY2hhbm5lbFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlX3Bvc3RfZGF0YVw+</entry>
-        <entry encoding="base64">XDxjb25maWdfZGJfcGFpcnNcPg==</entry>
-        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
-        <entry encoding="base64">XDxwdXNoX2ZhY2VpZF91aWRcPg==</entry>
-        <entry encoding="base64">XDxfcHVzaF9mYWNlaWRfdWlkXD4=</entry>
         <entry encoding="base64">XDxjb21tb25fcHVzaF9iaW5cPg==</entry>
         <entry encoding="base64">XDxwdXNoX2NtZFw+</entry>
         <entry encoding="base64">XDxkYlw+</entry>
@@ -378,9 +373,14 @@
         <entry encoding="base64">XDxtZXJnZV9jaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxnZW5fY29uZmlnX2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxnZW5fdGltZXN0YW1wX2xpc3RcPg==</entry>
-        <entry encoding="base64">XDxfZ2VuX3RpbWVzdGFtcFw+</entry>
         <entry encoding="base64">XDxnZW5fbWV0YV9maWxlXD4=</entry>
         <entry encoding="base64">XDxtZXJnZV92aWRlb193b3JrZXJcPg==</entry>
+        <entry encoding="base64">XDxnZW5fY2hhbm5lbF9saXN0XD4=</entry>
+        <entry encoding="base64">XDxkc3RfcGF0aFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2ZpcnN0X2ZyYW1lXD4=</entry>
+        <entry encoding="base64">XDxfZ2VuX2NvbmZpZ19maWxlXD4=</entry>
+        <entry encoding="base64">XDxfZ2VuX3RpbWVzdGFtcFw+</entry>
+        <entry encoding="base64">XDxfbWVyZ2VfY2hhbm5lbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -389,6 +389,7 @@
         <entry>vsp</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>136</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
