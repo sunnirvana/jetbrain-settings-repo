@@ -146,7 +146,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/py_checkio_solutions/Electronic Station/largest_histogram.py" timestamp="1552540309139" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1552651637241" />
       <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
         <mark key="'" line="139" column="4" />
         <mark key="[" line="131" column="43" />
@@ -177,14 +177,12 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1552482025937" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552483898812">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="128" column="88" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_run_20190313113805/configs/config_mh80_ml50_th80_tl50_q08.toml" timestamp="1552448856976" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
@@ -198,7 +196,6 @@
         <mark key="^" line="5" column="777" />
         <mark key="." line="5" column="777" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_run_20190313113805/configs/config_mh80_ml40_th80_tl40_q08.toml" timestamp="1552448851331" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/modules/tester.py" timestamp="1552394757870">
         <mark key="[" line="109" column="90" />
         <mark key="]" line="110" column="23" />
