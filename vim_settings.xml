@@ -146,11 +146,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1552654554254">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="7" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1552704820618">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
         <mark key="'" line="139" column="4" />
@@ -311,11 +311,11 @@
       <jump line="136" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>deta_dict</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="-" type="4">
-        <text>deta_dict</text>
+        <text>keys</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfbWVyZ2VfY2hhbm5lbFw+</text>
@@ -324,31 +324,31 @@
         <text encoding="base64">ICAgIHByaW50KCdtZXJnZWQgY2hhbm5lbCBjb3VudDogJywgbGVuKG1lcmdlZF9jaGFubmVsX2xpc3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihwYWlyX2xpc3QpLCBwYWlyX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhaXJfbGlzdCA9IGxpc3QoY29tYmluYXRpb25zKHJhbmdlKGxlbihjb29yZHMpKSwgcj0yKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGRldGFfZGljdCwgeCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihwYWlyX2xpc3QpLCBwYWlyX2xpc3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNvbWJpbmF0aW9ucwo=</text>
+        <text encoding="base64">ICAgIHBhaXJfbGlzdCA9IGxpc3QoY29tYmluYXRpb25zKHJhbmdlKGxlbihjb29yZHMpKSwgcj0yKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGRldGEocDEsIHAyKToKICAgIHJldHVybiAocDFbMF0pCg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNvbWJpbmF0aW9ucwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGRldGEocDEsIHAyKToKICAgIHJldHVybiAocDFbMF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGxpbmUocDEsIHAyKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
