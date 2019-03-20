@@ -72,7 +72,7 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1553049034153">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1553086495011">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="65" column="38" />
         <mark key="]" line="65" column="40" />
@@ -85,7 +85,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/config/set_docker_env.sh" timestamp="1553006711914" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="2" column="9" />
@@ -180,7 +179,6 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/label/save_img.py" timestamp="1553004395134" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
         <mark key="'" line="107" column="75" />
         <mark key="[" line="179" column="0" />
@@ -199,7 +197,6 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="128" column="88" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/ceph.py" timestamp="1553006668553" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
