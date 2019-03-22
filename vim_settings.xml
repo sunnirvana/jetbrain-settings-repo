@@ -146,11 +146,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1552704820618">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="17" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1553236342978">
+        <mark key="'" line="25" column="15" />
+        <mark key="[" line="34" column="58" />
+        <mark key="]" line="35" column="13" />
+        <mark key="." line="35" column="13" />
+        <mark key="^" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
         <mark key="'" line="139" column="4" />
@@ -179,7 +180,6 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1553139965022" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
         <mark key="'" line="107" column="75" />
         <mark key="[" line="179" column="0" />
@@ -219,10 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="27" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="27" column="13" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="114" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
-      <jump line="64" column="20" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="50" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="92" column="8" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="102" column="46" filename="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" />
@@ -319,16 +315,20 @@
       <jump line="13" column="8" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
       <jump line="110" column="25" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
       <jump line="108" column="75" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" />
+      <jump line="21" column="12" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" />
+      <jump line="25" column="15" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>abs(most_dogs_line[1]), (most_dogs_line[1]) / most_dogs_line[0])</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>abs(most_dogs_line[1]), (most_dogs_line[1]) / most_dogs_line[0])</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb3VyY2VfcGlkXD4=</text>
+        <text encoding="base64">XDxkZXRhX2RpY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gdXNlciBpZiB1c2VyIGlzIG5vdCBOb25lIGVsc2UgZ2V0cGFzcy5nZXR1c2VyKCkK</text>
@@ -365,15 +365,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb3VyY2VfcGlkXD4=</last-search>
+      <last-search encoding="base64">XDxkZXRhX2RpY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb3VyY2VfcGlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXRhX2RpY3RcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFubmVsX2RpY3RcPg==</entry>
         <entry encoding="base64">XDxtZXJnZV9jaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxnZW5fY29uZmlnX2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxnZW5fdGltZXN0YW1wX2xpc3RcPg==</entry>
@@ -393,6 +392,7 @@
         <entry encoding="base64">XDxzcmNfb25saW5lX2ZhY2VpZF9waWRfZmlsZVw+</entry>
         <entry encoding="base64">XDxmb3JcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VfcGlkXD4=</entry>
+        <entry encoding="base64">XDxkZXRhX2RpY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
