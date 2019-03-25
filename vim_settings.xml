@@ -114,6 +114,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="42" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1553488048751">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="41" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
         <mark key="'" line="96" column="31" />
         <mark key="[" line="42" column="0" />
@@ -330,8 +335,8 @@
       <jump line="23" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation_v02.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>faceid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmFjZXBpZF9waWRfbWFwW2ZhY2VpZF0gPSBwaWQK</text>
       </register>
       <register name="-" type="4">
         <text>faceid</text>
@@ -343,31 +348,31 @@
         <text encoding="base64">bGVuKHBpZCkgPCBESVNUSU5HVUlTSF9MRU4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjZXBpZF9waWRfbWFwW2ZhY2VpZF0gPSBwaWQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyIGlmIHVzZXIgaXMgbm90IE5vbmUgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIHVzZXIgPSB1c2VyIGlmIHVzZXIgaXMgbm90IE5vbmUgZWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLmNvbW1hbmQoKQo=</text>
+        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIOS9v+eUqOWOn+Wni+eahHBvc3TmlbDmja4o5rKh5pyJZmVhdHVyZeS/oeaBrynov5vooYzmtYvor5UK</text>
+        <text encoding="base64">QGNsaWNrLmNvbW1hbmQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
