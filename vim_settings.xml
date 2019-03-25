@@ -75,13 +75,19 @@
         <mark key="." line="99" column="91" />
         <mark key="^" line="99" column="91" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" timestamp="1553503750095">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="260" column="28" />
+        <mark key="." line="260" column="28" />
+        <mark key="^" line="260" column="28" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test.sh" timestamp="1552441593932">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="60" />
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1553498608515">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1553503397665">
         <mark key="'" line="69" column="41" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="53" />
@@ -252,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="31" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="86" column="6" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="93" column="14" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
@@ -352,39 +355,48 @@
       <jump line="39" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
       <jump line="30" column="98" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
       <jump line="68" column="41" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
+      <jump line="210" column="39" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="240" column="114" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdwb3N0IGJvZHkge30nLmZvcm1hdChib2R5KSkK</text>
+        <text encoding="base64">ICAgIG5ld191cGRhdGVfZGF0YSA9IF9yZW1vdmVfcmVkdW5kYW50X2hpc3RvcnlfZmFjZWlkKHVwZGF0ZV9kYXRhPW9mZmxpbmVfdXBkYXRlX2RhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaXN0b3J5X2RhdGE9b2ZmbGluZV9oaXN0b3J5X2RhdGFfdGlsbF90b2RheSkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>shirked</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX2NoZWNrX2xvZ19maWxlX19cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdwb3N0IGJvZHkge30nLmZvcm1hdChib2R5KSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdvcmkgZmFjZWlkIGNvdW50OiB7fScuZm9ybWF0KGxlbihbaXRlcnRvb2xzLmNoYWluLmZyb21faXRlcmFibGUodXBkYXRlX2RpY3QudmFsdWVzKCkpXSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
+        <text encoding="base64">ICAgIG5ld191cGRhdGVfZGF0YSA9IF9yZW1vdmVfcmVkdW5kYW50X2hpc3RvcnlfZmFjZWlkKHVwZGF0ZV9kYXRhPW9mZmxpbmVfdXBkYXRlX2RhdGEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaXN0b3J5X2RhdGE9b2ZmbGluZV9oaXN0b3J5X2RhdGFfdGlsbF90b2RheSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nX2ZpbGUgPSBvcy5wYXRoLmpvaW4oY29uZmlnLmxvZ19wYXRoLCAnd29ya2VyLmxvZycpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIGFwcGVuZF9sb2dfcGF0aChsb2dfZmlsZSk6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKGNvbmZpZy5sb2dfcGF0aCwgbG9nX2ZpbGUpCgoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bG9nX2ZpbGUgPSBvcy5wYXRoLmpvaW4oY29uZmlnLmxvZ19wYXRoLCAnd29ya2VyLmxvZycpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuY29uZmlnIGltcG9ydCBnX2FwcF9jb25maWcgYXMgY29uZmlnCg==</text>
+        <text encoding="base64">ZGVmIGFwcGVuZF9sb2dfcGF0aChsb2dfZmlsZSk6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKGNvbmZpZy5sb2dfcGF0aCwgbG9nX2ZpbGUpCgoK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSAuY29uZmlnIGltcG9ydCBnX2FwcF9jb25maWcgYXMgY29uZmlnCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Y2xhc3MgU2luZ2xldG9uKHR5cGUpOgogICAgX2luc3RhbmNlcyA9IHsgfQoKICAgIGRlZiBfX2NhbGxfXyhjbHMsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgY2xzIG5vdCBpbiBjbHMuX2luc3RhbmNlczoKICAgICAgICAgICAgY2xzLl9pbnN0YW5jZXNbY2xzXSA9IHN1cGVyKFNpbmdsZXRvbiwgY2xzKS5fX2NhbGxfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgcmV0dXJuIGNscy5faW5zdGFuY2VzW2Nsc10KCgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
                     &quot;left&quot;: 162,
                     &quot;top&quot;: 125,
@@ -392,12 +404,6 @@
                     &quot;height&quot;: 125,
                     &quot;degree&quot;: 0
                 }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjZXBpZF9waWRfbWFwW2ZhY2VpZF0gPSBwaWQK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
