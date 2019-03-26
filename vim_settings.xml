@@ -130,11 +130,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1553586547092">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="41" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
         <mark key="'" line="96" column="31" />
         <mark key="[" line="42" column="0" />
@@ -168,7 +163,7 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552483289123">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1553597939704">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
