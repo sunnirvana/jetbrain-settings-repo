@@ -126,7 +126,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1553761550912">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1553764644683">
         <mark key="'" line="246" column="22" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
@@ -219,8 +219,8 @@
         <mark key="." line="38" column="42" />
         <mark key="^" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" timestamp="1553493882466">
-        <mark key="'" line="27" column="98" />
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" timestamp="1553764599947">
+        <mark key="'" line="49" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="36" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="8" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="8" column="13" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="68" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
@@ -359,6 +358,7 @@
       <jump line="335" column="51" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="246" column="22" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
+      <jump line="49" column="11" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,7 +368,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfbmV3X2NudFw+</text>
+        <text encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCdvcmkgZmFjZWlkIGNvdW50OiB7fScuZm9ybWF0KGxlbihbaXRlcnRvb2xzLmNoYWluLmZyb21faXRlcmFibGUodXBkYXRlX2RpY3QudmFsdWVzKCkpXSkpKQo=</text>
@@ -405,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfbmV3X2NudFw+</last-search>
+      <last-search encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfbmV3X2NudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -429,10 +429,10 @@
         <entry encoding="base64">XDxhZGRIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxfX2luaXRfbG9nZ2VyX19cPg==</entry>
-        <entry encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</entry>
         <entry encoding="base64">XDxfX2NoZWNrX2xvZ19maWxlX19cPg==</entry>
         <entry encoding="base64">XDxfaXNfbmV3X2ZhY2VpZFw+</entry>
         <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfbmV3X2NudFw+</entry>
+        <entry encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
