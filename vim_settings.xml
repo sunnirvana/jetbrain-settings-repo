@@ -75,12 +75,12 @@
         <mark key="." line="99" column="91" />
         <mark key="^" line="99" column="91" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" timestamp="1553769278772">
-        <mark key="'" line="332" column="4" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="0" />
-        <mark key="." line="332" column="0" />
-        <mark key="^" line="332" column="15" />
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" timestamp="1553770440251">
+        <mark key="'" line="320" column="5" />
+        <mark key="[" line="318" column="79" />
+        <mark key="]" line="318" column="77" />
+        <mark key="." line="318" column="77" />
+        <mark key="^" line="318" column="77" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test.sh" timestamp="1552441593932">
         <mark key="[" line="2" column="52" />
@@ -266,12 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="8" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="98" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="111" column="4" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="107" column="26" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="89" column="31" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
       <jump line="51" column="24" filename="$USER_HOME$/Workspace/projects/merge_video.py" />
@@ -366,62 +360,67 @@
       <jump line="286" column="32" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="265" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="332" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="227" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="191" column="16" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="229" column="107" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="212" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="306" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="320" column="5" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHA6bWVtb3J5dmlld3JpbnRfYWxpZ25lZCgnb2ZmbGluZV91cGRhdGVfZmFjZWlkXycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>logger.info</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logger.info</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoXD4=</text>
+        <text encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCc9PT0gb2ZmbGluZSByZXN1bHQnKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsZW4oW2ZhY2VpZAogICAgICAgICAgICAgICAgZm9yIGZhY2VpZF9saXN0IGluIHVwZGF0ZV9kaWN0LnZhbHVlcygpCiAgICAgICAgICAgICAgICBmb3IgZmFjZWlkIGluIGZhY2VpZF9saXN0CiAgICAgICAgICAgICAgICBpZiBfaXNfbmV3X2ZhY2VpZChmYWNlaWQpXSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHA6bWVtb3J5dmlld3JpbnRfYWxpZ25lZCgnb2ZmbGluZV91cGRhdGVfZmFjZWlkXycpCg==</text>
+      <register name="1" type="8">
+        <text>logger.info
+logger.info</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHA6bWVtb3J5dmlld3JpbnRfYWxpZ25lZCgnb2ZmbGluZV91cGRhdGVfZmFjZWlkXycpCg==</text>
+        <text encoding="base64">ICAgIGFsbF9mYWNlaWRfbGlzdCA9IGxpc3QoKQogICAgZm9yIHBpZCwgZmFjZWlkX2xpc3QgaW4gdXBkYXRlX2RpY3QuaXRlbXMoKToKICAgICAgICBmb3IgZmFjZWlkIGluIGZhY2VpZF9saXN0OgogICAgICAgICAgICBpZiBfaXNfaGlzdG9yeV9mYWNlaWQoZmFjZWlkKToKICAgICAgICAgICAgICAgIGFsbF9mYWNlaWRfbGlzdC5hcHBlbmQoZmFjZWlkKQogICAgcmV0dXJuIGxlbihhbGxfZmFjZWlkX2xpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF8nKQo=</text>
+        <text encoding="base64">ICAgIGFsbF9mYWNlaWRfbGlzdCA9IGxpc3QoKQogICAgZm9yIHBpZCwgZmFjZWlkX2xpc3QgaW4gdXBkYXRlX2RpY3QuaXRlbXMoKToKICAgICAgICBmb3IgZmFjZWlkIGluIGZhY2VpZF9saXN0OgogICAgICAgICAgICBpZiBfaXNfbmV3X2ZhY2VpZChmYWNlaWQpOgogICAgICAgICAgICAgICAgYWxsX2ZhY2VpZF9saXN0LmFwcGVuZChmYWNlaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQnLCBvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfY250KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsZW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9ubGluZV9yZXN1bHRfY3N2ID0gb3MucGF0aC5qb2luKG9ubGluZV9kYXRhX3BhdGgsIG9ubGluZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF9uZXdfY250Jywgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBvbmxpbmVfZGF0YSBpbiBvcy5saXN0ZGlyKG9ubGluZV9kYXRhX3BhdGgpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZHN0X3BhdGg9Jy8nCg==</text>
+        <text encoding="base64">ICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCcsIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCkKICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF9uZXdfY250Jywgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHA6bWVtb3J5dmlld3JpbnRfYWxpZ25lZCgnb2ZmbGluZV91cGRhdGVfZmFjZWlkXycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udGVudFsyXSkK</text>
+        <text encoding="base64">ICAgIHA6bWVtb3J5dmlld3JpbnRfYWxpZ25lZCgnb2ZmbGluZV91cGRhdGVfZmFjZWlkXycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnRcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQSURfT05MSU5FX0NPTFw+</entry>
-        <entry encoding="base64">XDxjYWNoZWRfZmFjZWlkX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxfaXNfb2ZmbGluZV9uZXdfcGlkXD4=</entry>
         <entry encoding="base64">XDxwaG90b3NcPg==</entry>
         <entry>box</entry>
@@ -435,11 +434,13 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxfX2luaXRfbG9nZ2VyX19cPg==</entry>
         <entry encoding="base64">XDxfX2NoZWNrX2xvZ19maWxlX19cPg==</entry>
-        <entry encoding="base64">XDxfaXNfbmV3X2ZhY2VpZFw+</entry>
         <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfbmV3X2NudFw+</entry>
         <entry encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</entry>
         <entry encoding="base64">XDxnZXRfb25saW5lX3B1c2hfZmFjZWlkX2hpc3RvcnlwaWRfY250XD4=</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxfaXNfbmV3X2ZhY2VpZFw+</entry>
+        <entry encoding="base64">XDxnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2hpc3RvcnlfY250XD4=</entry>
+        <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -450,6 +451,7 @@
         <entry>wq</entry>
         <entry>21</entry>
         <entry>vsp</entry>
+        <entry>350</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
