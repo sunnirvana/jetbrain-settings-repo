@@ -51,7 +51,7 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1553493326082">
+      <file name="/a.dummy" timestamp="1554135510823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" timestamp="1552394786192">
@@ -82,6 +82,13 @@
         <mark key="^" line="376" column="56" />
         <mark key="." line="376" column="56" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/logger.py" timestamp="1554135459838">
+        <mark key="'" line="49" column="25" />
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test.sh" timestamp="1552441593932">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="60" />
@@ -106,6 +113,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" timestamp="1554135530698">
+        <mark key="'" line="9" column="55" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="18" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="18" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
@@ -133,7 +147,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1554122644618">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1554134906524">
         <mark key="'" line="246" column="22" />
         <mark key="[" line="274" column="112" />
         <mark key="]" line="274" column="133" />
@@ -216,6 +230,12 @@
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1554089288411">
         <mark key="[" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" timestamp="1554135607758">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
         <mark key="'" line="107" column="75" />
         <mark key="[" line="179" column="0" />
@@ -270,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="12" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" />
-      <jump line="138" column="80" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="104" column="16" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="102" column="16" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/Readme.md" />
@@ -370,13 +388,15 @@
       <jump line="257" column="96" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="375" column="57" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="360" column="19" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
+      <jump line="49" column="25" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/logger.py" />
+      <jump line="9" column="55" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>modification rate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgX19tYWluX18gPT0gJ19fbmFtZV9fJzoK</text>
       </register>
       <register name="-" type="4">
-        <text>modification rate</text>
+        <text>UtilLogger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</text>
@@ -385,31 +405,31 @@
         <text encoding="base64">ICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jaGFuZ2VzX2NudCAnLG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jaGFuZ2VzX2NudCApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhpc3QK</text>
+        <text encoding="base64">aWYgX19tYWluX18gPT0gJ19fbmFtZV9fJzoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCA9IGdldF9vZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnQobmV3X3VwZGF0ZV9kYXRhKQogICAgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQobmV3X3VwZGF0ZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGhpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCA9IGdldF9vZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnQobmV3X3VwZGF0ZV9kYXRhKQogICAgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQobmV3X3VwZGF0ZV9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgIGZvciBpdGVtIGluIGhpc3RvcnlfZGF0YToKICAgICMgIGhpc3RvcnlfZmFjZWlkX3BpZF9kaWN0W2l0ZW1bRkFDRUlEX0NPTF1dID0gaXRlbVtQSURfT0ZGTElORV9DT0xdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgIGZvciBpdGVtIGluIGhpc3RvcnlfZGF0YToK</text>
+        <text encoding="base64">ICAgICMgIGZvciBpdGVtIGluIGhpc3RvcnlfZGF0YToKICAgICMgIGhpc3RvcnlfZmFjZWlkX3BpZF9kaWN0W2l0ZW1bRkFDRUlEX0NPTF1dID0gaXRlbVtQSURfT0ZGTElORV9DT0xdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnlfZGF0YSA9Cg==</text>
+        <text encoding="base64">ICAgICMgIGZvciBpdGVtIGluIGhpc3RvcnlfZGF0YToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnlfZmFjZWlkX3BpZF9kaWN0ID0geyBpdGVtW0ZBQ0VJRF9DT0xdOiBpdGVtW1BJRF9PRkZMSU5FX0NPTF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaXRlbSBpbiBoaXN0b3J5X2RhdGEgfQo=</text>
+        <text encoding="base64">ICAgIGhpc3RvcnlfZGF0YSA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
