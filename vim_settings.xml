@@ -108,18 +108,23 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/.gitignore" timestamp="1554172218316">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552295264118">
         <mark key="[" line="3" column="55" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" timestamp="1554135530698">
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" timestamp="1554172493603">
         <mark key="'" line="9" column="55" />
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="18" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="49" column="18" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="47" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
@@ -187,7 +192,7 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1553597939704">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1554172207084">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -230,11 +235,11 @@
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1554089288411">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" timestamp="1554135607758">
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" timestamp="1554171945987">
         <mark key="[" line="21" column="24" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
         <mark key="'" line="107" column="75" />
@@ -393,43 +398,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYgX19tYWluX18gPT0gJ19fbmFtZV9fJzoK</text>
+        <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm5pbmcoJ1RoaXMgaXMgd2FybmluZyBtZXNzYWdlJykK</text>
       </register>
       <register name="-" type="4">
-        <text>UtilLogger</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50X2FsaWduZWQoJ29mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jaGFuZ2VzX2NudCAnLG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jaGFuZ2VzX2NudCApCg==</text>
+        <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm4oJ1RoaXMgaXMgaW5mbyBtZXNzYWdlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgX19tYWluX18gPT0gJ19fbmFtZV9fJzoK</text>
+        <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm5pbmcoJ1RoaXMgaXMgd2FybmluZyBtZXNzYWdlJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhpc3QK</text>
+        <text encoding="base64">ICAgIGdfbG9nZ2VyLmRlYnVnKCdUaGlzIGlzIGRlYnVnIG1lc3NhZ2UnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCA9IGdldF9vZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnQobmV3X3VwZGF0ZV9kYXRhKQogICAgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQobmV3X3VwZGF0ZV9kYXRhKQo=</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
+        <text encoding="base64">aWYgX19tYWluX18gPT0gJ19fbmFtZV9fJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIGhpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCA9IGdldF9vZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnQobmV3X3VwZGF0ZV9kYXRhKQogICAgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQobmV3X3VwZGF0ZV9kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgIGZvciBpdGVtIGluIGhpc3RvcnlfZGF0YToKICAgICMgIGhpc3RvcnlfZmFjZWlkX3BpZF9kaWN0W2l0ZW1bRkFDRUlEX0NPTF1dID0gaXRlbVtQSURfT0ZGTElORV9DT0xdCg==</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgIGZvciBpdGVtIGluIGhpc3RvcnlfZGF0YToK</text>
+        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnlfZGF0YSA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
