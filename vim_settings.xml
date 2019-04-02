@@ -235,11 +235,11 @@
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1554089288411">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" timestamp="1554202025950">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="65" />
-        <mark key="." line="25" column="19" />
-        <mark key="^" line="25" column="18" />
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" timestamp="1554206888968">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
         <mark key="'" line="107" column="75" />
@@ -397,11 +397,11 @@
       <jump line="9" column="55" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>datetime_to_timestamp(dt, '%Y-%m-%d %H:%M:%S')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>datetime_to_timestamp(dt, '%Y-%m-%d %H:%M:%S')</text>
+        <text>dt_timestamp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</text>
@@ -410,31 +410,31 @@
         <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm4oJ1RoaXMgaXMgaW5mbyBtZXNzYWdlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgIyDovazmjaLmiJBsb2NhbHRpbWUKICAgICAgICB0aW1lX2xvY2FsID0gdGltZS5sb2NhbHRpbWUoaW50KHRpbWVzdGFtcCkpCiAgICAgICAgIyDovazmjaLmiJDmlrDnmoTml7bpl7TmoLzlvI8oMjAxNi0wNS0wNSAyMDoyODo1NCkKICAgICAgICByZXR1cm4gdGltZS5zdHJmdGltZShkYXRlX2ZtdCwgdGltZV9sb2NhbCkK</text>
+        <text encoding="base64">CiAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm5pbmcoJ1RoaXMgaXMgd2FybmluZyBtZXNzYWdlJykK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdfbG9nZ2VyLmRlYnVnKCdUaGlzIGlzIGRlYnVnIG1lc3NhZ2UnKQo=</text>
+        <text encoding="base64">ICAgIGR0X3RpbWVzdGFtcCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBpc2luc3RhbmNlKGludChkdF90aW1lc3RhbXApLCBudW1iZXJzLkludGVncmFsKSwgJ3RoZSB0aW1lc3RhbXAgc2hhbGwgYmUgYSBudW1iZXInCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19tYWluX18gPT0gJ19fbmFtZV9fJzoK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1iZXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhpc3QK</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgIyDovazmjaLmiJBsb2NhbHRpbWUKICAgICAgICB0aW1lX2xvY2FsID0gdGltZS5sb2NhbHRpbWUoaW50KHRpbWVzdGFtcCkpCiAgICAgICAgIyDovazmjaLmiJDmlrDnmoTml7bpl7TmoLzlvI8oMjAxNi0wNS0wNSAyMDoyODo1NCkKICAgICAgICByZXR1cm4gdGltZS5zdHJmdGltZShkYXRlX2ZtdCwgdGltZV9sb2NhbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9oaXN0b3J5X2NudCA9IGdldF9vZmZsaW5lX3VwZGF0ZV9mYWNlaWRfaGlzdG9yeV9jbnQobmV3X3VwZGF0ZV9kYXRhKQogICAgb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX25ld19jbnQobmV3X3VwZGF0ZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9mZmxpbmVfdXBkYXRlX2ZhY2VpZF9jbnQgPSBnZXRfb2ZmbGluZV91cGRhdGVfZmFjZWlkX2NudChuZXdfdXBkYXRlX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm5pbmcoJ1RoaXMgaXMgd2FybmluZyBtZXNzYWdlJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
