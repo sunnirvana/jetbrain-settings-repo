@@ -95,7 +95,7 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1554277020640">
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1554285400324">
         <mark key="'" line="69" column="41" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="53" />
@@ -256,11 +256,11 @@
         <mark key="." line="179" column="5" />
         <mark key="^" line="179" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_fs.py" timestamp="1554208108330">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="23" />
+      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_fs.py" timestamp="1554285779455">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="51" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1553475868700">
         <mark key="'" line="60" column="8" />
@@ -412,10 +412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print</text>
+        <text>os.path.join(path, 'text.txt')</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>os.path.join(path, 'text.txt')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</text>
@@ -424,31 +424,31 @@
         <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm4oJ1RoaXMgaXMgaW5mbyBtZXNzYWdlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">aW1wb3J0IG9zCjptZW1vcnl2aWV3awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiClJ1biBzeXN0ZW0gY29tbWFuZCBhbmQgc2F2ZSB0aGUgb3V0cHV0IGFuZCBlcnJvciBpbnRvIExvZwoiIiIK</text>
+        <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
+        <text encoding="base64">IiIiClJ1biBzeXN0ZW0gY29tbWFuZCBhbmQgc2F2ZSB0aGUgb3V0cHV0IGFuZCBlcnJvciBpbnRvIExvZwoiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9qc29uX2NvbnRlbnQoZmlsZSk6CiAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ZGVmIGdldF9qc29uX2NvbnRlbnQoZmlsZSk6CiAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">CiAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGR0X3RpbWVzdGFtcCA9IAo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
