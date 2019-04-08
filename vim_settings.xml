@@ -100,6 +100,12 @@
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1554089288411">
         <mark key="[" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554706771406">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552896378360">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -166,6 +172,7 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="/usr/local/anaconda3/lib/python3.7/site-packages/airflow/utils/__init__.py" timestamp="1554705722051" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552908361129">
         <mark key="'" line="101" column="8" />
         <mark key="[" line="99" column="74" />
@@ -238,7 +245,7 @@
         <mark key="." line="274" column="133" />
         <mark key="^" line="274" column="133" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554702310606">
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554705738793">
         <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
@@ -309,6 +316,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_dag1.py" timestamp="1554706536581">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
@@ -420,8 +433,8 @@
       <jump line="57" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -433,31 +446,31 @@
         <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm4oJ1RoaXMgaXMgaW5mbyBtZXNzYWdlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIER1bW15T3BlcmF0b3IodGFza19pZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCjptZW1vcnl2aWV3awo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIiClJ1biBzeXN0ZW0gY29tbWFuZCBhbmQgc2F2ZSB0aGUgb3V0cHV0IGFuZCBlcnJvciBpbnRvIExvZwoiIiIK</text>
+        <text encoding="base64">ICAgIER1bW15T3BlcmF0b3IodGFza19pZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
+        <text encoding="base64">aW1wb3J0IG9zCjptZW1vcnl2aWV3awo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9qc29uX2NvbnRlbnQoZmlsZSk6CiAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">IiIiClJ1biBzeXN0ZW0gY29tbWFuZCBhbmQgc2F2ZSB0aGUgb3V0cHV0IGFuZCBlcnJvciBpbnRvIExvZwoiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwYXNzCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
