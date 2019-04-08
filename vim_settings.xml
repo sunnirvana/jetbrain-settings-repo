@@ -52,6 +52,7 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/test/aibee_afu_beijng_xhm_tracking_pipeline.py" timestamp="1554722412444" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552371876904">
         <mark key="'" line="117" column="8" />
         <mark key="[" line="23" column="39" />
@@ -118,6 +119,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag_staging/bj_dags/aibee_tasks_ctf_guangzhou_lnxsj_pipeline.py" timestamp="1554723439282" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
@@ -206,6 +208,12 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/dockerfiles/Dockerfile" timestamp="1554721506348">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/.gitignore" timestamp="1554172218316">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -245,8 +253,12 @@
         <mark key="." line="274" column="133" />
         <mark key="^" line="274" column="133" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554709615481">
-        <mark key="'" line="57" column="0" />
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554722638931">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
+        <mark key="^" line="62" column="24" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
         <mark key="'" line="96" column="31" />
@@ -323,7 +335,7 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/Dockerfile" timestamp="1554717697482" />
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/Dockerfile" timestamp="1554723280103" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="777" />
@@ -332,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" />
       <jump line="1" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
       <jump line="69" column="32" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
       <jump line="78" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
@@ -432,19 +443,20 @@
       <jump line="55" column="62" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_syscall.py" />
       <jump line="25" column="5" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYWdcPg==</text>
+        <text>schedule</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm4oJ1RoaXMgaXMgaW5mbyBtZXNzYWdlJykK</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
@@ -474,19 +486,18 @@
         <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYWdcPg==</last-search>
+      <last-search>schedule</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYWdcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>schedule</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxfX2luaXRfbG9nZ2VyX19cPg==</entry>
         <entry encoding="base64">XDxfX2NoZWNrX2xvZ19maWxlX19cPg==</entry>
@@ -506,6 +517,7 @@
         <entry encoding="base64">XDxvbmxpbmVfZmFjZWlkX3BpZF9kaWN0XD4=</entry>
         <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</entry>
         <entry encoding="base64">XDxkYWdcPg==</entry>
+        <entry>schedule</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -513,13 +525,13 @@
         <entry>116</entry>
         <entry>136</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>21</entry>
         <entry>350</entry>
         <entry>246</entry>
         <entry>set nu</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
