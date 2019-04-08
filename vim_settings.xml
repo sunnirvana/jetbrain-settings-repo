@@ -100,11 +100,11 @@
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1554089288411">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554706771406">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="21" column="17" />
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554709719735">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552896378360">
         <mark key="[" line="62" column="0" />
@@ -245,7 +245,7 @@
         <mark key="." line="274" column="133" />
         <mark key="^" line="274" column="133" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554705738793">
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554709615481">
         <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
@@ -433,11 +433,11 @@
       <jump line="57" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWdcPg==</text>
@@ -446,31 +446,31 @@
         <text encoding="base64">ICAgIGdfbG9nZ2VyLndhcm4oJ1RoaXMgaXMgaW5mbyBtZXNzYWdlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICdlbWFpbCc6IFsnYWlyZmxvd0BleGFtcGxlLmNvbSddLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGRhdGUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIER1bW15T3BlcmF0b3IodGFza19pZCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9zCjptZW1vcnl2aWV3awo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IiIiClJ1biBzeXN0ZW0gY29tbWFuZCBhbmQgc2F2ZSB0aGUgb3V0cHV0IGFuZCBlcnJvciBpbnRvIExvZwoiIiIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoK</text>
+        <text encoding="base64">IyAgaW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
