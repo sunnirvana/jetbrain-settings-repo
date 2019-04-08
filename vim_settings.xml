@@ -66,6 +66,7 @@
         <mark key="." line="43" column="100" />
         <mark key="^" line="43" column="100" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/sync_configuration.py" timestamp="1554767802897" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_db.py" timestamp="1552448833776">
         <mark key="[" line="17" column="157" />
         <mark key="]" line="18" column="3" />
@@ -119,7 +120,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag_staging/bj_dags/aibee_tasks_ctf_guangzhou_lnxsj_pipeline.py" timestamp="1554723439282" />
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag_staging/bj_dags/aibee_tasks_ctf_guangzhou_lnxsj_pipeline.py" timestamp="1554767554973" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
@@ -226,6 +227,7 @@
         <mark key="]" line="53" column="47" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/configs/variables/staging/bj_vars/aibee_tasks_ctf_beijing_xhm_eid_pipeline_stage2" timestamp="1554767646431" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="2" column="9" />
