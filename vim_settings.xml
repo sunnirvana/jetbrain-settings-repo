@@ -323,6 +323,7 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/Dockerfile" timestamp="1554717697482" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="777" />
