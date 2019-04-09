@@ -17,9 +17,6 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1554135510823">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552383458014">
         <mark key="'" line="8" column="23" />
         <mark key="[" line="32" column="0" />
@@ -52,7 +49,6 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/test/aibee_afu_beijng_xhm_tracking_pipeline.py" timestamp="1554722412444" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552371876904">
         <mark key="'" line="117" column="8" />
         <mark key="[" line="23" column="39" />
@@ -66,7 +62,7 @@
         <mark key="." line="43" column="100" />
         <mark key="^" line="43" column="100" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/sync_configuration.py" timestamp="1554767802897" />
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/airflow_models_staging/task_operator.py" timestamp="1554768076559" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_db.py" timestamp="1552448833776">
         <mark key="[" line="17" column="157" />
         <mark key="]" line="18" column="3" />
@@ -99,9 +95,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/logger.py" timestamp="1554089288411">
-        <mark key="[" line="13" column="20" />
-      </file>
       <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554715504703">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="7" />
@@ -120,7 +113,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag_staging/bj_dags/aibee_tasks_ctf_guangzhou_lnxsj_pipeline.py" timestamp="1554767554973" />
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag_staging/bj_dags/aibee_tasks_ctf_guangzhou_lnxsj_pipeline.py" timestamp="1554767994846" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
@@ -168,6 +161,7 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag/Trash_dags/aibee_tasks_ctf_dfxtd_bi_upload.py" timestamp="1554768161476" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" timestamp="1552394786192">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="6" column="5" />
@@ -175,7 +169,6 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="/usr/local/anaconda3/lib/python3.7/site-packages/airflow/utils/__init__.py" timestamp="1554705722051" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552908361129">
         <mark key="'" line="101" column="8" />
         <mark key="[" line="99" column="74" />
@@ -227,7 +220,6 @@
         <mark key="]" line="53" column="47" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/configs/variables/staging/bj_vars/aibee_tasks_ctf_beijing_xhm_eid_pipeline_stage2" timestamp="1554767646431" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="2" column="9" />
@@ -337,7 +329,6 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/Dockerfile" timestamp="1554723280103" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="777" />
