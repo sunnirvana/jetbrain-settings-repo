@@ -220,6 +220,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/airflow_dags/generic_dag/aibee_video_tracking_pipeline.py" timestamp="1554881171700" />
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/.gitignore" timestamp="1554172218316">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
