@@ -17,6 +17,9 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1554867887743">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552383458014">
         <mark key="'" line="8" column="23" />
         <mark key="[" line="32" column="0" />
@@ -36,6 +39,12 @@
         <mark key="]" line="2" column="60" />
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_bash_dag.py" timestamp="1554867926679">
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="15" column="70" />
+        <mark key="^" line="15" column="70" />
+        <mark key="." line="15" column="70" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552295264118">
         <mark key="[" line="3" column="55" />
@@ -62,7 +71,6 @@
         <mark key="." line="43" column="100" />
         <mark key="^" line="43" column="100" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/airflow_models_staging/task_operator.py" timestamp="1554768076559" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_db.py" timestamp="1552448833776">
         <mark key="[" line="17" column="157" />
         <mark key="]" line="18" column="3" />
@@ -113,7 +121,6 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag_staging/bj_dags/aibee_tasks_ctf_guangzhou_lnxsj_pipeline.py" timestamp="1554767994846" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
@@ -161,7 +168,6 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag/Trash_dags/aibee_tasks_ctf_dfxtd_bi_upload.py" timestamp="1554863582917" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" timestamp="1552394786192">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="6" column="5" />
@@ -208,7 +214,6 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/generic_dag/aibee_video_tracking_pipeline.py" timestamp="1554867262699" />
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/.gitignore" timestamp="1554172218316">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -324,13 +329,12 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_dag1.py" timestamp="1554867619882">
-        <mark key="[" line="34" column="54" />
-        <mark key="]" line="34" column="60" />
-        <mark key="." line="34" column="60" />
-        <mark key="^" line="34" column="60" />
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_dag1.py" timestamp="1554867839486">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="79" />
+        <mark key="." line="15" column="79" />
+        <mark key="^" line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/regular_dag/Trash_dags/aibee_tasks_ctf_xhm_triger.py" timestamp="1554865626139" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="777" />
