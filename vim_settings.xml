@@ -58,6 +58,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_python_dag.py" timestamp="1554871616830">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552371876904">
         <mark key="'" line="117" column="8" />
         <mark key="[" line="23" column="39" />
