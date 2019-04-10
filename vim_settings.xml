@@ -40,11 +40,11 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_bash_dag.py" timestamp="1554867926679">
-        <mark key="[" line="15" column="72" />
-        <mark key="]" line="15" column="70" />
-        <mark key="^" line="15" column="70" />
-        <mark key="." line="15" column="70" />
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_bash_dag.py" timestamp="1554870692446">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552295264118">
         <mark key="[" line="3" column="55" />
@@ -446,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
+        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -458,31 +458,31 @@
         <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
+        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgd2l0aCBEQUcoJ215X2RhZzEnLCBzdGFydF9kYXRlPWFpcmZsb3cudXRpbHMuZGF0ZXMuZGF5c19hZ28oMikpIGFzIGRhZzoKICAgICMgIER1bW15T3BlcmF0b3IodGFza19pZD0nZHVtbXlfMScpID4+IFwKICAgICMgIEJhc2hPcGVyYXRvcih0YXNrX2lkPSdiYXNoXzEnLCBiYXNoX2NvbW1hbmQ9J2VjaG8gIkJhc2ggc2F5czogSGVsbG8gd29ybGRcbiInKSA+PiBcCiAgICAjICBQeXRob25PcGVyYXRvcih0YXNrX2lkPSdweXRob25fMScsIHB5dGhvbl9jYWxsYWJsZT1sYW1iZGE6IHByaW50KCdQeXRob24gc2F5czogaGVsbG8gd29ybGQnKSkKCg==</text>
+        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
+        <text encoding="base64">IyAgd2l0aCBEQUcoJ215X2RhZzEnLCBzdGFydF9kYXRlPWFpcmZsb3cudXRpbHMuZGF0ZXMuZGF5c19hZ28oMikpIGFzIGRhZzoKICAgICMgIER1bW15T3BlcmF0b3IodGFza19pZD0nZHVtbXlfMScpID4+IFwKICAgICMgIEJhc2hPcGVyYXRvcih0YXNrX2lkPSdiYXNoXzEnLCBiYXNoX2NvbW1hbmQ9J2VjaG8gIkJhc2ggc2F5czogSGVsbG8gd29ybGRcbiInKSA+PiBcCiAgICAjICBQeXRob25PcGVyYXRvcih0YXNrX2lkPSdweXRob25fMScsIHB5dGhvbl9jYWxsYWJsZT1sYW1iZGE6IHByaW50KCdQeXRob24gc2F5czogaGVsbG8gd29ybGQnKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdlbWFpbCc6IFsnYWlyZmxvd0BleGFtcGxlLmNvbSddLAo=</text>
+        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdlbWFpbCc6IFsnYWlyZmxvd0BleGFtcGxlLmNvbSddLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIER1bW15T3BlcmF0b3IodGFza19pZCkK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
