@@ -58,11 +58,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_python_dag.py" timestamp="1554878751179">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_python_dag.py" timestamp="1554881934232">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552371876904">
         <mark key="'" line="117" column="8" />
@@ -452,11 +452,11 @@
       <jump line="80" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>schedule</text>
@@ -465,31 +465,31 @@
         <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93LnV0aWxzIGltcG9ydCBkYXRlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
+        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgd2l0aCBEQUcoJ215X2RhZzEnLCBzdGFydF9kYXRlPWFpcmZsb3cudXRpbHMuZGF0ZXMuZGF5c19hZ28oMikpIGFzIGRhZzoKICAgICMgIER1bW15T3BlcmF0b3IodGFza19pZD0nZHVtbXlfMScpID4+IFwKICAgICMgIEJhc2hPcGVyYXRvcih0YXNrX2lkPSdiYXNoXzEnLCBiYXNoX2NvbW1hbmQ9J2VjaG8gIkJhc2ggc2F5czogSGVsbG8gd29ybGRcbiInKSA+PiBcCiAgICAjICBQeXRob25PcGVyYXRvcih0YXNrX2lkPSdweXRob25fMScsIHB5dGhvbl9jYWxsYWJsZT1sYW1iZGE6IHByaW50KCdQeXRob24gc2F5czogaGVsbG8gd29ybGQnKSkKCg==</text>
+        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
+        <text encoding="base64">IyAgd2l0aCBEQUcoJ215X2RhZzEnLCBzdGFydF9kYXRlPWFpcmZsb3cudXRpbHMuZGF0ZXMuZGF5c19hZ28oMikpIGFzIGRhZzoKICAgICMgIER1bW15T3BlcmF0b3IodGFza19pZD0nZHVtbXlfMScpID4+IFwKICAgICMgIEJhc2hPcGVyYXRvcih0YXNrX2lkPSdiYXNoXzEnLCBiYXNoX2NvbW1hbmQ9J2VjaG8gIkJhc2ggc2F5czogSGVsbG8gd29ybGRcbiInKSA+PiBcCiAgICAjICBQeXRob25PcGVyYXRvcih0YXNrX2lkPSdweXRob25fMScsIHB5dGhvbl9jYWxsYWJsZT1sYW1iZGE6IHByaW50KCdQeXRob24gc2F5czogaGVsbG8gd29ybGQnKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdlbWFpbCc6IFsnYWlyZmxvd0BleGFtcGxlLmNvbSddLAo=</text>
+        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdlbWFpbCc6IFsnYWlyZmxvd0BleGFtcGxlLmNvbSddLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGUK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -537,6 +537,7 @@
         <entry>set nu</entry>
         <entry>vsp</entry>
         <entry>wq</entry>
+        <entry>12</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
