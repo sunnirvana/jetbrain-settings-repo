@@ -21,6 +21,12 @@
       <file name="/a.dummy" timestamp="1554867887743">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" timestamp="1555070136817">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552383458014">
         <mark key="'" line="8" column="23" />
         <mark key="[" line="32" column="0" />
@@ -34,6 +40,13 @@
         <mark key="]" line="376" column="56" />
         <mark key="^" line="376" column="56" />
         <mark key="." line="376" column="56" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" timestamp="1555070466895">
+        <mark key="'" line="177" column="33" />
+        <mark key="[" line="164" column="37" />
+        <mark key="]" line="165" column="7" />
+        <mark key="^" line="165" column="7" />
+        <mark key="." line="181" column="33" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test.sh" timestamp="1552441593932">
         <mark key="[" line="2" column="52" />
@@ -176,6 +189,12 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/.gitignore" timestamp="1555070247105">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" timestamp="1552394786192">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="6" column="5" />
@@ -217,6 +236,13 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_hdfs.py" timestamp="1555069757955">
+        <mark key="'" line="52" column="5" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="52" column="5" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/airflow_dags/dockerfiles/Dockerfile" timestamp="1554721506348">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="28" />
@@ -229,12 +255,6 @@
         <mark key="]" line="5" column="8" />
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" timestamp="1554207539500">
-        <mark key="'" line="9" column="55" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="47" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
         <mark key="'" line="18" column="0" />
@@ -269,6 +289,11 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
         <mark key="^" line="62" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/main.py" timestamp="1555069481616">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
         <mark key="'" line="96" column="31" />
@@ -354,15 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
-      <jump line="69" column="32" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" />
-      <jump line="4" column="13" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
-      <jump line="62" column="21" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
-      <jump line="23" column="11" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
-      <jump line="22" column="19" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
-      <jump line="50" column="4" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
       <jump line="107" column="15" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
       <jump line="194" column="8" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
       <jump line="27" column="19" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" />
@@ -454,62 +470,69 @@
       <jump line="25" column="5" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
+      <jump line="55" column="5" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="54" column="5" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_hdfs.py" />
+      <jump line="204" column="52" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="118" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="144" column="38" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
+      <jump line="177" column="33" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdzY2hlZHVsZV9pbnRlcnZhbCc6ICIqLzEgKiAqICogKiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text>schedule</text>
+        <text encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNjaGVkdWxlX2ludGVydmFsPXRpbWVkZWx0YShkYXlzPTEpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdzY2hlZHVsZV9pbnRlcnZhbCc6ICIqLzEgKiAqICogKiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhaXJmbG93LnV0aWxzIGltcG9ydCBkYXRlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
+        <text encoding="base64">IyB2aW06IHRzPTQgc3c9NCBzdHM9NCBleHBhbmR0YWIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgd2l0aCBEQUcoJ215X2RhZzEnLCBzdGFydF9kYXRlPWFpcmZsb3cudXRpbHMuZGF0ZXMuZGF5c19hZ28oMikpIGFzIGRhZzoKICAgICMgIER1bW15T3BlcmF0b3IodGFza19pZD0nZHVtbXlfMScpID4+IFwKICAgICMgIEJhc2hPcGVyYXRvcih0YXNrX2lkPSdiYXNoXzEnLCBiYXNoX2NvbW1hbmQ9J2VjaG8gIkJhc2ggc2F5czogSGVsbG8gd29ybGRcbiInKSA+PiBcCiAgICAjICBQeXRob25PcGVyYXRvcih0YXNrX2lkPSdweXRob25fMScsIHB5dGhvbl9jYWxsYWJsZT1sYW1iZGE6IHByaW50KCdQeXRob24gc2F5czogaGVsbG8gd29ybGQnKSkKCg==</text>
+        <text encoding="base64">ICAgICdzY2hlZHVsZV9pbnRlcnZhbCc6ICIqLzEgKiAqICogKiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdlbWFpbF9vbl9mYWlsdXJlJzogRmFsc2UsCiAgICAnZW1haWxfb25fcmV0cnknOiBGYWxzZSwK</text>
+        <text encoding="base64">ZnJvbSBhaXJmbG93LnV0aWxzIGltcG9ydCBkYXRlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdlbWFpbCc6IFsnYWlyZmxvd0BleGFtcGxlLmNvbSddLAo=</text>
+        <text encoding="base64">amluamFfdGVtcGwgPSAnJycKe3sgZGFzZCB9fQonJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cnVuX3RoaXMuc2V0X2Rvd25zdHJlYW0ocnVuX3RoaXNfbGFzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyAgd2l0aCBEQUcoJ215X2RhZzEnLCBzdGFydF9kYXRlPWFpcmZsb3cudXRpbHMuZGF0ZXMuZGF5c19hZ28oMikpIGFzIGRhZzoKICAgICMgIER1bW15T3BlcmF0b3IodGFza19pZD0nZHVtbXlfMScpID4+IFwKICAgICMgIEJhc2hPcGVyYXRvcih0YXNrX2lkPSdiYXNoXzEnLCBiYXNoX2NvbW1hbmQ9J2VjaG8gIkJhc2ggc2F5czogSGVsbG8gd29ybGRcbiInKSA+PiBcCiAgICAjICBQeXRob25PcGVyYXRvcih0YXNrX2lkPSdweXRob25fMScsIHB5dGhvbl9jYWxsYWJsZT1sYW1iZGE6IHByaW50KCdQeXRob24gc2F5czogaGVsbG8gd29ybGQnKSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>schedule</last-search>
+      <last-search encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>schedule</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxfX2luaXRfbG9nZ2VyX19cPg==</entry>
         <entry encoding="base64">XDxfX2NoZWNrX2xvZ19maWxlX19cPg==</entry>
         <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfbmV3X2NudFw+</entry>
         <entry encoding="base64">XDxSZWxlYXNlTG9nZ2VyXD4=</entry>
@@ -528,6 +551,8 @@
         <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</entry>
         <entry encoding="base64">XDxkYWdcPg==</entry>
         <entry>schedule</entry>
+        <entry encoding="base64">XDxwYXJzZV9udW1zXD4=</entry>
+        <entry encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
