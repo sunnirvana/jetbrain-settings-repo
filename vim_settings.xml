@@ -324,11 +324,11 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" timestamp="1555073403127">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="5" column="62" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" timestamp="1555125446413">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/web_cmd.py" timestamp="1552304847252">
         <mark key="'" line="55" column="0" />
@@ -488,11 +488,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>example</text>
       </register>
       <register name="-" type="4">
-        <text>hdfs_new_stats</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZGZzX2dldFw+</text>
