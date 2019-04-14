@@ -10,7 +10,6 @@
         <mark key="." line="113" column="28" />
         <mark key="^" line="113" column="28" />
       </file>
-      <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/syscmd.py" timestamp="1555074903536" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552440970225">
         <mark key="'" line="139" column="17" />
         <mark key="[" line="215" column="0" />
@@ -78,7 +77,6 @@
         <mark key="." line="11" column="82" />
         <mark key="^" line="11" column="82" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/src/utils/qa_syscall.py" timestamp="1555072290019" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/eid_generation.py" timestamp="1555218334591">
         <mark key="'" line="68" column="25" />
         <mark key="[" line="0" column="5" />
@@ -86,7 +84,6 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_data/CTF_beijing_wcc_events/20190304/stats.txt" timestamp="1555215216330" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" timestamp="1555073056447">
         <mark key="'" line="5" column="30" />
         <mark key="[" line="183" column="17" />
@@ -145,7 +142,6 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/cli.py" timestamp="1555215989265" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552896378360">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -225,7 +221,6 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/airflow.cfg" timestamp="1554979985051" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552908361129">
         <mark key="'" line="101" column="8" />
         <mark key="[" line="99" column="74" />
@@ -271,7 +266,6 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/generic_dag/aibee_video_tracking_pipeline.py" timestamp="1554881171700" />
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/.gitignore" timestamp="1554172218316">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -285,6 +279,7 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/proto/detection_results.proto" timestamp="1555221785295" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation_v02.py" timestamp="1553486838210">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="192" column="43" />
@@ -357,7 +352,6 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/src/utils/qa_logger.py" timestamp="1554972604241" />
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" timestamp="1554207498343">
         <mark key="'" line="26" column="5" />
         <mark key="[" line="29" column="4" />
