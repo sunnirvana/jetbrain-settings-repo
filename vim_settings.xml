@@ -26,12 +26,12 @@
         <mark key="^" line="19" column="41" />
         <mark key="." line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/README.md" timestamp="1555294884516">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="15" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/README.md" timestamp="1555319709641">
+        <mark key="'" line="96" column="83" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" timestamp="1555070136817">
         <mark key="[" line="2" column="20" />
@@ -173,12 +173,12 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555318711086">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="96" column="100" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555321251221">
+        <mark key="'" line="164" column="23" />
+        <mark key="[" line="171" column="32" />
+        <mark key="]" line="171" column="44" />
+        <mark key="." line="171" column="44" />
+        <mark key="^" line="171" column="44" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
@@ -412,15 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="28" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="23" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="16" column="27" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="10" column="6" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="39" column="8" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="30" column="98" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="68" column="41" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" />
       <jump line="210" column="39" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="3" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="240" column="114" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
@@ -512,62 +503,69 @@
       <jump line="85" column="20" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="13" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="76" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="105" column="10" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="48" column="42" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="50" column="55" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="167" column="6" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="90" column="83" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/README.md" />
+      <jump line="138" column="17" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="106" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="164" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INOUT</text>
       </register>
       <register name="-" type="4">
-        <text>vents</text>
+        <text>INOUT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</text>
+        <text encoding="base64">XDxsb2FkX3N0b3JlX2FyZWFfbWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1tldmVudF0gPSB7J2V2ZW50cyc6IDF9Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgLSDlrZjlnKggSU5PVVQg5LqL5Lu26K6w5b2VJykKICAgIGlmICdJTk9VVCcgaW4gc3RvcmVfYXJlYSBhbmQgJ0lOT1VUJyBpbiBuZXdfZXZlbnRzX251bXM6CiAgICAgICAgbG9nZ2luZy5pbmZvKCctIG9rJykKICAgIGVsc2U6CiAgICAgICAgbG9nZ2luZy5pbmZvKCctIGZhaWxlZCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVycywgc3RhZmZzLCBldmVudHMgPSAwLCAxLCAyCg==</text>
+        <text encoding="base64">ICAgICMg5a2Y5ZyoIElOT1VUIOaVsOWAvOiusOW9lQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAKICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBrLHYgaW4gcmVzdWx0cy5pdGVtcygpOgogICAgICAgIHJlc3VsdHNbJyddCgo=</text>
+        <text encoding="base64">Z2l0IGNsb25lIGh0dHA6Ly9naXRsYWIuYWliZWUuY24vaHhsaS9DYW1lcmFJbmZvcy5naXQKZ2l0IGNsb25lIGh0dHA6Ly9naXRsYWIuYWliZWUuY24vaHhsaS9TdG9yZUluZm9zLmdpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggIGFzIGZwOgo=</text>
+        <text encoding="base64">ICAgICMgMC4gRm9yIElOT1VUIGV2ZW50LCBjdXN0b21lcnMgYW5kIGV2ZW50cyBzaGFsbCBub3QgYmUgMAogICAgaWYgbmV3X251bXNbJ2lub3V0J11bY3VzdG9tZXJzXSA9PSAwIG9yIG5ld19udW1zWydpbm91dCddW2V2ZW50c10gPT0gMDoKICAgICAgICBsb2dnaW5nLmVycm9yKCdGb3IgSU5PVVQgZXZlbnQsIGN1c3RvbWVycyBhbmQgZXZlbnRzIHNoYWxsIG5vdCBiZSAwJykKICAgICAgICBsb2dnaW5nLmVycm9yKAogICAgICAgICAgICAnLSBmYWlsZWQgY3VzdG9tZXJzIElOT1VUIG51bXM6ICVzLCBldmVudHMgSU5PVVQgbnVtczogJXMnLAogICAgICAgICAgICBuZXdfbnVtc1snaW5vdXQnXVtjdXN0b21lcnNdLAogICAgICAgICAgICBuZXdfbnVtc1snaW5vdXQnXVtldmVudHNdCiAgICAgICAgKQoKICAgICMgMS4gRm9yIGVhY2ggZXZlbnQgdHlwZe+8jGN1c3RvbWVycyBhbmQgc3RhZmZzIG51bXMgc2hhbGwgYmUgbGVzcyB0aGFuIGV2ZW50cyBudW0KICAgIGZvciBlX3R5cGUgaW4gbmV3X251bXM6CiAgICAgICAgaWYgbmV3X251bXNbZV90eXBlXVtjdXN0b21lcnNdID4gbmV3X251bXNbZV90eXBlXVtldmVudHNdIFwKICAgICAgICAgICAgICAgIG9yIG5ld19udW1zW2VfdHlwZV1bc3RhZmZzXSA+IG5ld19udW1zW2VfdHlwZV1bZXZlbnRzXToKICAgICAgICAgICAgbG9nZ2luZy5lcnJvcignRm9yIGVhY2ggZXZlbnQgdHlwZe+8jGN1c3RvbWVycyBhbmQgc3RhZmZzIG51bXMgc2hhbGwgYmUgbGVzcyB0aGFuIGV2ZW50cyBudW0uJykKICAgICAgICAgICAgbG9nZ2luZy5lcnJvcigKICAgICAgICAgICAgICAgICctIGZhaWxlZCBldmVudCB0eXBlOiAlcywgKGN1c3RvbWVyczogJXMsIHN0YWZmczogJXMsIGV2ZW50czogJXMpJywKICAgICAgICAgICAgICAgIGVfdHlwZSwKICAgICAgICAgICAgICAgIG5ld19udW1zW2VfdHlwZV1bY3VzdG9tZXJzXSwKICAgICAgICAgICAgICAgIG5ld19udW1zW2VfdHlwZV1bc3RhZmZzXSwKICAgICAgICAgICAgICAgIG5ld19udW1zW2VfdHlwZV1bZXZlbnRzXQogICAgICAgICAgICApCgogICAgICAgICMgMy4gRm9yIHN0YWZmcyBncm91cCwgQ09VTlRFUiBWSVNJVCBhbmQgSU5PVVQgbnVtcyBzaGFsbCBiZSAwCiAgICAgICAgaWYgKGVfdHlwZSA9PSAnY291bnRlcl92aXNpdCcgb3IgZV90eXBlID09ICdpbm91dCcpIGFuZCBuZXdfbnVtc1tlX3R5cGVdW3N0YWZmc10gIT0gMDoKICAgICAgICAgICAgbG9nZ2luZy5lcnJvcignRm9yIHN0YWZmcyBncm91cCwgQ09VTlRFUiBWSVNJVCBhbmQgSU5PVVQgbnVtcyBzaGFsbCBiZSAwLicpCiAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoCiAgICAgICAgICAgICAgICAnLSBmYWlsZWQgZXZlbnQgdHlwZTogJXMsICVzJywKICAgICAgICAgICAgICAgIGVfdHlwZSwKICAgICAgICAgICAgICAgIG5ld19udW1zW2VfdHlwZV1bc3RhZmZzXQogICAgICAgICAgICApCgogICAgIyAyLiBGb3IgZWFjaCBncm91cCwgQ1VTVE9NRVIgVklTSVQgYW5kIFJFQ0VQVElPTiBudW1zIHNoYWxsIGJlIGxlc3MgdGhhbiBJTk9VVCBudW0KICAgIGZvciBlX2dyb3VwIGluIChjdXN0b21lcnMsIGV2ZW50cyk6CiAgICAgICAgaWYgbmV3X251bXNbJ2NvdW50ZXJfdmlzaXQnXVtlX2dyb3VwXSA+IG5ld19udW1zWydpbm91dCddW2VfZ3JvdXBdIG9yIG5ld19udW1zWydyZWNlcHRpb24nXVtlX2dyb3VwXSA+IFwKICAgICAgICAgICAgICAgIG5ld19udW1zWydpbm91dCddW2VfZ3JvdXBdOgogICAgICAgICAgICBsb2dnaW5nLmVycm9yKCdGb3IgZWFjaCBncm91cCwgQ1VTVE9NRVIgVklTSVQgYW5kIFJFQ0VQVElPTiBudW1zIHNoYWxsIGJlIGxlc3MgdGhhbiBJTk9VVCBudW0uJykKICAgICAgICAgICAgbG9nZ2luZy5lcnJvcigKICAgICAgICAgICAgICAgICctIGZhaWxlZCBncm91cDogJXMsIChDT1VOVEVSIFZJU0lUOiAlcywgUkVDRVBUSU9OOiAlcywgSU5PVVQ6ICVzKScsCiAgICAgICAgICAgICAgICBlX2dyb3VwLAogICAgICAgICAgICAgICAgbmV3X251bXNbJ2NvdW50ZXJfdmlzaXQnXVtlX2dyb3VwXSwKICAgICAgICAgICAgICAgIG5ld19udW1zWydyZWNlcHRpb24nXVtlX2dyb3VwXSwKICAgICAgICAgICAgICAgIG5ld19udW1zWydpbm91dCddW2VfZ3JvdXBdLAogICAgICAgICAgICApCgogICAgIyBHZXQgaGlzdG9yeSBiYXNlbGluZXMKICAgIChoaXN0b3J5X2N1c3RvbWVyc19yZWNlcF92c192aXNpdCwgaGlzdG9yeV9jdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQsCiAgICAgaGlzdG9yeV9ldmVudHNfcmVjZXBfdnNfdmlzaXQsIGhpc3RvcnlfZXZlbnRzX3Zpc2l0X3ZzX2lub3V0KSA9IGdldF9oaXN0b3J5X2Jhc2VsaW5lcyhoaXN0b3J5X3BhdGgpCgogICAgbmV3X2N1c3RvbWVyc19yZWNlcF92c192aXNpdCA9IG5ld19udW1zWydyZWNlcHRpb24nXVtjdXN0b21lcnNdIC8gbmV3X251bXNbJ2NvdW50ZXJfdmlzaXQnXVtjdXN0b21lcnNdCiAgICBuZXdfY3VzdG9tZXJzX3Zpc2l0X3ZzX2lub3V0ID0gbmV3X251bXNbJ2NvdW50ZXJfdmlzaXQnXVtjdXN0b21lcnNdIC8gbmV3X251bXNbJ2lub3V0J11bY3VzdG9tZXJzXQogICAgbmV3X2V2ZW50c19yZWNlcF92c192aXNpdCA9IG5ld19udW1zWydyZWNlcHRpb24nXVtldmVudHNdIC8gbmV3X251bXNbJ2NvdW50ZXJfdmlzaXQnXVtldmVudHNdCiAgICBuZXdfZXZlbnRzX3Zpc2l0X3ZzX2lub3V0ID0gbmV3X251bXNbJ2NvdW50ZXJfdmlzaXQnXVtldmVudHNdIC8gbmV3X251bXNbJ2lub3V0J11bZXZlbnRzXQoKICAgIGxvZ2dpbmcuZGVidWcoJ0hpc3RvcnkgYmFzZWxpbmUgcmF0aW9zOiAnKQogICAgbG9nZ2luZy5kZWJ1ZygnLSBjdXN0b21lcnMgUkVDRVBUSU9OIHZzIENPVU5URVIgVklTSVQgICAgJXMnLCBoaXN0b3J5X2N1c3RvbWVyc19yZWNlcF92c192aXNpdCkKICAgIGxvZ2dpbmcuZGVidWcoJy0gY3VzdG9tZXJzIENPVU5URVIgVklTSVQgdnMgSU5PVVQgICAgICAgICVzJywgaGlzdG9yeV9jdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQpCiAgICBsb2dnaW5nLmRlYnVnKCctIGV2ZW50cyBSRUNFUFRJT04gdnMgQ09VTlRFUiBWSVNJVCAgICAgICAlcycsIGhpc3RvcnlfZXZlbnRzX3JlY2VwX3ZzX3Zpc2l0KQogICAgbG9nZ2luZy5kZWJ1ZygnLSBldmVudHMgQ09VTlRFUiBWSVNJVCB2cyBJTk9VVCAgICAgICAgICAgJXMnLCBoaXN0b3J5X2V2ZW50c192aXNpdF92c19pbm91dCkKCiAgICBsb2dnaW5nLmRlYnVnKCdOZXcgcmF0aW9zOiAnKQogICAgbG9nZ2luZy5kZWJ1ZygnLSBjdXN0b21lcnMgUkVDRVBUSU9OIHZzIENPVU5URVIgVklTSVQgICAgJXMnLCBuZXdfY3VzdG9tZXJzX3JlY2VwX3ZzX3Zpc2l0KQogICAgbG9nZ2luZy5kZWJ1ZygnLSBjdXN0b21lcnMgQ09VTlRFUiBWSVNJVCB2cyBJTk9VVCAgICAgICAgJXMnLCBuZXdfY3VzdG9tZXJzX3Zpc2l0X3ZzX2lub3V0KQogICAgbG9nZ2luZy5kZWJ1ZygnLSBldmVudHMgUkVDRVBUSU9OIHZzIENPVU5URVIgVklTSVQgICAgICAgJXMnLCBuZXdfZXZlbnRzX3JlY2VwX3ZzX3Zpc2l0KQogICAgbG9nZ2luZy5kZWJ1ZygnLSBldmVudHMgQ09VTlRFUiBWSVNJVCB2cyBJTk9VVCAgICAgICAgICAgJXMnLCBuZXdfZXZlbnRzX3Zpc2l0X3ZzX2lub3V0KQoKICAgICMgNC4gVGhlIHJhdGlvIG9mIENPVU5URVIgVklTSVQgbnVtIGluIElOT1VUIG51bSBzaGFsbCBiZSBtb3JlIHRoYW4gaGlzdG9yeSBiYXNlbGluZQogICAgaWYgbmV3X2N1c3RvbWVyc192aXNpdF92c19pbm91dCA8IGhpc3RvcnlfY3VzdG9tZXJzX3Zpc2l0X3ZzX2lub3V0IG9yIG5ld19jdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQgPiAxOgogICAgICAgIGxvZ2dpbmcud2FybmluZygnVGhlIGN1c3RvbWVycyByYXRpbyBvZiBDT1VOVEVSIFZJU0lUIG51bSBpbiBJTk9VVCBudW0gc2hhbGwgYmUgbW9yZSB0aGFuIGhpc3RvcnkgYmFzZWxpbmUnKQogICAgICAgIGxvZ2dpbmcud2FybmluZygKICAgICAgICAgICAgJy0gZmFpbGVkIGN1c3RvbWVycyBDT1VOVEVSIFZJU0lUIHZzIElOT1VUIHJhdGlvOiBoaXN0b3J5OiAlcywgbmV3OiAlcycsCiAgICAgICAgICAgIGhpc3RvcnlfY3VzdG9tZXJzX3Zpc2l0X3ZzX2lub3V0LAogICAgICAgICAgICBuZXdfY3VzdG9tZXJzX3Zpc2l0X3ZzX2lub3V0CiAgICAgICAgKQogICAgaWYgbmV3X2V2ZW50c192aXNpdF92c19pbm91dCA8IGhpc3RvcnlfZXZlbnRzX3Zpc2l0X3ZzX2lub3V0IG9yIG5ld19ldmVudHNfdmlzaXRfdnNfaW5vdXQgPiAxOgogICAgICAgIGxvZ2dpbmcud2FybmluZygnVGhlIGV2ZW50cyByYXRpbyBvZiBDT1VOVEVSIFZJU0lUIG51bSBpbiBJTk9VVCBudW0gc2hhbGwgYmUgbW9yZSB0aGFuIGhpc3RvcnkgYmFzZWxpbmUnKQogICAgICAgIGxvZ2dpbmcud2FybmluZygKICAgICAgICAgICAgJy0gZmFpbGVkIGV2ZW50cyBDT1VOVEVSIFZJU0lUIHZzIElOT1VUIHJhdGlvOiBoaXN0b3J5OiAlcywgbmV3OiAlcycsCiAgICAgICAgICAgIGhpc3RvcnlfZXZlbnRzX3Zpc2l0X3ZzX2lub3V0LAogICAgICAgICAgICBuZXdfZXZlbnRzX3Zpc2l0X3ZzX2lub3V0CiAgICAgICAgKQoKICAgICMgNS4gVGhlIHJhdGlvIG9mIFJFQ0VQVElPTiBudW0gaW4gQ09VTlRFUiBWSVNJVCBudW0gc2hhbGwgYmUgbW9yZSB0aGFuIGhpc3RvcnkgYmFzZWxpbmUKICAgIGlmIG5ld19jdXN0b21lcnNfcmVjZXBfdnNfdmlzaXQgPCBoaXN0b3J5X2N1c3RvbWVyc19yZWNlcF92c192aXNpdCBvciBuZXdfY3VzdG9tZXJzX3JlY2VwX3ZzX3Zpc2l0ID4gMToKICAgICAgICBsb2dnaW5nLndhcm5pbmcoJ1RoZSBjdXN0b21lcnMgcmF0aW8gb2YgUkVDRVBUSU9OIG51bSBpbiBDT1VOVEVSIFZJU0lUIG51bSBzaGFsbCBiZSBtb3JlIHRoYW4gaGlzdG9yeSBiYXNlbGluZScpCiAgICAgICAgbG9nZ2luZy53YXJuaW5nKAogICAgICAgICAgICAnLSBmYWlsZWQgY3VzdG9tZXJzIFJFQ0VQVElPTiB2cyBDT1VOVEVSIFZJU0lUIHJhdGlvOiBoaXN0b3J5OiAlcywgbmV3OiAlcycsCiAgICAgICAgICAgIGhpc3RvcnlfY3VzdG9tZXJzX3JlY2VwX3ZzX3Zpc2l0LAogICAgICAgICAgICBuZXdfY3VzdG9tZXJzX3JlY2VwX3ZzX3Zpc2l0CiAgICAgICAgKQogICAgaWYgbmV3X2V2ZW50c19yZWNlcF92c192aXNpdCA8IGhpc3RvcnlfZXZlbnRzX3JlY2VwX3ZzX3Zpc2l0IG9yIG5ld19ldmVudHNfcmVjZXBfdnNfdmlzaXQgPiAxOgogICAgICAgIGxvZ2dpbmcud2FybmluZygnVGhlIGV2ZW50cyByYXRpbyBvZiBSRUNFUFRJT04gbnVtIGluIENPVU5URVIgVklTSVQgbnVtIHNoYWxsIGJlIG1vcmUgdGhhbiBoaXN0b3J5IGJhc2VsaW5lJykKICAgICAgICBsb2dnaW5nLndhcm5pbmcoCiAgICAgICAgICAgICctIGZhaWxlZCBldmVudHMgUkVDRVBUSU9OIHZzIENPVU5URVIgVklTSVQgcmF0aW86IGhpc3Rvcnk6ICVzLCBuZXc6ICVzJywKICAgICAgICAgICAgaGlzdG9yeV9ldmVudHNfcmVjZXBfdnNfdmlzaXQsCiAgICAgICAgICAgIG5ld19ldmVudHNfcmVjZXBfdnNfdmlzaXQKICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgIHh5X2NzdiA9IG9zLnBhdGguam9pbihoZGZzX3N0YXRzX3BhdGgsICd4eS5jc3YnKQo=</text>
+        <text encoding="base64">ICAgICMgbG9nZ2luZy5kZWJ1ZygnJy5qb2luKG9wZW4oc3RhdHNfZmlsZSwgJ3InKS5yZWFkbGluZXMoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</last-search>
+      <last-search encoding="base64">XDxsb2FkX3N0b3JlX2FyZWFfbWFwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX3N0b3JlX2FyZWFfbWFwXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfb2ZmbGluZV9mYWNlaWRfY250XD4=</entry>
-        <entry encoding="base64">XDxvZmZsaW5lX2ZhY2VpZF9jbnRcPg==</entry>
         <entry encoding="base64">XDxnZXRfb2ZmbGluZV91cGRhdGVfcGlkX2NoYW5nZXNfY250XD4=</entry>
         <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9mYWNlaWRfY2hhbmdlc19jbnRcPg==</entry>
         <entry encoding="base64">XDxfcmVtb3ZlX3JlZHVuZGFudF9mYWNlaWRcPg==</entry>
@@ -586,6 +584,8 @@
         <entry encoding="base64">XDxkb3dubG9hZF9oaXN0b3J5X2V2ZW50c1w+</entry>
         <entry encoding="base64">XDxnZXRfZXZlbnRzX2NvdW50c1w+</entry>
         <entry encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</entry>
+        <entry>json</entry>
+        <entry encoding="base64">XDxsb2FkX3N0b3JlX2FyZWFfbWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
