@@ -173,12 +173,12 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555322485265">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="237" column="72" />
-        <mark key="]" line="237" column="84" />
-        <mark key="." line="237" column="84" />
-        <mark key="^" line="237" column="84" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555323851026">
+        <mark key="'" line="234" column="83" />
+        <mark key="[" line="285" column="65" />
+        <mark key="]" line="285" column="70" />
+        <mark key="." line="285" column="70" />
+        <mark key="^" line="285" column="70" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
@@ -412,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="240" column="114" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="251" column="52" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="280" column="47" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
@@ -512,46 +511,48 @@
       <jump line="164" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="14" column="13" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="77" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="234" column="83" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INOUT</text>
+        <text>stats</text>
       </register>
       <register name="-" type="4">
-        <text>INOUT</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgLSBjdXN0b21lcnMg55qEIChDT1VOVEVSX1ZJU0lUIC8gSU5PVVQg5q+U5YC8KSA+IOWOhuWPsuacgOS9juWAvCAoJXMpJywgY3VzdG9tZXJzX3Zpc2l0X3ZzX2lub3V0KQogICAgaWYgMSA+IG5ld19ldmVudHNfbnVtc1snQ09VTlRFUl9WSVNJVCddWydjdXN0b21lcnMnXSAvIG5ld19ldmVudHNfbnVtc1snSU5PVVQnXVsnY3VzdG9tZXJzJ10gPiBjdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQ6CiAgICAgICAgbG9nZ2luZy5pbmZvKCctIHBhc3NlZCcpCiAgICBlbHNlOgogICAgICAgIGxvZ2dpbmcuaW5mbygnLSBmYWlsZWQuICVzJywgbmV3X2V2ZW50c19udW1zWydDT1VOVEVSX1ZJU0lUJ11bJ2N1c3RvbWVycyddKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgLSBjdXN0b21lcnMg55qEIChSRUNFUFRJT04gLyBDT1VOVEVSX1ZJU0lUIOavlOWAvCkgPiDljoblj7LmnIDkvY7lgLwgKCVzKScsIGN1c3RvbWVyc19yZWNlcF92c192aXNpdCkKICAgIG5ld19jX3JlY2VwX3ZzX3Zpc2l0ID0gbmV3X2V2ZW50c19udW1zWydSRUNFUFRJT04nXVsnY3VzdG9tZXJzJ10gLyBuZXdfZXZlbnRzX251bXNbJ0NPVU5URVJfVklTSVQnXVsnY3VzdG9tZXJzJ10KICAgIGlmIDEgPiBuZXdfY19yZWNlcF92c192aXNpdCA+IGN1c3RvbWVyc19yZWNlcF92c192aXNpdDoKICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykKICAgIGVsc2U6CiAgICAgICAgbG9nZ2luZy5pbmZvKCctIGZhaWxlZC4gJXMnLCBuZXdfY19yZWNlcF92c192aXNpdCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIChoX2N1c3RvbWVyc192aXNpdF92c19pbm91dCwgaF9jdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQsIGhfZXZlbnRzX3JlY2VwX3ZzX3Zpc2l0LAo=</text>
+      <register name="1" type="4">
+        <text>new_events_nums['RECEPTION']['customers'] / new_events_nums['COUNTER_VISIT'][
+        'customers']</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIChoX2N1c3RvbWVyc192aXNpdF92c19pbm91dCwgaF9jdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQsIGhfZXZlbnRzX3JlY2VwX3ZzX3Zpc2l0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgLSDlr7nmr4/nsbvkuovku7bvvIxzdGFmZnMg5pWw6YePIDwgZXZlbnRzIOaVsOmHjycpCiAgICBmb3IgZXZlbnQgaW4gc3RvcmVfYXJlYVsnZXZlbnRfdHlwZXMnXToKICAgICAgICBpZiBuZXdfZXZlbnRzX251bXNbZXZlbnRdWydzdGFmZnMnXSA+PSBuZXdfZXZlbnRzX251bXNbZXZlbnRdWydldmVudHMnXToKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCctIGZhaWxlZCcpCiAgICAgICAgICAgIGJyZWFrCiAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ2hlY2tpbmcgLSDlr7nmr4/nsbvkuovku7bvvIxzdGFmZnMg5pWw6YePIDwgZXZlbnRzIOaVsOmHjycpCiAgICBmb3IgZXZlbnQgaW4gc3RvcmVfYXJlYVsnZXZlbnRfdHlwZXMnXToKICAgICAgICBpZiBuZXdfZXZlbnRzX251bXNbZXZlbnRdWydzdGFmZnMnXSA+PSBuZXdfZXZlbnRzX251bXNbZXZlbnRdWydldmVudHMnXToKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCctIGZhaWxlZCcpCiAgICAgICAgICAgIGJyZWFrCiAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBldmVudCBpbiBzdG9yZV9hcmVhWydldmVudF90eXBlcyddOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5ld19ldmVudHNfbnVtc1snJ10K</text>
+        <text encoding="base64">ICAgIGZvciBldmVudCBpbiBzdG9yZV9hcmVhWydldmVudF90eXBlcyddOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICdSRUNFUFRJT04nIGluIHN0b3JlX2FyZWFbJ2V2ZW50X3R5cGVzJ10gYW5kICdSRUNFUFRJT04nIGluIG5ld19ldmVudHNfbnVtczoKICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykKICAgIGVsc2U6CiAgICAgICAgaWYgJ1JFQ0VQVElPTicKICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkJykKCgo=</text>
+        <text encoding="base64">ICAgIGlmIG5ld19ldmVudHNfbnVtc1snJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICdSRUNFUFRJT04nIGluIHN0b3JlX2FyZWFbJ2V2ZW50X3R5cGVzJ10gYW5kICdSRUNFUFRJT04nIGluIG5ld19ldmVudHNfbnVtczoKICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykKICAgIGVsc2U6CiAgICAgICAgaWYgJ1JFQ0VQVElPTicKICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkJykKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMg5a2Y5ZyoIElOT1VUIOaVsOWAvOiusOW9lQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
