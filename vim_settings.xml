@@ -175,12 +175,13 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555338550125">
-        <mark key="'" line="264" column="53" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="93" column="39" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555350687554">
+        <mark key="'" line="7" column="37" />
+        <mark key="i" line="110" column="14" />
+        <mark key="[" line="370" column="25" />
+        <mark key="]" line="371" column="36" />
+        <mark key="^" line="371" column="36" />
+        <mark key="." line="371" column="36" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
@@ -349,11 +350,11 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" timestamp="1555331942969">
-        <mark key="[" line="15" column="64" />
-        <mark key="]" line="15" column="65" />
-        <mark key="." line="15" column="65" />
-        <mark key="^" line="16" column="71" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" timestamp="1555350752070">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="64" />
+        <mark key="." line="15" column="64" />
+        <mark key="^" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/web_cmd.py" timestamp="1552304847252">
         <mark key="'" line="55" column="0" />
@@ -416,20 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="22" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" />
-      <jump line="49" column="11" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" />
-      <jump line="114" column="47" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="93" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="286" column="32" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="265" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="332" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="227" column="15" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="191" column="16" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="229" column="107" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="320" column="5" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="212" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="306" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="238" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="145" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="284" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
@@ -511,68 +498,80 @@
       <jump line="39" column="57" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" />
       <jump line="31" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" />
       <jump line="28" column="70" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" />
-      <jump line="108" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="15" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="153" column="22" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="255" column="53" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="119" column="12" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="108" column="57" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="109" column="14" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="98" column="13" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="113" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="268" column="53" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="269" column="14" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="279" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="280" column="11" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="287" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="291" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="288" column="11" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="278" column="63" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="369" column="3" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="7" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGVyc29uc19yZXN1bHQsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">cGVyc29uc19yZXN1bHQsIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfaGlzdG9yeV9taW5fdmFsdWVzXD4=</text>
+        <text encoding="base64">XDxuZXdfY19yZWNlcF92c192aXNpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyc19yZWNlcF92c192aXNpdCc6IDEsCiAgICAgICAgICAgICdjdXN0b21lcnNfdmlzaXRfdnNfaW5vdXQnOiAxLAogICAgICAgICAgICAnZXZlbnRzX3JlY2VwX3ZzX3Zpc2l0JzogMSwKICAgICAgICAgICAgJ2V2ZW50c192aXNpdF92c19pbm91dCc6IDEsCg==</text>
+      <register name="0" type="4">
+        <text>0.05 * min(
+            times_counts['COUNTER_VISIT']['customers'], times_counts['COUNTER_VISIT']['staffs'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyc19yZWNlcF92c192aXNpdCA9IDEKICAgIGN1c3RvbWVyc192aXNpdF92c19pbm91dCA9IDEKICAgIGV2ZW50c19yZWNlcF92c192aXNpdCA9IDEKICAgIGV2ZW50c192aXNpdF92c19pbm91dCA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX3JlYycgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHNfY3N2ID0gb3MucGF0aC5qb2luKCwgJ2V2ZW50cy5jc3YnKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gRmFpbGVkJykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3Zpc2l0X3ZzX2lub3V0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgZXZlbnRzIOeahCAoUkVDRVBUSU9OIC8gSU5PVVQg5q+U5YC8KSA+IOWOhuWPsuacgOS9juWAvAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgZXZlbnRzIOeahCAoQ09VTlRFUl9WSVNJVCAvIElOT1VUIOavlOWAvCkgPiDljoblj7LmnIDkvY7lgLwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgc3RhZmZzIOeahCBDT1VOVEVSX1ZJU0lUIOaVsOmHjyA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19jX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc3RhZmZzIOeahCBJTk9VVCDmlbDph48gPiAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19jX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfaGlzdG9yeV9taW5fdmFsdWVzXD4=</last-search>
+      <last-search encoding="base64">XDxuZXdfY19yZWNlcF92c192aXNpdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfaGlzdG9yeV9taW5fdmFsdWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdfY19yZWNlcF92c192aXNpdFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZmZsaW5lX3VwZGF0ZV9waWRfY2hhbmdlc19jbnRcPg==</entry>
-        <entry encoding="base64">XDxkYWdcPg==</entry>
-        <entry>schedule</entry>
         <entry encoding="base64">XDxoZGZzX2dldFw+</entry>
         <entry encoding="base64">XDxnZW5fc3RhdF9jb250ZW50XD4=</entry>
         <entry>Failed</entry>
@@ -589,12 +588,12 @@
         <entry encoding="base64">XDxsb2FkX3N0b3JlX2FyZWFfbWFwXD4=</entry>
         <entry encoding="base64">XDxnZXRfZXZlbnRzX2NvdW50c1w+</entry>
         <entry encoding="base64">XDxnZXRfaGlzdG9yeV9iYXNlbGluZXNcPg==</entry>
+        <entry encoding="base64">XDxldmVudHNfcmVjZXBfdnNfY291bnRlclw+</entry>
         <entry encoding="base64">XDxnZXRfaGlzdG9yeV9taW5fdmFsdWVzXD4=</entry>
+        <entry encoding="base64">XDxuZXdfY192aXNpdF92c19pbm91dFw+</entry>
+        <entry encoding="base64">XDxuZXdfY19yZWNlcF92c192aXNpdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
-        <entry>Vsp</entry>
-        <entry>116</entry>
         <entry>136</entry>
         <entry>21</entry>
         <entry>350</entry>
@@ -608,6 +607,12 @@
         <entry>113</entry>
         <entry>35</entry>
         <entry>103</entry>
+        <entry>273</entry>
+        <entry>261</entry>
+        <entry>279</entry>
+        <entry>295</entry>
+        <entry>29</entry>
+        <entry>297</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
