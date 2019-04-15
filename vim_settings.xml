@@ -90,6 +90,7 @@
         <mark key="." line="44" column="8" />
         <mark key="^" line="44" column="8" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_data/CTF_beijing_wcc_events/20190304/stats.txt" timestamp="1555333893135" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" timestamp="1555073056447">
         <mark key="'" line="5" column="30" />
         <mark key="[" line="183" column="17" />
@@ -174,12 +175,12 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555333123327">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555334195659">
         <mark key="'" line="163" column="22" />
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="36" />
-        <mark key="." line="52" column="36" />
-        <mark key="^" line="52" column="36" />
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="101" column="45" />
+        <mark key="." line="101" column="45" />
+        <mark key="^" line="101" column="45" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
