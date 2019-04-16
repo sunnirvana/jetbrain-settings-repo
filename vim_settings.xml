@@ -175,13 +175,13 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555383257823">
-        <mark key="'" line="385" column="4" />
-        <mark key="i" line="110" column="14" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="12" />
-        <mark key="." line="380" column="12" />
-        <mark key="^" line="375" column="8" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555384213854">
+        <mark key="'" line="393" column="4" />
+        <mark key="i" line="114" column="14" />
+        <mark key="[" line="123" column="31" />
+        <mark key="]" line="123" column="36" />
+        <mark key="." line="123" column="36" />
+        <mark key="^" line="123" column="36" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
@@ -519,17 +519,17 @@
       <jump line="370" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICdSRUNFUFRJT04nIG5vdCBpbiBwZXJzb25zX2NvdW50czoKICAgICAgICBsb2dfa28oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>customers</text>
       </register>
       <register name="-" type="4">
-        <text>times_counts</text>
+        <text>customers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19uZXdfaGVhdG1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICdSRUNFUFRJT04nIG5vdCBpbiBwZXJzb25zX2NvdW50czoKICAgICAgICBsb2dfa28oKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBtaW5fdmFsdWVzW2dyb3VwXVsnY3VzdG9tZXJzX3JlY2VwX3ZzX2NvdW50ZXInXSA9IE5vbmUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
