@@ -17,7 +17,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1555407577050">
+      <file name="/a.dummy" timestamp="1555423486992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_eid_generation.py" timestamp="1555394281390">
@@ -26,12 +26,12 @@
         <mark key="^" line="19" column="41" />
         <mark key="." line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_map_checker.py" timestamp="1555416416452">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_map_checker.py" timestamp="1555422941972">
         <mark key="'" line="12" column="62" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="12" column="72" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="22" column="96" />
+        <mark key="]" line="22" column="101" />
+        <mark key="." line="22" column="101" />
+        <mark key="^" line="22" column="101" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/README.md" timestamp="1555319709641">
         <mark key="'" line="96" column="83" />
@@ -96,6 +96,7 @@
         <mark key="." line="11" column="82" />
         <mark key="^" line="11" column="82" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_data/CTF_store/xy.json" timestamp="1555423362367" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/eid_generation.py" timestamp="1555407507534">
         <mark key="'" line="87" column="8" />
         <mark key="[" line="44" column="13" />
@@ -156,12 +157,18 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/map_checker.py" timestamp="1555416756644">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/map_checker.py" timestamp="1555422730716">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="20" />
-        <mark key="]" line="88" column="17" />
-        <mark key="." line="88" column="17" />
-        <mark key="^" line="88" column="17" />
+        <mark key="[" line="3" column="86" />
+        <mark key="]" line="3" column="89" />
+        <mark key="." line="3" column="89" />
+        <mark key="^" line="3" column="89" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/area_checker.py" timestamp="1555423554700">
+        <mark key="[" line="66" column="21" />
+        <mark key="]" line="115" column="37" />
+        <mark key="^" line="115" column="37" />
+        <mark key="." line="115" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554715504703">
         <mark key="[" line="22" column="7" />
@@ -182,6 +189,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" timestamp="1555423513900">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
@@ -195,7 +208,7 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555404266131">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555421637511">
         <mark key="'" line="218" column="16" />
         <mark key="i" line="129" column="14" />
         <mark key="[" line="220" column="26" />
@@ -539,44 +552,44 @@
       <jump line="13" column="62" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_map_checker.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+      <register name="&quot;" type="4">
+        <text>MapChecker</text>
       </register>
       <register name="-" type="4">
-        <text>rand</text>
+        <text>MapChecker</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHMxLCBlMSwgczAgYXJlIGNvbGluZWFyIGFuZCBzMCBsaWVzIG9uIHNlZ21lbnQgczFlMQogICAgICAgIGlmIG8zID09IDAgYW5kIE1hcENoZWNrZXIub25fc2VnbWVudChzMCwgczEsIGUxKToKICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBNYXBDaGVja2VyLmlzX2luc2lkZShwb2x5Z29uX2xpc3QzLCBsZW4ocG9seWdvbl9saXN0MyksIFBvaW50KDkzMywgMTM5MikpIGlzIEZhbHNlLCAnT3V0c2lkZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBNYXBDaGVja2VyLmlzX2luc2lkZShwb2x5Z29uX2xpc3QzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBvaW50CiAgICBwb2x5Z29uMltdID0ge3swLCAwfSwgezUsIDV9LCB7NSwgMH19CiAgICBwID0gezMsIDN9OwogICAgbiA9IHNpemVvZihwb2x5Z29uMikgLyBzaXplb2YocG9seWdvbjJbMF0pOwogICAgaXNJbnNpZGUocG9seWdvbjIsIG4sIHApPyBjb3V0IDw8ICJZZXMgXG4iOiBjb3V0IDw8ICJObyBcbiI7CgogICAgcCA9IHs1LCAxfTsKICAgIGlzSW5zaWRlKHBvbHlnb24yLCBuLCBwKT8gY291dCA8PCAiWWVzIFxuIjogY291dCA8PCAiTm8gXG4iOwoKICAgIHAgPSB7OCwgMX07CiAgICBpc0luc2lkZShwb2x5Z29uMiwgbiwgcCk/IGNvdXQgPDwgIlllcyBcbiI6IGNvdXQgPDwgIk5vIFxuIjsKCiAgICBQb2ludAogICAgcG9seWdvbjNbXSA9IHt7MCwgMH0sIHsxMCwgMH0sIHsxMCwgMTB9LCB7MCwgMTB9fTsKICAgIHAgPSB7LTEsIDEwfTsKICAgIG4gPSBzaXplb2YocG9seWdvbjMpIC8gc2l6ZW9mKHBvbHlnb24zWzBdKTsKICAgIGlzSW5zaWRlKHBvbHlnb24zLCBuLCBwKT8gY291dCA8PCAiWWVzIFxuIjogY291dCA8PCAiTm8gXG4iOwo=</text>
+        <text encoding="base64">bHN0ID0gWyBbIDE2MjksIDI2MyBdLCBbIDE2NjYsIDI2MyBdLCBbIDE2ODAsIDI2MSBdLCBbIDIzOTksIDI1NiBdLCBbIDI0MzMsIDU4NiBdLCBbIDI0OTQsIDU4NCBdLCBbIDI1MTIsIDc3NCBdLAogICAgWyAyNDU1LCA3OTMgXSwgWyAyNTA5LCAxMDk1IF0sIFsgMjYyMSwgMTExNCBdLCBbIDI2MzcsIDE0MjcgXSwgWyAyNTYyLCAxNDM1IF0sIFsgMjcxMCwgMTgzNiBdLCBbIDEyOTMsIDE4NTcgXSwKICAgIFsgMTI1MywgMTg3NCBdLCBbIDg5MiwgMTg3MCBdLCBbIDg3NiwgMTc1NSBdLCBbIDEwMzMsIDE2OTkgXSwgWyAxMDIxLCAxMDIxIF0sIFsgODg2LCAxMDI2IF0sIFsgODg2LCA4NTYgXSwKICAgIFsgMTE5OSwgODQ2IF0sIFsgMTE5NywgNTA0IF0sIFsgMTM4NCwgNTAxIF0sIFsgMTQzMCwgNTAxIF0sIFsgMTUxMCwgMjYxIF1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBvaW50CiAgICBwb2x5Z29uMVtdID0ge3swLCAwfSwgezEwLCAwfSwgezEwLCAxMH0sIHswLCAxMH19OwogICAgaW50CiAgICBuID0gc2l6ZW9mKHBvbHlnb24xKSAvIHNpemVvZihwb2x5Z29uMVswXSk7CiAgICBQb2ludAogICAgcCA9IHsyMCwgMjB9OwogICAgaXNJbnNpZGUocG9seWdvbjEsIG4sIHApPyBjb3V0IDw8ICJZZXMgXG4iOiBjb3V0IDw8ICJObyBcbiI7CgogICAgcCA9IHs1LCA1fTsKICAgIGlzSW5zaWRlKHBvbHlnb24xLCBuLCBwKT8gY291dCA8PCAiWWVzIFxuIjogY291dCA8PCAiTm8gXG4iOwoK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmRlYnVnKCcnLmZvcm1hdChwMCwgcDEsIHAyKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBvaW50CiAgICBwb2x5Z29uMltdID0ge3swLCAwfSwgezUsIDV9LCB7NSwgMH19CiAgICBwID0gezMsIDN9OwogICAgbiA9IHNpemVvZihwb2x5Z29uMikgLyBzaXplb2YocG9seWdvbjJbMF0pOwogICAgaXNJbnNpZGUocG9seWdvbjIsIG4sIHApPyBjb3V0IDw8ICJZZXMgXG4iOiBjb3V0IDw8ICJObyBcbiI7CgogICAgcCA9IHs1LCAxfTsKICAgIGlzSW5zaWRlKHBvbHlnb24yLCBuLCBwKT8gY291dCA8PCAiWWVzIFxuIjogY291dCA8PCAiTm8gXG4iOwoKICAgIHAgPSB7OCwgMX07CiAgICBpc0luc2lkZShwb2x5Z29uMiwgbiwgcCk/IGNvdXQgPDwgIlllcyBcbiI6IGNvdXQgPDwgIk5vIFxuIjsKCiAgICBQb2ludAogICAgcG9seWdvbjNbXSA9IHt7MCwgMH0sIHsxMCwgMH0sIHsxMCwgMTB9LCB7MCwgMTB9fTsKICAgIHAgPSB7LTEsIDEwfTsKICAgIG4gPSBzaXplb2YocG9seWdvbjMpIC8gc2l6ZW9mKHBvbHlnb24zWzBdKTsKICAgIGlzSW5zaWRlKHBvbHlnb24zLCBuLCBwKT8gY291dCA8PCAiWWVzIFxuIjogY291dCA8PCAiTm8gXG4iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkbyB7agogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFBvaW50CiAgICBwb2x5Z29uMVtdID0ge3swLCAwfSwgezEwLCAwfSwgezEwLCAxMH0sIHswLCAxMH19OwogICAgaW50CiAgICBuID0gc2l6ZW9mKHBvbHlnb24xKSAvIHNpemVvZihwb2x5Z29uMVswXSk7CiAgICBQb2ludAogICAgcCA9IHsyMCwgMjB9OwogICAgaXNJbnNpZGUocG9seWdvbjEsIG4sIHApPyBjb3V0IDw8ICJZZXMgXG4iOiBjb3V0IDw8ICJObyBcbiI7CgogICAgcCA9IHs1LCA1fTsKICAgIGlzSW5zaWRlKHBvbHlnb24xLCBuLCBwKT8gY291dCA8PCAiWWVzIFxuIjogY291dCA8PCAiTm8gXG4iOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNwZWNpYWwgQ2FzZXMgcDEsIHExIGFuZCBwMiBhcmUgY29saW5lYXIgYW5kIHAyIGxpZXMgb24gc2VnbWVudCBwMXExCiAgICAgICAgaWYgKG8xID09IDAgJiAmIG9uU2VnbWVudChwMSwgcDIsIHExKSkgcmV0dXJuIHRydWU7CgogICAgICAgIC8vIHAxLCBxMSBhbmQgcDIKICAgICAgICBhcmUKICAgICAgICBjb2xpbmVhciBhbmQgcTIKICAgICAgICBsaWVzCiAgICAgICAgb24KICAgICAgICBzZWdtZW50CiAgICAgICAgcDFxMQogICAgICAgIGlmIChvMiA9PSAwICYgJiBvblNlZ21lbnQocDEsIHEyLCBxMSkpIHJldHVybiB0cnVlOwoKICAgICAgICAvLyBwMiwgcTIgYW5kIHAxCiAgICAgICAgYXJlCiAgICAgICAgY29saW5lYXIgYW5kIHAxCiAgICAgICAgbGllcwogICAgICAgIG9uCiAgICAgICAgc2VnbWVudAogICAgICAgIHAycTIKICAgICAgICBpZiAobzMgPT0gMCAmICYgb25TZWdtZW50KHAyLCBwMSwgcTIpKSByZXR1cm4gdHJ1ZTsKCiAgICAgICAgLy8gcDIsIHEyIGFuZCBxMQogICAgICAgIGFyZQogICAgICAgIGNvbGluZWFyIGFuZCBxMQogICAgICAgIGxpZXMKICAgICAgICBvbgogICAgICAgIHNlZ21lbnQKICAgICAgICBwMnEyCgogICAgaWYgKG80ID09IDAgJiAmIG9uU2VnbWVudChwMiwgcTEsIHEyKSkgcmV0dXJuIHRydWU7CgogICAgcmV0dXJuIGZhbHNlOyAvLyBEb2VzbgogICAgJ3QgZmFsbCBpbiBhbnkgb2YgdGhlIGFib3ZlIGNhc2VzCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHZhbCA9PSAwOgogICAgICAgICMgICAgIHJldHVybiAnY29saW5lYXInCiAgICAgICAgIyBlbGlmIHZhbCA+IDA6CiAgICAgICAgIyAgICAgcmV0dXJuICdjbG9ja3dpc2UnCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHJldHVybiAnY291bnRlcl9jbG9ja3dpc2UnCgo=</text>
+        <text encoding="base64">ICAgICAgICBkbyB7agogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
