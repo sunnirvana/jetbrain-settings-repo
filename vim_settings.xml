@@ -175,13 +175,13 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555379801707">
-        <mark key="'" line="370" column="4" />
-        <mark key="i" line="110" column="14" />
-        <mark key="[" line="370" column="25" />
-        <mark key="]" line="371" column="36" />
-        <mark key="^" line="371" column="36" />
-        <mark key="." line="371" column="36" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555382100416">
+        <mark key="'" line="374" column="4" />
+        <mark key="i" line="114" column="14" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="41" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
@@ -403,11 +403,11 @@
         <mark key="." line="15" column="79" />
         <mark key="^" line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555379782631">
-        <mark key="[" line="12" column="70" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="62" />
-        <mark key="^" line="12" column="62" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555381807895">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
@@ -519,8 +519,8 @@
       <jump line="370" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stats</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="-" type="4">
         <text>stats</text>
@@ -532,31 +532,31 @@
         <text encoding="base64">ICAgICMgICAgIG1haW4oaGRmc19uZXdfc3RhdHNfcGF0aD1uZXdfc3RhdHNfcGF0aCwgaGRmc19oaXN0b3J5X3N0YXRzX3BhdGg9aGlzdG9yeV9zdGF0c19wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1haW4K</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1zdG9yZScsIGRlZmF1bHQ9J0NURicsIGhlbHA9J1N0b3JlIG5hbWU6IENURiwgQUZVJykK</text>
+        <text encoding="base64">ICAgICIiIgogICAgVmVyaWZ5IGV2ZW50IHN0YXRzIGNvbnNpc3RlbmNlCiAgICA6cGFyYW0gaGRmc19uZXdfc3RhdHNfcGF0aDogIEhERlMgcGF0aCB0byBuZXcgZXZlbnQKICAgIDpwYXJhbSBoZGZzX2hpc3Rvcnlfc3RhdHNfcGF0aDogIEhERlMgcGF0aCB0byBoaXN0b3J5IGV2ZW50cwogICAgOnJldHVybjoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1zdG9yZScsIGRlZmF1bHQ9J0NURicsIGhlbHA9J1N0b3JlIG5hbWU6IENURiwgQUZVJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3Zpc2l0X3ZzX2lub3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3JlY2VwX3ZzX3Zpc2l0KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZXZlbnRzIOeahCAoUkVDRVBUSU9OIC8gSU5PVVQg5q+U5YC8KSA+IOWOhuWPsuacgOS9juWAvAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gZmFpbGVkLiAlcycsIG5ld19lX3Zpc2l0X3ZzX2lub3V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZXZlbnRzIOeahCAoQ09VTlRFUl9WSVNJVCAvIElOT1VUIOavlOWAvCkgPiDljoblj7LmnIDkvY7lgLwK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJy0gcGFzc2VkJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
