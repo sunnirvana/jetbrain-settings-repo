@@ -175,13 +175,13 @@
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555385703820">
-        <mark key="'" line="405" column="4" />
-        <mark key="i" line="126" column="14" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555386887749">
+        <mark key="'" line="218" column="16" />
+        <mark key="i" line="129" column="14" />
+        <mark key="[" line="243" column="26" />
+        <mark key="]" line="243" column="34" />
+        <mark key="." line="243" column="34" />
+        <mark key="^" line="243" column="34" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
         <mark key="'" line="3" column="0" />
@@ -417,8 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
-      <jump line="284" column="4" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="331" column="19" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="296" column="76" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
       <jump line="241" column="41" filename="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation.py" />
@@ -517,46 +515,48 @@
       <jump line="369" column="3" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="7" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
       <jump line="370" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="23" column="26" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
+      <jump line="203" column="16" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>CONVERT_VISIT</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>CONVERT_VISIT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19uZXdfaGVhdG1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBtaW5fdmFsdWVzW2dyb3VwXVsnY3VzdG9tZXJzX3JlY2VwX3ZzX2NvdW50ZXInXSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAjIG1ha2V1cCBhYm5vcm1hbCBkYXRhIHRvIGF2b2lkIGtleUVycm9yIGZvciBuZXh0IHN0ZXBzCiAgICAgICAgdGltZXNfY291bnRzWydDT05WRVJUX1ZJU0lUJ10gPSB7CiAgICAgICAgICAgICdjdXN0b21lcnMnOiAtMSwKICAgICAgICAgICAgJ3N0YWZmcyc6IC0xLAogICAgICAgICAgICAnZXZlbnRzJzogLTEKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaWxsX2Fibm9ybWFsX2RhdGEoKToKICAgICAgICB0aW1lc19jb3VudHNbJ0NPTlZFUlRfVklTSVQnXSA9IHsKICAgICAgICAgICAgJ2N1c3RvbWVycyc6IC0xLAogICAgICAgICAgICAnc3RhZmZzJzogLTEsCiAgICAgICAgICAgICdldmVudHMnOiAtMQogICAgICAgIH0KICAgICAgICAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dfb2soKToKICAgICAgICBsb2dnaW5nLmluZm8oJy0gT0snKQoKICAgIGRlZiBsb2dfbmEoKToKICAgICAgICBsb2dnaW5nLmluZm8oJy0gTi9BJykKCiAgICBkZWYgbG9nX2tvKG1zZz1Ob25lKToKICAgICAgICBpZiBtc2cgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygnLSBGYWlsZWQgJyArIG1zZykKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnaW5nLmluZm8oJy0gRmFpbGVkJykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgQ2hlY2tSdWxlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJ1bGUsIHByZV9jb25kLCBsb2dnaW5nPU5vbmUpOgogICAgICAgIHNlbGYucnVsZSA9IHJ1bGUKICAgICAgICBzZWxmLnByZV9jb25kX2xpc3QgPSBwcmVfY29uZAogICAgICAgIGlmIGxvZ2dpbmc6CiAgICAgICAgICAgIHNlbGYubG9nZ2luZyA9IGxvZ2dpbmcKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZ2dpbmcgPSBsb2dnaW5nLmJhc2ljQ29uZmlnKGZvcm1hdD0nJShhc2N0aW1lKXMgfCAlKGxldmVsbmFtZSlzIDogJShtZXNzYWdlKXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldmVsPWxvZ2dpbmcuREVCVUcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyZWFtPXN5cy5zdGRvdXQpCgogICAgZGVmIGNoZWNrKHNlbGYpOgogICAgICAgICMgc2hhbGwgYmUgb3Zlci13cml0dGVuCiAgICAgICAgcGFzcwoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBsb2dfZXJyb3IobW9yZSk6CiAgICAgICAgcmV0dXJuICctIEZhaWxlZCcgKyBtb3JlCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGxvZ19vaygpOgogICAgICAgIHJldHVybiAnLSBPSycKCiAgICBkZWYgZmxhZyhzZWxmKToKICAgICAgICByZXR1cm4gaGFzaChzZWxmLnJ1bGUpCgogICAgZGVmIGRlc2Moc2VsZik6CiAgICAgICAgcmV0dXJuICfmo4Dmn6UgJyArIHNlbGYucnVsZQoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBQcm9ibGVtIGRlZmluaXRpb24KUlVMRV9FWElTVElOR19FVkVOVF9DT1VOVEVSX1ZJU0lUID0gJ+WtmOWcqCBDT1VOVEVSX1ZJU0lUIOS6i+S7tuiusOW9lScKUlVMRV9FWElTVElOR19FVkVOVF8KCgpjbGFzcyBSdWxlV3JhcHBlcigpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJ1bGUpOgogICAgICAgIHNlbGYucnVsZSA9IHJ1bGUKICAgICAgICBwYXNzCgogICAgZGVmIHJ1bGVfZGVzYyhzZWxmKToKICAgICAgICByZXR1cm4gIuajgOafpeaYr+WQpiIgKyBzZWxmLnJ1bGUKCiAgICBkZWYgcnVsZV9lcnJfbXNnKHNlbGYpOgogICAgICAgIHJldHVybiAi5LiN56ym5ZCIICIgKyBzZWxmLnJ1bGUKCiAgICBkZWYgcnVsZV9mbGFnKHNlbGYpOgogICAgICAgIHJldHVybiBoYXNoKHNlbGYucnVsZSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dpbmcgPSBsb2dnaW5nIGlmIGxvZ2dpbmcgZWxzZSBOb25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dpbmcgPSBsb2dnaW5nIGlmIGxvZ2dpbmcgZWxzZSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJy0gRmFpbGVkJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgVmVyaWZ5IGV2ZW50IHN0YXRzIGNvbnNpc3RlbmNlCiAgICA6cGFyYW0gaGRmc19uZXdfc3RhdHNfcGF0aDogIEhERlMgcGF0aCB0byBuZXcgZXZlbnQKICAgIDpwYXJhbSBoZGZzX2hpc3Rvcnlfc3RhdHNfcGF0aDogIEhERlMgcGF0aCB0byBoaXN0b3J5IGV2ZW50cwogICAgOnJldHVybjoKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJy0gT0snCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1haW4K</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2dnaW5nOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
