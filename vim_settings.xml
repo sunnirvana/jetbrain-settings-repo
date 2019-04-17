@@ -17,7 +17,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1555483996296">
+      <file name="/a.dummy" timestamp="1555505480798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_eid_generation.py" timestamp="1555434192708">
@@ -26,6 +26,7 @@
         <mark key="^" line="19" column="41" />
         <mark key="." line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/2_3_eid_generation_test.py" timestamp="1555503638218" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_map_checker.py" timestamp="1555422941972">
         <mark key="'" line="12" column="62" />
         <mark key="[" line="22" column="96" />
@@ -96,11 +97,12 @@
         <mark key="." line="11" column="82" />
         <mark key="^" line="11" column="82" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" timestamp="1555484294002">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" timestamp="1555505407458">
+        <mark key="'" line="50" column="96" />
+        <mark key="[" line="36" column="51" />
+        <mark key="]" line="36" column="49" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/eid_generation.py" timestamp="1555407507534">
         <mark key="'" line="87" column="8" />
@@ -129,6 +131,12 @@
         <mark key="." line="43" column="100" />
         <mark key="^" line="43" column="100" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_eid_generation.py" timestamp="1555506536885">
+        <mark key="[" line="18" column="118" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_db.py" timestamp="1552448833776">
         <mark key="[" line="17" column="157" />
         <mark key="]" line="18" column="3" />
@@ -147,6 +155,13 @@
         <mark key="]" line="35" column="13" />
         <mark key="." line="35" column="13" />
         <mark key="^" line="35" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" timestamp="1555506062906">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="14" />
+        <mark key="." line="58" column="14" />
+        <mark key="^" line="58" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test/test_db.py" timestamp="1552447882613">
         <mark key="[" line="1" column="4" />
@@ -211,6 +226,12 @@
         <mark key="]" line="110" column="23" />
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" timestamp="1555506122725">
+        <mark key="'" line="15" column="15" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/event_detection.py" timestamp="1555421637511">
         <mark key="'" line="218" column="16" />
@@ -394,6 +415,12 @@
         <mark key="^" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/2_5_rule_based_events_detection/area_checker.py" timestamp="1555483266754" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_event_detection.py" timestamp="1555505684749">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="24" column="11" />
+      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/web_cmd.py" timestamp="1552304847252">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="58" column="0" />
@@ -421,6 +448,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_data/CTF_store/xy_f.json" timestamp="1555501656154" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/2_3_eid_generation/test_eid_json_consistency.py" timestamp="1555483272919" />
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_fs.py" timestamp="1554292580973">
         <mark key="[" line="26" column="41" />
@@ -462,21 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="25" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/logger.py" />
-      <jump line="9" column="55" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_logger.py" />
-      <jump line="55" column="62" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_syscall.py" />
-      <jump line="25" column="5" filename="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_time.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" />
-      <jump line="55" column="5" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="54" column="5" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_hdfs.py" />
-      <jump line="204" column="52" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="118" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="42" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="144" column="38" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
-      <jump line="177" column="33" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfiiation_eid_generation.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
@@ -562,64 +575,77 @@
       <jump line="45" column="25" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" />
       <jump line="49" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" />
       <jump line="17" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" />
+      <jump line="34" column="3" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" />
+      <jump line="51" column="96" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" />
+      <jump line="0" column="77" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_event_detection.py" />
+      <jump line="31" column="43" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_event_detection.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" />
+      <jump line="24" column="6" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="122" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="121" column="19" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="120" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="96" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="53" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB5dGVzdC4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
       </register>
       <register name="-" type="4">
-        <text>ctf_xhm_store_area</text>
+        <text>modules</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbG9vclw+</text>
+        <text>__str__</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN2Mi5jaXJjbGUoaW1hZ2UsIChpbnQocHRfeCksIGludChwdF95KSksIDEsICgwLCAwLCAyNTUpLCAtMSkK</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5dGVzdC4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBweQo=</text>
+        <text encoding="base64">ICAgIF9fcmVwcl9fID0gX19zdHJfXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHB5dGVzdC54ZmFpbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLmNpcmNsZShpbWFnZSwgKGludChwdF94KSwgaW50KHB0X3kpKSwgMSwgKDAsIDAsIDI1NSksIC0xKQo=</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9jaGVja19mdW5jKCk6CiMgICAgICMgc3RhdHNfdGVtcGwgPSAnJycKIyAgICAgIyBDT1VOVEVSIFZJU0lUIAkgIyBvZiByZWxhdGVkIGN1c3RvbWVycyB7fSAJICMgb2YgcmVsYXRlZCBzdGFmZnMge30gCSAjIG9mIGV2ZW50cyB7fQojICAgICAjIFJFQ0VQVElPTiAJICMgb2YgcmVsYXRlZCBjdXN0b21lcnMge30gCSAjIG9mIHJlbGF0ZWQgc3RhZmZzIHt9IAkgIyBvZiBldmVudHMge30KIyAgICAgIyBJTk9VVCAJCSAjIG9mIHJlbGF0ZWQgY3VzdG9tZXJzIHt9IAkgIyBvZiByZWxhdGVkIHN0YWZmcyB7fSAJICMgb2YgZXZlbnRzIHt9CiMgICAgICMgJycnCiMgICAgICMKIyAgICAgIyBkZWYgZ2VuX3N0YXRfY29udGVudCgpOgojICAgICAjICAgICBhcmdzID0gW3JhbmRpbnQoMCwgMTAwMCkgZm9yIF8gaW4gcmFuZ2UoOSldCiMgICAgICMgICAgIHJldHVybiBzdGF0c190ZW1wbC5mb3JtYXQoKmFyZ3MpCiMKIyAgICAgd2l0aCBUZW1wb3JhcnlEaXJlY3RvcnkoKSBhcyB0ZXN0X2RpcjoKIyAgICAgICAgICMgIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCA9IG9zLnBhdGguam9pbih0ZXN0X2RpciwgJ2hpc3Rvcnlfc3RhdHMnKQojICAgICAgICAgIyAgb3MubWtkaXIobG9jYWxfaGlzdG9yeV9zdGF0c19wYXRoKQojICAgICAgICAgIyAgaGRmc19oaXN0b3J5X3N0YXRzID0gJy9wcm9kL2N1c3RvbWVyL0NURi9iZWlqaW5nL3djYy9ldmVudHMnCiMgICAgICAgICAjICBldmVudF9kZXRlY3Rpb24uZG93bmxvYWRfaGlzdG9yeV9zdGF0cyhoZGZzX2hpc3Rvcnlfc3RhdHMsIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCkKIwojCiMgICAgICAgICBsb2NhbF9oaXN0b3J5X3N0YXRzX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoJy4vdGVzdC90ZXN0X2RhdGEvQ1RGX2JlaWppbmdfd2NjX2V2ZW50cycpCiMgICAgICAgICBzdGF0c19maWxlID0gb3MucGF0aC5qb2luKGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCwgJzIwMTkwMzA0JywgJ2V2ZW50cy5jcwojICAgICAgICAgdGltZXMgPSAxMAojICAgICAgICAgZm9yIGkgaW4gcmFuZ2UodGltZXMpOgojICAgICAgICAgICAgIHByaW50KCdJbnRlcm5hbCB0ZXN0IHJ1biAnLCBpKQojICAgICAgICAgICAgICMgY29udGVudCA9IGdlbl9zdGF0X2NvbnRlbnQoKQojICAgICAgICAgICAgICMgcHJpbnQoY29udGVudCkKIyAgICAgICAgICAgICAjIG9wZW4oc3RhdHNfZmlsZSwgJ3cnKS53cml0ZShjb250ZW50KQojICAgICAgICAgICAgIGV2ZW50X2RldGVjdGlvbi5jaGVja19uZXdfZXZlbnRzKHN0YXRzX2ZpbGUsIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpICUgNTAwMCA9PSAwOgogICAgICAgICAgICBjdjIuaW13cml0ZShkYXRhX3BhdGggKyAnLXt9LmpwZycuZm9ybWF0KGkpLCBpbWFnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9wYXRoID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoInh5IiwgdHlwZT1zdHIsIGhlbHA9ImNhY2hlIHBhdGgiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiZmxvb3IiLCB0eXBlPXN0ciwgZGVmYXVsdD1Ob25lLCBoZWxwPSJjYW1lcmFJbmZvIGRpcmVjdG9yeSIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCJvdXRwdXRQYXRoIiwgdHlwZT1zdHIsIGRlZmF1bHQ9Tm9uZSwgaGVscD0ib3V0cHV0IGRpcmVjdG9yeSIpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIsIHRyYWNlYmFjaywgc3lzCg==</text>
+        <text encoding="base64">ICAgIGZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBhcmdwYXJzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmbG9vclw+</last-search>
+      <last-search>__str__</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbG9vclw+</last-pattern>
+      <last-pattern>__str__</last-pattern>
       <last-replace>is</last-replace>
       <last-substitute>==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfcGlkc1w+</entry>
-        <entry encoding="base64">XDxnZXRfYWxsX2VpZHNcPg==</entry>
         <entry encoding="base64">XDxkb3dubG9hZF9laWRfanNvblw+</entry>
         <entry encoding="base64">XDxwYXJzZV9udW1zXD4=</entry>
         <entry encoding="base64">XDxkb3dubG9hZF9oaXN0b3J5X2V2ZW50c1w+</entry>
@@ -638,9 +664,10 @@
         <entry>==</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxmbG9vclw+</entry>
+        <entry encoding="base64">XDxBcmVhQ2hlY2tlclw+</entry>
+        <entry>__str__</entry>
       </history-search>
       <history-cmd>
-        <entry>350</entry>
         <entry>246</entry>
         <entry>set nu</entry>
         <entry>12</entry>
@@ -659,6 +686,7 @@
         <entry>297</entry>
         <entry encoding="base64">JzwsJz5zLz09L2lzL2c=</entry>
         <entry>48</entry>
+        <entry>31</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
