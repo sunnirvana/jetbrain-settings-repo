@@ -442,7 +442,12 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_xy_tracking_continuity.py" timestamp="1555511092292" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_xy_tracking_continuity.py" timestamp="1555513220480">
+        <mark key="[" line="70" column="108" />
+        <mark key="]" line="70" column="108" />
+        <mark key="^" line="58" column="55" />
+        <mark key="." line="70" column="108" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_data/CTF_store/xy_f.json" timestamp="1555501656154" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/2_3_eid_generation/test_eid_json_consistency.py" timestamp="1555483272919" />
       <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_fs.py" timestamp="1554292580973">
@@ -588,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>failed_pid_set</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>failed_pid_set</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>__str__</text>
@@ -600,50 +605,42 @@
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnRmFpbGVkIFBJRCBjb3VudDogICAgICAgICAgICAgICAgICAgICAgICAlcycsIGxlbihmYWlsZWRfcGlkX3NldCkpCg==</text>
       </register>
       <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
+      </register>
+      <register name="5" type="8">
+        <text>info
+info
+info
+info
+info</text>
+      </register>
+      <register name="6" type="8">
         <text>error
 error
 error
 error
 error</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWxsX3BpZF9zZXQuYWRkKHRyYWNrWydwaWQnXSkK</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>info
 info
 info
 info</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYWNrX21vdmVfaW5mbyA9IFtdCg==</text>
-      </register>
-      <register name="5" type="8">
-        <text>debug
-debug
-debug
-debug
-debug</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdUb3RhbCBudW1iZXIgaXMge30nLmZvcm1hdChsZW4odHJhY2tfZXJyb3IpKQo=</text>
-      </register>
-      <register name="7" type="8">
-        <text>nfo
-nfo
-nfo
-nfo
-nfo</text>
-      </register>
-      <register name="8" type="8">
-        <text>i
-i
-i
-i
-i</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnVHJhY2sgaW5mbyAoJXMpLCBtaW46ICVzLCBtYXg6ICVzLCBtZWFuOiAlcywgbWVkaWF0ZTogJXMsIDk1dGggcGVyY2VudGlsZSAlcycsIGxlbihzb3J0ZWRfaW5mbyksIHNvcnRlZF9pbmZvWzBdLCBzb3J0ZWRfaW5mb1stMV0sIG5wLm1lYW4oc29ydGVkX2luZm8pLCBucC5tZWRpYW4oc29ydGVkX2luZm8pLCBucC5wZXJjZW50aWxlKHNvcnRlZF9pbmZvLCA5NSkpCg==</text>
+        <text encoding="base64">ICAgIHRyYWNrX21vdmVfaW5mbyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
