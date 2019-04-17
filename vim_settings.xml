@@ -97,7 +97,7 @@
         <mark key="." line="11" column="82" />
         <mark key="^" line="11" column="82" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" timestamp="1555505407458">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" timestamp="1555507427398">
         <mark key="'" line="50" column="96" />
         <mark key="[" line="36" column="51" />
         <mark key="]" line="36" column="49" />
@@ -131,7 +131,7 @@
         <mark key="." line="43" column="100" />
         <mark key="^" line="43" column="100" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_eid_generation.py" timestamp="1555506536885">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_eid_generation.py" timestamp="1555507157032">
         <mark key="[" line="18" column="118" />
         <mark key="]" line="19" column="3" />
         <mark key="." line="19" column="3" />
@@ -156,12 +156,12 @@
         <mark key="." line="35" column="13" />
         <mark key="^" line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" timestamp="1555506062906">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="58" column="14" />
-        <mark key="." line="58" column="14" />
-        <mark key="^" line="58" column="14" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" timestamp="1555507180679">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test/test_db.py" timestamp="1552447882613">
         <mark key="[" line="1" column="4" />
@@ -490,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
       <jump line="179" column="3" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" />
@@ -590,10 +589,11 @@
       <jump line="53" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
       <jump line="12" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
       <jump line="15" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
+        <text encoding="base64">QHB5dGVzdC4K</text>
       </register>
       <register name="-" type="4">
         <text>modules</text>
@@ -605,19 +605,19 @@
         <text encoding="base64">QHB5dGVzdC5tYXJrLnhmYWlsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
+        <text encoding="base64">QHB5dGVzdC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9fcmVwcl9fID0gX19zdHJfXwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC54ZmFpbAo=</text>
+        <text encoding="base64">ICAgIF9fcmVwcl9fID0gX19zdHJfXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9jaGVja19mdW5jKCk6CiMgICAgICMgc3RhdHNfdGVtcGwgPSAnJycKIyAgICAgIyBDT1VOVEVSIFZJU0lUIAkgIyBvZiByZWxhdGVkIGN1c3RvbWVycyB7fSAJICMgb2YgcmVsYXRlZCBzdGFmZnMge30gCSAjIG9mIGV2ZW50cyB7fQojICAgICAjIFJFQ0VQVElPTiAJICMgb2YgcmVsYXRlZCBjdXN0b21lcnMge30gCSAjIG9mIHJlbGF0ZWQgc3RhZmZzIHt9IAkgIyBvZiBldmVudHMge30KIyAgICAgIyBJTk9VVCAJCSAjIG9mIHJlbGF0ZWQgY3VzdG9tZXJzIHt9IAkgIyBvZiByZWxhdGVkIHN0YWZmcyB7fSAJICMgb2YgZXZlbnRzIHt9CiMgICAgICMgJycnCiMgICAgICMKIyAgICAgIyBkZWYgZ2VuX3N0YXRfY29udGVudCgpOgojICAgICAjICAgICBhcmdzID0gW3JhbmRpbnQoMCwgMTAwMCkgZm9yIF8gaW4gcmFuZ2UoOSldCiMgICAgICMgICAgIHJldHVybiBzdGF0c190ZW1wbC5mb3JtYXQoKmFyZ3MpCiMKIyAgICAgd2l0aCBUZW1wb3JhcnlEaXJlY3RvcnkoKSBhcyB0ZXN0X2RpcjoKIyAgICAgICAgICMgIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCA9IG9zLnBhdGguam9pbih0ZXN0X2RpciwgJ2hpc3Rvcnlfc3RhdHMnKQojICAgICAgICAgIyAgb3MubWtkaXIobG9jYWxfaGlzdG9yeV9zdGF0c19wYXRoKQojICAgICAgICAgIyAgaGRmc19oaXN0b3J5X3N0YXRzID0gJy9wcm9kL2N1c3RvbWVyL0NURi9iZWlqaW5nL3djYy9ldmVudHMnCiMgICAgICAgICAjICBldmVudF9kZXRlY3Rpb24uZG93bmxvYWRfaGlzdG9yeV9zdGF0cyhoZGZzX2hpc3Rvcnlfc3RhdHMsIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCkKIwojCiMgICAgICAgICBsb2NhbF9oaXN0b3J5X3N0YXRzX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoJy4vdGVzdC90ZXN0X2RhdGEvQ1RGX2JlaWppbmdfd2NjX2V2ZW50cycpCiMgICAgICAgICBzdGF0c19maWxlID0gb3MucGF0aC5qb2luKGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCwgJzIwMTkwMzA0JywgJ2V2ZW50cy5jcwojICAgICAgICAgdGltZXMgPSAxMAojICAgICAgICAgZm9yIGkgaW4gcmFuZ2UodGltZXMpOgojICAgICAgICAgICAgIHByaW50KCdJbnRlcm5hbCB0ZXN0IHJ1biAnLCBpKQojICAgICAgICAgICAgICMgY29udGVudCA9IGdlbl9zdGF0X2NvbnRlbnQoKQojICAgICAgICAgICAgICMgcHJpbnQoY29udGVudCkKIyAgICAgICAgICAgICAjIG9wZW4oc3RhdHNfZmlsZSwgJ3cnKS53cml0ZShjb250ZW50KQojICAgICAgICAgICAgIGV2ZW50X2RldGVjdGlvbi5jaGVja19uZXdfZXZlbnRzKHN0YXRzX2ZpbGUsIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCkK</text>
+        <text encoding="base64">QHB5dGVzdC54ZmFpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9jaGVja19mdW5jKCk6CiMgICAgICMgc3RhdHNfdGVtcGwgPSAnJycKIyAgICAgIyBDT1VOVEVSIFZJU0lUIAkgIyBvZiByZWxhdGVkIGN1c3RvbWVycyB7fSAJICMgb2YgcmVsYXRlZCBzdGFmZnMge30gCSAjIG9mIGV2ZW50cyB7fQojICAgICAjIFJFQ0VQVElPTiAJICMgb2YgcmVsYXRlZCBjdXN0b21lcnMge30gCSAjIG9mIHJlbGF0ZWQgc3RhZmZzIHt9IAkgIyBvZiBldmVudHMge30KIyAgICAgIyBJTk9VVCAJCSAjIG9mIHJlbGF0ZWQgY3VzdG9tZXJzIHt9IAkgIyBvZiByZWxhdGVkIHN0YWZmcyB7fSAJICMgb2YgZXZlbnRzIHt9CiMgICAgICMgJycnCiMgICAgICMKIyAgICAgIyBkZWYgZ2VuX3N0YXRfY29udGVudCgpOgojICAgICAjICAgICBhcmdzID0gW3JhbmRpbnQoMCwgMTAwMCkgZm9yIF8gaW4gcmFuZ2UoOSldCiMgICAgICMgICAgIHJldHVybiBzdGF0c190ZW1wbC5mb3JtYXQoKmFyZ3MpCiMKIyAgICAgd2l0aCBUZW1wb3JhcnlEaXJlY3RvcnkoKSBhcyB0ZXN0X2RpcjoKIyAgICAgICAgICMgIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCA9IG9zLnBhdGguam9pbih0ZXN0X2RpciwgJ2hpc3Rvcnlfc3RhdHMnKQojICAgICAgICAgIyAgb3MubWtkaXIobG9jYWxfaGlzdG9yeV9zdGF0c19wYXRoKQojICAgICAgICAgIyAgaGRmc19oaXN0b3J5X3N0YXRzID0gJy9wcm9kL2N1c3RvbWVyL0NURi9iZWlqaW5nL3djYy9ldmVudHMnCiMgICAgICAgICAjICBldmVudF9kZXRlY3Rpb24uZG93bmxvYWRfaGlzdG9yeV9zdGF0cyhoZGZzX2hpc3Rvcnlfc3RhdHMsIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCkKIwojCiMgICAgICAgICBsb2NhbF9oaXN0b3J5X3N0YXRzX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoJy4vdGVzdC90ZXN0X2RhdGEvQ1RGX2JlaWppbmdfd2NjX2V2ZW50cycpCiMgICAgICAgICBzdGF0c19maWxlID0gb3MucGF0aC5qb2luKGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCwgJzIwMTkwMzA0JywgJ2V2ZW50cy5jcwojICAgICAgICAgdGltZXMgPSAxMAojICAgICAgICAgZm9yIGkgaW4gcmFuZ2UodGltZXMpOgojICAgICAgICAgICAgIHByaW50KCdJbnRlcm5hbCB0ZXN0IHJ1biAnLCBpKQojICAgICAgICAgICAgICMgY29udGVudCA9IGdlbl9zdGF0X2NvbnRlbnQoKQojICAgICAgICAgICAgICMgcHJpbnQoY29udGVudCkKIyAgICAgICAgICAgICAjIG9wZW4oc3RhdHNfZmlsZSwgJ3cnKS53cml0ZShjb250ZW50KQojICAgICAgICAgICAgIGV2ZW50X2RldGVjdGlvbi5jaGVja19uZXdfZXZlbnRzKHN0YXRzX2ZpbGUsIGxvY2FsX2hpc3Rvcnlfc3RhdHNfcGF0aCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -626,10 +626,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
