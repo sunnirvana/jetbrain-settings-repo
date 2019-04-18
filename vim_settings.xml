@@ -481,11 +481,11 @@
         <mark key="." line="15" column="79" />
         <mark key="^" line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555404217462">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="16" column="8" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555559452511">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
@@ -681,7 +681,6 @@ error</text>
         <entry>__str__</entry>
       </history-search>
       <history-cmd>
-        <entry>246</entry>
         <entry>set nu</entry>
         <entry>12</entry>
         <entry>W</entry>
@@ -700,6 +699,7 @@ error</text>
         <entry encoding="base64">JzwsJz5zLz09L2lzL2c=</entry>
         <entry>48</entry>
         <entry>31</entry>
+        <entry encoding="base64">dnNwIA==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
