@@ -53,11 +53,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" timestamp="1555582606029">
-        <mark key="[" line="65" column="56" />
-        <mark key="]" line="59" column="37" />
-        <mark key="^" line="59" column="37" />
-        <mark key="." line="59" column="37" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" timestamp="1555583187383">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="39" />
+        <mark key="^" line="69" column="100" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552383458014">
         <mark key="'" line="8" column="23" />
@@ -329,10 +330,10 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.bak.py" timestamp="1555580962816">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.bak.py" timestamp="1555583201669">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="44" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="44" />
         <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/.gitignore" timestamp="1555316568432">
@@ -560,12 +561,12 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555574953070">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="46" />
-        <mark key="^" line="48" column="46" />
-        <mark key="." line="48" column="46" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555583748936">
+        <mark key="'" line="50" column="6" />
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+        <mark key="^" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
@@ -663,7 +664,6 @@
       <jump line="213" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="434" column="35" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="369" column="49" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
-      <jump line="70" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="15" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="435" column="35" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="370" column="49" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
@@ -675,46 +675,47 @@
       <jump line="211" column="35" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.bak.py" />
       <jump line="146" column="49" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.bak.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.bak.py" />
+      <jump line="70" column="21" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfb2soKQogICAgZWxzZToKICAgICAgICBsb2dfa28oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>test_trackings</text>
       </register>
       <register name="-" type="4">
-        <text>customers</text>
+        <text>test_trackings</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZXZlbnRzX2NvdW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lc19jb3VudHMgPSBkYXRhX3Byb3ZpZGVyWzBdCiAgICAgICAgc3RvcmVfY29uZmlnID0gZGF0YV9wcm92aWRlclsyXQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnTW92ZW1lbnQgc3RhbmRhcmQgICVzJywgaGlzdG9yeV9ldmVudHNfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfb2soKQogICAgZWxzZToKICAgICAgICBsb2dfa28oKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gc3JjLm1vZHVsZXMuZXZlbnRfZGV0ZWN0aW9uIGltcG9ydCBtYWluCiAgICBtYWluKGhkZnNfbmV3X3N0YXRzX3BhdGg9bmV3X2V2ZW50c19wYXRoLAogICAgICAgICBoZGZzX2hpc3Rvcnlfc3RhdHNfcGF0aD1oaXN0b3J5X2V2ZW50c19wYXRoLAogICAgICAgICBzdG9yZV9hcmVhX2pzb249c3RvcmVfYXJlYV9qc29uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHRpbWVzX2NvdW50c1snSU5PVVQnXVsnY3VzdG9tZXJzJ10gPiAwOgogICAgICAgIGxvZ19vaygpCiAgICBlbHNlOgogICAgICAgIGxvZ19rbygpCg==</text>
+        <text encoding="base64">QGNsaWNrLmNvbW1hbmQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZV9jb25maWcgPSBkYXRhX3Byb3ZpZGVyWzJdCg==</text>
+        <text encoding="base64">QGNsaV9ncm91cC5jb21tYW5kKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19rbygpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dfb2soKQogICAgZWxzZToKICAgICAgICBsb2dfa28oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dfb2soKQoK</text>
+        <text encoding="base64">ICAgICAgICBsb2dfb2soKQogICAgZWxzZToKICAgICAgICBsb2dfa28oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHRpbWVzX2NvdW50c1snSU5PVVQnXVsnY3VzdG9tZXJzJ10gPiAwOgogICAgICAgIGxvZ19vaygpCiAgICBlbHNlOgogICAgICAgIGxvZ19rbygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19rbygpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZV9jb25maWcgPSBkYXRhX3Byb3ZpZGVyWzJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IFRydWUKICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -754,7 +755,6 @@
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>neofo</entry>
         <entry>113</entry>
@@ -771,6 +771,7 @@
         <entry>31</entry>
         <entry encoding="base64">dnNwIA==</entry>
         <entry>12</entry>
+        <entry>W</entry>
         <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
