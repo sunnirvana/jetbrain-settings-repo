@@ -259,12 +259,12 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555650547544">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="53" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="53" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555652076288">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="51" column="57" />
+        <mark key="]" line="51" column="50" />
+        <mark key="." line="51" column="50" />
+        <mark key="^" line="51" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554715504703">
         <mark key="[" line="22" column="7" />
@@ -472,6 +472,7 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/proto/online_tracking_results_pb2.py" timestamp="1555652253873" />
       <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
         <mark key="'" line="139" column="4" />
         <mark key="[" line="131" column="43" />
