@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_tracking.py" timestamp="1555574609750">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/main.py" timestamp="1553763501615">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="113" column="28" />
@@ -22,22 +16,6 @@
         <mark key="]" line="215" column="0" />
         <mark key="^" line="17" column="30" />
         <mark key="." line="215" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1555574654727">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_eid_generation.py" timestamp="1555434192708">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/tmp/.gitignore" timestamp="1555594958898">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_map_checker.py" timestamp="1555422941972">
         <mark key="'" line="12" column="62" />
@@ -53,14 +31,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" timestamp="1555663499688">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="29" />
-        <mark key="." line="63" column="29" />
-        <mark key="^" line="63" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" timestamp="1555659109948">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" timestamp="1555669571620">
         <mark key="'" line="165" column="14" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -81,82 +52,13 @@
         <mark key="^" line="376" column="56" />
         <mark key="." line="376" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/config.py" timestamp="1555566632880">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/test.sh" timestamp="1552441593932">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="60" />
-        <mark key="^" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/area_map.py" timestamp="1555407566790">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_bash_dag.py" timestamp="1554916816735">
-        <mark key="[" line="15" column="79" />
-        <mark key="]" line="15" column="76" />
-        <mark key="." line="15" column="76" />
-        <mark key="^" line="15" column="76" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/define.py" timestamp="1552295264118">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test/.gitignore" timestamp="1552447053308">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_python_dag.py" timestamp="1554883086920">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="82" />
-        <mark key="." line="11" column="82" />
-        <mark key="^" line="11" column="82" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" timestamp="1555511043957">
-        <mark key="'" line="9" column="89" />
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="19" />
-        <mark key="." line="61" column="19" />
-        <mark key="^" line="64" column="78" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/venv/lib/python3.7/site-packages/pytest_html/plugin.py" timestamp="1555666792418" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/eid_generation.py" timestamp="1555407507534">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
-        <mark key="^" line="44" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_eid_gen.py" timestamp="1555659115990">
-        <mark key="'" line="24" column="21" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/verfication_event_detection.py" timestamp="1555073056447">
         <mark key="'" line="5" column="30" />
         <mark key="[" line="183" column="17" />
         <mark key="]" line="183" column="35" />
         <mark key="." line="183" column="35" />
         <mark key="^" line="183" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_tracking_continuity.py" timestamp="1555573217736">
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="61" />
-        <mark key="." line="26" column="61" />
-        <mark key="^" line="26" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/requirements.txt" timestamp="1555596038875" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/modules/common_push/server_post.py" timestamp="1552371876904">
@@ -166,41 +68,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/utils/db.py" timestamp="1552394669162">
-        <mark key="[" line="43" column="103" />
-        <mark key="]" line="43" column="100" />
-        <mark key="." line="43" column="100" />
-        <mark key="^" line="43" column="100" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.py" timestamp="1555574636381">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/g_config.py" timestamp="1555569173451">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_eid_generation.py" timestamp="1555649927231">
         <mark key="[" line="18" column="118" />
         <mark key="]" line="19" column="3" />
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test_db.py" timestamp="1552448833776">
-        <mark key="[" line="17" column="157" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1554172207084">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Escher/wild_dogs.py" timestamp="1553236342978">
         <mark key="'" line="25" column="15" />
@@ -208,25 +80,6 @@
         <mark key="]" line="35" column="13" />
         <mark key="." line="35" column="13" />
         <mark key="^" line="35" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" timestamp="1555663712439">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test/test_db.py" timestamp="1552447882613">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_config.py" timestamp="1555569685521">
-        <mark key="[" line="12" column="61" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_3_eid_generation.py" timestamp="1555649138755">
         <mark key="[" line="34" column="0" />
@@ -248,63 +101,12 @@
         <mark key="." line="3" column="89" />
         <mark key="^" line="3" column="89" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/area_checker.py" timestamp="1555423554700">
-        <mark key="[" line="66" column="21" />
-        <mark key="]" line="115" column="37" />
-        <mark key="^" line="115" column="37" />
-        <mark key="." line="115" column="37" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_data/test_toml_config.py" timestamp="1555568197075">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555667463059">
-        <mark key="'" line="109" column="28" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="110" column="61" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554715504703">
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="22" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_config.py" timestamp="1552896378360">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="128" column="88" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test/test_materials/eval_test/.gitignore" timestamp="1553762814704">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" timestamp="1555456814839">
-        <mark key="'" line="17" column="37" />
-        <mark key="[" line="35" column="70" />
-        <mark key="]" line="35" column="72" />
-        <mark key="." line="35" column="72" />
-        <mark key="^" line="35" column="72" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/setup.py" timestamp="1552394661061">
         <mark key="'" line="30" column="1" />
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="28" column="49" />
         <mark key="." line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/modules/tester.py" timestamp="1552394757870">
-        <mark key="[" line="109" column="90" />
-        <mark key="]" line="110" column="23" />
-        <mark key="^" line="110" column="23" />
-        <mark key="." line="110" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" timestamp="1555659128002">
         <mark key="'" line="41" column="21" />
@@ -313,32 +115,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_script_v3.py" timestamp="1552015081864">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="^" line="306" column="21" />
         <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/Readme.md" timestamp="1552876328137">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="49" column="2" />
-        <mark key="]" line="50" column="6" />
-        <mark key="." line="50" column="6" />
-        <mark key="^" line="50" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/reporter.py" timestamp="1553763398534">
-        <mark key="[" line="17" column="60" />
-        <mark key="]" line="17" column="60" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="17" column="60" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/requirements.txt" timestamp="1552393989711">
         <mark key="'" line="8" column="10" />
@@ -353,18 +135,161 @@
         <mark key="]" line="250" column="44" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/.gitignore" timestamp="1555595736298">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/common_push_tester/main.py" timestamp="1552394786192">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="4" />
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_hdfs.py" timestamp="1555237117154">
+        <mark key="'" line="54" column="5" />
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1554134906524">
+        <mark key="'" line="246" column="22" />
+        <mark key="[" line="274" column="112" />
+        <mark key="]" line="274" column="133" />
+        <mark key="." line="274" column="133" />
+        <mark key="^" line="274" column="133" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554722638931">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
+        <mark key="^" line="62" column="24" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1552052278823">
+        <mark key="'" line="55" column="13" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
+        <mark key="'" line="139" column="4" />
+        <mark key="[" line="131" column="43" />
+        <mark key="]" line="131" column="51" />
+        <mark key="." line="131" column="51" />
+        <mark key="^" line="131" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
+        <mark key="'" line="107" column="75" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="5" />
+        <mark key="." line="179" column="5" />
+        <mark key="^" line="179" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_data/CTF_store/areas.json" timestamp="1555669338052" />
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1553475868700">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="33" column="200" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" timestamp="1553764599947">
+        <mark key="'" line="49" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/venv/lib/python3.7/site-packages/pytest_html/extras.py" timestamp="1555670274022" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555669516789">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/tmp/.gitignore" timestamp="1555594958898">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" timestamp="1555663499688">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="63" column="29" />
+        <mark key="." line="63" column="29" />
+        <mark key="^" line="63" column="29" />
+      </file>
+      <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/common.py" timestamp="1555668690729" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_track_continuity.py" timestamp="1555511043957">
+        <mark key="'" line="9" column="89" />
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="19" />
+        <mark key="." line="61" column="19" />
+        <mark key="^" line="64" column="78" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/modules/eid_generation.py" timestamp="1555407507534">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+        <mark key="^" line="44" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_eid_gen.py" timestamp="1555659115990">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" timestamp="1555663712439">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_data/test_toml_config.py" timestamp="1555568197075">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="46" column="51" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555670332294">
+        <mark key="'" line="106" column="23" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" timestamp="1555456814839">
+        <mark key="'" line="17" column="37" />
+        <mark key="[" line="35" column="70" />
+        <mark key="]" line="35" column="72" />
+        <mark key="." line="35" column="72" />
+        <mark key="^" line="35" column="72" />
+      </file>
+      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/.gitignore" timestamp="1552020570669">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/Readme.md" timestamp="1552876328137">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
+        <mark key="^" line="50" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/tester.py" timestamp="1552908361129">
         <mark key="'" line="101" column="8" />
@@ -387,76 +312,12 @@
         <mark key="." line="86" column="50" />
         <mark key="^" line="86" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/dag_concept.py" timestamp="1554702396102">
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="13" column="62" />
-        <mark key="." line="13" column="62" />
-        <mark key="^" line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/test/test_materials/eval_test/get_data.sh" timestamp="1553762755280">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="51" />
-        <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_hdfs.py" timestamp="1555237117154">
-        <mark key="'" line="54" column="5" />
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/airflow_dags/dockerfiles/Dockerfile" timestamp="1554721506348">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/.gitignore" timestamp="1554172218316">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/face_feature.py" timestamp="1552015199671">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/evaluation_v02.py" timestamp="1553486838210">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="192" column="43" />
         <mark key="]" line="192" column="35" />
         <mark key="." line="192" column="35" />
         <mark key="^" line="192" column="35" />
-      </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552441019407">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="42" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/reporter/generate_daily_prod_report.py" timestamp="1554134906524">
-        <mark key="'" line="246" column="22" />
-        <mark key="[" line="274" column="112" />
-        <mark key="]" line="274" column="133" />
-        <mark key="." line="274" column="133" />
-        <mark key="^" line="274" column="133" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/yubo_test.py" timestamp="1554722638931">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="24" />
-        <mark key="." line="62" column="24" />
-        <mark key="^" line="62" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/main.py" timestamp="1555215864832">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main_cli.py" timestamp="1552392961388">
         <mark key="'" line="96" column="31" />
@@ -465,27 +326,7 @@
         <mark key="^" line="41" column="23" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar/post.py" timestamp="1552052278823">
-        <mark key="'" line="55" column="13" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/test_config.py" timestamp="1555567969442">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/proto/online_tracking_results_pb2.py" timestamp="1555652253873" />
-      <file name="$USER_HOME$/Workspace/projects/merge_video.py" timestamp="1552639398467">
-        <mark key="'" line="139" column="4" />
-        <mark key="[" line="131" column="43" />
-        <mark key="]" line="131" column="51" />
-        <mark key="." line="131" column="51" />
-        <mark key="^" line="131" column="51" />
-      </file>
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/post.py" timestamp="1552016226578">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="95" column="0" />
@@ -493,18 +334,12 @@
         <mark key="^" line="39" column="19" />
         <mark key="." line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" timestamp="1555667473462">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="92" column="33" />
-        <mark key="]" line="92" column="44" />
-        <mark key="^" line="92" column="44" />
-        <mark key="." line="92" column="44" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_event_detection.py" timestamp="1555350752070">
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="64" />
-        <mark key="." line="15" column="64" />
-        <mark key="^" line="15" column="64" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" timestamp="1555670129059">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="20" />
+        <mark key="^" line="62" column="20" />
+        <mark key="." line="62" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_event_detection.py" timestamp="1555641227508">
         <mark key="'" line="10" column="22" />
@@ -527,79 +362,14 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/generate_final_prodresults/generate_daily_prod_report.py" timestamp="1552996896839">
-        <mark key="'" line="107" column="75" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="5" />
-        <mark key="." line="179" column="5" />
-        <mark key="^" line="179" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/2_5_rule_based_events_detection/test_tracking_continuity.py" timestamp="1555483687871">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_xy_tracking_continuity.py" timestamp="1555552016273">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="64" column="56" />
-        <mark key="^" line="61" column="55" />
-        <mark key="." line="64" column="56" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/qa-awesome-utils/utils/qa_fs.py" timestamp="1554292580973">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/modules/common_push/server_cmd.py" timestamp="1553475868700">
-        <mark key="'" line="60" column="8" />
-        <mark key="[" line="33" column="200" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="42" />
-        <mark key="^" line="38" column="42" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/logger.py" timestamp="1553764599947">
-        <mark key="'" line="49" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/codes/airflow/dags/my_dag1.py" timestamp="1554867839486">
-        <mark key="[" line="15" column="79" />
-        <mark key="]" line="15" column="79" />
-        <mark key="." line="15" column="79" />
-        <mark key="^" line="15" column="79" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/config.toml" timestamp="1555662595816">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555666139991">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="777" />
-        <mark key="^" line="5" column="777" />
-        <mark key="." line="5" column="777" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_tracking.py" />
-      <jump line="13" column="14" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
-      <jump line="56" column="3" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
-      <jump line="216" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
-      <jump line="446" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
-      <jump line="213" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
-      <jump line="434" column="35" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="369" column="49" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="15" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="435" column="35" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
@@ -686,26 +456,33 @@
       <jump line="100" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="30" column="66" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="104" column="18" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="109" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="95" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
+      <jump line="104" column="26" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
+      <jump line="7" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
+      <jump line="110" column="30" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
+      <jump line="29" column="18" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
+      <jump line="71" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
+      <jump line="105" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tmpdir</text>
+        <text>store_area_config</text>
       </register>
       <register name="-" type="4">
-        <text>tmpdir</text>
+        <text>store_area_config</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4eV9qc29uXD4=</text>
+        <text encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>os.path.join('src', 'test_cases', 'test_trackings.py')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjdjIuaW13cml0ZShvcy5wYXRoLmpvaW4oZ2V0X3RtcGRpcigpLCAnbGFiZWxsZWRfZmxvb3IuanBnJyksIGZsb29yX2ltZykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0ZW1wZmlsZSBpbXBvcnQgVGVtcG9yYXJ5RGlyZWN0b3J5Cg==</text>
@@ -739,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4eV9qc29uXD4=</last-search>
+      <last-search encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4eV9qc29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</last-pattern>
       <last-replace>is</last-replace>
       <last-substitute>==</last-substitute>
       <last-dir>-1</last-dir>
@@ -749,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmbG9vclw+</entry>
         <entry encoding="base64">XDxBcmVhQ2hlY2tlclw+</entry>
         <entry>__str__</entry>
         <entry>distance</entry>
@@ -769,10 +545,9 @@
         <entry>xy</entry>
         <entry encoding="base64">XDxsb2dfZmlsZVw+</entry>
         <entry encoding="base64">XDx4eV9qc29uXD4=</entry>
+        <entry encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>279</entry>
-        <entry>295</entry>
         <entry>29</entry>
         <entry>297</entry>
         <entry encoding="base64">JzwsJz5zLz09L2lzL2c=</entry>
@@ -790,6 +565,8 @@
         <entry>59</entry>
         <entry>vs[</entry>
         <entry>vsp</entry>
+        <entry>71</entry>
+        <entry>61</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
