@@ -212,12 +212,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/venv/lib/python3.7/site-packages/pytest_html/extras.py" timestamp="1555670274022" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555689629750">
-        <mark key="'" line="95" column="15" />
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555693190929">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/tmp/.gitignore" timestamp="1555594958898">
         <mark key="[" line="1" column="11" />
@@ -269,11 +269,12 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555681674109">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555691412048">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/test/test_area_checker.py" timestamp="1555456814839">
         <mark key="'" line="17" column="37" />
@@ -376,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" />
       <jump line="31" column="3" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="211" column="35" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_2_5_event_consistency.bak.py" />
@@ -388,7 +388,6 @@
       <jump line="36" column="36" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="28" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="19" column="54" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="12" column="31" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="10" column="12" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="26" column="5" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="57" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
@@ -476,55 +475,57 @@
       <jump line="9" column="22" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="132" column="26" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
+      <jump line="28" column="19" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdDVEZfYmVpamluZ18nLAo=</text>
+      <register name="&quot;" type="4">
+        <text>project</text>
       </register>
       <register name="-" type="4">
-        <text>history_evnets_path</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</text>
+        <text encoding="base64">XDxydW5fcHl0ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdDVEZfYmVpamluZ193Y2MnLAo=</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdlaWRfanNvbicsIHJlcXVpcmVkPVRydWUsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdDVEZfYmVpamluZ18nLAo=</text>
+        <text encoding="base64">ICAgIHByb2plY3RfcGF0aAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzLnRvbWxfY29uZmlnWydzdG9yZSddWydhcmVhX2pzb24nXSA9IG9zLnBhdGguYWJzcGF0aChzdG9yZV9hcmVhX2pzb24pCg==</text>
+        <text encoding="base64">ZGVmIHNjYW5fYW5kX3J1bihwcm9qZWN0KToKICAgIGVpZF9pbmZvX3RlbXBsID0gJ2hkZnM6Ly9iai9wcm9kL2N1c3RvbWVyL3swfS90cmFja2luZy9laWRfcHJvY2Vzc2luZy97MX0vZWlkX2luZm8uanNvbicKICAgIHRyYWNrX3BiX3RlbXBsID0gJ2hkZnM6Ly9iai9wcm9kL2N1c3RvbWVyL3swfS9sYWJlbC9oZWFkL3sxfScKICAgIHBiX3N1ZmZpeF90ZW1wbCA9ICcubXA0LmN1dC5tcDQubGFiZWwucGlkLnBiJwogICAgZXZlbnRfanNvbl90ZW1wbCA9ICdoZGZzOi8vYmovcHJvZC9jdXN0b21lci97MH0vZXZlbnRzL3sxfS9ldmVudHMuY3N2JwogICAgaGlzdG9yeV9ldmVudF90ZW1wbCA9ICdoZGZzOi8vYmovcHJvZC97MH0vd2NjL2V2ZW50cycKICAgIHh5X2pzb25fdGVtcGwgPSAnaGRmczovL2JqL3Byb2QvY3VzdG9tZXIvezB9L2V2ZW50cy97MX0veHkuanNvbicKICAgIGZsb29yX3RlbXBsID0gJy4uL0NhbWVyYUluZm9zL3swfS9mbG9vcmluZm9zL2Zsb29yLmpwZycKICAgIHN0b3JlX2FyZWFfY29uZmlnX3RlbXBsID0gJy4uL1N0b3JlSW5mb3MvezB9L2FyZWFzLmpzb24nCiAgICBtb3ZlX3N0YW5kYXJkX3RlbXBsID0gMTAwCgogICAgZm9yIHRhc2sgaW4gZ2VuX3Rhc2tfbGlzdChwcm9qZWN0KToKICAgICAgICBydW5fYWxsKAogICAgICAgICAgICBlaWRfaW5mb190ZW1wbC5mb3JtYXQodGFza1swXSwgdGFza1sxXSksCiAgICAgICAgICAgIHRyYWNrX3BiX3RlbXBsLmZvcm1hdCh0YXNrWzBdLCB0YXNrWzFdKSwKICAgICAgICAgICAgcGJfc3VmZml4X3RlbXBsLAogICAgICAgICAgICBldmVudF9qc29uX3RlbXBsLmZvcm1hdCh0YXNrWzBdLCB0YXNrWzFdKSwKICAgICAgICAgICAgaGlzdG9yeV9ldmVudF90ZW1wbC5mb3JtYXQodGFza1swXSksCiAgICAgICAgICAgIHh5X2pzb25fdGVtcGwuZm9ybWF0KHRhc2tbMF0sIHRhc2tbMV0pLAogICAgICAgICAgICBtb3ZlX3N0YW5kYXJkX3RlbXBsLAogICAgICAgICAgICBmbG9vcl90ZW1wbC5mb3JtYXQodGFza1swXSksCiAgICAgICAgICAgIHN0b3JlX2FyZWFfY29uZmlnX3RlbXBsLmZvcm1hdCh0YXNrWzBdKQogICAgICAgICkKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdTdG9yZSBhcmVhIGpzb24gICAgICAlcycsIHN0b3JlX2FyZWFfanNvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdYWSBqc29uICAgICAgICAgICAgJXMnLCB4eV9qc29uKQogICAgbG9nZ2VyLmluZm8oJ01vdmVtZW50IHN0YW5kYXJkICAlcycsIG1vdmVfc3RhbmRhcmQpCiAgICBsb2dnZXIuaW5mbygnU3RvcmUgZmxvb3IgICAgICAgICVzJywgc3RvcmVfZmxvb3IpCiAgICBsb2dnZXIuaW5mbygnU3RvcmUgYXJlYSBqc29uICAgICVzJywgc3RvcmVfYXJlYV9qc29uKQoK</text>
+        <text encoding="base64">ICAgIGVpZF9pbmZvX3RlbXBsID0gJ2hkZnM6Ly9iai9wcm9kL2N1c3RvbWVyL3swfS90cmFja2luZy9laWRfcHJvY2Vzc2luZy97MX0vZWlkX2luZm8uanNvbicKICAgIHRyYWNrX3BiX3RlbXBsID0gJ2hkZnM6Ly9iai9wcm9kL2N1c3RvbWVyL3swfS9sYWJlbC9oZWFkL3sxfScKICAgIHBiX3N1ZmZpeF90ZW1wbCA9ICcubXA0LmN1dC5tcDQubGFiZWwucGlkLnBiJwogICAgZXZlbnRfanNvbl90ZW1wbCA9ICdoZGZzOi8vYmovcHJvZC9jdXN0b21lci97MH0vZXZlbnRzL3sxfS9ldmVudHMuY3N2JwogICAgaGlzdG9yeV9ldmVudF90ZW1wbCA9ICdoZGZzOi8vYmovcHJvZC97MH0vd2NjL2V2ZW50cycKICAgIHh5X2pzb25fdGVtcGwgPSAnaGRmczovL2JqL3Byb2QvY3VzdG9tZXIvezB9L2V2ZW50cy97MX0veHkuanNvbicKICAgIGZsb29yX3RlbXBsID0gJy4uL0NhbWVyYUluZm9zL3swfS9mbG9vcmluZm9zL2Zsb29yLmpwZycKICAgIHN0b3JlX2FyZWFfY29uZmlnX3RlbXBsID0gJy4uL1N0b3JlSW5mb3MvezB9L2FyZWFzLmpzb24nCiAgICBtb3ZlX3N0YW5kYXJkX3RlbXBsID0gMTAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdOZXcgZXZlbnQganNvbiAgICAgICAlcycsIG5ld19ldmVudF9qc29uKQogICAgbG9nZ2VyLmluZm8oJ0hpc3RvcnkgZXZlbnRzIHBhdGggICVzJywgaGlzdG9yeV9ldmVudHNfcGF0aCkKICAgIGxvZ2dlci5pbmZvKCdTdG9yZSBhcmVhIGpzb24gICAgICAlcycsIHN0b3JlX2FyZWFfanNvbikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeV9laWRfZ2VuKGVpZF9qc29uLCB0cmFja19wYl9wYXRoLCBwYl9zdWZmaXgpCiAgICB2ZXJpZnlfZXZlbnRzKG5ld19ldmVudF9qc29uLCBoaXN0b3J5X2V2ZW50c19wYXRoLCBzdG9yZV9hcmVhX2pzb24pCiAgICB2ZXJpZnlfdHJhY2tpbmcoeHlfanNvbiwgbW92ZV9zdGFuZGFyZCwgc3RvcmVfZmxvb3IsIHN0b3JlX2FyZWFfanNvbikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdzdG9yZV9hcmVhX2pzb24nLCByZXF1aXJlZD1UcnVlLCB0eXBlPWNsaWNrLlBhdGgoZXhpc3RzPVRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxydW5fcHl0ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxydW5fcHl0ZXN0XD4=</last-pattern>
       <last-replace>is</last-replace>
       <last-substitute>==</last-substitute>
       <last-dir>-1</last-dir>
@@ -532,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcmVhQ2hlY2tlclw+</entry>
         <entry>__str__</entry>
         <entry>distance</entry>
         <entry encoding="base64">XDxkaXN0YW5jZVw+</entry>
@@ -552,6 +552,7 @@
         <entry encoding="base64">XDxsb2dfZmlsZVw+</entry>
         <entry encoding="base64">XDx4eV9qc29uXD4=</entry>
         <entry encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</entry>
+        <entry encoding="base64">XDxydW5fcHl0ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
