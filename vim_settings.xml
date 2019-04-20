@@ -309,12 +309,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/venv/lib/python3.7/site-packages/pytest_html/extras.py" timestamp="1555670274022" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555736624638">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555739708162">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+        <mark key="[" line="56" column="55" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_tracking.py" timestamp="1555574609750">
         <mark key="[" line="15" column="19" />
@@ -438,12 +438,12 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555736219305">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555739516629">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="93" column="29" />
+        <mark key="^" line="93" column="29" />
+        <mark key="." line="93" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554715504703">
         <mark key="[" line="22" column="7" />
@@ -721,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>session</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5fdGFza19saXN0XD4=</text>
