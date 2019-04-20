@@ -309,12 +309,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/venv/lib/python3.7/site-packages/pytest_html/extras.py" timestamp="1555670274022" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555741640734">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555743403012">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="56" column="55" />
-        <mark key="]" line="56" column="53" />
-        <mark key="." line="56" column="53" />
-        <mark key="^" line="56" column="53" />
+        <mark key="[" line="56" column="62" />
+        <mark key="]" line="56" column="57" />
+        <mark key="." line="56" column="57" />
+        <mark key="^" line="56" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_tracking.py" timestamp="1555574609750">
         <mark key="[" line="15" column="19" />
