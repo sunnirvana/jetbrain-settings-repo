@@ -309,7 +309,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/venv/lib/python3.7/site-packages/pytest_html/extras.py" timestamp="1555670274022" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555739708162">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555741640734">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="56" column="55" />
         <mark key="]" line="56" column="53" />
@@ -438,12 +438,12 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555739516629">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555741763756">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="93" column="29" />
-        <mark key="^" line="93" column="29" />
-        <mark key="." line="93" column="29" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="132" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/airflow/dags/xcom_test.py" timestamp="1554715504703">
         <mark key="[" line="22" column="7" />
@@ -720,44 +720,44 @@
       <jump line="14" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>session</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text encoding="base64">IHdpdGggdHJhY2tpbmcgcG9pbnRzIGxhYmVsbGVkIGlzIG5vdCBnZW5lcmF0ZWQu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5fdGFza19saXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB5dGVzdC5tYWluKFsnLXMnLAogICAgICAgICAgICAgICAgICctdicsCiAgICAgICAgICAgICAgICAgdGVzdF9jYXNlLAogICAgICAgICAgICAgICAgICctLWh0bWw9cmVwb3J0L3t9L3Jlc3VsdF97fS5odG1sJy5mb3JtYXQocHJvamVjdCwgZGF0ZSksCiAgICAgICAgICAgICAgICAgJy0tc2VsZi1jb250YWluZWQtaHRtbCcsCiAgICAgICAgICAgICAgICAgXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBsb2dnZXIud2FybmluZygnRmxvb3IgbWFwIHdpdGggdHJhY2tpbmcgcG9pbnRzIGxhYmVsbGVkIGlzIG5vdCBnZW5lcmF0ZWQuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBwcmludCh0YXNrX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICMgcHJlcGFyZSBkYXRhIGludG8gdGVtcCBkaXIgKGRvd25sb2FkaW5nIGZyb20gSERGUykKICAgIGlmIHN1YmRpcjoKICAgICAgICB0bXBfcGF0aCA9IFBhdGgoX19maWxlX18pLnBhcmVudC5wYXJlbnQucGFyZW50IC8gJ3RtcCcgLyBzdWJkaXIKICAgICAgICBpZiBub3QgdG1wX3BhdGguZXhpc3RzKCk6CiAgICAgICAgICAgIHRtcF9wYXRoLmNyZWF0ZSgpCiAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHJ1bl9hbGwoZWlkX2pzb24sIHRyYWNrX3BiX3BhdGgsIHBiX3N1ZmZpeCwgbmV3X2V2ZW50X2pzb24sIGhpc3RvcnlfZXZlbnRzX3BhdGgsCiAgICAgICAgICAgIHh5X2pzb24sIG1vdmVfc3RhbmRhcmQsIHN0b3JlX2Zsb29yLCBzdG9yZV9hcmVhX2pzb24pOgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIHBwcmludCh0YXNrX2xpc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoKHRlc3RfY2FzZSkuCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0X25hbWUgPSBwcm9qZWN0Cg==</text>
+        <text encoding="base64">ZGVmIHJ1bl9hbGwoZWlkX2pzb24sIHRyYWNrX3BiX3BhdGgsIHBiX3N1ZmZpeCwgbmV3X2V2ZW50X2pzb24sIGhpc3RvcnlfZXZlbnRzX3BhdGgsCiAgICAgICAgICAgIHh5X2pzb24sIG1vdmVfc3RhbmRhcmQsIHN0b3JlX2Zsb29yLCBzdG9yZV9hcmVhX2pzb24pOgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0X25hbWUgPSBwcm9qZWN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVpZF9pbmZvX3RlbXBsID0gJ2hkZnM6Ly9iai9wcm9kL2N1c3RvbWVyL3swfS90cmFja2luZy9laWRfcHJvY2Vzc2luZy97MX0vZWlkX2luZm8uanNvbicKICAgIHRyYWNrX3BiX3RlbXBsID0gJ2hkZnM6Ly9iai9wcm9kL2N1c3RvbWVyL3swfS9sYWJlbC9oZWFkL3sxfScKICAgIHBiX3N1ZmZpeF90ZW1wbCA9ICcubXA0LmN1dC5tcDQubGFiZWwucGlkLnBiJwogICAgZXZlbnRfanNvbl90ZW1wbCA9ICdoZGZzOi8vYmovcHJvZC9jdXN0b21lci97MH0vZXZlbnRzL3sxfS9ldmVudHMuY3N2JwogICAgaGlzdG9yeV9ldmVudF90ZW1wbCA9ICdoZGZzOi8vYmovcHJvZC97MH0vd2NjL2V2ZW50cycKICAgIHh5X2pzb25fdGVtcGwgPSAnaGRmczovL2JqL3Byb2QvY3VzdG9tZXIvezB9L2V2ZW50cy97MX0veHkuanNvbicKICAgIGZsb29yX3RlbXBsID0gJy4uL0NhbWVyYUluZm9zL3swfS9mbG9vcmluZm9zL2Zsb29yLmpwZycKICAgIHN0b3JlX2FyZWFfY29uZmlnX3RlbXBsID0gJy4uL1N0b3JlSW5mb3MvezB9L2FyZWFzLmpzb24nCiAgICBtb3ZlX3N0YW5kYXJkX3RlbXBsID0gMTAwCg==</text>
+        <text encoding="base64">ICAgICAgICBQYXRoKHRlc3RfY2FzZSkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
