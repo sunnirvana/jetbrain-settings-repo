@@ -242,6 +242,7 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_hdfs.py" timestamp="1555920473458" />
       <file name="$USER_HOME$/Workspace/projects/airflow_dags/dockerfiles/Dockerfile" timestamp="1554721506348">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="28" />
@@ -335,6 +336,7 @@
         <mark key="." line="56" column="57" />
         <mark key="^" line="56" column="57" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_syscmd.py" timestamp="1555920463835" />
       <file name="$USER_HOME$/Workspace/projects/algorithm_redstar_threshold/utils/db.py" timestamp="1553479716261">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="777" />
