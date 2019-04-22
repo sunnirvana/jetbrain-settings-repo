@@ -272,10 +272,10 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" timestamp="1555679919915">
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" timestamp="1555907325652">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="75" column="64" />
-        <mark key="]" line="76" column="7" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="80" />
         <mark key="^" line="76" column="7" />
         <mark key="." line="76" column="7" />
       </file>
@@ -446,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dHJhLmFwcGVuZChweXRlc3RfaHRtbC5leHRyYXMuaHRtbChodG1sLmZvcm1hdChzdHIoYjY0c3RyKVsyOi0yXSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIuaW13cml0ZShvcy5wYXRoLmpvaW4oZ2V0X3RtcGRpcigpLCAnbGFiZWxsZWRfZmxvb3IuanBnJyksIGZsb29yX2ltZykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -455,7 +455,7 @@
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dHJhLmFwcGVuZChweXRlc3RfaHRtbC5leHRyYXMuaHRtbChodG1sLmZvcm1hdChzdHIoYjY0c3RyKVsyOi0yXSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIuaW13cml0ZShvcy5wYXRoLmpvaW4oZ2V0X3RtcGRpcigpLCAnbGFiZWxsZWRfZmxvb3IuanBnJyksIGZsb29yX2ltZykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB5dGVzdC5tYWluKFsnLXYnLAogICAgICAgICAgICAgICAgIHRlc3RfY2FzZSwKICAgICAgICAgICAgICAgICAnLS1odG1sPXt9Jy5mb3JtYXQoQXBwUmVwb3J0LmdldF9vbmNlX2Z1bGxuYW1lKHRlc3RfY2FzZSkpLAogICAgICAgICAgICAgICAgICctLXNlbGYtY29udGFpbmVkLWh0bWwnLAogICAgICAgICAgICAgICAgIF0pCg==</text>
