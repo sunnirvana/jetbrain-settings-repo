@@ -258,7 +258,7 @@
         <mark key="." line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/Dockerfile" timestamp="1556027416265" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556027976186" />
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556028606241" />
       <file name="$USER_HOME$/Wokrspace/projects/algorithm_redstar_threshold/main.py" timestamp="1552441019407">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -271,6 +271,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/.gitmodules" timestamp="1556028612469" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/test_config.py" timestamp="1555567969442">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
