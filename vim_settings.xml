@@ -82,12 +82,12 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556182058045">
-        <mark key="'" line="164" column="37" />
-        <mark key="[" line="165" column="44" />
-        <mark key="]" line="165" column="42" />
-        <mark key="." line="165" column="42" />
-        <mark key="^" line="165" column="42" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556182724874">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf.py" timestamp="1555826321113">
         <mark key="'" line="7" column="15" />
@@ -105,20 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="21" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="96" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="22" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="63" column="20" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="22" column="21" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="20" column="31" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="7" column="18" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="33" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="84" column="29" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="2" column="57" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="91" column="7" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="39" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
@@ -198,78 +184,76 @@
       <jump line="53" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="56" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="70" column="39" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="165" column="39" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="71" column="36" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="69" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="68" column="21" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="67" column="44" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="17" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="164" column="37" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="165" column="35" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="153" column="19" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="147" column="18" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="103" column="30" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="39" column="10" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="61" column="7" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="156" column="20" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="155" column="15" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>len(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>len(</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</text>
+        <text encoding="base64">XDxtaXNzaW5nX2tleXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwaWRfcHRrX21hcC5zZXRkZWZhdWx0KCkK</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBpZF9wdGtfbWFwID0ge30K</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW5nX2tleXMuYXBwZW5kKChrLCBjZXBoX2J1Y2tldCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgIHdvcmRzID0gbGluZS5zdHJpcCgpLnNwbGl0KCcsJykKICAgICAgICBwdGsgPSB3b3Jkc1swXQogICAgICAgICMgIHBpZCA9IGludCh3b3Jkc1sxXSkKICAgICAgICBwaWQgPSB3b3Jkc1sxXQogICAgICAgIGlmIHBpZCBpbiBwaWRfcHRrX21hcDoKICAgICAgICAgICAgcGlkX3B0a19tYXBbcGlkXS5hcHBlbmQocHRrKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBpZF9wdGtfbWFwW3BpZF0gPSBbcHRrXQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignbWlzc2luZ19rZXlzLnBrbCcsICd3YicpIGFzIGY6CiAgICAgICAgcGlja2xlLmR1bXAobWlzc2luZ19rZXlzLCBmKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBpZF9wdGtfbWFwID0ge30K</text>
+        <text encoding="base64">bWlzc2luZ19rZXlzID0gbGlzdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tY2hlY2tfbnVtJywgdHlwZT1pbnQsIGhlbHA9J0lOUFVUOiAjIG9mIHBpZCB0byBiZSBjaGVjaycsIGRlZmF1bHQ9JzEwMDAnKQo=</text>
+        <text encoding="base64">Z2xvYmFsIHNhdmVfb25lX3BpZAoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcHRrX3RpbWUoZmFjZV9pZCk6CiAgICAgICAgdGltZV9zdHIgPSAnJwogICAgICAgIGlmIGZhY2VfaWQuZmluZCgnX0ZQSUQnKSA+IDA6CiAgICAgICAgICAgIHRpbWVfc3RyID0gJycuam9pbihmYWNlX2lkLnNwbGl0KCdfJylbLTFdLnNwbGl0KCctJylbOi0xXSlbNDpdCiAgICAgICAgZWxpZiBmYWNlX2lkLmZpbmQoJ19GUCcpID4gMDoKICAgICAgICAgICAgdGltZV9zdHIgPSAnJy5qb2luKGZhY2VfaWQuc3BsaXQoJ18nKVstMV0uc3BsaXQoJy0nKVs6LTFdKVsyOl0KICAgICAgICBlbHNlOgogICAgICAgICAgICBkYXRlcyA9IHJlLmZpbmRhbGwoJ18yMFxkezEyfScsIGZhY2VfaWQpCiAgICAgICAgICAgIGlmIGxlbihkYXRlcykgPiAwOgogICAgICAgICAgICAgICAgdGltZV9zdHIgPSBkYXRlc1swXVsxOl0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRhdGVzID0gcmUuZmluZGFsbCgnLTIwXGR7MTJ9JywgZmFjZV9pZCkKICAgICAgICAgICAgICAgIGlmIGxlbihkYXRlcykgPiAwOgogICAgICAgICAgICAgICAgICAgIHRpbWVfc3RyID0gZGF0ZXNbMF1bMTpdCiAgICAgICAgcmV0dXJuIHRpbWVfc3RyCgoKICAgIGRlZiBnZXRfaW1ncyhmYWNlX2lkLCBjZXBoX2J1Y2tldCk6CiAgICAgICAgIyAgcHJpbnQoJ3B0azogJywgZmFjZV9pZCkKICAgICAgICAjICBwcmludCgnYnVja2V0OiAnLCBjZXBoX2J1Y2tldCkKICAgICAgICBjb25uID0gYm90by5jb25uZWN0X3MzKAogICAgICAgICAgICBhd3NfYWNjZXNzX2tleV9pZD1jZXBoX2NvbmZpZ1tpZGNdWydhY2Nlc3Nfa2V5J10sCiAgICAgICAgICAgIGF3c19zZWNyZXRfYWNjZXNzX2tleT1jZXBoX2NvbmZpZ1tpZGNdWydzZWNyZXRfa2V5J10sCiAgICAgICAgICAgIGhvc3Q9Y2VwaF9jb25maWdbaWRjXVsnaG9zdCddLAogICAgICAgICAgICBpc19zZWN1cmU9RmFsc2UsICAjIHVuY29tbWVudCBpZiB5b3UgYXJlIG5vdCB1c2luZyBzc2wKICAgICAgICAgICAgcG9ydD03NDgwLAogICAgICAgICAgICBjYWxsaW5nX2Zvcm1hdD1ib3RvLnMzLmNvbm5lY3Rpb24uT3JkaW5hcnlDYWxsaW5nRm9ybWF0KCksCiAgICAgICAgKQoKICAgICAgICBiID0gY29ubi5nZXRfYnVja2V0KGNlcGhfYnVja2V0KQogICAgICAgIGsgPSBiLmdldF9rZXkoZmFjZV9pZCkKICAgICAgICBpZiBrIGlzIE5vbmU6CiAgICAgICAgICAgIHByaW50KCJrZXkgbm90IGV4aXN0cyEgQnVja2V0OiB7fSwgZmFjZUlkOiB7fSIuZm9ybWF0KGNlcGhfYnVja2V0LCBmYWNlX2lkKSkKICAgICAgICAgICAgbWlzc2luZ19rZXlzLmFwcGVuZCgoaywgY2VwaF9idWNrZXQpKQogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHYgPSBrLmdldF9jb250ZW50c19hc19zdHJpbmcoKQogICAgICAgIGlmIHYgaXMgTm9uZSBvciBsZW4odikgPCAxOgogICAgICAgICAgICBwcmludCgidmFsdWUgaXMgTm9uZSIsIGspCiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgaW1hZ2UgPSBucC5hc2FycmF5KGJ5dGVhcnJheSh2KSwgZHR5cGU9InVpbnQ4IikKICAgICAgICAjICBwcmludCgnaW1hZ2UgbGVuZ3RoOiAnLCBsZW4oaW1hZ2UpKQogICAgICAgIHJldHVybiBjdjIuaW1kZWNvZGUoaW1hZ2UsIGN2Mi5JTVJFQURfQ09MT1IpCgoKICAgIGdsb2JhbCBzYXZlX29uZV9waWQKCgogICAgZGVmIHNhdmVfb25lX3BpZChwaWQpOgogICAgICAgIGN1cl9kaXIgPSBhcmdzLmRzdF9kaXIKICAgICAgICAjICBwcmludCgnc2F2ZV9vbmVfcGlkLCBjdXJfZGlyLCBjdXJfZGlyX3JhdycsIHBpZCwgY3VyX2RpciwgY3VyX2Rpcl9yYXcpCiAgICAgICAgIyAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGN1cl9kaXIpOgogICAgICAgICMgIG9zLm1ha2VkaXJzKGN1cl9kaXIpCgogICAgICAgIGZvciBwdGsgaW4gcGlkX3B0a19tYXBbcGlkXToKICAgICAgICAgICAgIyAgcHJpbnQoInB0azogIiwgcHRrKQogICAgICAgICAgICBkc3RfcGF0aCA9IG9zLnBhdGguam9pbihjdXJfZGlyLCAnJXMuanBnJyAlIChwdGspKQoKICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZHN0X3BhdGgpOgogICAgICAgICAgICAgICAgIyBza2lwCiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgIyAgZGF0ZSA9IHJlLmZpbmRhbGwoJ1syMDFcZCtdezh9JywgcHRrKVswXQogICAgICAgICAgICBkYXRlID0gZ2V0X3B0a190aW1lKHB0aylbMDo4XQogICAgICAgICAgICBidWNrZXRfbmFtZSA9ICdfJy5qb2luKAogICAgICAgICAgICAgICAgW2FyZ3Muc3RvcmVfbmFtZS5yZXBsYWNlKCcvJywgJ18nKSwgZGF0ZV0pLmxvd2VyKCkKICAgICAgICAgICAgaW1nID0gZ2V0X2ltZ3MocHRrLCBidWNrZXRfbmFtZSkKICAgICAgICAgICAgIyAgcHJpbnQoYnVja2V0X25hbWUpCiAgICAgICAgICAgIGlmIGltZyBpcyBOb25lOgogICAgICAgICAgICAgICAgIyAgcHJpbnQoJ2ltZyBub3QgZXhpc3Q6JywgYnVja2V0X25hbWUsIHdvcmRzWzBdKQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICMgIHJldHVybgogICAgICAgICAgICBjdjIuaW13cml0ZShkc3RfcGF0aCwgaW1nKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICMgSU5QVVQ6Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>dict(
-    bj=dict(
-        access_key='U0K5O8KP6P8RQZQV333U',
-        secret_key='PuIp09FCBmeoPfXy0SCCjy7bgt3G7xG1BCZytMPM',
-        host='ceph001.aibee.cn',
-    ),
-    sh=dict(
-        access_key=&quot;C7YP5KC0QLZRO2ZG15X2&quot;,
-        secret_key=&quot;tQ609BhT2wL2MH8JRoaBdx0dAsAtui03dclRJV6C&quot;,
-        host='172.19.14.8',
-    ),
-    gz=dict(
-        access_key=&quot;SG5JMQ10LSMCJVNJW65O&quot;,
-        secret_key=&quot;187t7PPQABNr3C1xaAOLND1XmZSQxZ6h1HEyPs3n&quot;,
-        host='gz-s3.aibee.cn',
-    ),
-)</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwaWRfcHRrX21hcC5zZXRkZWZhdWx0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</last-search>
+      <last-search encoding="base64">XDxtaXNzaW5nX2tleXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtaXNzaW5nX2tleXNcPg==</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -277,14 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>task[0]</entry>
-        <entry>task\[0\]</entry>
-        <entry>task\[1\]</entry>
-        <entry encoding="base64">XDxmb3JjZV9yZWRvXD4=</entry>
-        <entry encoding="base64">XDxnZW5fdGFza19saXN0XD4=</entry>
-        <entry encoding="base64">XDxkaXJfbmFtZVw+</entry>
-        <entry encoding="base64">XDxleGNlbFw+</entry>
-        <entry>ch</entry>
         <entry>Error</entry>
         <entry>prod</entry>
         <entry>--end</entry>
@@ -294,9 +270,17 @@
         <entry encoding="base64">XDx3b3Jkc1w+</entry>
         <entry encoding="base64">XDxsaW5lc1w+</entry>
         <entry encoding="base64">XDxwaWRfbnVtc1w+</entry>
-        <entry encoding="base64">XDxwaWRfbGlzdFw+</entry>
         <entry encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</entry>
+        <entry encoding="base64">XDxwaWRfbGlzdFw+</entry>
+        <entry encoding="base64">XDxwaWRfcHRrX21hcFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2ltZ3NcPg==</entry>
+        <entry encoding="base64">XDxnZXRfaW1nc1w+</entry>
+        <entry>get_imgs</entry>
+        <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxzYXZlX29uZV9waWRcPg==</entry>
+        <entry>missing_keys</entry>
+        <entry encoding="base64">XDxtaXNzaW5nX2tleXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
