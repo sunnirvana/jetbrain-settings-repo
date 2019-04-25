@@ -60,6 +60,9 @@
         <mark key="." line="21" column="67" />
         <mark key="^" line="21" column="67" />
       </file>
+      <file name="/fragment.py" timestamp="1556181521211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/Dockerfile" timestamp="1556027416265" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556028606241" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556177524917">
@@ -72,6 +75,19 @@
         <mark key="]" line="95" column="80" />
         <mark key="^" line="76" column="7" />
         <mark key="." line="76" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556181115123">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556182058045">
+        <mark key="'" line="164" column="37" />
+        <mark key="[" line="165" column="44" />
+        <mark key="]" line="165" column="42" />
+        <mark key="." line="165" column="42" />
+        <mark key="^" line="165" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf.py" timestamp="1555826321113">
         <mark key="'" line="7" column="15" />
@@ -89,21 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
-      <jump line="1" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
-      <jump line="58" column="7" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="68" column="50" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="67" column="24" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="9" column="6" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="61" column="60" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" />
-      <jump line="24" column="21" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_eid_gen.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="41" column="21" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/area_checker.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="96" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
@@ -189,70 +190,93 @@
       <jump line="134" column="0" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" />
       <jump line="169" column="40" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" />
       <jump line="205" column="75" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" />
+      <jump line="36" column="13" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="44" column="27" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="65" column="26" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="70" column="39" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="165" column="39" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="71" column="36" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="69" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="68" column="21" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="67" column="44" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="164" column="37" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuaW13cml0ZShvcy5wYXRoLmpvaW4oZ2V0X3RtcGRpcigpLCAnbGFiZWxsZWRfZmxvb3IuanBnJyksIGZsb29yX2ltZykK</text>
+      <register name="&quot;" type="4">
+        <text>len(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>len(</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuaW13cml0ZShvcy5wYXRoLmpvaW4oZ2V0X3RtcGRpcigpLCAnbGFiZWxsZWRfZmxvb3IuanBnJyksIGZsb29yX2ltZykK</text>
+        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5dGVzdC5tYWluKFsnLXYnLAogICAgICAgICAgICAgICAgIHRlc3RfY2FzZSwKICAgICAgICAgICAgICAgICAnLS1odG1sPXt9Jy5mb3JtYXQoQXBwUmVwb3J0LmdldF9vbmNlX2Z1bGxuYW1lKHRlc3RfY2FzZSkpLAogICAgICAgICAgICAgICAgICctLXNlbGYtY29udGFpbmVkLWh0bWwnLAogICAgICAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwaWRfcHRrX21hcC5zZXRkZWZhdWx0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBpZF9wdGtfbWFwID0ge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ld19uYW1lID0gJ3t9LmNzdicuZm9ybWF0KG9zLnBhdGguYmFzZW5hbWUoZXhjZWwpLnNwbGl0KCcuJylbMF0pCg==</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgIHdvcmRzID0gbGluZS5zdHJpcCgpLnNwbGl0KCcsJykKICAgICAgICBwdGsgPSB3b3Jkc1swXQogICAgICAgICMgIHBpZCA9IGludCh3b3Jkc1sxXSkKICAgICAgICBwaWQgPSB3b3Jkc1sxXQogICAgICAgIGlmIHBpZCBpbiBwaWRfcHRrX21hcDoKICAgICAgICAgICAgcGlkX3B0a19tYXBbcGlkXS5hcHBlbmQocHRrKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBpZF9wdGtfbWFwW3BpZF0gPSBbcHRrXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBpZF9wdGtfbWFwID0ge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBrMCwgdjAgaW4gaXRlcnRvb2xzLmdyb3VwYnkob3V0X2RhdGEsIGtleT1sYW1iZGEgeDogeFsxXSk6CiAgICAgICAgcHJpbnQoazApCiAgICAgICAgZm9yIHYxIGluIHYwOgogICAgICAgICAgICBwcmludCh2MSkKICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tY2hlY2tfbnVtJywgdHlwZT1pbnQsIGhlbHA9J0lOUFVUOiAjIG9mIHBpZCB0byBiZSBjaGVjaycsIGRlZmF1bHQ9JzEwMDAnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoazEpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQodikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bXBvcnQgY29sbGVjdGlvbnMK</text>
+      <register name="8" type="4">
+        <text>dict(
+    bj=dict(
+        access_key='U0K5O8KP6P8RQZQV333U',
+        secret_key='PuIp09FCBmeoPfXy0SCCjy7bgt3G7xG1BCZytMPM',
+        host='ceph001.aibee.cn',
+    ),
+    sh=dict(
+        access_key=&quot;C7YP5KC0QLZRO2ZG15X2&quot;,
+        secret_key=&quot;tQ609BhT2wL2MH8JRoaBdx0dAsAtui03dclRJV6C&quot;,
+        host='172.19.14.8',
+    ),
+    gz=dict(
+        access_key=&quot;SG5JMQ10LSMCJVNJW65O&quot;,
+        secret_key=&quot;187t7PPQABNr3C1xaAOLND1XmZSQxZ6h1HEyPs3n&quot;,
+        host='gz-s3.aibee.cn',
+    ),
+)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry encoding="base64">XDxhcHBlbmRfbG9nX3BhdGhcPg==</entry>
-        <entry>xy</entry>
-        <entry encoding="base64">XDxsb2dfZmlsZVw+</entry>
-        <entry encoding="base64">XDx4eV9qc29uXD4=</entry>
-        <entry encoding="base64">XDxhcmVhX3NldHRpbmdcPg==</entry>
-        <entry encoding="base64">XDxydW5fcHl0ZXN0XD4=</entry>
-        <entry>_templ</entry>
         <entry>task[0]</entry>
         <entry>task\[0\]</entry>
         <entry>task\[1\]</entry>
@@ -265,6 +289,14 @@
         <entry>prod</entry>
         <entry>--end</entry>
         <entry>dump</entry>
+        <entry>check_num</entry>
+        <entry encoding="base64">XDxjaGVja19udW1cPg==</entry>
+        <entry encoding="base64">XDx3b3Jkc1w+</entry>
+        <entry encoding="base64">XDxsaW5lc1w+</entry>
+        <entry encoding="base64">XDxwaWRfbnVtc1w+</entry>
+        <entry encoding="base64">XDxwaWRfbGlzdFw+</entry>
+        <entry encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
@@ -285,8 +317,8 @@
         <entry>40</entry>
         <entry>64</entry>
         <entry>50</entry>
-        <entry>w</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

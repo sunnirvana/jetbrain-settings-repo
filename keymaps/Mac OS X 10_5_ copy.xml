@@ -1,8 +1,12 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="EditorDuplicate" />
+  <action id="FindUsagesInFile" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta f7" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta 3" />
