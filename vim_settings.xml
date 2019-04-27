@@ -94,12 +94,12 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556374398342">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="139" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf.py" timestamp="1555826321113">
         <mark key="'" line="7" column="15" />
@@ -117,11 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="104" column="26" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="7" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="110" column="30" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="29" column="18" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="71" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="70" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
@@ -195,7 +190,6 @@
       <jump line="39" column="10" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="61" column="7" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="156" column="20" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="155" column="15" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="50" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
@@ -217,58 +211,64 @@
       <jump line="15" column="9" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="100" column="26" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="120" column="35" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="75" column="11" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="142" column="21" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="141" column="23" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="78" column="5" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGFzayBuYW1lOiAgICcsIGNvbnRlbnRbJ3Rhc2snXVsndGFza19uYW1lJ10pCiAgICAgICAgcHJpbnQoJ3Rhc2sgc3RhdHVzOiAnLCBjb250ZW50Wyd0YXNrJ11bJ3N0YXR1cyddKQogICAgICAgIHByaW50KCd0YXNrIHN0YXRzICAgJywgY29udGVudFsndGFzayddWydzdGF0cyddKQo=</text>
+        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
-        <text>task</text>
+        <text encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0YXNrOiAnLCBjb250ZW50Wyd0YXNrX25hbWUnXSkK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ0Rvd25sb2FkaW5nIGltYWdlcywgZmFjZUlkOiAlcywgYnVja2V0OiAlcycsIGZhY2VfaWQsIGNlcGhfYnVja2V0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGFzayBuYW1lOiAgICcsIGNvbnRlbnRbJ3Rhc2snXVsndGFza19uYW1lJ10pCiAgICAgICAgcHJpbnQoJ3Rhc2sgc3RhdHVzOiAnLCBjb250ZW50Wyd0YXNrJ11bJ3N0YXR1cyddKQogICAgICAgIHByaW50KCd0YXNrIHN0YXRzICAgJywgY29udGVudFsndGFzayddWydzdGF0cyddKQo=</text>
+        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBwcmludChqc29uLmxvYWRzKHJlc3AuY29udGVudClbJ3N0YXRzJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgcHJpbnQoIl9wdGs6ICIsIF9wdGspCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgcHJpbnQoYnVja2V0X25hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAncmVzcG9uc2UnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgb3Muc3lzdGVtKHN1Ym1pdF91cmwpCg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfb25lX3BpZChfcGlkLCBvdXRwdXRfZGlyKToKICAgIGxvZ2dpbmcuZGVidWcoJ1NhdmluZyBvbmUgcGlkLCBwaWQ6ICVzJywgX3BpZCkKICAgICMgIHByaW50KCdzYXZlX29uZV9waWQsIG91dHB1dF9kaXIsIGN1cl9kaXJfcmF3JywgX3BpZCwgb3V0cHV0X2RpciwgY3VyX2Rpcl9yYXcpCiAgICAjICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0cHV0X2Rpcik6CiAgICAjICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQoKICAgIGZvciBfcHRrIGluIHBpZF9wdGtfbWFwW19waWRdOgogICAgICAgICMgIHByaW50KCJfcHRrOiAiLCBfcHRrKQogICAgICAgIGRzdF9wYXRoID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsICclcy5qcGcnICUgX3B0aykKCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZHN0X3BhdGgpOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAjICBkYXRlID0gcmUuZmluZGFsbCgnWzIwMVxkK117OH0nLCBfcHRrKVswXQogICAgICAgIGRhdGUgPSBnZXRfcHRrX3RpbWUoX3B0aylbMDo4XQogICAgICAgIGJ1Y2tldF9uYW1lID0gJ18nLmpvaW4oCiAgICAgICAgICAgIFthcmdzLnN0b3JlX25hbWUucmVwbGFjZSgnLycsICdfJyksIGRhdGVdKS5sb3dlcigpCiAgICAgICAgaW1nID0gZG93bmxvYWRfaW1ncyhfcHRrLCBidWNrZXRfbmFtZSkKICAgICAgICAjICBwcmludChidWNrZXRfbmFtZSkKICAgICAgICBpZiBpbWcgaXMgTm9uZToKICAgICAgICAgICAgcHJpbnQoJ2ltZyBub3QgZXhpc3Q6JywgYnVja2V0X25hbWUsIHdvcmRzWzBdKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAjICByZXR1cm4KICAgICAgICBjdjIuaW13cml0ZShkc3RfcGF0aCwgaW1nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdtYWxsJywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">ICAgICMgIHBvb2wgPSBQb29sKE5fQ1BVUykKICAgICMgIGEgPSBwb29sLm1hcChmdW5jLCBkZWFsX2xpc3QpCiAgICAjICBwb29sLmNsb3NlKCkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>task</last-search>
+      <last-search encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</last-search>
       <last-offset />
-      <last-pattern>task</last-pattern>
+      <last-pattern encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -278,7 +278,6 @@
         <entry encoding="base64">XDx3b3Jkc1w+</entry>
         <entry encoding="base64">XDxsaW5lc1w+</entry>
         <entry encoding="base64">XDxwaWRfbnVtc1w+</entry>
-        <entry encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</entry>
         <entry encoding="base64">XDxwaWRfbGlzdFw+</entry>
         <entry encoding="base64">XDxwaWRfcHRrX21hcFw+</entry>
@@ -286,13 +285,14 @@
         <entry encoding="base64">XDxnZXRfaW1nc1w+</entry>
         <entry>get_imgs</entry>
         <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxzYXZlX29uZV9waWRcPg==</entry>
         <entry>missing_keys</entry>
         <entry encoding="base64">XDxtaXNzaW5nX2tleXNcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfdGFza1w+</entry>
         <entry encoding="base64">XDx0YXNrX3RyYWNraW5nX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxjbGlcPg==</entry>
         <entry>task</entry>
+        <entry encoding="base64">XDxzYXZlX29uZV9waWRcPg==</entry>
+        <entry encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
@@ -313,8 +313,8 @@
         <entry>64</entry>
         <entry>19</entry>
         <entry>35</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
