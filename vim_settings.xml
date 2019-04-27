@@ -3,51 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556376858093">
+        <mark key="'" line="118" column="55" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+      </file>
+      <file name="/a.dummy" timestamp="1556375953710">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/extract_faceinfo.py" timestamp="1556027204339" />
-      <file name="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" timestamp="1555826280256">
-        <mark key="'" line="117" column="29" />
-        <mark key="[" line="111" column="46" />
-        <mark key="]" line="117" column="55" />
-        <mark key="." line="117" column="55" />
-        <mark key="^" line="117" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" timestamp="1555898685925">
-        <mark key="'" line="165" column="14" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/qa_logger.py" timestamp="1555734060757">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="29" />
-        <mark key="." line="63" column="29" />
-        <mark key="^" line="63" column="29" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/rename_imgs.py" timestamp="1556027216293" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/prepare_data_step0.yaml" timestamp="1556087510295" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/unit_test/test_area_checker.py" timestamp="1555673540702">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1555898591034">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="139" column="26" />
-        <mark key="]" line="139" column="26" />
-        <mark key="." line="139" column="26" />
-        <mark key="^" line="139" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_text.py" timestamp="1555752844818">
-        <mark key="'" line="105" column="33" />
-        <mark key="[" line="13" column="94" />
-        <mark key="]" line="13" column="81" />
-        <mark key="^" line="13" column="81" />
-        <mark key="." line="13" column="81" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/upload_imgs.py" timestamp="1556027225417" />
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1556271525759">
         <mark key="'" line="39" column="16" />
@@ -58,13 +27,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_report.py" timestamp="1555736165483">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="67" />
-        <mark key="." line="21" column="67" />
-        <mark key="^" line="21" column="67" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556346849127">
         <mark key="[" line="91" column="25" />
         <mark key="]" line="91" column="37" />
@@ -74,24 +36,18 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556375996468" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/Dockerfile" timestamp="1556027416265" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556028606241" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
         <mark key="'" line="205" column="75" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/.gitmodules" timestamp="1556028612469" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" timestamp="1555907325652">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="80" />
-        <mark key="^" line="76" column="7" />
-        <mark key="." line="76" column="7" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/.gitignore" timestamp="1556266050267" />
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556181115123">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="11" column="9" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556376669504">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
@@ -101,35 +57,8 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf.py" timestamp="1555826321113">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="103" column="37" />
-        <mark key="]" line="110" column="59" />
-        <mark key="^" line="110" column="59" />
-        <mark key="." line="110" column="59" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" timestamp="1555752232879">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="56" column="62" />
-        <mark key="]" line="56" column="57" />
-        <mark key="." line="56" column="57" />
-        <mark key="^" line="56" column="57" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="71" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="70" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="105" column="23" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="78" column="24" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="44" column="15" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="118" column="34" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="9" column="22" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="132" column="26" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="28" column="19" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="82" column="16" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="19" column="78" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_report.py" />
       <jump line="131" column="6" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
@@ -217,55 +146,68 @@
       <jump line="141" column="23" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="78" column="5" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="61" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="61" column="13" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="40" column="13" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="71" column="17" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="120" column="51" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="73" column="22" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="128" column="18" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="66" column="71" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="129" column="19" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="118" column="55" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</text>
+        <text encoding="base64">XDxuY3B1XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ0Rvd25sb2FkaW5nIGltYWdlcywgZmFjZUlkOiAlcywgYnVja2V0OiAlcycsIGZhY2VfaWQsIGNlcGhfYnVja2V0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbmNwdScsIHR5cGU9aW50LCBoZWxwPSdJTlBVVDogQ1BVIGNvdW50cycsIGRlZmF1bHQ9Y3B1X2NvdW50KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgcHJpbnQoIl9wdGs6ICIsIF9wdGspCg==</text>
+        <text encoding="base64">ICAgIGlmIG5fY3B1cyBpcyBOb25lOgogICAgICAgIF9uX2NwdXMgPSBjcHVfY291bnQoKQogICAgZWxzZToKICAgICAgICBfbl9jcHVzID0gaW50KG5fY3B1cykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgcHJpbnQoYnVja2V0X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICBwaWQgPSBpbnQod29yZHNbMV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">d2l0aCBvcGVuKCcuL2NlcGhfY29uZmlnLnlhbWwnLCAncicpIGFzIGY6CiAgICBjZXBoX2NvbmZpZyA9IHlhbWwubG9hZChmKQogICAgcHJpbnQoY2VwaF9jb25maWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG11bHRpcHJvY2Vzc19ydW4oc2F2ZV9vbmVfcGlkLCBwaWRfcHRrX21hcC5rZXlzKCksIDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNhdmVfb25lX3BpZChfcGlkLCBvdXRwdXRfZGlyKToKICAgIGxvZ2dpbmcuZGVidWcoJ1NhdmluZyBvbmUgcGlkLCBwaWQ6ICVzJywgX3BpZCkKICAgICMgIHByaW50KCdzYXZlX29uZV9waWQsIG91dHB1dF9kaXIsIGN1cl9kaXJfcmF3JywgX3BpZCwgb3V0cHV0X2RpciwgY3VyX2Rpcl9yYXcpCiAgICAjICBpZiBub3Qgb3MucGF0aC5leGlzdHMob3V0cHV0X2Rpcik6CiAgICAjICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQoKICAgIGZvciBfcHRrIGluIHBpZF9wdGtfbWFwW19waWRdOgogICAgICAgICMgIHByaW50KCJfcHRrOiAiLCBfcHRrKQogICAgICAgIGRzdF9wYXRoID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsICclcy5qcGcnICUgX3B0aykKCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZHN0X3BhdGgpOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAjICBkYXRlID0gcmUuZmluZGFsbCgnWzIwMVxkK117OH0nLCBfcHRrKVswXQogICAgICAgIGRhdGUgPSBnZXRfcHRrX3RpbWUoX3B0aylbMDo4XQogICAgICAgIGJ1Y2tldF9uYW1lID0gJ18nLmpvaW4oCiAgICAgICAgICAgIFthcmdzLnN0b3JlX25hbWUucmVwbGFjZSgnLycsICdfJyksIGRhdGVdKS5sb3dlcigpCiAgICAgICAgaW1nID0gZG93bmxvYWRfaW1ncyhfcHRrLCBidWNrZXRfbmFtZSkKICAgICAgICAjICBwcmludChidWNrZXRfbmFtZSkKICAgICAgICBpZiBpbWcgaXMgTm9uZToKICAgICAgICAgICAgcHJpbnQoJ2ltZyBub3QgZXhpc3Q6JywgYnVja2V0X25hbWUsIHdvcmRzWzBdKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAjICByZXR1cm4KICAgICAgICBjdjIuaW13cml0ZShkc3RfcGF0aCwgaW1nKQo=</text>
+        <text encoding="base64">ZGVmIG11bHRpcHJvY2Vzc19ydW4oZnVuYywgZGVhbF9saXN0LCBuX2NwdXM9Tm9uZSk6CiAgICAjIHJvdW5kX2MgPSBbZGVhbF9saXN0W2k6aStiYXRjaF9zaXplXSBmb3IgaSAgaW4gcmFuZ2UoMCwgbGVuKGRlYWxfbGlzdCksIGJhdGNoX3NpemUpXQogICAgIyBwcmludChsZW4oZGVhbF9saXN0KSkKCiAgICByZXR1cm4gcgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5fY3B1cyBpcyBOb25lOgogICAgICAgIF9uX2NwdXMgPSBjcHVfY291bnQoKQogICAgZWxzZToKICAgICAgICBfbl9jcHVzID0gaW50KG5fY3B1cykKCiAgICB3aXRoIFBvb2woX25fY3B1cykgYXMgcDoKICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKGZ1bmMsIGRlYWxfbGlzdCksIHRvdGFsPWxlbihkZWFsX2xpc3QpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgIHBvb2wgPSBQb29sKE5fQ1BVUykKICAgICMgIGEgPSBwb29sLm1hcChmdW5jLCBkZWFsX2xpc3QpCiAgICAjICBwb29sLmNsb3NlKCkKCg==</text>
+        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</last-search>
+      <last-search encoding="base64">XDxuY3B1XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuY3B1XD4=</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -273,8 +215,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check_num</entry>
-        <entry encoding="base64">XDxjaGVja19udW1cPg==</entry>
         <entry encoding="base64">XDx3b3Jkc1w+</entry>
         <entry encoding="base64">XDxsaW5lc1w+</entry>
         <entry encoding="base64">XDxwaWRfbnVtc1w+</entry>
@@ -284,7 +224,6 @@
         <entry encoding="base64">XDxfZ2V0X2ltZ3NcPg==</entry>
         <entry encoding="base64">XDxnZXRfaW1nc1w+</entry>
         <entry>get_imgs</entry>
-        <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
         <entry>missing_keys</entry>
         <entry encoding="base64">XDxtaXNzaW5nX2tleXNcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfdGFza1w+</entry>
@@ -293,6 +232,9 @@
         <entry>task</entry>
         <entry encoding="base64">XDxzYXZlX29uZV9waWRcPg==</entry>
         <entry encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</entry>
+        <entry encoding="base64">XDxkb3dubG9hZF9pbWdzXD4=</entry>
+        <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxuY3B1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
@@ -313,8 +255,8 @@
         <entry>64</entry>
         <entry>19</entry>
         <entry>35</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
