@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556376858093">
-        <mark key="'" line="118" column="55" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="37" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556377631609">
+        <mark key="'" line="68" column="25" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="43" />
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
@@ -36,7 +36,13 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556375996468" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556377746992">
+        <mark key="'" line="145" column="4" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/Dockerfile" timestamp="1556027416265" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556028606241" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
@@ -59,14 +65,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="16" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="19" column="78" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_report.py" />
-      <jump line="131" column="6" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="59" column="7" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="63" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
-      <jump line="20" column="7" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_report.py" />
-      <jump line="21" column="13" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_report.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="25" column="19" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="14" column="4" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/main.py" />
       <jump line="25" column="34" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_text.py" />
@@ -159,55 +157,63 @@
       <jump line="66" column="71" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
       <jump line="129" column="19" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
       <jump line="118" column="55" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="138" column="43" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="68" column="25" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
+      <jump line="157" column="9" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="124" column="22" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="144" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEBUG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgRklYTUU6IGxvZyBmaWxlCiAgICBSRUdJU1RFUl9FUlJfTE9HID0gJy4vcmVnX2Vyci5sb2cnCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>/home/ybsun/projects/store_nome_face_db/ptk_pid_all.csv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuY3B1XD4=</text>
+        <text encoding="base64">XDxSRUdJU1RFUl9FUlJfTE9HXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ0Rvd25sb2FkaW5nIGltYWdlcywgZmFjZUlkOiAlcywgYnVja2V0OiAlcycsIGZhY2VfaWQsIGNlcGhfYnVja2V0KQo=</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wsIGNwdV9jb3VudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbmNwdScsIHR5cGU9aW50LCBoZWxwPSdJTlBVVDogQ1BVIGNvdW50cycsIGRlZmF1bHQ9Y3B1X2NvdW50KCkpCg==</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IGxvZyBmaWxlCiAgICBSRUdJU1RFUl9FUlJfTE9HID0gJy4vcmVnX2Vyci5sb2cnCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5fY3B1cyBpcyBOb25lOgogICAgICAgIF9uX2NwdXMgPSBjcHVfY291bnQoKQogICAgZWxzZToKICAgICAgICBfbl9jcHVzID0gaW50KG5fY3B1cykKCg==</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IGZhY2VpZCBhbmQgcGlkIG1hcHBpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICBwaWQgPSBpbnQod29yZHNbMV0pCg==</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IGZhY2UgaW5mbyBpbmNsdWRpbmcgcXVhbGl0eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCcuL2NlcGhfY29uZmlnLnlhbWwnLCAncicpIGFzIGY6CiAgICBjZXBoX2NvbmZpZyA9IHlhbWwubG9hZChmKQogICAgcHJpbnQoY2VwaF9jb25maWcpCg==</text>
+        <text encoding="base64">aW1wb3J0IG11bHRpcHJvY2Vzc2luZyBhcyBtcCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyBGSVhNRTogbG9nIGZpbGUKUkVHSVNURVJfRVJSX0xPRyA9ICcuL3JlZ19lcnIubG9nJwoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG11bHRpcHJvY2Vzc19ydW4oc2F2ZV9vbmVfcGlkLCBwaWRfcHRrX21hcC5rZXlzKCksIDEpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbmNwdScsIHR5cGU9aW50LCBoZWxwPSdJTlBVVDogQ1BVIGNvdW50cycsIGRlZmF1bHQ9Y3B1X2NvdW50KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIG11bHRpcHJvY2Vzc19ydW4oZnVuYywgZGVhbF9saXN0LCBuX2NwdXM9Tm9uZSk6CiAgICAjIHJvdW5kX2MgPSBbZGVhbF9saXN0W2k6aStiYXRjaF9zaXplXSBmb3IgaSAgaW4gcmFuZ2UoMCwgbGVuKGRlYWxfbGlzdCksIGJhdGNoX3NpemUpXQogICAgIyBwcmludChsZW4oZGVhbF9saXN0KSkKCiAgICByZXR1cm4gcgoKCg==</text>
+        <text encoding="base64">ICAgIGlmIG5fY3B1cyBpcyBOb25lOgogICAgICAgIF9uX2NwdXMgPSBjcHVfY291bnQoKQogICAgZWxzZToKICAgICAgICBfbl9jcHVzID0gaW50KG5fY3B1cykKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5fY3B1cyBpcyBOb25lOgogICAgICAgIF9uX2NwdXMgPSBjcHVfY291bnQoKQogICAgZWxzZToKICAgICAgICBfbl9jcHVzID0gaW50KG5fY3B1cykKCiAgICB3aXRoIFBvb2woX25fY3B1cykgYXMgcDoKICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKGZ1bmMsIGRlYWxfbGlzdCksIHRvdGFsPWxlbihkZWFsX2xpc3QpKSkK</text>
+        <text encoding="base64">ICAgICAgICAjICBwaWQgPSBpbnQod29yZHNbMV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbXVsdGlwcm9jZXNzX3J1bihzYXZlX29uZV9waWQsIHNlbGVjdGVkX3BpZHMsIDEpCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCcuL2NlcGhfY29uZmlnLnlhbWwnLCAncicpIGFzIGY6CiAgICBjZXBoX2NvbmZpZyA9IHlhbWwubG9hZChmKQogICAgcHJpbnQoY2VwaF9jb25maWcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuY3B1XD4=</last-search>
+      <last-search encoding="base64">XDxSRUdJU1RFUl9FUlJfTE9HXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuY3B1XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSRUdJU1RFUl9FUlJfTE9HXD4=</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -215,8 +221,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3Jkc1w+</entry>
-        <entry encoding="base64">XDxsaW5lc1w+</entry>
         <entry encoding="base64">XDxwaWRfbnVtc1w+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9waWRzXD4=</entry>
         <entry encoding="base64">XDxwaWRfbGlzdFw+</entry>
@@ -235,6 +239,8 @@
         <entry encoding="base64">XDxkb3dubG9hZF9pbWdzXD4=</entry>
         <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxuY3B1XD4=</entry>
+        <entry encoding="base64">XDxtcFw+</entry>
+        <entry encoding="base64">XDxSRUdJU1RFUl9FUlJfTE9HXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
