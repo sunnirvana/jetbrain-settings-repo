@@ -65,12 +65,11 @@
         <mark key="." line="21" column="67" />
         <mark key="^" line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556342339405">
-        <mark key="'" line="123" column="35" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="124" column="40" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556342488321">
+        <mark key="[" line="127" column="19" />
+        <mark key="]" line="127" column="20" />
+        <mark key="." line="127" column="20" />
+        <mark key="^" line="127" column="18" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
@@ -221,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBwcmludChqc29uLmxvYWRzKHJlc3AuY29udGVudClbJ3N0YXRzJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndGFzayBuYW1lOiAgICcsIGNvbnRlbnRbJ3Rhc2snXVsndGFza19uYW1lJ10pCiAgICAgICAgcHJpbnQoJ3Rhc2sgc3RhdHVzOiAnLCBjb250ZW50Wyd0YXNrJ11bJ3N0YXR1cyddKQogICAgICAgIHByaW50KCd0YXNrIHN0YXRzICAgJywgY29udGVudFsndGFzayddWydzdGF0cyddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>task_name</text>
+        <text>or</text>
       </register>
       <register name="/" type="4">
         <text>task</text>
@@ -233,31 +232,31 @@
         <text encoding="base64">ICAgIHByaW50KCd0YXNrOiAnLCBjb250ZW50Wyd0YXNrX25hbWUnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBwcmludChqc29uLmxvYWRzKHJlc3AuY29udGVudClbJ3N0YXRzJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndGFzayBuYW1lOiAgICcsIGNvbnRlbnRbJ3Rhc2snXVsndGFza19uYW1lJ10pCiAgICAgICAgcHJpbnQoJ3Rhc2sgc3RhdHVzOiAnLCBjb250ZW50Wyd0YXNrJ11bJ3N0YXR1cyddKQogICAgICAgIHByaW50KCd0YXNrIHN0YXRzICAgJywgY29udGVudFsndGFzayddWydzdGF0cyddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHBwcmludChqc29uLmxvYWRzKHJlc3AuY29udGVudClbJ3N0YXRzJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAncmVzcG9uc2UnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAncmVzcG9uc2UnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgb3Muc3lzdGVtKHN1Ym1pdF91cmwpCg==</text>
+        <text encoding="base64">CiAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdtYWxsJywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">ICAgICMgb3Muc3lzdGVtKHN1Ym1pdF91cmwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdtYWxsJywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9Y2l0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hbGw9bWFsbCwK</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
