@@ -65,12 +65,12 @@
         <mark key="." line="21" column="67" />
         <mark key="^" line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556282802635">
-        <mark key="'" line="40" column="9" />
-        <mark key="[" line="90" column="42" />
-        <mark key="]" line="90" column="50" />
-        <mark key="." line="90" column="50" />
-        <mark key="^" line="90" column="50" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556342339405">
+        <mark key="'" line="123" column="35" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="124" column="40" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
@@ -118,8 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="28" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
-      <jump line="95" column="37" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_trackings.py" />
       <jump line="104" column="26" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
       <jump line="7" column="27" filename="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" />
@@ -218,63 +216,64 @@
       <jump line="39" column="16" filename="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" />
       <jump line="19" column="6" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="15" column="9" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="100" column="26" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="120" column="35" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCg==</text>
+        <text encoding="base64">ICAgIHBwcmludChqc29uLmxvYWRzKHJlc3AuY29udGVudClbJ3N0YXRzJ10pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>REDSTAR/{city}/{mall}</text>
+        <text>task_name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGlcPg==</text>
+        <text>task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd0YXNrOiAnLCBjb250ZW50Wyd0YXNrX25hbWUnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">ICAgIHBwcmludChqc29uLmxvYWRzKHJlc3AuY29udGVudClbJ3N0YXRzJ10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9Y2l0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hbGw9bWFsbCwK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9Y2l0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hbGw9bWFsbCwK</text>
+        <text encoding="base64">ICAgIHJldHVybiAncmVzcG9uc2UnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">CiAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaXR5PWNpdHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFsbD1tYWxsLAo=</text>
+        <text encoding="base64">ICAgICMgb3Muc3lzdGVtKHN1Ym1pdF91cmwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdtYWxsJywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdjaXR5JywgdHlwZT1jbGljay5TVFJJTkcpCkBjbGljay5hcmd1bWVudCgnbWFsbCcsIHR5cGU9Y2xpY2suU1RSSU5HKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk9Y2l0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hbGw9bWFsbCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGlcPg==</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGlcPg==</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dump</entry>
         <entry>check_num</entry>
         <entry encoding="base64">XDxjaGVja19udW1cPg==</entry>
         <entry encoding="base64">XDx3b3Jkc1w+</entry>
@@ -294,6 +293,7 @@
         <entry encoding="base64">XDxjcmVhdGVfdGFza1w+</entry>
         <entry encoding="base64">XDx0YXNrX3RyYWNraW5nX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxjbGlcPg==</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
