@@ -3,22 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/taskmanage.html" timestamp="1556461138494">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556346849127">
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="37" />
+        <mark key="^" line="91" column="37" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556432517993">
         <mark key="'" line="68" column="25" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/config/env_configs/config_bj.sh" timestamp="1556433288685" />
+      <file name="/fragment.py" timestamp="1556181521211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1556375953710">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/start.sh" timestamp="1556433209523" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/extract_faceinfo.py" timestamp="1556027204339" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/rename_imgs.py" timestamp="1556027216293" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/prepare_data_step0.yaml" timestamp="1556087510295" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/upload_imgs.py" timestamp="1556027225417" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556376669504">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556432513296">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="107" />
+        <mark key="^" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="139" column="33" />
+      </file>
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1556271525759">
         <mark key="'" line="39" column="16" />
       </file>
@@ -28,41 +57,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556346849127">
-        <mark key="[" line="91" column="25" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="37" />
-        <mark key="^" line="91" column="37" />
-      </file>
-      <file name="/fragment.py" timestamp="1556181521211">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556432513296">
-        <mark key="'" line="47" column="36" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="107" />
-        <mark key="^" line="18" column="63" />
-        <mark key="." line="18" column="63" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/Dockerfile" timestamp="1556027416265" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556028606241" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
         <mark key="'" line="205" column="75" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/.gitmodules" timestamp="1556028612469" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/.gitignore" timestamp="1556266050267" />
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556376669504">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="139" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -172,7 +168,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrong</text>
+        <text>Document</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJ0X3RvX2Jhc2U2NFw+</text>
@@ -184,28 +180,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLklORk8sIHN0cmVhbT1zeXMuc3Rkb3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICA8di1mb3I+PC92LWZvcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNvbnZlcnRfdG9fYmFzZTY0KGltZ19maWxlKToKICAgIHdpdGggb3BlbihpbWdfZmlsZSwgJ3JiJykgYXMgZjoKICAgICAgICByZXR1cm4gYmFzZTY0LmI2NGVuY29kZShmLnJlYWQoKSkuZGVjb2RlKCd1dGYtOCcpLnJlcGxhY2UoIiciLCAiIikK</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSIiPjwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICBwcHJpbnQodXJsKQogICAgICAgICMgIHBwcmludChoZWFkZXJzKQogICAgICAgICMgIHBwcmludChwYXlsb2FkKQo=</text>
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgRklYTUU6IGxvZyBmaWxlCiAgICBSRUdJU1RFUl9FUlJfTE9HID0gJy4vcmVnX2Vyci5sb2cnCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgRklYTUU6IGZhY2VpZCBhbmQgcGlkIG1hcHBpbmcK</text>
+        <text encoding="base64">PGh0bWw+CjxoZWFkPgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS92dWUvZGlzdC92dWUuanMiPjwvc2NyaXB0Pgo8L2hlYWQ+Cgo8Ym9keT4KCiAgICA8ZGl2PgoKPGJvZHk+CgoKCjwvaHRtbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgRklYTUU6IGZhY2UgaW5mbyBpbmNsdWRpbmcgcXVhbGl0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG11bHRpcHJvY2Vzc2luZyBhcyBtcCwK</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLklORk8sIHN0cmVhbT1zeXMuc3Rkb3V0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBGSVhNRTogbG9nIGZpbGUKUkVHSVNURVJfRVJSX0xPRyA9ICcuL3JlZ19lcnIubG9nJwoKCg==</text>
+        <text encoding="base64">ZGVmIGNvbnZlcnRfdG9fYmFzZTY0KGltZ19maWxlKToKICAgIHdpdGggb3BlbihpbWdfZmlsZSwgJ3JiJykgYXMgZjoKICAgICAgICByZXR1cm4gYmFzZTY0LmI2NGVuY29kZShmLnJlYWQoKSkuZGVjb2RlKCd1dGYtOCcpLnJlcGxhY2UoIiciLCAiIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
