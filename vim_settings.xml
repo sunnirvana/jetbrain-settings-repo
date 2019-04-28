@@ -9,11 +9,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/config/env_configs/config_bj.sh" timestamp="1556433288685" />
       <file name="/a.dummy" timestamp="1556375953710">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/start.sh" timestamp="1556425209011" />
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/start.sh" timestamp="1556433209523" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/extract_faceinfo.py" timestamp="1556027204339" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/rename_imgs.py" timestamp="1556027216293" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/prepare_data_step0.yaml" timestamp="1556087510295" />
