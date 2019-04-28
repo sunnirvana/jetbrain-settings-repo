@@ -37,12 +37,12 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556378216121">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="16" />
-        <mark key="^" line="102" column="33" />
-        <mark key="." line="105" column="16" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556427547470">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="100" column="47" />
+        <mark key="]" line="100" column="48" />
+        <mark key="^" line="100" column="48" />
+        <mark key="." line="100" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/Dockerfile" timestamp="1556027416265" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/build_docker.sh" timestamp="1556028606241" />
@@ -161,18 +161,18 @@
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="124" column="22" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="144" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
-      <jump line="47" column="11" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="21" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="66" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="111" column="25" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
+      <jump line="47" column="36" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGNvbnZlcnRfdG9fYmFzZTY0KGltZ19maWxlKToKICAgIHdpdGggb3BlbihpbWdfZmlsZSwgJ3JiJykgYXMgZjoKICAgICAgICByZXR1cm4gYmFzZTY0LmI2NGVuY29kZShmLnJlYWQoKSkuZGVjb2RlKCd1dGYtOCcpLnJlcGxhY2UoIiciLCAiIikK</text>
+      <register name="&quot;" type="4">
+        <text>wrong</text>
       </register>
       <register name="-" type="4">
-        <text>retunr</text>
+        <text>wrong</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJ0X3RvX2Jhc2U2NFw+</text>
