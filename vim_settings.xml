@@ -16,11 +16,12 @@
         <mark key="." line="91" column="37" />
         <mark key="^" line="91" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556462818094">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556539592112">
         <mark key="'" line="68" column="25" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="124" column="31" />
+        <mark key="]" line="124" column="34" />
+        <mark key="." line="124" column="34" />
+        <mark key="^" line="124" column="34" />
       </file>
       <file name="/Python Console" timestamp="1556462776011">
         <mark key="[" line="0" column="0" />
@@ -38,7 +39,7 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556432513296">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556539612472">
         <mark key="'" line="47" column="36" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="107" />
@@ -189,10 +190,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ceph001</text>
+        <text>exist</text>
       </register>
       <register name="-" type="4">
-        <text>ceph001</text>
+        <text>exist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2FwaVw+</text>
