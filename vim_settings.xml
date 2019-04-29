@@ -32,11 +32,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556376669504">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="11" column="9" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556539489676">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556432513296">
         <mark key="'" line="47" column="36" />
@@ -189,10 +189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_parent</text>
+        <text>ceph001</text>
       </register>
       <register name="-" type="4">
-        <text>_parent</text>
+        <text>ceph001</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2FwaVw+</text>
@@ -228,7 +228,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -282,8 +282,8 @@
         <entry>19</entry>
         <entry>35</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
