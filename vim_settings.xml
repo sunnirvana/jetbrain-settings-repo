@@ -75,12 +75,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" timestamp="1556529327007">
-        <mark key="'" line="63" column="74" />
-        <mark key="[" line="165" column="27" />
-        <mark key="]" line="165" column="52" />
-        <mark key="." line="165" column="52" />
-        <mark key="^" line="165" column="52" />
+      <file name="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" timestamp="1556531466212">
+        <mark key="[" line="54" column="55" />
+        <mark key="]" line="54" column="58" />
+        <mark key="." line="54" column="58" />
+        <mark key="^" line="54" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
         <mark key="'" line="205" column="75" />
@@ -189,44 +188,44 @@
       <jump line="55" column="74" filename="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_parent</text>
       </register>
       <register name="-" type="4">
-        <text>stringify</text>
+        <text>_parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2FwaVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1yb3c+CiAgICAgICAgICAgICAgICAgICAgPGVsLWNvbCA6b2Zmc2V0PSIyIiA6c3Bhbj0iMiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPiBOYW1lc3BhY2U6IDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxlbC1pbnB1dCBwbGFjZWhvbGRlcj0iTmFtZXNwYWNlIiB2LW1vZGVsPSJuYW1lc3BhY2UiPjwvZWwtaW5wdXQ+CiAgICAgICAgICAgICAgICAgICAgPC9lbC1jb2w+CiAgICAgICAgICAgICAgICA8L2VsLXJvdz4K</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDwvZWwtY29sPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxlbC1jb2wgOm9mZnNldD0iMiIgOnNwYW49IjE2Ij4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIHNpemU9InNtYWxsIiB2LW9uOmNsaWNrPSJjYWxsX2FwaShsaW5rKSI+e3sgbGluay50ZXh0IH19PC9lbC1idXR0b24+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZXNwX2NvbnRlbnQgPSBKU09OLnBhcnNlKGVycm9yKTsK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxlbC1jb2wgOm9mZnNldD0iMiIgOnNwYW49IjE2Ij4ge3sgbGluay51cmwgfX08L2VsLWNvbD4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgdGFyZ2V0PSJfc2VsZiI+PC9hPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy4kbmV4dFRpY2soZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjQiIDpzcGFuPSIxNiI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gdGhpcy4kbmV4dFRpY2soZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgPC9lbC1jb2w+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxlbC1jb2wgOm9mZnNldD0iNCIgOnNwYW49IjE2Ij4tLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX3Jlc3AgPSBlcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
