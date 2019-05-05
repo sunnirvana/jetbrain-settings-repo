@@ -36,6 +36,8 @@
   </PHPCodeStyleSettings>
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
   <codeStyleSettings language="JSON">
     <option name="SOFT_MARGINS" value="120" />
