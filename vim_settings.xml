@@ -29,7 +29,8 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1556375953710">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_poster.py" timestamp="1557039090632" />
+      <file name="/a.dummy" timestamp="1557038484593">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
       </file>
@@ -39,7 +40,7 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557035287260">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557037575913">
         <mark key="'" line="47" column="36" />
         <mark key="[" line="48" column="28" />
         <mark key="]" line="49" column="45" />
@@ -91,6 +92,7 @@
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
         <mark key="'" line="205" column="75" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_fetcher.py" timestamp="1557038745497" />
     </filemarks>
     <jumps>
       <jump line="103" column="54" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
