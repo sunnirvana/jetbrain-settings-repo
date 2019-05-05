@@ -39,12 +39,12 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1556610108020">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557035287260">
         <mark key="'" line="47" column="36" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="107" />
-        <mark key="^" line="18" column="63" />
-        <mark key="." line="18" column="63" />
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="49" column="45" />
+        <mark key="^" line="49" column="45" />
+        <mark key="." line="49" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
         <mark key="'" line="61" column="4" />
