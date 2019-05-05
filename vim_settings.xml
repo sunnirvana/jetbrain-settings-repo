@@ -61,12 +61,12 @@
         <mark key="." line="101" column="24" />
         <mark key="^" line="101" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557044219825">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557048748822">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="136" column="74" />
-        <mark key="]" line="136" column="61" />
-        <mark key="." line="136" column="61" />
-        <mark key="^" line="136" column="61" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="24" />
+        <mark key="." line="80" column="24" />
+        <mark key="^" line="80" column="24" />
         <mark key="o" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1556271525759">
@@ -203,11 +203,11 @@
       <jump line="77" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parse_face_info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmYWNlX2luZm8gaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parse_face_info</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfcGlkX2ZhY2VpZF9kaWN0XD4=</text>
@@ -216,31 +216,31 @@
         <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmb3JtYXQ9JyUoYXNjdGltZSlzICUobGV2ZWxuYW1lKXM6ICUobWVzc2FnZSlzJywgbGV2ZWw9bG9nZ2luZy5JTkZPLCBzdHJlYW09c3lzLnN0ZG91dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHF1YWxpdHkgc2NvcmUgaW4gZmFjZWluZm8gZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBmYWNlX2luZm8gaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHF1YWxpdHkgc2NvcmUgaW4gZmFjZWlkCiAgICAgICAgZmFjZV9pbmZvX2RpY3RbZmFjZWlkXSA9IGZhY2VpZF9waWQKICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBvcmRlcmVkX2ZhY2VfbGlzdCA9IHNvcnRlZChmYWNlX2xpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleT1sYW1iZGEgeDogZmFjZV9pbmZvX2RpY3RbeF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX2ZhY2VfaW5mbyhwdGtfcGlkX2ZpbGUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZSBzbWFsbGVyIHF1YWxpdHkgc2NvcmUgaXMsIHRoZSBiZXR0ZXIgaW1hZ2Ugd2UgYXJlIGxvb2tpbmcgZm9yIC0tIEBEdUthbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlkIGluIGZhY2V9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX3Byb2Nlc3MoKToK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlkIGluIGZhY2V9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZF9wcm9jZXNzKCkKCg==</text>
+        <text encoding="base64">ICAgIGZhY2VpZF9waWRfZGljdCA9IHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHEgPSBRdWV1ZSgpCiAgICBwdyA9IFByb2Nlc3ModGFyZ2V0PWRvd25sb2FkLCBhcmdzPShxLCkpCiAgICBwciA9IFByb2Nlc3ModGFyZ2V0PXJlZ2lzdGVyLCBhcmdzPShxLCkpCiAgICBwdy5zdGFydCgpCiAgICBwci5zdGFydCgpCiAgICBwdy5qb2luKCkKICAgIHByLnRlcm1pbmF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIGZhY2VfaW5mb19kaWN0ID0ge30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
