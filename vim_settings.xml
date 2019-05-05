@@ -16,15 +16,15 @@
         <mark key="." line="91" column="37" />
         <mark key="^" line="91" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1556539592112">
+      <file name="/main" timestamp="1557037390158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1557037322425">
         <mark key="'" line="68" column="25" />
         <mark key="[" line="124" column="31" />
         <mark key="]" line="124" column="34" />
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
-      </file>
-      <file name="/Python Console" timestamp="1556462776011">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
@@ -60,6 +60,12 @@
         <mark key="." line="101" column="24" />
         <mark key="^" line="101" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557037403989">
+        <mark key="'" line="1" column="36" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1556271525759">
         <mark key="'" line="39" column="16" />
       </file>
@@ -87,10 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="27" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
-      <jump line="88" column="38" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
-      <jump line="38" column="41" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
-      <jump line="82" column="11" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
       <jump line="103" column="54" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
       <jump line="105" column="3" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
       <jump line="7" column="15" filename="$USER_HOME$/Workspace/tmp/camera_time_label/process_labeling4camera_ocr_sei_time/process_excel_tsf2.py" />
@@ -187,46 +189,50 @@
       <jump line="61" column="50" filename="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" />
       <jump line="146" column="12" filename="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" />
       <jump line="55" column="74" filename="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" />
+      <jump line="22" column="12" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
+      <jump line="0" column="47" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
+      <jump line="34" column="26" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
+      <jump line="1" column="36" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>exist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggUG9vbChvcy5jcHVfY291bnQoKSkgYXMgcDoKICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKG15X3Byb2Nlc3MsIFtdKSwgdG90YWw9MykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>exist</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsX2FwaVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDwvZWwtY29sPi0tPgo=</text>
+        <text encoding="base64">ICAgIHB3ID0gUHJvY2Vzcyh0YXJnZXQ9d3JpdGUsIGFyZ3M9KHEsKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxlbC1jb2wgOm9mZnNldD0iMiIgOnNwYW49IjE2Ij4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZWwtYnV0dG9uIHR5cGU9InByaW1hcnkiIHNpemU9InNtYWxsIiB2LW9uOmNsaWNrPSJjYWxsX2FwaShsaW5rKSI+e3sgbGluay50ZXh0IH19PC9lbC1idXR0b24+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4tLT4K</text>
+        <text encoding="base64">ICAgIHdpdGggUG9vbChvcy5jcHVfY291bnQoKSkgYXMgcDoKICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKG15X3Byb2Nlc3MsIFtdKSwgdG90YWw9MykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxlbC1jb2wgOm9mZnNldD0iMiIgOnNwYW49IjE2Ij4ge3sgbGluay51cmwgfX08L2VsLWNvbD4tLT4K</text>
+        <text encoding="base64">ICAgIHAgPSBQb29sKG15X3Byb2Nlc3MsICkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgdGFyZ2V0PSJfc2VsZiI+PC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+Cg==</text>
+        <text encoding="base64">ICAgIGZvciBfIGluIG9zLmNwdV9jb3VudCgpIC8vIDI6CiAgICAgICAgcHcgPSBQcm9jZXNzKHRhcmdldD13cml0ZSwgYXJncz0ocSwpKQogICAgICAgIHB3LnN0YXJ0KCkKCiAgICBmb3IgXyBpbiBvcy5jcHVfY291bnQoKSAvLyAyOgogICAgICAgIHByID0gUHJvY2Vzcyh0YXJnZXQ9cmVhZCwgYXJncz0ocSwpKQogICAgICAgIHByLnN0YXJ0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjIiIDpzcGFuPSIxNiI+Cg==</text>
+        <text encoding="base64">ICAgIHEgPSBRdWV1ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4KICAgICAgICAgICAgICAgICAgICA8ZWwtY29sIDpvZmZzZXQ9IjQiIDpzcGFuPSIxNiI+Cg==</text>
+        <text encoding="base64">ICAgIHB3LmpvaW4oKQogICAgcHIudGVybWluYXRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgPC9lbC1jb2w+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxlbC1jb2wgOm9mZnNldD0iNCIgOnNwYW49IjE2Ij4tLT4K</text>
+        <text encoding="base64">ICAgIHByLnN0YXJ0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2VsLWNvbD4K</text>
+        <text encoding="base64">ICAgIHB3LnN0YXJ0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
