@@ -29,6 +29,7 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_poster.py" timestamp="1557114020788" />
       <file name="/a.dummy" timestamp="1557038484593">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
@@ -60,12 +61,12 @@
         <mark key="." line="101" column="24" />
         <mark key="^" line="101" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557054309733">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557114091664">
         <mark key="'" line="95" column="4" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="146" column="20" />
+        <mark key="[" line="139" column="90" />
+        <mark key="]" line="139" column="89" />
+        <mark key="." line="139" column="89" />
+        <mark key="^" line="139" column="89" />
         <mark key="o" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1556271525759">
