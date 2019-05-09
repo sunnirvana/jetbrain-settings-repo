@@ -29,7 +29,6 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_poster.py" timestamp="1557214130066" />
       <file name="/a.dummy" timestamp="1557038484593">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
@@ -78,8 +77,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/test_data/ptk_pid_10000.csv" timestamp="1557058577889" />
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yml" timestamp="1557054359071" />
       <file name="$USER_HOME$/Workspace/projects/tesk-manage-api/test.html" timestamp="1556503720500">
         <mark key="'" line="8" column="39" />
         <mark key="[" line="10" column="40" />
@@ -96,10 +93,10 @@
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
         <mark key="'" line="205" column="75" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_fetcher.py" timestamp="1557399776254">
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_fetcher.py" timestamp="1557415325203">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="107" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="100" />
       </file>
     </filemarks>
     <jumps>
@@ -205,8 +202,8 @@
       <jump line="144" column="3" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>idc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKHNhdmVfb25lX3BpZCwgcGlkX3B0a19tYXAua2V5cygpKSwgdG90YWw9bGVuKHBpZF9wdGtfbWFwLmtleXMoKSkpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>idc</text>
@@ -215,7 +212,7 @@
         <text encoding="base64">XDxkb3dubG9hZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1pZGMnLCB0eXBlPWNsaWNrLkNob2ljZShbJ2JqJywgJ3NoJywgJ2d6J10pLCBoZWxwPSdJTlBVVDogSURDJywgZGVmYXVsdD0nYmonKQpAY2xpY2sub3B0aW9uKCctLXN0b3JlLW5hbWUnLCB0eXBlPWNsaWNrLlNUUklORywgaGVscD0nSU5QVVQ6IEJPQVJEL2NpdHkvc3RvcmUsIGUuZy4gUkVEU1RBUi9zaC9qcScpCg==</text>
+        <text encoding="base64">ICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKHNhdmVfb25lX3BpZCwgcGlkX3B0a19tYXAua2V5cygpKSwgdG90YWw9bGVuKHBpZF9wdGtfbWFwLmtleXMoKSkpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1wdGstcGlkJywgdHlwZT1jbGljay5QYXRoKGV4aXN0cz1UcnVlKSwgKQo=</text>
