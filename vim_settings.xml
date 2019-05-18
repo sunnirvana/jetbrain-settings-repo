@@ -10,11 +10,12 @@
         <mark key="." line="133" column="2" />
         <mark key="^" line="133" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1556346849127">
-        <mark key="[" line="91" column="25" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="37" />
-        <mark key="^" line="91" column="37" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1558152435572">
+        <mark key="'" line="71" column="29" />
+        <mark key="[" line="294" column="70" />
+        <mark key="]" line="295" column="32" />
+        <mark key="^" line="295" column="32" />
+        <mark key="." line="291" column="41" />
       </file>
       <file name="/main" timestamp="1557037390158">
         <mark key="[" line="0" column="0" />
@@ -33,7 +34,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/download_online_face_data_from_hive.py" timestamp="1557620590881" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556539489676">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="12" />
@@ -47,7 +47,6 @@
         <mark key="^" line="49" column="45" />
         <mark key="." line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1557624157145" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
         <mark key="'" line="61" column="4" />
         <mark key="[" line="116" column="0" />
@@ -102,15 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="37" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="67" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="165" column="35" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="153" column="19" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="147" column="18" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="103" column="30" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="39" column="10" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="156" column="20" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="155" column="15" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
@@ -202,55 +192,64 @@
       <jump line="148" column="28" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="95" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="144" column="3" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
+      <jump line="257" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="310" column="37" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="9" column="5" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="76" column="10" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="311" column="37" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="10" column="7" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="269" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="291" column="44" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
+      <jump line="71" column="29" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKHNhdmVfb25lX3BpZCwgcGlkX3B0a19tYXAua2V5cygpKSwgdG90YWw9bGVuKHBpZF9wdGtfbWFwLmtleXMoKSkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>type=click.Path(exists=True)</text>
       </register>
       <register name="-" type="4">
-        <text>idc</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb3dubG9hZFw+</text>
+        <text encoding="base64">XDxocV9zY29yZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKHNhdmVfb25lX3BpZCwgcGlkX3B0a19tYXAua2V5cygpKSwgdG90YWw9bGVuKHBpZF9wdGtfbWFwLmtleXMoKSkpKQo=</text>
+      <register name="0" type="4">
+        <text>type=click.Path(exists=True)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1wdGstcGlkJywgdHlwZT1jbGljay5QYXRoKGV4aXN0cz1UcnVlKSwgKQo=</text>
+        <text encoding="base64">ICAgICMgIHByaW50KCdPbmxpbmUgc3RhcnQ6IHt9LCBlbmQ6IHt9Jy5mb3JtYXQoZ2V0X2ZhY2VfZGF0ZXRpbWUob25saW5lX2ZhY2VfbGlzdF9zb3J0ZWRbMF0pLCBnZXRfZmFjZV9kYXRldGltZShvbmxpbmVfZmFjZV9saXN0X3NvcnRlZFstMV0pKSkKICAgICMgIHByaW50KCdPZmZsaW5lIHN0YXJ0OiB7fSwgZW5kOiB7fScuZm9ybWF0KGdldF9mYWNlX2RhdGV0aW1lKG9mZmxpbmVfZmFjZV9saXN0X3NvcnRlZFswXSksIGdldF9mYWNlX2RhdGV0aW1lKG9mZmxpbmVfZmFjZV9saXN0X3NvcnRlZFstMV0pKSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnUElEJykK</text>
+        <text encoding="base64">CgpwYXJzZXIuYWRkX2FyZ3VtZW50KCctLW9ubGluZScsIGhlbHA9J0lOUFVUOiBvbmxpbmUgZmFjZSBpbmZvIEpTT04nKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCctLW9mZmxpbmUnLCBoZWxwPSdJTlBVVDogb2ZmbGluZSBmYWNlIGluZm8gSlNPTicpCnBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAnLS1ocV9zY29yZScsIGhlbHA9J0lOUFVUOiBpbWFnZSBoaWdodCBxdWFsaXR5IHRocmVzaG9sZCcsIGRlZmF1bHQ9MC44KQphcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICBwcHJpbnQoJ3JhbmRvbSBmYWNlIGxpc3Q6IHt9LCBvcmRlcmVkIGZhY2UgbGlzdDoge30nLmZvcm1hdChmYWNlX2xpc3RbOjEwXSwgb3JkZXJlZF9mYWNlX2xpc3RbOjEwXSkpCg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1wdGstcGlkJywgdHlwZT1jbGljay5QYXRoKGV4aXN0cz1UcnVlKSwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnUElEJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2luZy5kZWJ1ZygnRmFjZSBJRCB0b3RhbDoge30nLmZvcm1hdChsZW4oZmFjZV9pbmZvX2RpY3QpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmYWNlX2luZm8gaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICBwcHJpbnQoJ3JhbmRvbSBmYWNlIGxpc3Q6IHt9LCBvcmRlcmVkIGZhY2UgbGlzdDoge30nLmZvcm1hdChmYWNlX2xpc3RbOjEwXSwgb3JkZXJlZF9mYWNlX2xpc3RbOjEwXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBvcmRlcmVkX2ZhY2VfbGlzdCA9IHNvcnRlZChmYWNlX2xpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleT1sYW1iZGEgeDogZmFjZV9pbmZvX2RpY3RbeF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZSBzbWFsbGVyIHF1YWxpdHkgc2NvcmUgaXMsIHRoZSBiZXR0ZXIgaW1hZ2Ugd2UgYXJlIGxvb2tpbmcgZm9yIC0tIEBEdUthbmcK</text>
+        <text encoding="base64">ICAgICMgbG9nZ2luZy5kZWJ1ZygnRmFjZSBJRCB0b3RhbDoge30nLmZvcm1hdChsZW4oZmFjZV9pbmZvX2RpY3QpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb3dubG9hZFw+</last-search>
+      <last-search encoding="base64">XDxocV9zY29yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb3dubG9hZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxocV9zY29yZVw+</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -258,10 +257,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrX3RyYWNraW5nX3N0YXR1c1w+</entry>
-        <entry encoding="base64">XDxjbGlcPg==</entry>
-        <entry>task</entry>
-        <entry encoding="base64">XDxzYXZlX29uZV9waWRcPg==</entry>
         <entry encoding="base64">XDxtdWx0aXByb2Nlc3NfcnVuXD4=</entry>
         <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxuY3B1XD4=</entry>
@@ -278,6 +273,10 @@
         <entry encoding="base64">XDxnZXRfcHRrX3RpbWVcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
         <entry encoding="base64">XDxkb3dubG9hZFw+</entry>
+        <entry encoding="base64">XDxkYXRldGltZVw+</entry>
+        <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZmFjZV9kYXRldGltZVw+</entry>
+        <entry encoding="base64">XDxocV9zY29yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
