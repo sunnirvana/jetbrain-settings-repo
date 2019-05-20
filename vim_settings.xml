@@ -3,25 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/taskmanage.html" timestamp="1556503188146">
-        <mark key="'" line="94" column="2" />
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="133" column="2" />
-        <mark key="." line="133" column="2" />
-        <mark key="^" line="133" column="2" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1558152435572">
         <mark key="'" line="71" column="29" />
         <mark key="[" line="294" column="70" />
         <mark key="]" line="295" column="32" />
         <mark key="^" line="295" column="32" />
         <mark key="." line="291" column="41" />
-      </file>
-      <file name="/main" timestamp="1557037390158">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558322148730">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1557037322425">
         <mark key="'" line="68" column="25" />
@@ -37,12 +24,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556539489676">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557037575913">
         <mark key="'" line="47" column="36" />
         <mark key="[" line="48" column="28" />
@@ -57,36 +38,15 @@
         <mark key="^" line="141" column="66" />
         <mark key="." line="168" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="139" column="33" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/python_basics/log.py" timestamp="1558349446765" />
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/python_basics/ssh_utils.py" timestamp="1558349307280" />
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/staff_generate_label.yaml" timestamp="1558349369479" />
       <file name="$USER_HOME$/Workspace/test.html" timestamp="1556503297533">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="88" column="3" />
         <mark key="]" line="101" column="24" />
         <mark key="." line="101" column="24" />
         <mark key="^" line="101" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557143065784">
-        <mark key="'" line="144" column="3" />
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-        <mark key="^" line="0" column="47" />
-        <mark key="o" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Nutstore Files/Nutstore/sync/megvii/nnie-tester/nnie_tester/utils/nfs.py" timestamp="1556271525759">
-        <mark key="'" line="39" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" timestamp="1556266094930">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/.gitignore" timestamp="1558322104654">
         <mark key="[" line="6" column="4" />
@@ -109,8 +69,51 @@
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/linux_sys_monitor.py" timestamp="1558322268639" />
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/start_push_video.sh" timestamp="1558343808776" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/pipeline.py" timestamp="1556356401187">
-        <mark key="'" line="205" column="75" />
+      <file name="$USER_HOME$/Workspace/taskmanage.html" timestamp="1556503188146">
+        <mark key="'" line="94" column="2" />
+        <mark key="[" line="98" column="5" />
+        <mark key="]" line="133" column="2" />
+        <mark key="." line="133" column="2" />
+        <mark key="^" line="133" column="2" />
+      </file>
+      <file name="/main" timestamp="1557037390158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558322148730">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/ceph_config.yaml" timestamp="1556539489676">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/filebeat/Dockerfile" timestamp="1558349473260" />
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
+        <mark key="'" line="61" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="139" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/python_basics/elastic_utils.py" timestamp="1558349456693" />
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/highquality_step1_clusteing_and_genlabeldata.yaml" timestamp="1558349433015" />
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557143065784">
+        <mark key="'" line="144" column="3" />
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="o" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" timestamp="1556266094930">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_fetcher.py" timestamp="1557415325203">
         <mark key="'" line="35" column="4" />
@@ -119,8 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" />
       <jump line="4" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" />
       <jump line="8" column="207" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="23" column="9" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
@@ -219,6 +220,8 @@
       <jump line="170" column="246" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
       <jump line="171" column="189" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
       <jump line="178" column="49" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
+      <jump line="54" column="15" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -228,7 +231,7 @@
         <text>type</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmlvcml0eVw+</text>
+        <text encoding="base64">XDxoaWdobGlnaHRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>type=click.Path(exists=True)</text>
@@ -265,9 +268,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmlvcml0eVw+</last-search>
+      <last-search encoding="base64">XDxoaWdobGlnaHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmlvcml0eVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoaWdobGlnaHRcPg==</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -275,8 +278,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjZXBoX2NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxuY3B1XD4=</entry>
         <entry encoding="base64">XDxtcFw+</entry>
         <entry encoding="base64">XDxSRUdJU1RFUl9FUlJfTE9HXD4=</entry>
         <entry encoding="base64">XDxxdWFsaXR5X3Njb3JlXD4=</entry>
@@ -295,6 +296,8 @@
         <entry encoding="base64">XDxnZXRfZmFjZV9kYXRldGltZVw+</entry>
         <entry encoding="base64">XDxocV9zY29yZVw+</entry>
         <entry encoding="base64">XDxwcmlvcml0eVw+</entry>
+        <entry encoding="base64">XDx0ZXJtY29sb3JfY29sb3JlZFw+</entry>
+        <entry encoding="base64">XDxoaWdobGlnaHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
