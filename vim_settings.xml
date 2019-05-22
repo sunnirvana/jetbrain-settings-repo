@@ -31,16 +31,13 @@
         <mark key="^" line="49" column="45" />
         <mark key="." line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" timestamp="1558234010334">
-        <mark key="'" line="178" column="49" />
-        <mark key="[" line="168" column="65" />
-        <mark key="]" line="168" column="66" />
-        <mark key="^" line="141" column="66" />
-        <mark key="." line="168" column="66" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" timestamp="1558535373786">
+        <mark key="'" line="179" column="49" />
+        <mark key="[" line="169" column="65" />
+        <mark key="]" line="169" column="66" />
+        <mark key="^" line="142" column="66" />
+        <mark key="." line="169" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/python_basics/log.py" timestamp="1558349446765" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/python_basics/ssh_utils.py" timestamp="1558349307280" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/staff_generate_label.yaml" timestamp="1558349369479" />
       <file name="$USER_HOME$/Workspace/test.html" timestamp="1556503297533">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="88" column="3" />
@@ -67,8 +64,6 @@
         <mark key="." line="54" column="89" />
         <mark key="^" line="54" column="89" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/linux_sys_monitor.py" timestamp="1558322268639" />
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/start_push_video.sh" timestamp="1558343808776" />
       <file name="$USER_HOME$/Workspace/taskmanage.html" timestamp="1556503188146">
         <mark key="'" line="94" column="2" />
         <mark key="[" line="98" column="5" />
@@ -88,7 +83,6 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/filebeat/Dockerfile" timestamp="1558349473260" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
         <mark key="'" line="61" column="24" />
       </file>
@@ -99,8 +93,6 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/python_basics/elastic_utils.py" timestamp="1558349456693" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/highquality_step1_clusteing_and_genlabeldata.yaml" timestamp="1558349433015" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557143065784">
         <mark key="'" line="144" column="3" />
         <mark key="[" line="0" column="42" />
