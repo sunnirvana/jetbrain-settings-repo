@@ -57,12 +57,12 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1558953297405">
-        <mark key="'" line="11" column="42" />
-        <mark key="[" line="95" column="23" />
-        <mark key="]" line="95" column="23" />
-        <mark key="." line="95" column="23" />
-        <mark key="^" line="95" column="23" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1558954385639">
+        <mark key="'" line="76" column="15" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="76" column="15" />
+        <mark key="." line="76" column="15" />
+        <mark key="^" line="76" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557037575913">
         <mark key="'" line="47" column="36" />
@@ -135,13 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="35" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
-      <jump line="75" column="11" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="142" column="21" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="141" column="23" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="78" column="5" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
-      <jump line="61" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
       <jump line="62" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
       <jump line="61" column="13" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
@@ -231,47 +224,54 @@
       <jump line="77" column="40" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="33" column="57" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="81" column="201" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="87" column="19" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="92" column="3" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="11" column="42" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="84" column="70" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="104" column="118" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="92" column="3" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="12" column="10" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="76" column="15" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>sdk_video_path</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dfcGF0aFw+</text>
+        <text encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZpcHNka192aWRlb19wYXRoID0gb3MucGF0aC5qb2luKHNhdmVfcGF0aCwgJ3ZpZGVvcycpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHModmlwc2RrX3ZpZGVvX3BhdGgpOgogICAgICAgIG9zLm1rZGlyKHZpcHNka192aWRlb19wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vdmVfY21kID0gJ212IHtzcmN9IHtkc3R9Jy5mb3JtYXQob3MucGF0aC5qb2luKHZpcHNka19sb2dfcGF0aCwgJ2FpYmVlJywgJ3ZpcHNkaycsICdyZXN1bHRzJyksICcnKQo=</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNjAqNjApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICdkb2NrZXIgcnVuIC0tcm0gLS1uYW1lIHZpcF95dWJvX3Rlc3QgLWggdmlwNS55dWJvX3Rlc3QgLS1uZXQ9aG9zdCAtdiB7bG9nX3BhdGh9Oi90bXAvIC12IHt2aWRlb19wYXRofTovdmlkZW9zIC12IHtjb25maWdfcGF0aH06L3ZpcC92aXBhcHAudG9tbCBoYXJib3IuYWliZWUuY24vZmFjZS92aXBzZGs6e3ZlcnNpb259IGJhc2ggdmlwLnNoJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdF9saXN0ID0gW10K</text>
+        <text encoding="base64">ICAgIHNsZWVwX2NtZCA9ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZpZGVvX2xpc3QgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -281,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dfcGF0aFw+</last-search>
+      <last-search encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dfcGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -291,8 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWFsaXR5X3Njb3JlXD4=</entry>
-        <entry encoding="base64">XDxjb252ZXJ0X3RvX2Jhc2U2NFw+</entry>
         <entry encoding="base64">XDxyZXNwX2NvbnRlbnRcPg==</entry>
         <entry encoding="base64">XDxjYWxsX2FwaVw+</entry>
         <entry encoding="base64">XDxzdG9yZV9uYW1lXD4=</entry>
@@ -311,6 +309,8 @@
         <entry encoding="base64">XDxoaWdobGlnaHRcPg==</entry>
         <entry encoding="base64">XDxzYXZlX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxsb2dfcGF0aFw+</entry>
+        <entry encoding="base64">XDxkb3dubG9hZF9jbWRcPg==</entry>
+        <entry encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
