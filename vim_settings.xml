@@ -30,7 +30,6 @@
       <file name="/Dummy.txt" timestamp="1558322148730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/process.sh" timestamp="1558953203373" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1557037322425">
         <mark key="'" line="68" column="25" />
         <mark key="[" line="124" column="31" />
@@ -121,6 +120,11 @@
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/.gitignore" timestamp="1559209027133">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/tesk-manage-api/taskmanage.html" timestamp="1556538598710">
         <mark key="[" line="54" column="84" />
@@ -237,8 +241,13 @@
       <jump line="76" column="15" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>.gitignore
+api-test/api/
+api-test/reports/
+api-test/testcases/
+api-test/testsuites/
+output_images/</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -249,32 +258,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZpcHNka192aWRlb19wYXRoID0gb3MucGF0aC5qb2luKHNhdmVfcGF0aCwgJ3ZpZGVvcycpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHModmlwc2RrX3ZpZGVvX3BhdGgpOgogICAgICAgIG9zLm1rZGlyKHZpcHNka192aWRlb19wYXRoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>.gitignore
+api-test/api/
+api-test/reports/
+api-test/testcases/
+api-test/testsuites/
+output_images/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNjAqNjApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNjAqNjApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNsZWVwX2NtZCA9ICcnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNsZWVwX2NtZCA9ICcnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
