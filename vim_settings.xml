@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1559353277727">
-        <mark key="'" line="285" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1559363305629">
+        <mark key="'" line="278" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1558152435572">
         <mark key="'" line="71" column="29" />
@@ -88,6 +87,12 @@
         <mark key="]" line="54" column="89" />
         <mark key="." line="54" column="89" />
         <mark key="^" line="54" column="89" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/counter_face.py" timestamp="1559362967928">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/taskmanage.html" timestamp="1556503188146">
         <mark key="'" line="94" column="2" />
@@ -242,48 +247,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmFwaS10ZXN0L2FwaS8KYXBpLXRlc3QvcmVwb3J0cy8KYXBpLXRlc3QvdGVzdGNhc2VzLwphcGktdGVzdC90ZXN0c3VpdGVzLwpleGUucHkKb3V0cHV0X2ltYWdlcy8KcG9zdG1hbi90ZXN0LnBvc3RtYW5fZW52aXJvbm1lbnQuanNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpcHNka192aWRlb19wYXRoID0gb3MucGF0aC5qb2luKHNhdmVfcGF0aCwgJ3ZpZGVvcycpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHModmlwc2RrX3ZpZGVvX3BhdGgpOgogICAgICAgIG9zLm1rZGlyKHZpcHNka192aWRlb19wYXRoKQo=</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1zdWJkaXInLCB0eXBlPWNsaWNrLlNUUklORywgZGVmYXVsdD0nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmFwaS10ZXN0L2FwaS8KYXBpLXRlc3QvcmVwb3J0cy8KYXBpLXRlc3QvdGVzdGNhc2VzLwphcGktdGVzdC90ZXN0c3VpdGVzLwpleGUucHkKb3V0cHV0X2ltYWdlcy8KcG9zdG1hbi90ZXN0LnBvc3RtYW5fZW52aXJvbm1lbnQuanNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.gitignore
-api-test/api/
-api-test/reports/
-api-test/testcases/
-api-test/testsuites/
-output_images/</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QGNsaS5jb21tYW5kKCkKQGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQpAY2xpY2sub3B0aW9uKCctLWZpZWxkJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J2RhdGUnKQpAY2xpY2sub3B0aW9uKCctLWRhdGFiYXNlJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J3JlZHN0YXInKQpAY2xpY2sub3B0aW9uKCctLWluX2RheXMnLCB0eXBlPWNsaWNrLklOVCwgZGVmYXVsdD03KQpAY2xpY2sub3B0aW9uKCctLXN1YmRpcicsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdudnIwJykKZGVmIGNoZWNrX2RhdGEoKToKICAgIGxpc3RfaGl2ZSgpCiAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNjAqNjApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaS5jb21tYW5kKCkKQGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQpAY2xpY2sub3B0aW9uKCctLWZpZWxkJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J2RhdGUnKQpAY2xpY2sub3B0aW9uKCctLWRhdGFiYXNlJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J3JlZHN0YXInKQpAY2xpY2sub3B0aW9uKCctLWluX2RheXMnLCB0eXBlPWNsaWNrLklOVCwgZGVmYXVsdD03KQpAY2xpY2sub3B0aW9uKCctLXN1YmRpcicsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdudnIwJykKZGVmIGNoZWNrX2RhdGEoKToKICAgIGxpc3RfaGl2ZSgpCiAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS1maWVsZCcsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdkYXRlJykKQGNsaWNrLm9wdGlvbignLS1kYXRhYmFzZScsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdyZWRzdGFyJykKQGNsaWNrLm9wdGlvbignLS1pbl9kYXlzJywgdHlwZT1jbGljay5JTlQsIGRlZmF1bHQ9NykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hbGxfZGljdF9zb3J0ZWQgPSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNsZWVwX2NtZCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICMgIGZvciBrIGluIHNvcnRlZChNQUxMX0RJQ1Qua2V5cygpKToKICAgICMgIG1hbGxfZGljdF9zb3J0ZWRba10gPSBNQUxMX0RJQ1Rba10KCiAgICAjICBwcHJpbnQobWFsbF9kaWN0X3NvcnRlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
