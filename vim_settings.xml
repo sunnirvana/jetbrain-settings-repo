@@ -23,10 +23,6 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1557038484593">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/config.py" timestamp="1559353233150">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="7" column="26" />
@@ -115,6 +111,11 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/reverse_roman_numerals.py" timestamp="1559518453435">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
         <mark key="'" line="61" column="24" />
@@ -250,7 +251,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgY2hfZmFjZV9jb3VudHMK</text>
+        <text encoding="base64">ZGVmIGEoKTogYXNkZwo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -262,31 +263,31 @@
         <text encoding="base64">ICAgIHByaW50KCdDb21wcmVzc2luZyB2aWRlb3MuLi4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY2hfZmFjZV9jb3VudHMK</text>
+        <text encoding="base64">ZGVmIGEoKTogYXNkZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICMgY2hfZmFjZV9jb3VudHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">ICAgIHBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGNsaS5jb21tYW5kKCkKQGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQpAY2xpY2sub3B0aW9uKCctLWZpZWxkJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J2RhdGUnKQpAY2xpY2sub3B0aW9uKCctLWRhdGFiYXNlJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J3JlZHN0YXInKQpAY2xpY2sub3B0aW9uKCctLWluX2RheXMnLCB0eXBlPWNsaWNrLklOVCwgZGVmYXVsdD03KQpAY2xpY2sub3B0aW9uKCctLXN1YmRpcicsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdudnIwJykKZGVmIGNoZWNrX2RhdGEoKToKICAgIGxpc3RfaGl2ZSgpCiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNsaS5jb21tYW5kKCkKQGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQpAY2xpY2sub3B0aW9uKCctLWZpZWxkJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J2RhdGUnKQpAY2xpY2sub3B0aW9uKCctLWRhdGFiYXNlJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J3JlZHN0YXInKQpAY2xpY2sub3B0aW9uKCctLWluX2RheXMnLCB0eXBlPWNsaWNrLklOVCwgZGVmYXVsdD03KQpAY2xpY2sub3B0aW9uKCctLXN1YmRpcicsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdudnIwJykKZGVmIGNoZWNrX2RhdGEoKToKICAgIGxpc3RfaGl2ZSgpCiAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaS5jb21tYW5kKCkKQGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQpAY2xpY2sub3B0aW9uKCctLWZpZWxkJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J2RhdGUnKQpAY2xpY2sub3B0aW9uKCctLWRhdGFiYXNlJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J3JlZHN0YXInKQpAY2xpY2sub3B0aW9uKCctLWluX2RheXMnLCB0eXBlPWNsaWNrLklOVCwgZGVmYXVsdD03KQpAY2xpY2sub3B0aW9uKCctLXN1YmRpcicsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdudnIwJykKZGVmIGNoZWNrX2RhdGEoKToKICAgIGxpc3RfaGl2ZSgpCiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
