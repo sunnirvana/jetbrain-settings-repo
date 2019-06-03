@@ -29,6 +29,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/README.md" timestamp="1559535360035" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557037575913">
         <mark key="'" line="47" column="36" />
         <mark key="[" line="48" column="28" />
@@ -114,6 +115,12 @@
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
         <mark key="'" line="61" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/codes/python_learn/test.py" timestamp="1559535171499">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
         <mark key="'" line="61" column="4" />
         <mark key="[" line="116" column="0" />
@@ -121,24 +128,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1557143065784">
-        <mark key="'" line="144" column="3" />
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-        <mark key="^" line="0" column="47" />
-        <mark key="o" line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" timestamp="1559369304628">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/image_fetcher.py" timestamp="1557415325203">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="100" />
       </file>
     </filemarks>
     <jumps>
@@ -245,7 +239,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGEoKTogYXNkZwo=</text>
+        <text encoding="base64">ZGVmIGZ1bmMoKToKICAgIHByaW50KCdIZWxsbyB3b3JsZCcpCgo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -254,7 +248,7 @@
         <text encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdDb21wcmVzc2luZyB2aWRlb3MuLi4nKQo=</text>
+        <text encoding="base64">ZGVmIGZ1bmMoKToKICAgIHByaW50KCdIZWxsbyB3b3JsZCcpCgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIGEoKTogYXNkZwo=</text>
