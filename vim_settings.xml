@@ -147,7 +147,12 @@
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
         <mark key="'" line="61" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559559906563" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559562423201">
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="59" />
+        <mark key="." line="56" column="59" />
+        <mark key="^" line="56" column="59" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/python_learn/test.py" timestamp="1559535171499">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="23" />
@@ -278,43 +283,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>users-v1-add.yml</text>
+        <text>counter</text>
       </register>
       <register name="-" type="4">
-        <text>users-v1-add.yml</text>
+        <text>counter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZ1bmMoKToKICAgIHByaW50KCdIZWxsbyB3b3JsZCcpCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b3RhbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDliKDpmaR1c2VyX2lkIOWvueW6lOeahOeUqOaIt++8jCDlnKjov5vooYzmt7vliqAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiB0b3RhbDoKICAgICAgICAgICAgaWYgc3VtKGkpID09IHRhcmdldDoKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIHsiY2hlY2siOiJjb250ZW50LmRhdGEudXNlcl9pZCIsICJjb21wYXJhdG9yIjogInJlZ2V4X21hdGNoIiwgImV4cGVjdCI6ICJeXFxTezEwMCx9JCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWwgKz0gMQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgc2VjcmV0OiA3emdMZHpxYnpZQXlMeFlSODRmOFpuMXo5bzJ2UUF3QQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgc2ltcGxlX3JlczogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaXN0KGl0ZXJ0b29scy5wcm9kdWN0KHJhbmdlKDEsIHNpZGVzICsgMSksIGRpY2VfbnVtYmVyKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgdG9wX246IDUK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1Db3VudCA9IFtsZW4oW2sgZm9yIGsgaW4gal0pIGZvciBfLCBqIGluIGdyb3VwYnkoaSldCiAgICAgICAgICAgICAgICBjb3VudGVyICs9IGZhY3RvcmlhbChsZW4oaSkpIC8gcmVkdWNlKGxhbWJkYSB4LCB5OiB4ICogeSwgbWFwKGZhY3RvcmlhbCwgaXRlbUNvdW50KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2ltcGxlX3JlczogJHNpbXBsZV9yZXMK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lcyA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBjb25maWc6CiAgICBuYW1lOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
