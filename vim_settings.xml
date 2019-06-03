@@ -46,11 +46,10 @@
         <mark key="^" line="142" column="66" />
         <mark key="." line="169" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1559554651601">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1559567316136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/v1_register.yaml" timestamp="1559555232250">
         <mark key="'" line="5" column="17" />
@@ -118,12 +117,12 @@
         <mark key="." line="133" column="2" />
         <mark key="^" line="133" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559554940563">
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559567246073">
         <mark key="'" line="7" column="3" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="32" column="15" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1559558650706" />
       <file name="/main" timestamp="1557037390158">
@@ -167,11 +166,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="/usr/local/lib/python3.7/site-packages/httprunner/loader.py" timestamp="1559564190417">
+      <file name="/usr/local/lib/python3.7/site-packages/httprunner/loader.py" timestamp="1559567265099">
         <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="40" />
-        <mark key="^" line="37" column="40" />
-        <mark key="." line="37" column="40" />
+        <mark key="]" line="37" column="62" />
+        <mark key="^" line="37" column="62" />
+        <mark key="." line="37" column="62" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" timestamp="1559369304628">
         <mark key="[" line="5" column="0" />
@@ -283,11 +282,11 @@
       <jump line="57" column="77" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, Loader=yaml.SafeLoader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</text>
@@ -296,31 +295,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnZGljZV9udW1iZXI6ICcsIGRpY2VfbnVtYmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWNlcyA9IGxpc3QocmFuZ2UpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkaWNlcyA9IGxpc3QocmFuZ2UpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXJzID0gWyBbXSAgZm9yIF8gaW4gZGljZV9udW1iZXIgXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndG90YWw6ICAgICAgICcsIGxlbih0b3RhbCksIHRvdGFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXJzID0gWyBbXSAgZm9yIF8gaW4gZGljZV9udW1iZXIgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiB0b3RhbDoKICAgICAgICAgICAgaWYgc3VtKGkpID09IHRhcmdldDoKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndG90YWw6ICAgICAgICcsIGxlbih0b3RhbCksIHRvdGFsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWwgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiB0b3RhbDoKICAgICAgICAgICAgaWYgc3VtKGkpID09IHRhcmdldDoKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWwgKz0gMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
