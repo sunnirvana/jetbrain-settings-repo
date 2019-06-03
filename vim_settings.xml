@@ -20,6 +20,9 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/register.yaml" timestamp="1559554374619">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,7 +32,6 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/README.md" timestamp="1559535360035" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557037575913">
         <mark key="'" line="47" column="36" />
         <mark key="[" line="48" column="28" />
@@ -44,11 +46,18 @@
         <mark key="^" line="142" column="66" />
         <mark key="." line="169" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1559554195845">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1559554651601">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/v1_register.yaml" timestamp="1559555232250">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" timestamp="1559554078838">
         <mark key="[" line="1" column="0" />
@@ -76,7 +85,6 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Elementary/correct_sentence.py" timestamp="1559519314376" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/.gitignore" timestamp="1559353193039">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -106,6 +114,13 @@
         <mark key="]" line="133" column="2" />
         <mark key="." line="133" column="2" />
         <mark key="^" line="133" column="2" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559554940563">
+        <mark key="'" line="7" column="3" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="/main" timestamp="1557037390158">
         <mark key="[" line="0" column="0" />
@@ -140,6 +155,12 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="139" column="33" />
       </file>
+      <file name="/usr/local/lib/python3.7/site-packages/httprunner/loader.py" timestamp="1559555438641">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/.gitignore" timestamp="1559369304628">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="0" />
@@ -148,11 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
-      <jump line="138" column="43" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
-      <jump line="68" column="25" filename="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" />
-      <jump line="157" column="9" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="124" column="22" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="144" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="21" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
@@ -248,55 +264,60 @@
       <jump line="187" column="20" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="191" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="156" column="11" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="36" column="97" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" />
+      <jump line="10" column="3" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" />
+      <jump line="18" column="19" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" />
+      <jump line="7" column="3" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" />
+      <jump line="5" column="17" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/v1_register.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGdldF91cmwoKToK</text>
+      <register name="&quot;" type="4">
+        <text>users-v1-add.yml</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>users-v1-add.yml</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</text>
+        <text encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGZ1bmMoKToKICAgIHByaW50KCdIZWxsbyB3b3JsZCcpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdldF91cmwoKToK</text>
+        <text encoding="base64">IyDliKDpmaR1c2VyX2lkIOWvueW6lOeahOeUqOaIt++8jCDlnKjov5vooYzmt7vliqAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGEoKTogYXNkZwo=</text>
+        <text encoding="base64">ICAtIHsiY2hlY2siOiJjb250ZW50LmRhdGEudXNlcl9pZCIsICJjb21wYXJhdG9yIjogInJlZ2V4X21hdGNoIiwgImV4cGVjdCI6ICJeXFxTezEwMCx9JCJ9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY2hfZmFjZV9jb3VudHMK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgc2VjcmV0OiA3emdMZHpxYnpZQXlMeFlSODRmOFpuMXo5bzJ2UUF3QQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">ICAgc2ltcGxlX3JlczogdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgdG9wX246IDUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaS5jb21tYW5kKCkKQGNsaWNrLmFyZ3VtZW50KCdtYWxsX2lkJywgdHlwZT1jbGljay5JTlQpCkBjbGljay5hcmd1bWVudCgnZGF0ZScsIHR5cGU9Y2xpY2suU1RSSU5HKQpAY2xpY2sub3B0aW9uKCctLWZpZWxkJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J2RhdGUnKQpAY2xpY2sub3B0aW9uKCctLWRhdGFiYXNlJywgdHlwZT1jbGljay5TVFJJTkcsIGRlZmF1bHQ9J3JlZHN0YXInKQpAY2xpY2sub3B0aW9uKCctLWluX2RheXMnLCB0eXBlPWNsaWNrLklOVCwgZGVmYXVsdD03KQpAY2xpY2sub3B0aW9uKCctLXN1YmRpcicsIHR5cGU9Y2xpY2suU1RSSU5HLCBkZWZhdWx0PSdudnIwJykKZGVmIGNoZWNrX2RhdGEoKToKICAgIGxpc3RfaGl2ZSgpCiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgc2ltcGxlX3JlczogJHNpbXBsZV9yZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBjb25maWc6CiAgICBuYW1lOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</last-search>
+      <last-search encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -304,9 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
-        <entry encoding="base64">XDxkb3dubG9hZFw+</entry>
-        <entry encoding="base64">XDxkYXRldGltZVw+</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxnZXRfZmFjZV9kYXRldGltZVw+</entry>
         <entry encoding="base64">XDxocV9zY29yZVw+</entry>
@@ -324,6 +342,9 @@
         <entry encoding="base64">XDx2aXBzZGtfbG9nX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxjb21wcmVzc192aWRlb1w+</entry>
         <entry encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</entry>
+        <entry encoding="base64">XDxzaW1wbGVfcmVzXD4=</entry>
+        <entry encoding="base64">XDxncm91cF9pZFw+</entry>
+        <entry encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
@@ -343,8 +364,8 @@
         <entry>19</entry>
         <entry>35</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>vsp</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
