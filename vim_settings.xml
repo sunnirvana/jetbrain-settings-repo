@@ -149,12 +149,11 @@
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
         <mark key="'" line="61" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559570111814">
-        <mark key="'" line="60" column="77" />
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="62" column="18" />
-        <mark key="." line="62" column="18" />
-        <mark key="^" line="62" column="16" />
+      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559613915926">
+        <mark key="[" line="65" column="38" />
+        <mark key="]" line="65" column="33" />
+        <mark key="." line="65" column="33" />
+        <mark key="^" line="65" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/python_learn/test.py" timestamp="1559535171499">
         <mark key="[" line="5" column="22" />
@@ -287,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>len(match)</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>len(match)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</text>
@@ -299,31 +298,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnZGljZV9udW1iZXI6ICcsIGRpY2VfbnVtYmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPSAwCiAgICB0b3RhbCA9IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHRvdGFsX3NpZGVzKQogICAgICAgICMgcHJvZCA9IGxpc3QobGlzdChpdGVydG9vbHMucHJvZHVjdCgqdHVwbGUodG90YWxfc2lkZXMpKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWNlcyA9IGxpc3QocmFuZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbWIxID0gbGlzdChpdGVydG9vbHMuY29tYmluYXRpb25zKHNpZGVzX251bWJlcl9saXN0LCBkaWNlX251bWJlcikpCiAgICAgICAgIyBjb21iMiA9IGxpc3QoaXRlcnRvb2xzLmNvbWJpbmF0aW9uc193aXRoX3JlcGxhY2VtZW50KHNpZGVzX251bWJlcl9saXN0LCBkaWNlX251bWJlcikpCiAgICAgICAgIyBwZXJtID0gbGlzdChsaXN0KGl0ZXJ0b29scy5wZXJtdXRhdGlvbnMoc2lkZXNfbnVtYmVyX2xpc3QsIGRpY2VfbnVtYmVyKSkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIGNvbWJpbmF0aW9uc193aXRoX3JlcGxhY2VtZW50KHJhbmdlKDEsIHNpZGVzICsgMSksIGRpY2VfbnVtYmVyKToKICAgICAgICAjICAgICBpZiBzdW0oaSkgPT0gdGFyZ2V0OgogICAgICAgICMgICAgICAgICBpdGVtQ291bnQgPSBbbGVuKFtrIGZvciBrIGluIGpdKSBmb3IgXywgaiBpbiBncm91cGJ5KGkpXQogICAgICAgICMgICAgICAgICBjb3VudGVyICs9IGZhY3RvcmlhbChsZW4oaSkpIC8gcmVkdWNlKGxhbWJkYSB4LCB5OiB4ICogeSwgbWFwKGZhY3RvcmlhbCwgaXRlbUNvdW50KSkKICAgICAgICAjIHJldHVybiByb3VuZChjb3VudGVyIC8gKHNpZGVzICoqIGRpY2VfbnVtYmVyKSwgNCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXJzID0gWyBbXSAgZm9yIF8gaW4gZGljZV9udW1iZXIgXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRvdGFsID0gbGlzdChzZXQoY29tYjIpLnVuaW9uKHNldChwZXJtKSkudW5pb24oY29tYjEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndG90YWw6ICAgICAgICcsIGxlbih0b3RhbCksIHRvdGFsKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJjb21iMTogIiwgY29tYjEpCiAgICAgICAgIyBwcmludCgiY29tYjI6ICIsIGNvbWIyKQogICAgICAgICMgcHJpbnQoInBlcm06ICAiLCBwZXJtKQogICAgICAgICMgcHJpbnQoInRvdGFsOiAiLCB0b3RhbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiB0b3RhbDoKICAgICAgICAgICAgaWYgc3VtKGkpID09IHRhcmdldDoKICAgICAgICAgICAgICAgIGNvdW50ZXIgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWwgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWNlcyA9IGxpc3QocmFuZ2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
