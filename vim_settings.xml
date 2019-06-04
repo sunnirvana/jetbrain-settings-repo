@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1559660571685">
+        <mark key="'" line="25" column="354" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1558152435572">
         <mark key="'" line="71" column="29" />
         <mark key="[" line="294" column="70" />
@@ -188,7 +195,6 @@
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/cli.py" timestamp="1559568033831" />
     </filemarks>
     <jumps>
-      <jump line="111" column="25" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="47" column="36" filename="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" />
       <jump line="15" column="52" filename="$USER_HOME$/Workspace/taskmanage.html" />
@@ -288,46 +294,47 @@
       <jump line="57" column="77" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" />
       <jump line="6" column="23" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" />
       <jump line="13" column="14" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" />
+      <jump line="25" column="354" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/v1/register</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuICcsIHNxbDIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfaW1hZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>/v1/register</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdydW4gJywgc3FsMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcm9qZWN0X2lkIjogInNjZW5lX3RyYWZmaWMiLAogICAgICAgICAgICAgICAgICAgICJzaXRlX2lkIjogIjIwMDAxIiwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuICcsIHNxbDIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcF92ZXJzaW9uOiAyLjguNgogICAgZGV2aWNlX3NuOiBGd2dSaU83Q05BNTBEU1UKICAgIG9zX3BsYXRmb3JtOiBpb3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVzZXItQWdlbnQ6IHB5dGhvbi1yZXF1ZXN0cy8yLjE4LjQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvci5leGVjdXRlKHNxbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjaGVjazogZmFsc2UK</text>
+        <text encoding="base64">ICAgICJwcm9qZWN0X2lkIjogInNjZW5lX3RyYWZmaWMiLAogICAgICAgICAgICAgICAgICAgICJzaXRlX2lkIjogIjIwMDAxIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbWFnZXM6IAo=</text>
+        <text encoding="base64">ICAgIGFwcF92ZXJzaW9uOiAyLjguNgogICAgZGV2aWNlX3NuOiBGd2dSaU83Q05BNTBEU1UKICAgIG9zX3BsYXRmb3JtOiBpb3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZGl0aW9uYWw6ICRhZGRpdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgIFVzZXItQWdlbnQ6IHB5dGhvbi1yZXF1ZXN0cy8yLjE4LjQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBncm91cF9pZDogZ3JvdXBfaWQK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyb3VwX2lkOiAkZ3JvdXBfaWQK</text>
+        <text encoding="base64">ICBjaGVjazogZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
