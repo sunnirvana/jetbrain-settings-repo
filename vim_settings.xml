@@ -8,7 +8,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1559716468579">
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/cmd_onoff.sh" timestamp="1559718130225" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1559718301938">
         <mark key="'" line="232" column="31" />
         <mark key="[" line="240" column="18" />
         <mark key="]" line="240" column="32" />
@@ -29,9 +30,6 @@
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Polygon/bit_message.py" timestamp="1559558415504">
-        <mark key="'" line="514" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559690748472">
         <mark key="'" line="16" column="14" />
         <mark key="[" line="19" column="19" />
@@ -43,9 +41,6 @@
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/ghosts_age.py" timestamp="1559558590882" />
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/my_tracks.json" timestamp="1559717513282" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/parser.py" timestamp="1559568084847" />
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
-        <mark key="'" line="61" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559613915926">
         <mark key="[" line="65" column="38" />
         <mark key="]" line="65" column="33" />
