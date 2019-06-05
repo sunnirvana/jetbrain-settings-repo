@@ -8,40 +8,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1558152435572">
-        <mark key="'" line="71" column="29" />
-        <mark key="[" line="294" column="70" />
-        <mark key="]" line="295" column="32" />
-        <mark key="^" line="295" column="32" />
-        <mark key="." line="291" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image.py" timestamp="1557037322425">
-        <mark key="'" line="68" column="25" />
-        <mark key="[" line="124" column="31" />
-        <mark key="]" line="124" column="34" />
-        <mark key="." line="124" column="34" />
-        <mark key="^" line="124" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1559716468579">
         <mark key="'" line="232" column="31" />
         <mark key="[" line="240" column="18" />
         <mark key="]" line="240" column="32" />
         <mark key="." line="240" column="32" />
         <mark key="^" line="240" column="32" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/rebuild_face_db.py" timestamp="1557037575913">
-        <mark key="'" line="47" column="36" />
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="49" column="45" />
-        <mark key="^" line="49" column="45" />
-        <mark key="." line="49" column="45" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" timestamp="1558539370785">
-        <mark key="'" line="179" column="49" />
-        <mark key="[" line="169" column="65" />
-        <mark key="]" line="169" column="66" />
-        <mark key="^" line="142" column="66" />
-        <mark key="." line="169" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/api.py" timestamp="1559568298461" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1559628583711">
@@ -50,13 +22,6 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/v1_register.yaml" timestamp="1559555232250">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" timestamp="1559628176962">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="14" column="55" />
@@ -64,29 +29,8 @@
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/test.html" timestamp="1556503297533">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="88" column="3" />
-        <mark key="]" line="101" column="24" />
-        <mark key="." line="101" column="24" />
-        <mark key="^" line="101" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/tesk-manage-api/test.html" timestamp="1556503720500">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Polygon/bit_message.py" timestamp="1559558415504">
         <mark key="'" line="514" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/taskmanage.html" timestamp="1556503188146">
-        <mark key="'" line="94" column="2" />
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="133" column="2" />
-        <mark key="." line="133" column="2" />
-        <mark key="^" line="133" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559690748472">
         <mark key="'" line="16" column="14" />
@@ -97,6 +41,7 @@
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1559558650706" />
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/ghosts_age.py" timestamp="1559558590882" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/my_tracks.json" timestamp="1559717513282" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/parser.py" timestamp="1559568084847" />
       <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" timestamp="1558349522636">
         <mark key="'" line="61" column="24" />
@@ -106,13 +51,6 @@
         <mark key="]" line="65" column="33" />
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_image_raw.py" timestamp="1556375552335">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="139" column="33" />
       </file>
       <file name="/usr/local/lib/python3.7/site-packages/httprunner/loader.py" timestamp="1559567265099">
         <mark key="[" line="37" column="39" />
