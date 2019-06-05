@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1559691234501">
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1559700534855">
         <mark key="'" line="43" column="13" />
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="74" />
-        <mark key="." line="24" column="7" />
-        <mark key="^" line="24" column="6" />
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="72" column="21" />
+        <mark key="^" line="72" column="21" />
+        <mark key="." line="72" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" timestamp="1558152435572">
         <mark key="'" line="71" column="29" />
@@ -297,8 +297,8 @@
       <jump line="43" column="13" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>trk.box_left,trk.box_top,trk.box_width,trk.box_height,trk.box_angle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U1FMX1RNUCA9ICIiIgpTRUxFQ1QgcmVzLmZhY2VfaWQsIHRyay5ib3hfbGVmdCx0cmsuYm94X3RvcCx0cmsuYm94X3dpZHRoLHRyay5ib3hfaGVpZ2h0LHRyay5ib3hfYW5nbGUKRlJPTSAKICAgIChTRUxFQ1QgKiAKICAgIEZST00gb2RzX3JlZHN0YXJfcmVjb2duaXRpb25fcmVzdWx0cyAKICAgIFdIRVJFIGBkYXRlYD0nMjAxOTA1MzEnIAogICAgQU5EIG1hbGxfaWQ9JzEwMTc2JwogICAgQU5EIGNhbWVyYV9pcD0nMTkyLjE2OC4yNTQuMjAnIAogICAgQU5EIGZpcnN0X3RpbWU8MTU1OTI4MjU1MTkxMyAKICAgIEFORCBmaXJzdF90aW1lPjE1NTkyODAxNjQ0NTMpIEFTIHJlcywKICAgIChTRUxFQ1QgKiAKICAgIEZST00gIG9kc19yZWRzdGFyX3JlY29nbml0aW9uX3RyYWNrcwogICAgV0hFUkUgYGRhdGVgPScyMDE5MDUzMScKICAgIEFORCBtYWxsX2lkPScxMDE3NicKICAgIEFORCBgaW5kZXhgPi0xKSBBUyB0cmsKV0hFUkUgdHJrLnJlcXVlc3RfaWQ9cmVzLnJlcXVlc3RfaWQKIiIiCgoK</text>
       </register>
       <register name="-" type="4">
         <text>trk.box_left,trk.box_top,trk.box_width,trk.box_height,trk.box_angle</text>
@@ -307,7 +307,7 @@
         <text encoding="base64">XDxnZXRfaW1hZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfaWRfbGlzdCA9IFtpdGVtWzBdIGZvciBpdGVtIGluIGN1cnNvci5mZXRjaGFsbCgpXQo=</text>
+        <text encoding="base64">U1FMX1RNUCA9ICIiIgpTRUxFQ1QgcmVzLmZhY2VfaWQsIHRyay5ib3hfbGVmdCx0cmsuYm94X3RvcCx0cmsuYm94X3dpZHRoLHRyay5ib3hfaGVpZ2h0LHRyay5ib3hfYW5nbGUKRlJPTSAKICAgIChTRUxFQ1QgKiAKICAgIEZST00gb2RzX3JlZHN0YXJfcmVjb2duaXRpb25fcmVzdWx0cyAKICAgIFdIRVJFIGBkYXRlYD0nMjAxOTA1MzEnIAogICAgQU5EIG1hbGxfaWQ9JzEwMTc2JwogICAgQU5EIGNhbWVyYV9pcD0nMTkyLjE2OC4yNTQuMjAnIAogICAgQU5EIGZpcnN0X3RpbWU8MTU1OTI4MjU1MTkxMyAKICAgIEFORCBmaXJzdF90aW1lPjE1NTkyODAxNjQ0NTMpIEFTIHJlcywKICAgIChTRUxFQ1QgKiAKICAgIEZST00gIG9kc19yZWRzdGFyX3JlY29nbml0aW9uX3RyYWNrcwogICAgV0hFUkUgYGRhdGVgPScyMDE5MDUzMScKICAgIEFORCBtYWxsX2lkPScxMDE3NicKICAgIEFORCBgaW5kZXhgPi0xKSBBUyB0cmsKV0hFUkUgdHJrLnJlcXVlc3RfaWQ9cmVzLnJlcXVlc3RfaWQKIiIiCgoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
