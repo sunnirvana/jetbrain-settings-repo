@@ -8,13 +8,19 @@
         <mark key="]" line="47" column="53" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/register.yaml" timestamp="1559554374619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1556181521211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/cmd_onoff.sh" timestamp="1559718130225" />
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1559756242773">
-        <mark key="'" line="147" column="4" />
-        <mark key="[" line="186" column="92" />
-        <mark key="]" line="186" column="92" />
-        <mark key="." line="186" column="92" />
-        <mark key="^" line="186" column="92" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1559775800931">
+        <mark key="'" line="279" column="33" />
+        <mark key="[" line="186" column="99" />
+        <mark key="]" line="186" column="99" />
+        <mark key="." line="186" column="99" />
+        <mark key="^" line="186" column="99" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/api.py" timestamp="1559568298461" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1559628583711">
@@ -38,6 +44,12 @@
         <mark key="^" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/text_editor.py" timestamp="1559558650706" />
+      <file name="/main" timestamp="1557037390158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559775162126">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/O'Reilly/ghosts_age.py" timestamp="1559558590882" />
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/my_tracks.json" timestamp="1559717513282" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/parser.py" timestamp="1559568084847" />
@@ -66,7 +78,6 @@
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/result.final.reduced.json" timestamp="1559708674307" />
     </filemarks>
     <jumps>
-      <jump line="35" column="3" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="1" column="46" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="20" column="7" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
@@ -166,19 +177,20 @@
       <jump line="306" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="293" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="147" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
+      <jump line="279" column="33" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>channel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgndmlkZW8gdG8gZG93bmxvYWQsICcsIHZpZGVvKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</text>
+        <text>hdfs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oImhkZnMgZGZzIC1scyAlcyIgJSB2aWRlbykKICAgICAgICBkb3dubG9hZF92aWRlbyA9ICJoZGZzIGRmcyAtZ2V0ICVzICVzIiAlICh2aWRlbywgdmlkZW9fcGF0aCkKICAgICAgICBvcy5zeXN0ZW0oZG93bmxvYWRfdmlkZW8pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmlkZW8gdG8gZG93bmxvYWQsICcsIHZpZGVvKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbD0nMTkyLjE2OC4yNTQue30nLmZvcm1hdChpICsgMSksCg==</text>
@@ -212,17 +224,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</last-search>
+      <last-search>hdfs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</last-pattern>
+      <last-pattern>hdfs</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dfcGF0aFw+</entry>
         <entry encoding="base64">XDxkb3dubG9hZF9jbWRcPg==</entry>
         <entry encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</entry>
         <entry encoding="base64">XDxjaF9saXN0XD4=</entry>
@@ -242,6 +253,7 @@
         <entry>list_hive</entry>
         <entry>run</entry>
         <entry encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</entry>
+        <entry>hdfs</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
@@ -258,11 +270,11 @@
         <entry>64</entry>
         <entry>19</entry>
         <entry>35</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>.w</entry>
         <entry>vsp</entry>
         <entry>w'</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
