@@ -23,14 +23,14 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" timestamp="1559628176962">
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" timestamp="1559728754195">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="14" column="55" />
         <mark key="]" line="14" column="68" />
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559690748472">
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1559728667535">
         <mark key="'" line="16" column="14" />
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="10" />
@@ -56,11 +56,11 @@
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/json2reduct.py" timestamp="1559707518715">
         <mark key="'" line="400" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/testcase_v1_register.yaml" timestamp="1559628751860">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="50" />
-        <mark key="^" line="9" column="50" />
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/testcase_v1_register.yaml" timestamp="1559728904621">
+        <mark key="[" line="13" column="0" />
+        <mark key="m" line="8" column="6" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/cli.py" timestamp="1559568033831" />
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/result.final.reduced.json" timestamp="1559708674307" />
@@ -168,8 +168,8 @@
       <jump line="210" column="31" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int(track['vtime'])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSB0ZXN0OgogICAgICBuYW1lOiAK</text>
       </register>
       <register name="-" type="4">
         <text>int(track['vtime'])</text>
@@ -181,31 +181,31 @@
         <text encoding="base64">U1FMX1RNUCA9ICIiIgpTRUxFQ1QgcmVzLmZhY2VfaWQsIHRyay5ib3hfbGVmdCx0cmsuYm94X3RvcCx0cmsuYm94X3dpZHRoLHRyay5ib3hfaGVpZ2h0LHRyay5ib3hfYW5nbGUKRlJPTSAKICAgIChTRUxFQ1QgKiAKICAgIEZST00gb2RzX3JlZHN0YXJfcmVjb2duaXRpb25fcmVzdWx0cyAKICAgIFdIRVJFIGBkYXRlYD0nMjAxOTA1MzEnIAogICAgQU5EIG1hbGxfaWQ9JzEwMTc2JwogICAgQU5EIGNhbWVyYV9pcD0nMTkyLjE2OC4yNTQuMjAnIAogICAgQU5EIGZpcnN0X3RpbWU8MTU1OTI4MjU1MTkxMyAKICAgIEFORCBmaXJzdF90aW1lPjE1NTkyODAxNjQ0NTMpIEFTIHJlcywKICAgIChTRUxFQ1QgKiAKICAgIEZST00gIG9kc19yZWRzdGFyX3JlY29nbml0aW9uX3RyYWNrcwogICAgV0hFUkUgYGRhdGVgPScyMDE5MDUzMScKICAgIEFORCBtYWxsX2lkPScxMDE3NicKICAgIEFORCBgaW5kZXhgPi0xKSBBUyB0cmsKV0hFUkUgdHJrLnJlcXVlc3RfaWQ9cmVzLnJlcXVlc3RfaWQKIiIiCgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVha3BvaW50KCkK</text>
+        <text encoding="base64">LSB0ZXN0OgogICAgICBuYW1lOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uob2Zmc2V0KToKICAgICAgICAgICAgICAgIGlmIGkgaW4gdHNfZnJhbWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVha3BvaW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0VSUjoge30gbm90IGZvdW5kIGluIHRzX2ZyYW1lJy5mb3JtYXQodHJhY2tbJ3Z0aW1lJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uob2Zmc2V0KToKICAgICAgICAgICAgICAgIGlmIGkgaW4gdHNfZnJhbWU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBHZW5lcmF0ZSB1bmlxdWUgaW5kZXggZm9yIGVhY2ggcGVyc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0VSUjoge30gbm90IGZvdW5kIGluIHRzX2ZyYW1lJy5mb3JtYXQodHJhY2tbJ3Z0aW1lJ10pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBHZW5lcmF0ZSB1bmlxdWUgaW5kZXggZm9yIGVhY2ggcGVyc29uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgIDE0MTksCiAgICAgICAgICAgICAgICAgICAgOSwKICAgICAgICAgICAgICAgICAgICAxMzksCiAgICAgICAgICAgICAgICAgICAgMTM5CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgIDE1NTk2MjEyNTI2ODgsCiAgICAgICAgICAgICAgICAiQ0gwMF9DQU1iZWlqaW5nLXRlc3RfRlAyMDE5MDYwNC0xMjA3MzItMDAxX1RJRDAwMDJfT1NEMjMxMTExIgogICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgIDE0MTksCiAgICAgICAgICAgICAgICAgICAgOSwKICAgICAgICAgICAgICAgICAgICAxMzksCiAgICAgICAgICAgICAgICAgICAgMTM5CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgIDE1NTk2MjEyNTI2ODgsCiAgICAgICAgICAgICAgICAiQ0gwMF9DQU1iZWlqaW5nLXRlc3RfRlAyMDE5MDYwNC0xMjA3MzItMDAxX1RJRDAwMDJfT1NEMjMxMTExIgogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja3NfNGxhYmVsW3N0cih0c19mcmFtZVt0cmFja1sndnRpbWUnXV0pXSA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cmFja3NfNGxhYmVsW3N0cih0c19mcmFtZVt0cmFja1sndnRpbWUnXV0pXSA9IGxpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
