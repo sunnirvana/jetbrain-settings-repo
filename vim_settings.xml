@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1559754166854">
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1560256932723">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="53" />
         <mark key="." line="42" column="0" />
@@ -32,13 +32,6 @@
         <mark key="]" line="45" column="43" />
         <mark key="." line="45" column="43" />
         <mark key="^" line="45" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1559777953219">
-        <mark key="'" line="279" column="33" />
-        <mark key="[" line="187" column="22" />
-        <mark key="]" line="187" column="26" />
-        <mark key="." line="187" column="26" />
-        <mark key="^" line="187" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559613915926">
         <mark key="[" line="65" column="38" />
