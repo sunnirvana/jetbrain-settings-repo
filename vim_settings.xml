@@ -34,11 +34,18 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/stress-test/stress.py" timestamp="1560742012723" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1560214551297">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/consumer/.gitignore" timestamp="1560742047946">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="/usr/local/lib/python3.7/site-packages/httprunner/loader.py" timestamp="1559567265099">
         <mark key="[" line="37" column="39" />
@@ -76,6 +83,12 @@
         <mark key="]" line="9" column="22" />
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/.gitignore" timestamp="1560741543738">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1560318275903">
         <mark key="[" line="43" column="0" />
