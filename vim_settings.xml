@@ -37,7 +37,7 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/context.py" timestamp="1560840637090" />
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/context.py" timestamp="1560840739683" />
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1560767378075">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="53" />
@@ -54,12 +54,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1560766199655">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/testcase_v1_register.yaml" timestamp="1559728904621">
-        <mark key="[" line="13" column="0" />
-        <mark key="m" line="8" column="6" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559613915926">
         <mark key="[" line="65" column="38" />
@@ -116,6 +110,7 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/validator.py" timestamp="1560841676236" />
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="23" />
