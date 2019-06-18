@@ -37,6 +37,7 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/common-push-validation/venv/lib/python3.7/site-packages/httprunner/context.py" timestamp="1560840637090" />
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1560767378075">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="53" />
@@ -47,9 +48,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/json2reduct.py" timestamp="1559707518715">
-        <mark key="'" line="400" column="14" />
       </file>
       <file name="/main" timestamp="1557037390158">
         <mark key="[" line="0" column="0" />
