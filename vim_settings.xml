@@ -101,6 +101,10 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1560940480072" />
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1560940470621">
+        <mark key="'" line="729" column="9" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
@@ -115,8 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="14" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
-      <jump line="41" column="7" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="36" column="33" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="48" column="35" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="54" column="20" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
@@ -215,63 +217,64 @@
       <jump line="38" column="18" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" />
       <jump line="7" column="19" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" />
       <jump line="11" column="23" filename="$USER_HOME$/Workspace/projects/common-push-validation/consumer/http_poster.py" />
+      <jump line="797" column="9" filename="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" />
+      <jump line="729" column="9" filename="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcHVibGlzaC5zaW5nbGUoImZhY2VfdHJhY2tpbmdfbGlzdCIsIHBheWxvYWQ9anNvbi5kdW1wcyhyZXF1ZXN0KSwgaG9zdG5hbWU9IjE5Mi4xNjguMS4zOCIsIHBvcnQ9MzE4ODMsIHFvcz0wKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>first_time</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>hdfs</text>
+        <text encoding="base64">XDx3dWhhblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsYXN0X3RpbWUiOiAxNTU4MDMzODEwNTM4LAogICAgImVudGVyX3RpbWUiOiAxNTU4MDMwMjA1Njg0LAogICAgImV4aXRfdGltZSI6IDE1NTgwMzM4MTA1MzgsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnZyMD1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwXSwKICAgICAgICAgICAgbnZyMT1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcHVibGlzaC5zaW5nbGUoImZhY2VfdHJhY2tpbmdfbGlzdCIsIHBheWxvYWQ9anNvbi5kdW1wcyhyZXF1ZXN0KSwgaG9zdG5hbWU9IjE5Mi4xNjguMS4zOCIsIHBvcnQ9MzE4ODMsIHFvcz0wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnZyMD1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwLCAyMSwgMjIsIDIzLCAyNF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmVzcCA9IHJlcXVlc3RzLnBvc3QodXJsPSdodHRwOi8vMTkyLjE2OC4xLjM4OjMwOTAyL3YxL21hdGNoJywganNvbj0nJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsYXN0X3RpbWUiOiAxNTU4MDMzODEwNTM4LAogICAgImVudGVyX3RpbWUiOiAxNTU4MDMwMjA1Njg0LAogICAgImV4aXRfdGltZSI6IDE1NTgwMzM4MTA1MzgsCg==</text>
+        <text encoding="base64">ICAgICMgcHVibGlzaC5zaW5nbGUoImZhY2VfdHJhY2tpbmdfbGlzdCIsIHBheWxvYWQ9anNvbi5kdW1wcyhyZXF1ZXN0KSwgaG9zdG5hbWU9IjE5Mi4xNjguMS4zOCIsIHBvcnQ9MzE4ODMsIHFvcz0wKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICMgcmVzcCA9IHJlcXVlc3RzLnBvc3QodXJsPSdodHRwOi8vMTkyLjE2OC4xLjM4OjMwOTAyL3YxL21hdGNoJywganNvbj0nJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlCg==</text>
+        <text encoding="base64">ICAgICJsYXN0X3RpbWUiOiAxNTU4MDMzODEwNTM4LAogICAgImVudGVyX3RpbWUiOiAxNTU4MDMwMjA1Njg0LAogICAgImV4aXRfdGltZSI6IDE1NTgwMzM4MTA1MzgsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGVfb2Zmc2V0ID0gaW50KHRpbWUubWt0aW1lKHRpbWUuc3RycHRpbWUodGltZS5sb2NhbHRpbWUoKSwgJyVZJW0lZCAlSDolTTolUycpKSkgKiAxMDAwCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRzID0gdGltZS5sb2NhbHRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgIGkgPSAwCiMgIGZvciBpIGluIHJhbmdlKDIgKiAxMDAwKToKIyAgcmVxdWVzdFsnZmFjZV9pZCddID0gJzM1NTlfdGVzdF95dWJvXycgKyBzdHIoaSkKIyAgIyBwdWJsaXNoLnNpbmdsZSgiZmFjZV90cmFja2luZ19saXN0IiwgcGF5bG9hZD1qc29uLmR1bXBzKHJlcXVlc3QpLCBob3N0bmFtZT0iMTkyLjE2OC4xLjM4IiwgcG9ydD0zMTg4MywgcW9zPTApCiMgIHJlc3AgPSByZXF1ZXN0cy5wb3N0KHVybD0naHR0cDovLzE5Mi4xNjguMS4zODozMDkwMi92MS9tYXRjaCcsIGpzb249cmVxdWVzdCkKIyAgIyByZXNwID0gcmVxdWVzdHMucG9zdCh1cmw9J2h0dHA6Ly8xOTIuMTY4LjEuMzg6MzA5MDIvdjEvbWF0Y2gnLCBqc29uPScnKQojICBpZiByZXNwLnN0YXR1c19jb2RlICE9IDIwMDoKIyAgcHJpbnQoJ0NvbnN1bWVyIHJlc3BvbnNlIHN0YXR1czogICcsIHJlc3Auc3RhdHVzX2NvZGUpCiMgIHByaW50KCdDb25zdW1lciByZXNwb25zZSBjb250ZW50OiAnLCByZXNwLmNvbnRlbnQpCiMgIHByaW50KCdbUHJvZHVjZXI6IF0gc2VuZCBhIG1lc3NhZ2UgLS0gJyArIHN0cihpKSkKIyAgaSArPSAxCiMgICNicmVhawojICAjIHRpbWUuc2xlZXAoMSkKCgo=</text>
+        <text encoding="base64">ICAgIGRhdGVfb2Zmc2V0ID0gaW50KHRpbWUubWt0aW1lKHRpbWUuc3RycHRpbWUodGltZS5sb2NhbHRpbWUoKSwgJyVZJW0lZCAlSDolTTolUycpKSkgKiAxMDAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1c2VyX2lkOiAncmVnaXN0ZXItdGVzdC0xJwo=</text>
+        <text encoding="base64">ICAgIHRzID0gdGltZS5sb2NhbHRpbWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hdfs</last-search>
+      <last-search encoding="base64">XDx3dWhhblw+</last-search>
       <last-offset />
-      <last-pattern>hdfs</last-pattern>
+      <last-pattern encoding="base64">XDx3dWhhblw+</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb3dubG9hZF9jbWRcPg==</entry>
         <entry encoding="base64">XDx2aXBzZGtfdmlkZW9fcGF0aFw+</entry>
         <entry encoding="base64">XDxjaF9saXN0XD4=</entry>
         <entry encoding="base64">XDxleGVcPg==</entry>
@@ -291,6 +294,7 @@
         <entry>run</entry>
         <entry encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</entry>
         <entry>hdfs</entry>
+        <entry encoding="base64">XDx3dWhhblw+</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
