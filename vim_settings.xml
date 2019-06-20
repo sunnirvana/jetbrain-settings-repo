@@ -262,7 +262,7 @@
         <text encoding="base64">ICAgIHRzID0gdGltZS5sb2NhbHRpbWUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -301,7 +301,6 @@
         <entry>71</entry>
         <entry>61</entry>
         <entry>22</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL190ZW1wbC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Rhc2tbMF0vcHJvamVjdF9wYXRoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Rhc2tcWzBcXS9wcm9qZWN0X3BhdGgvZw==</entry>
@@ -318,6 +317,7 @@
         <entry>w'</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
