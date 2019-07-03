@@ -16,7 +16,7 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/config.py" timestamp="1562147459832">
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/config.py" timestamp="1562152957955">
         <mark key="'" line="60" column="11" />
         <mark key="^" line="0" column="13" />
       </file>
@@ -63,6 +63,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1560766199655">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/cmd_onoff.sh" timestamp="1562153368916">
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="81" column="8" />
+        <mark key="." line="81" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559613915926">
         <mark key="[" line="65" column="38" />
@@ -242,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>facetrackinglight2</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>facetrackinglight2</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>shenzhen</text>
