@@ -29,6 +29,7 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/extract_faceinfo.py" timestamp="1562331401394" />
       <file name="/a.sql" timestamp="1560561632213">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,7 +38,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.7/site-packages/pyhive/hive.py" timestamp="1562237563277" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/project-v1-add.yaml" timestamp="1560256936713">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="45" column="43" />
@@ -50,7 +50,6 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1562239575046" />
       <file name="$USER_HOME$/Workspace/projects/mall_face_data_validation/.gitignore" timestamp="1562240777613">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="6" />
@@ -92,7 +91,6 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/get_ceph_images.py" timestamp="1562240522819" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/.gitignore" timestamp="1562239873609">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="4" column="4" />
