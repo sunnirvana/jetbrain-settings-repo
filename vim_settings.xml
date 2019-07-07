@@ -23,14 +23,12 @@
       <file name="$USER_HOME$/Workspace/projects/mall_face_data_validation/1c1p.py" timestamp="1562295585511">
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/unified_config/common/face/online_prod/prepare_data_step0.yaml" timestamp="1562332800791" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1560214551297">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/extract_faceinfo.py" timestamp="1562331401394" />
       <file name="/a.sql" timestamp="1560561632213">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,12 +67,17 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/prepare_data/generate_offline_faceinfo.py" timestamp="1562343068618" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/register_images.py" timestamp="1562330500159">
         <mark key="[" line="77" column="57" />
         <mark key="]" line="77" column="55" />
         <mark key="^" line="77" column="55" />
         <mark key="." line="77" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1562494193245">
+        <mark key="[" line="166" column="10" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="/main" timestamp="1557037390158">
         <mark key="[" line="0" column="0" />
