@@ -3,18 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/debugtalk.py" timestamp="1560343092864">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1562577452711">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="/Python Console" timestamp="1561361645259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/config.toml" timestamp="1562577797936">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/config.py" timestamp="1562237503203">
         <mark key="'" line="60" column="11" />
@@ -23,6 +28,7 @@
       <file name="$USER_HOME$/Workspace/projects/mall_face_data_validation/1c1p.py" timestamp="1562295585511">
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/app_setting.py" timestamp="1562577540559" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1560214551297">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="35" />
@@ -111,12 +117,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/consumer/http_poster.py" timestamp="1561337300660">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="101" column="32" />
-        <mark key="]" line="101" column="33" />
-        <mark key="." line="101" column="33" />
-        <mark key="^" line="99" column="7" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562577978214">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/consumer/.gitignore" timestamp="1560742047946">
         <mark key="[" line="1" column="0" />
@@ -130,43 +135,34 @@
         <mark key="^" line="37" column="62" />
         <mark key="." line="37" column="62" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/archived/project_3559/.gitignore" timestamp="1562577241555">
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/register.yaml" timestamp="1559554374619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/requirements.txt" timestamp="1562576259054" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/requirements.txt" timestamp="1562577322937">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/testcases/register-testcase1-1.yaml" timestamp="1560386767793">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="7" column="45" />
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" timestamp="1560323098604">
-        <mark key="'" line="16" column="14" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/conftest.py" timestamp="1562577696314" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/config.toml" timestamp="1562577744691" />
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/.gitignore" timestamp="1560741543738">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1561529895556">
-        <mark key="[" line="245" column="17" />
-        <mark key="]" line="245" column="18" />
-        <mark key="m" line="260" column="23" />
-        <mark key="^" line="245" column="18" />
-        <mark key="." line="245" column="18" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1561520654661">
-        <mark key="'" line="729" column="9" />
-        <mark key="[" line="794" column="17" />
-        <mark key="]" line="794" column="18" />
-        <mark key="." line="794" column="18" />
-        <mark key="^" line="794" column="18" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_eid_gen.py" timestamp="1562577984128" />
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
@@ -284,43 +280,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dWlkX3NldDEgJiB1aWRfc2V0Mg==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cWRtXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByID0gbGlzdCh0cWRtLnRxZG0ocC5pbWFwKGdldF9vdmVybGFwcGVkX3VzZXJzLCBwYWlyX2xpc3QpLCB0b3RhbD1sZW4ocGFpcl9saXN0KSkpCg==</text>
+      <register name="0" type="4">
+        <text>'This is #1 step in TestSmoke'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4ZDMwNTM2M2JjOGQyMTgyOGIxZDI4NzE3MWQ3YjU1Y2VmZmQwYmE5Cg==</text>
+        <text encoding="base64">W3N0b3JlXQphcmVhX2pzb24gPSAiIiAjIGxvY2FsCmZsb29yID0gIiIgIyBsb2NhbAoKW2VpZF0KZWlkX2pzb24gPSAiIiAjIGhkZnMKdHJhY2tfcGJfcGF0aCA9ICIiICMgaGRmcwp0cmFja19wYl9zdWZmaXggPSAiIgoKW2V2ZW50XQpldmVudF9qc29uID0gIiIgIyBoZGZzCmhpc3RvcnlfcGF0aCA9ICIiICNoZGZzCgpbdHJhY2tpbmddCnh5X2pzb24gPSAiIiAjIGhkZnMKbW92ZV9zdGFuZGFyZCA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">QGNsaWNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihvdXRwdXQsICd3JykgYXMgZnA6CiAgICAgICAgZnAud3JpdGVsaW5lcygnXG4nLnIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNsaWNrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGFpciBpbiBwYWlyX2xpc3Q6Cg==</text>
+        <text encoding="base64">cHl0ZXN0PT0xLjguMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWlyX2xpc3QgPSBpdGVydG9vbHMuY29tYmluYXRpb25zKGZhY2VfY3N2X2xpc3QsIDIpCg==</text>
+        <text encoding="base64">Y2hlY2tpby1jbGllbnQ9PTAuMS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbignLS10cmt2ZXInLCB0eXBlPWNsaWNrLlNUUklORywgZGVmYXVsdD0nMC4wLjYuMzAnKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0ZWN0X2ludGVydmFsID0gZGV0Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA4ZDMwNTM2M2JjOGQyMTgyOGIxZDI4NzE3MWQ3YjU1Y2VmZmQwYmE5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
