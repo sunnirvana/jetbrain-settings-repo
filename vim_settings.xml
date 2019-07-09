@@ -76,11 +76,12 @@
         <mark key="." line="77" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/linux_sys_monitor.py" timestamp="1562576865865" />
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562664289049">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562684056927">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1562574983078">
         <mark key="[" line="166" column="10" />
@@ -174,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="28" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
-      <jump line="144" column="3" filename="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" />
       <jump line="257" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="310" column="37" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="9" column="5" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
@@ -274,55 +272,58 @@
       <jump line="45" column="21" filename="$USER_HOME$/Workspace/projects/mall_face_data_validation/1c1p.py" />
       <jump line="5" column="7" filename="$USER_HOME$/Workspace/projects/mall_face_data_validation/1c1p.py" />
       <jump line="12" column="81" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" />
+      <jump line="3" column="6" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" />
+      <jump line="4" column="21" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3MucmVtb3ZlKCkKc2h1dGlsLnIKCm9zLnBhdGguZXgKb3Blbgo=</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cWRtXD4=</text>
+        <text encoding="base64">XDxWaXBTZGtNZ3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>'This is #1 step in TestSmoke'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3MucmVtb3ZlKCkKc2h1dGlsLnIKCm9zLnBhdGguZXgKb3Blbgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y2hlY2tpby1jbGllbnQ9PTAuMS4zCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRhaW5lciA9IGRvY2tlci4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBfY29udGFpbmVyID0gZG9ja2VyLmNsaWVudC4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">W3N0b3JlXQphcmVhX2pzb24gPSAiIiAjIGxvY2FsCmZsb29yID0gIiIgIyBsb2NhbAoKW2VpZF0KZWlkX2pzb24gPSAiIiAjIGhkZnMKdHJhY2tfcGJfcGF0aCA9ICIiICMgaGRmcwp0cmFja19wYl9zdWZmaXggPSAiIgoKW2V2ZW50XQpldmVudF9qc29uID0gIiIgIyBoZGZzCmhpc3RvcnlfcGF0aCA9ICIiICNoZGZzCgpbdHJhY2tpbmddCnh5X2pzb24gPSAiIiAjIGhkZnMKbW92ZV9zdGFuZGFyZCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrCg==</text>
+        <text encoding="base64">ZG9ja2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWNrCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzaHV0aWwKCnNodXRpbC5tb3ZlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cWRtXD4=</last-search>
+      <last-search encoding="base64">XDxWaXBTZGtNZ3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cWRtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxWaXBTZGtNZ3JcPg==</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
       <last-dir>-1</last-dir>
@@ -330,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aXBzZGtfbG9nX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxjb21wcmVzc192aWRlb1w+</entry>
         <entry encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</entry>
         <entry encoding="base64">XDxzaW1wbGVfcmVzXD4=</entry>
@@ -350,6 +350,7 @@
         <entry encoding="base64">XDwxMDA3NFw+</entry>
         <entry>shenzhen</entry>
         <entry encoding="base64">XDx0cWRtXD4=</entry>
+        <entry encoding="base64">XDxWaXBTZGtNZ3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
