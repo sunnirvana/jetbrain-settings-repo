@@ -76,11 +76,11 @@
         <mark key="." line="77" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/linux_sys_monitor.py" timestamp="1562576865865" />
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562632961702">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562664289049">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1562574983078">
         <mark key="[" line="166" column="10" />
@@ -276,8 +276,8 @@
       <jump line="12" column="81" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3MucmVtb3ZlKCkKc2h1dGlsLnIKCm9zLnBhdGguZXgKb3Blbgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -289,31 +289,31 @@
         <text>'This is #1 step in TestSmoke'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hlY2tpby1jbGllbnQ9PTAuMS4zCg==</text>
+        <text encoding="base64">b3MucmVtb3ZlKCkKc2h1dGlsLnIKCm9zLnBhdGguZXgKb3Blbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">Y2hlY2tpby1jbGllbnQ9PTAuMS4zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W3N0b3JlXQphcmVhX2pzb24gPSAiIiAjIGxvY2FsCmZsb29yID0gIiIgIyBsb2NhbAoKW2VpZF0KZWlkX2pzb24gPSAiIiAjIGhkZnMKdHJhY2tfcGJfcGF0aCA9ICIiICMgaGRmcwp0cmFja19wYl9zdWZmaXggPSAiIgoKW2V2ZW50XQpldmVudF9qc29uID0gIiIgIyBoZGZzCmhpc3RvcnlfcGF0aCA9ICIiICNoZGZzCgpbdHJhY2tpbmddCnh5X2pzb24gPSAiIiAjIGhkZnMKbW92ZV9zdGFuZGFyZCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGNsaWNrCg==</text>
+        <text encoding="base64">W3N0b3JlXQphcmVhX2pzb24gPSAiIiAjIGxvY2FsCmZsb29yID0gIiIgIyBsb2NhbAoKW2VpZF0KZWlkX2pzb24gPSAiIiAjIGhkZnMKdHJhY2tfcGJfcGF0aCA9ICIiICMgaGRmcwp0cmFja19wYl9zdWZmaXggPSAiIgoKW2V2ZW50XQpldmVudF9qc29uID0gIiIgIyBoZGZzCmhpc3RvcnlfcGF0aCA9ICIiICNoZGZzCgpbdHJhY2tpbmddCnh5X2pzb24gPSAiIiAjIGhkZnMKbW92ZV9zdGFuZGFyZCA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNsaWNrCg==</text>
+        <text encoding="base64">QGNsaWNrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHl0ZXN0PT0xLjguMAo=</text>
+        <text encoding="base64">aW1wb3J0IGNsaWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
