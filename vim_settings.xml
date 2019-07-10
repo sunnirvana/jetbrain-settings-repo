@@ -22,10 +22,13 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/mall_face_data_validation/1c1p.py" timestamp="1562295585511">
-        <mark key="^" line="28" column="21" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/app_setting.py" timestamp="1562577540559" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_mgr.py" timestamp="1562718946093">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="70" />
+        <mark key="^" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1560214551297">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="35" />
@@ -76,12 +79,12 @@
         <mark key="." line="77" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/linux_sys_monitor.py" timestamp="1562576865865" />
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562684056927">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562718632161">
         <mark key="'" line="4" column="21" />
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="12" column="46" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1562574983078">
         <mark key="[" line="166" column="10" />
@@ -278,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>'busybox'</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>'busybox'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaXBTZGtNZ3JcPg==</text>
@@ -289,32 +292,34 @@
       <register name="0" type="4">
         <text>'This is #1 step in TestSmoke'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="1" type="4">
+        <text>name=self.name,
+                                   remove=True,
+                                   command='echo &quot;Hello World&quot;'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRhaW5lciA9IGRvY2tlci4K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfY29udGFpbmVyID0gZG9ja2VyLmNsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9ja2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRhaW5lciA9IGRvY2tlci4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzaHV0aWwKCnNodXRpbC5tb3ZlKCkK</text>
+        <text encoding="base64">ICAgICAgICBfY29udGFpbmVyID0gZG9ja2VyLmNsaWVudC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
