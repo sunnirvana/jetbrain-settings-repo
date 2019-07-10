@@ -170,6 +170,12 @@
       <file name="/Dummy.txt" timestamp="1562299853138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/.gitignore" timestamp="1562739052001">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" timestamp="1559613915926">
         <mark key="[" line="65" column="38" />
         <mark key="]" line="65" column="33" />
