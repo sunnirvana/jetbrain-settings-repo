@@ -3,18 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1562579995092">
-        <mark key="'" line="14" column="81" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1562750265383">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/config.toml" timestamp="1562577797936">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/config.toml" timestamp="1562749687882">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1562721458168">
         <mark key="[" line="0" column="0" />
@@ -107,6 +105,7 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_events.py" timestamp="1562749569668" />
       <file name="/Python Console" timestamp="1562731806772">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,6 +189,7 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/utils/app_setting.py" timestamp="1562749593048" />
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/requirements.txt" timestamp="1562580208645">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="18" column="10" />
@@ -209,7 +209,7 @@
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/app_report.py" timestamp="1562579085915" />
       <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/test_eid_gen.py" timestamp="1562578735366" />
-      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1562580072413" />
+      <file name="$USER_HOME$/Workspace/projects/store-onboarding-pipeline-verification/src/test_cases/conftest.py" timestamp="1562749647213" />
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="23" />
@@ -321,10 +321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
+        <text encoding="base64">ICAgIG9zLmdldGVudignSURDJywgJ2JqJykK</text>
       </register>
       <register name="-" type="4">
-        <text>busybox</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -333,31 +333,31 @@
         <text encoding="base64">ICAgIHZjb25maWcuX19yZXByX18oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
+        <text encoding="base64">ICAgIG9zLmdldGVudignSURDJywgJ2JqJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jb250YWluZXI6Cg==</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzCiAgICBydW5fcHl0ZXN0X29uY2Uob3MucGF0aC5qb2luKCdzcmMnLCAndGVzdF9jYXNlcycsICd0ZXN0X3Ntb2tlLnB5JykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZW1vdmU6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAncmVtb3ZlJzogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Jy9ob21lL3VzZXIxLyc6IHsnYmluZCc6ICcvbW50L3ZvbDInLCAnbW9kZSc6ICdydyd9LAogICAgICAgICAnL3Zhci93d3cnOiB7J2JpbmQnOiAnL21udC92b2wxJywgJ21vZGUnOiAncm8nfX0K</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZjb25maWcuX19yZXByX18oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZjb25maWcuX19yZXByX18oKQo=</text>
+        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
