@@ -26,12 +26,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_config.py" timestamp="1562726789095">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_config.py" timestamp="1562727897818">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/project_3559/.gitignore" timestamp="1562577099498">
         <mark key="[" line="1" column="0" />
@@ -60,6 +60,12 @@
         <mark key="]" line="77" column="55" />
         <mark key="^" line="77" column="55" />
         <mark key="." line="77" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/configs/vipapp-nome-guangzhou-thjbgc-release-20190418.toml" timestamp="1562727839154">
+        <mark key="[" line="219" column="8" />
+        <mark key="]" line="219" column="14" />
+        <mark key="^" line="219" column="14" />
+        <mark key="." line="219" column="14" />
       </file>
       <file name="/main" timestamp="1557037390158">
         <mark key="[" line="0" column="0" />
@@ -99,18 +105,19 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1562725808453">
+      <file name="/Python Console" timestamp="1562731806772">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/configs/vipapp_252.toml" timestamp="1562731680300" />
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" timestamp="1562727292718">
-        <mark key="'" line="4" column="10" />
-        <mark key="[" line="18" column="52" />
-        <mark key="]" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" timestamp="1562732412559">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="29" />
+        <mark key="^" line="42" column="29" />
+        <mark key="." line="42" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1560214551297">
         <mark key="[" line="1" column="23" />
@@ -127,12 +134,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_docker.py" timestamp="1562726176020">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_docker.py" timestamp="1562732233960">
         <mark key="'" line="1" column="10" />
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="47" />
-        <mark key="." line="40" column="47" />
-        <mark key="^" line="40" column="47" />
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="^" line="41" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/consumer/emq_poster.py" timestamp="1560750488755">
         <mark key="[" line="0" column="22" />
@@ -203,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="49" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
-      <jump line="169" column="36" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
-      <jump line="170" column="246" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
       <jump line="171" column="189" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
       <jump line="178" column="49" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/main.py" />
       <jump line="54" column="15" filename="$USER_HOME$/Workspace/projects/face_data_pipeline/fdp/utils/shell.py" />
@@ -303,65 +307,65 @@
       <jump line="1" column="10" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_docker.py" />
       <jump line="30" column="3" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_config.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
+      <jump line="25" column="17" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vipsdk_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
       </register>
       <register name="-" type="4">
-        <text>vipsdk_</text>
+        <text>busybox</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWaXBTZGtNZ3JcPg==</text>
+        <text>video</text>
       </register>
-      <register name="0" type="4">
-        <text>'This is #1 step in TestSmoke'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZjb25maWcuX19yZXByX18oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY29tbWFuZCc6ICdlY2hvICJIZWxsbyBXb3JsZCInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IFZpcFNka0NvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jb250YWluZXI6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICBwcHJpbnQoc2VsZi5jb250ZW50KQoK</text>
+        <text encoding="base64">ICAgICAgICBpZiByZW1vdmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAncmVtb3ZlJzogVHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7Jy9ob21lL3VzZXIxLyc6IHsnYmluZCc6ICcvbW50L3ZvbDInLCAnbW9kZSc6ICdydyd9LAogICAgICAgICAnL3Zhci93d3cnOiB7J2JpbmQnOiAnL21udC92b2wxJywgJ21vZGUnOiAncm8nfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ19wYXRoID0gcHJlcGFyZV9mb2xkZXIob3MucGF0aC5qb2luKGN3ZCwgJ3RtcCcsICd2aXBfbG9nJykpCg==</text>
+        <text encoding="base64">ICAgIHZjb25maWcuX19yZXByX18oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZjb25maWcuX19yZXByX18oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWaXBTZGtNZ3JcPg==</last-search>
+      <last-search>video</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWaXBTZGtNZ3JcPg==</last-pattern>
+      <last-pattern>video</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>task\[1\]</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wcmVzc192aWRlb1w+</entry>
-        <entry encoding="base64">XDxjaF9mYWNlX2NvdW50c1w+</entry>
-        <entry encoding="base64">XDxzaW1wbGVfcmVzXD4=</entry>
         <entry encoding="base64">XDxncm91cF9pZFw+</entry>
         <entry encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</entry>
         <entry>addition</entry>
@@ -379,6 +383,9 @@
         <entry>shenzhen</entry>
         <entry encoding="base64">XDx0cWRtXD4=</entry>
         <entry encoding="base64">XDxWaXBTZGtNZ3JcPg==</entry>
+        <entry encoding="base64">XDx0bXBfY29uZmlnX2ZpbGVcPg==</entry>
+        <entry>Video</entry>
+        <entry>video</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
