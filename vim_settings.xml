@@ -99,12 +99,12 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" timestamp="1562723180138">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" timestamp="1562725273107">
+        <mark key="'" line="21" column="7" />
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/.env" timestamp="1560214551297">
         <mark key="[" line="1" column="23" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="37" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="10" column="7" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="269" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
       <jump line="291" column="44" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/automate.py" />
@@ -301,13 +300,14 @@
       <jump line="1" column="12" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_config.py" />
       <jump line="1" column="25" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
       <jump line="11" column="31" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
+      <jump line="18" column="7" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>join</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC12Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>join</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaXBTZGtNZ3JcPg==</text>
@@ -316,22 +316,22 @@
         <text>'This is #1 step in TestSmoke'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIGNvbmZpZyk6CiAgICAgICAgcmV0dXJuIHRvbWwubG9hZHMoY29uZmlnKQoK</text>
+        <text encoding="base64">ICAgIC12Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
+        <text encoding="base64">ICAgIHt2aWRlb19wYXRofTogLyB2aWRlb3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0b21sPU5vbmUpOgo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ19wYXRoID0gb3MucGF0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0b21sOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb250ZW50ID0gc2VsZi5sb2FkKHRvbWwpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIGNvbmZpZyk6CiAgICAgICAgcmV0dXJuIHRvbWwubG9hZHMoY29uZmlnKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIHRvbWwpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0b21sPU5vbmUpOgo=</text>
