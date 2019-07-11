@@ -195,10 +195,11 @@
         <mark key="." line="24" column="78" />
         <mark key="^" line="24" column="78" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" timestamp="1562853338352">
-        <mark key="[" line="4" column="92" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" timestamp="1562854758232">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
         <mark key="[" line="51" column="12" />
@@ -311,10 +312,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmlkZW8sIHN0cik6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -323,18 +324,21 @@
         <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmlkZW8sIHN0cik6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBQb3BlbiwgUElQRQpmcm9tIHBwcmludCBpbXBvcnQgcHByaW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBQb3BlbiwgUElQRQpmcm9tIHBwcmludCBpbXBvcnQgcHByaW50Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IHZpbTogdHM9NCBzdz00IHN0cz00IGV4cGFuZHRhYgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>def hdfs_ls(path, pattern=None):
     if not pattern:
         cmd = 'hdfs dfs -ls {}'.format(path)
@@ -412,10 +416,10 @@ if __name__ == '__main__':
 # main()
 #</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IHZpbTogdHM9NCBzdz00IHN0cz00IGV4cGFuZHRhYgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>def hdfs_ls(path, pattern=None):
     if not pattern:
         cmd = 'hdfs dfs -ls {}'.format(path)
@@ -492,12 +496,9 @@ if __name__ == '__main__':
 # %timeit main()
 # main()
 #</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IOmZiOaZtu+8iEppbmcgQ2hlbu+8iSA3LTExIDI6NDkgUE0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgUHJvamVjdElkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnY190cmFmZmljbGl0ZSIKICAgICMgQXJlYUlkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnYyIKICAgICMgU2l0ZUlkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnYyIKICAgICMgUHJvZHVjdElkID0gInRyYWZmaWNsaXRlIgo=</text>
+        <text encoding="base64">IOmZiOaZtu+8iEppbmcgQ2hlbu+8iSA3LTExIDI6NDkgUE0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
