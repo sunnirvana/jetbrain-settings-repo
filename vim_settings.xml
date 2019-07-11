@@ -27,13 +27,6 @@
         <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/vip_log/aibee/vipsdk/data/20190710-190449-351/PROJNOME_guangzhou_thjbgc_trafficlite_AREANOME_guangzhou_thjbgc_HOSTDID-N_CH01_CAMch01002_FP20190710-190513-003_OSD20190710-193018-000_RID59b3c99f/CH01-FP20190710-190513-003-PK-01-LIVE-PST000000-PostFail.log" timestamp="1562756853038" />
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_config.py" timestamp="1562727897818">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-      </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/project_3559/.gitignore" timestamp="1562577099498">
         <mark key="[" line="1" column="0" />
       </file>
@@ -115,7 +108,7 @@
       <file name="/fragment.py" timestamp="1556181521211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" timestamp="1562827822653">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" timestamp="1562853103901">
         <mark key="'" line="17" column="17" />
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
@@ -149,13 +142,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/vipsdk_mgr.py" timestamp="1562718632161">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1562574983078">
         <mark key="[" line="166" column="10" />
@@ -209,6 +195,11 @@
         <mark key="." line="24" column="78" />
         <mark key="^" line="24" column="78" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" timestamp="1562853338352">
+        <mark key="[" line="4" column="92" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="23" />
@@ -217,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" />
       <jump line="55" column="13" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="64" column="36" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
@@ -317,10 +305,13 @@
       <jump line="32" column="11" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
       <jump line="33" column="81" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
       <jump line="17" column="17" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/test/test_vipsdk_docker.py" />
+      <jump line="61" column="30" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -332,31 +323,181 @@
         <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IOmZiOaZtu+8iEppbmcgQ2hlbu+8iSA3LTExIDI6NDkgUE0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgUHJvamVjdElkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnY190cmFmZmljbGl0ZSIKICAgICMgQXJlYUlkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnYyIKICAgICMgU2l0ZUlkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnYyIKICAgICMgUHJvZHVjdElkID0gInRyYWZmaWNsaXRlIgo=</text>
+        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIG5vdCBvcy5wYXRoLmV4aXN0cyhvcy5wYXRoLmpvaW4odmlkZW9fcGF0aCwgJ19fZG9uZV9fJykpOgogICAgICAgIHByaW50KCdXYWl0aW5nIGZvciBwcmVwYXJpbmcgbWF0ZXJpYWxzLi4uJykKICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
+        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBQb3BlbiwgUElQRQpmcm9tIHBwcmludCBpbXBvcnQgcHByaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">IHZpbTogdHM9NCBzdz00IHN0cz00IGV4cGFuZHRhYgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZGV0YWNoJzogRmFsc2UsCg==</text>
+      <register name="5" type="4">
+        <text>def hdfs_ls(path, pattern=None):
+    if not pattern:
+        cmd = 'hdfs dfs -ls {}'.format(path)
+    else:
+        cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
+
+    return syscmd(cmd, ignore_err=True)
+
+
+def hdfs_get(path, dst=None):
+    _dst = os.getcwd() if dst is None else dst
+
+    cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
+    return syscmd(cmd, ignore_err=True)
+
+
+def hdfs_exe(cmd, host_path=None):
+    d = docker.from_env()
+    image = 'registry.aibee.cn/platform/hdfs-operate:0.0.2'
+    run_args = {
+        'name': 'hdfs-tmp',
+        'remove': True,
+        'command': cmd
+    }
+    if host_path:
+        hp = os.path.abspath(host_path)
+        run_args['volumes'] = {hp: {'bind': '/host_path', 'mode': 'rw'}}
+        run_args['working_dir'] = '/host_path'
+
+    d.containers.run(image, **run_args)
+
+
+if __name__ == '__main__':
+    download_video_cmd = 'hdfs dfs -get &quot;hdfs://bj/tmp/cicd/vipsdk_validation/*&quot;'
+    hdfs_exe(download_video_cmd, host_path='.')
+
+# def hdfs_ls(path, pattern=None):
+#     if not pattern:
+#         cmd = 'hdfs dfs -ls {}'.format(path)
+#     else:
+#         cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
+#
+#     return syscmd(cmd, ignore_err=True)
+#
+#
+# def hdfs_get(path, dst=None):
+#     _dst = os.getcwd() if dst is None else dst
+#
+#     cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
+#     return syscmd(cmd, ignore_err=True)
+#
+#
+# # Main
+# def main():
+#     hdfs_history_path = '/prod/customer/CTF/beijing/wcc/events/'
+#     history_dirs = hdfs_ls(hdfs_history_path)
+#     for dir in history_dirs[1:]:
+#         _dir = dir.strip().decode()
+#         hdfs_dir = _dir.split()[7]
+#         stats_txt = os.path.join(hdfs_dir, 'stats.txt')
+#         event_csv = os.path.join(hdfs_dir, 'events.csv')
+#         heatmap_jpg = os.path.join(hdfs_dir, 'heatmap.jpg')
+#         xy_json = os.path.join(hdfs_dir, 'xy.json')
+#         xy_csv = os.path.join(hdfs_dir, 'xy.csv')
+#
+#         dst_path = os.path.join(os.getcwd(), hdfs_dir.split('/')[-1])
+#         if os.path.exists(dst_path):
+#             continue
+#
+#         os.mkdir(dst_path)
+#         for file in (stats_txt, event_csv, heatmap_jpg):
+#             hdfs_get(file, dst_path)
+
+# %timeit main()
+# main()
+#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncmVtb3ZlJzogVHJ1ZSwK</text>
+        <text encoding="base64">IHZpbTogdHM9NCBzdz00IHN0cz00IGV4cGFuZHRhYgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnZGV0YWNoJzogRmFsc2UsCg==</text>
+      <register name="7" type="4">
+        <text>def hdfs_ls(path, pattern=None):
+    if not pattern:
+        cmd = 'hdfs dfs -ls {}'.format(path)
+    else:
+        cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
+
+    return syscmd(cmd, ignore_err=True)
+
+
+def hdfs_get(path, dst=None):
+    _dst = os.getcwd() if dst is None else dst
+
+    cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
+    return syscmd(cmd, ignore_err=True)
+
+
+def hdfs_exe(cmd, host_path=None):
+    d = docker.from_env()
+    image = 'registry.aibee.cn/platform/hdfs-operate:0.0.2'
+    run_args = {
+        'name': 'hdfs-tmp',
+        'remove': True,
+        'command': cmd
+    }
+    if host_path:
+        hp = os.path.abspath(host_path)
+        run_args['volumes'] = {hp: {'bind': '/host_path', 'mode': 'rw'}}
+        run_args['working_dir'] = '/host_path'
+
+    d.containers.run(image, **run_args)
+
+
+if __name__ == '__main__':
+    download_video_cmd = 'hdfs dfs -get &quot;hdfs://bj/tmp/cicd/vipsdk_validation/*&quot;'
+    hdfs_exe(download_video_cmd, host_path='.')
+
+# def hdfs_ls(path, pattern=None):
+#     if not pattern:
+#         cmd = 'hdfs dfs -ls {}'.format(path)
+#     else:
+#         cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
+#
+#     return syscmd(cmd, ignore_err=True)
+#
+#
+# def hdfs_get(path, dst=None):
+#     _dst = os.getcwd() if dst is None else dst
+#
+#     cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
+#     return syscmd(cmd, ignore_err=True)
+#
+#
+# # Main
+# def main():
+#     hdfs_history_path = '/prod/customer/CTF/beijing/wcc/events/'
+#     history_dirs = hdfs_ls(hdfs_history_path)
+#     for dir in history_dirs[1:]:
+#         _dir = dir.strip().decode()
+#         hdfs_dir = _dir.split()[7]
+#         stats_txt = os.path.join(hdfs_dir, 'stats.txt')
+#         event_csv = os.path.join(hdfs_dir, 'events.csv')
+#         heatmap_jpg = os.path.join(hdfs_dir, 'heatmap.jpg')
+#         xy_json = os.path.join(hdfs_dir, 'xy.json')
+#         xy_csv = os.path.join(hdfs_dir, 'xy.csv')
+#
+#         dst_path = os.path.join(os.getcwd(), hdfs_dir.split('/')[-1])
+#         if os.path.exists(dst_path):
+#             continue
+#
+#         os.mkdir(dst_path)
+#         for file in (stats_txt, event_csv, heatmap_jpg):
+#             hdfs_get(file, dst_path)
+
+# %timeit main()
+# main()
+#</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3Ntb2tlXQpzYXlfaGVsbG8gPSAnSGVsbG8gJwoK</text>
+        <text encoding="base64">IOmZiOaZtu+8iEppbmcgQ2hlbu+8iSA3LTExIDI6NDkgUE0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3ZpcHNka10KaWFtZ2VfbmFtZSA9ICcnCg==</text>
+        <text encoding="base64">ICAgICMgUHJvamVjdElkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnY190cmFmZmljbGl0ZSIKICAgICMgQXJlYUlkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnYyIKICAgICMgU2l0ZUlkID0gIk5PTUVfZ3Vhbmd6aG91X3RoamJnYyIKICAgICMgUHJvZHVjdElkID0gInRyYWZmaWNsaXRlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
