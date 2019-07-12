@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1562783277140">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1562949422380">
         <mark key="[" line="13" column="40" />
-        <mark key="k" line="21" column="0" />
+        <mark key="k" line="20" column="0" />
         <mark key="]" line="13" column="13" />
-        <mark key="m" line="21" column="0" />
+        <mark key="m" line="20" column="0" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
@@ -170,12 +170,12 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562934257311">
-        <mark key="'" line="4" column="44" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562949489289">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="12" />
+        <mark key="." line="44" column="12" />
+        <mark key="^" line="42" column="67" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/testcases/register-testcase1-1.yaml" timestamp="1560386767793">
         <mark key="[" line="7" column="45" />
@@ -196,6 +196,13 @@
         <mark key="." line="24" column="78" />
         <mark key="^" line="24" column="78" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/configs/vipapp-smoke.toml" timestamp="1562948173517">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" timestamp="1562854758232">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="4" />
@@ -210,15 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="201" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="11" column="42" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="93" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="84" column="70" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="104" column="118" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="92" column="3" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="12" column="10" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="76" column="15" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
@@ -310,205 +308,64 @@
       <jump line="20" column="14" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
       <jump line="33" column="18" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
       <jump line="4" column="44" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/configs/vipapp-smoke.toml" />
+      <jump line="34" column="70" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="42" column="82" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="26" column="54" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="63" column="25" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmlkZW8sIHN0cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>video</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWaXBTZGtDb25maWdcPg==</text>
+        <text encoding="base64">XDxydW5fYXJnc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmlkZW8sIHN0cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRvY2tlcgo=</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBQb3BlbiwgUElQRQpmcm9tIHBwcmludCBpbXBvcnQgcHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHZpbTogdHM9NCBzdz00IHN0cz00IGV4cGFuZHRhYgo=</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
-      <register name="6" type="4">
-        <text>def hdfs_ls(path, pattern=None):
-    if not pattern:
-        cmd = 'hdfs dfs -ls {}'.format(path)
-    else:
-        cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
-
-    return syscmd(cmd, ignore_err=True)
-
-
-def hdfs_get(path, dst=None):
-    _dst = os.getcwd() if dst is None else dst
-
-    cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
-    return syscmd(cmd, ignore_err=True)
-
-
-def hdfs_exe(cmd, host_path=None):
-    d = docker.from_env()
-    image = 'registry.aibee.cn/platform/hdfs-operate:0.0.2'
-    run_args = {
-        'name': 'hdfs-tmp',
-        'remove': True,
-        'command': cmd
-    }
-    if host_path:
-        hp = os.path.abspath(host_path)
-        run_args['volumes'] = {hp: {'bind': '/host_path', 'mode': 'rw'}}
-        run_args['working_dir'] = '/host_path'
-
-    d.containers.run(image, **run_args)
-
-
-if __name__ == '__main__':
-    download_video_cmd = 'hdfs dfs -get &quot;hdfs://bj/tmp/cicd/vipsdk_validation/*&quot;'
-    hdfs_exe(download_video_cmd, host_path='.')
-
-# def hdfs_ls(path, pattern=None):
-#     if not pattern:
-#         cmd = 'hdfs dfs -ls {}'.format(path)
-#     else:
-#         cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
-#
-#     return syscmd(cmd, ignore_err=True)
-#
-#
-# def hdfs_get(path, dst=None):
-#     _dst = os.getcwd() if dst is None else dst
-#
-#     cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
-#     return syscmd(cmd, ignore_err=True)
-#
-#
-# # Main
-# def main():
-#     hdfs_history_path = '/prod/customer/CTF/beijing/wcc/events/'
-#     history_dirs = hdfs_ls(hdfs_history_path)
-#     for dir in history_dirs[1:]:
-#         _dir = dir.strip().decode()
-#         hdfs_dir = _dir.split()[7]
-#         stats_txt = os.path.join(hdfs_dir, 'stats.txt')
-#         event_csv = os.path.join(hdfs_dir, 'events.csv')
-#         heatmap_jpg = os.path.join(hdfs_dir, 'heatmap.jpg')
-#         xy_json = os.path.join(hdfs_dir, 'xy.json')
-#         xy_csv = os.path.join(hdfs_dir, 'xy.csv')
-#
-#         dst_path = os.path.join(os.getcwd(), hdfs_dir.split('/')[-1])
-#         if os.path.exists(dst_path):
-#             continue
-#
-#         os.mkdir(dst_path)
-#         for file in (stats_txt, event_csv, heatmap_jpg):
-#             hdfs_get(file, dst_path)
-
-# %timeit main()
-# main()
-#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IHZpbTogdHM9NCBzdz00IHN0cz00IGV4cGFuZHRhYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>def hdfs_ls(path, pattern=None):
-    if not pattern:
-        cmd = 'hdfs dfs -ls {}'.format(path)
-    else:
-        cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
-
-    return syscmd(cmd, ignore_err=True)
-
-
-def hdfs_get(path, dst=None):
-    _dst = os.getcwd() if dst is None else dst
-
-    cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
-    return syscmd(cmd, ignore_err=True)
-
-
-def hdfs_exe(cmd, host_path=None):
-    d = docker.from_env()
-    image = 'registry.aibee.cn/platform/hdfs-operate:0.0.2'
-    run_args = {
-        'name': 'hdfs-tmp',
-        'remove': True,
-        'command': cmd
-    }
-    if host_path:
-        hp = os.path.abspath(host_path)
-        run_args['volumes'] = {hp: {'bind': '/host_path', 'mode': 'rw'}}
-        run_args['working_dir'] = '/host_path'
-
-    d.containers.run(image, **run_args)
-
-
-if __name__ == '__main__':
-    download_video_cmd = 'hdfs dfs -get &quot;hdfs://bj/tmp/cicd/vipsdk_validation/*&quot;'
-    hdfs_exe(download_video_cmd, host_path='.')
-
-# def hdfs_ls(path, pattern=None):
-#     if not pattern:
-#         cmd = 'hdfs dfs -ls {}'.format(path)
-#     else:
-#         cmd = 'hdfs dfs -ls {} | grep &quot;{}&quot;'.format(path, pattern)
-#
-#     return syscmd(cmd, ignore_err=True)
-#
-#
-# def hdfs_get(path, dst=None):
-#     _dst = os.getcwd() if dst is None else dst
-#
-#     cmd = 'hdfs dfs -get {} {}'.format(path, _dst)
-#     return syscmd(cmd, ignore_err=True)
-#
-#
-# # Main
-# def main():
-#     hdfs_history_path = '/prod/customer/CTF/beijing/wcc/events/'
-#     history_dirs = hdfs_ls(hdfs_history_path)
-#     for dir in history_dirs[1:]:
-#         _dir = dir.strip().decode()
-#         hdfs_dir = _dir.split()[7]
-#         stats_txt = os.path.join(hdfs_dir, 'stats.txt')
-#         event_csv = os.path.join(hdfs_dir, 'events.csv')
-#         heatmap_jpg = os.path.join(hdfs_dir, 'heatmap.jpg')
-#         xy_json = os.path.join(hdfs_dir, 'xy.json')
-#         xy_csv = os.path.join(hdfs_dir, 'xy.csv')
-#
-#         dst_path = os.path.join(os.getcwd(), hdfs_dir.split('/')[-1])
-#         if os.path.exists(dst_path):
-#             continue
-#
-#         os.mkdir(dst_path)
-#         for file in (stats_txt, event_csv, heatmap_jpg):
-#             hdfs_get(file, dst_path)
-
-# %timeit main()
-# main()
-#</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjaGVjayByZXN1bHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IOmZiOaZtu+8iEppbmcgQ2hlbu+8iSA3LTExIDI6NDkgUE0K</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWaXBTZGtDb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxydW5fYXJnc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWaXBTZGtDb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxydW5fYXJnc1w+</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>video</last-substitute>
       <last-dir>-1</last-dir>
@@ -516,9 +373,6 @@ if __name__ == '__main__':
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfaW1hZ2VcPg==</entry>
-        <entry encoding="base64">XDxoaXZlXD4=</entry>
-        <entry>list-hive</entry>
         <entry>list_hive</entry>
         <entry>run</entry>
         <entry encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</entry>
@@ -536,6 +390,9 @@ if __name__ == '__main__':
         <entry encoding="base64">XDxwcmVwYXJlX2ZvbGRlclw+</entry>
         <entry encoding="base64">XDxWaXBTZGtEb2NrZXJcPg==</entry>
         <entry encoding="base64">XDxWaXBTZGtDb25maWdcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb19uYW1lXD4=</entry>
+        <entry encoding="base64">XDxpbWFnZVw+</entry>
+        <entry encoding="base64">XDxydW5fYXJnc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
@@ -553,11 +410,11 @@ if __name__ == '__main__':
         <entry>w'</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry encoding="base64">dnNwIA==</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
