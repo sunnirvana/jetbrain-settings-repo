@@ -60,7 +60,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/configs/vipapp-nome-guangzhou-thjbgc-release-20190418.toml" timestamp="1562759296136">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/test/configs/vipapp-nome-guangzhou-thjbgc-release-20190418.toml" timestamp="1562950639762">
         <mark key="[" line="219" column="8" />
         <mark key="]" line="219" column="14" />
         <mark key="^" line="219" column="14" />
@@ -102,7 +102,7 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1562731806772">
+      <file name="/Python Console" timestamp="1562950579800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
@@ -149,11 +149,11 @@
         <mark key="^" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/.gitignore" timestamp="1562579953125">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="4" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/.gitignore" timestamp="1562950781289">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1562299853138">
         <mark key="[" line="0" column="0" />
@@ -170,12 +170,12 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562949489289">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562950396764">
         <mark key="'" line="53" column="8" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="42" column="67" />
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/testcases/register-testcase1-1.yaml" timestamp="1560386767793">
         <mark key="[" line="7" column="45" />
@@ -196,12 +196,12 @@
         <mark key="." line="24" column="78" />
         <mark key="^" line="24" column="78" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/configs/vipapp-smoke.toml" timestamp="1562948173517">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/configs/vipapp-smoke.toml" timestamp="1562950672303">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="10" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="67" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" timestamp="1562854758232">
         <mark key="[" line="9" column="0" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IXZpcF9sb2cvLmdpdGtlZXAK</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5fYXJnc1w+</text>
@@ -332,34 +332,34 @@
         <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IXZpcF9sb2cvLmdpdGtlZXAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">IyBDYWNoZSBkYXRhIHRvIHNxbGl0ZTMKQ2FjaGVQb3N0QnJlYWtEYXRhPXRydWUKQ2FjaGVQb3N0RGF0YUxvbmdlc3RUaW1lV2l0aEhvdXI9NzIKQ2FjaGVEYXRhV2hlbk5ldHdvcmtRdWV1ZUZ1bGw9dHJ1ZQpDYWNoZVBvc3REYXRhU2hvcnRlc3RJbnRlcnZhbFdpdGhNaW49NQpXYWl0UGhvdG9UaW1lRm9yUG9zdFdpdGhNcz0xMDAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjaGVjayByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -395,7 +395,6 @@
         <entry encoding="base64">XDxydW5fYXJnc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>22</entry>
         <entry encoding="base64">JzwsJz5zL190ZW1wbC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Rhc2tbMF0vcHJvamVjdF9wYXRoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Rhc2tcWzBcXS9wcm9qZWN0X3BhdGgvZw==</entry>
@@ -413,8 +412,9 @@
         <entry encoding="base64">dnNwIA==</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>49</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
