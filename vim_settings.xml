@@ -170,7 +170,8 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562932690248">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562934257311">
+        <mark key="'" line="4" column="44" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="42" />
@@ -209,11 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="13" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="64" column="36" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="77" column="40" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
-      <jump line="33" column="57" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="81" column="201" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="11" column="42" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
@@ -309,6 +305,11 @@
       <jump line="61" column="30" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="3" column="44" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="20" column="14" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="33" column="18" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="4" column="44" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -318,7 +319,7 @@
         <text>video</text>
       </register>
       <register name="/" type="4">
-        <text>video</text>
+        <text encoding="base64">XDxWaXBTZGtDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
@@ -505,19 +506,16 @@ if __name__ == '__main__':
       </register>
     </registers>
     <search>
-      <last-search>video</last-search>
+      <last-search encoding="base64">XDxWaXBTZGtDb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern>video</last-pattern>
+      <last-pattern encoding="base64">XDxWaXBTZGtDb25maWdcPg==</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>video</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncm91cF9pZFw+</entry>
-        <entry encoding="base64">XDx0ZXN0Y2FzZXVzZXJpZFw+</entry>
-        <entry>addition</entry>
         <entry encoding="base64">XDxnZXRfaW1hZ2VcPg==</entry>
         <entry encoding="base64">XDxoaXZlXD4=</entry>
         <entry>list-hive</entry>
@@ -535,6 +533,9 @@ if __name__ == '__main__':
         <entry encoding="base64">XDx0bXBfY29uZmlnX2ZpbGVcPg==</entry>
         <entry>Video</entry>
         <entry>video</entry>
+        <entry encoding="base64">XDxwcmVwYXJlX2ZvbGRlclw+</entry>
+        <entry encoding="base64">XDxWaXBTZGtEb2NrZXJcPg==</entry>
+        <entry encoding="base64">XDxWaXBTZGtDb25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
