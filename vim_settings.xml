@@ -48,6 +48,12 @@
         <mark key="^" line="245" column="38" />
         <mark key="." line="245" column="38" />
       </file>
+      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/search.py" timestamp="1563004714831">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/register_images.py" timestamp="1562330500159">
         <mark key="[" line="77" column="57" />
         <mark key="]" line="77" column="55" />
@@ -217,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="3" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="12" column="10" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="76" column="15" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="186" column="20" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
@@ -317,63 +322,63 @@
       <jump line="26" column="54" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
       <jump line="63" column="25" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
       <jump line="52" column="8" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/search.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IXZpcF9sb2cvLmdpdGtlZXAK</text>
+        <text encoding="base64">ICAgICAgICAjIGJyZWFrCiAgICAgICAgIyAgd2l0aCBQb29sKGNwdV9jb3VudCgpKSBhcyBwOgogICAgICAgICMgIHIgPSBsaXN0KHRxZG0ocC5pbWFwKHJvdXRpbmUsIFtbcXVlcnlfcGhvdG9fcGF0aCwgdWlkX2RpciwgaW1hZ2VdIGZvciBpbWFnZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihxdWVyeV9waG90b19wYXRoLCB1aWRfZGlyKSldKSwgdG90YWw9bGVuKG9zLmxpc3RkaXIob3MucGF0aC5qb2luKHF1ZXJ5X3Bob3RvX3BhdGgsIHVpZF9kaXIpKSkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5fYXJnc1w+</text>
+        <text>1vN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IXZpcF9sb2cvLmdpdGtlZXAK</text>
+        <text encoding="base64">ICAgICAgICAjIGJyZWFrCiAgICAgICAgIyAgd2l0aCBQb29sKGNwdV9jb3VudCgpKSBhcyBwOgogICAgICAgICMgIHIgPSBsaXN0KHRxZG0ocC5pbWFwKHJvdXRpbmUsIFtbcXVlcnlfcGhvdG9fcGF0aCwgdWlkX2RpciwgaW1hZ2VdIGZvciBpbWFnZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihxdWVyeV9waG90b19wYXRoLCB1aWRfZGlyKSldKSwgdG90YWw9bGVuKG9zLmxpc3RkaXIob3MucGF0aC5qb2luKHF1ZXJ5X3Bob3RvX3BhdGgsIHVpZF9kaXIpKSkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDYWNoZSBkYXRhIHRvIHNxbGl0ZTMKQ2FjaGVQb3N0QnJlYWtEYXRhPXRydWUKQ2FjaGVQb3N0RGF0YUxvbmdlc3RUaW1lV2l0aEhvdXI9NzIKQ2FjaGVEYXRhV2hlbk5ldHdvcmtRdWV1ZUZ1bGw9dHJ1ZQpDYWNoZVBvc3REYXRhU2hvcnRlc3RJbnRlcnZhbFdpdGhNaW49NQpXYWl0UGhvdG9UaW1lRm9yUG9zdFdpdGhNcz0xMDAwCg==</text>
+        <text encoding="base64">Z3JvdXBfaWRfbGlzdCA9IFsnazExLTIwMTkwNjIwJywgJ2sxMS0yMDE5MDYyMScsICdrMTEtMjAxOTA2MjInLCAnazExLTIwMTkwNjIzJywgJ2sxMS0yMDE5MDYyNCddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IXZpcF9sb2cvLmdpdGtlZXAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">IyBDYWNoZSBkYXRhIHRvIHNxbGl0ZTMKQ2FjaGVQb3N0QnJlYWtEYXRhPXRydWUKQ2FjaGVQb3N0RGF0YUxvbmdlc3RUaW1lV2l0aEhvdXI9NzIKQ2FjaGVEYXRhV2hlbk5ldHdvcmtRdWV1ZUZ1bGw9dHJ1ZQpDYWNoZVBvc3REYXRhU2hvcnRlc3RJbnRlcnZhbFdpdGhNaW49NQpXYWl0UGhvdG9UaW1lRm9yUG9zdFdpdGhNcz0xMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5fYXJnc1w+</last-search>
+      <last-search>1vN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5fYXJnc1w+</last-pattern>
+      <last-pattern>1vN</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>video</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list_hive</entry>
         <entry>run</entry>
         <entry encoding="base64">XDxfZ2VuX29ubGluZV90cmFja3NcPg==</entry>
         <entry>hdfs</entry>
@@ -393,6 +398,7 @@
         <entry encoding="base64">XDx2aWRlb19uYW1lXD4=</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry encoding="base64">XDxydW5fYXJnc1w+</entry>
+        <entry>1vN</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL190ZW1wbC8vZw==</entry>
