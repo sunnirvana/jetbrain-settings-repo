@@ -11,7 +11,7 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1562950579800">
+      <file name="/Python Console" timestamp="1563008249049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
@@ -33,7 +33,7 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/K11_GZ_no_did_before_merge.txt" timestamp="1563005612732" />
+      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/K11_GZ_no_did_before_merge.txt" timestamp="1563007313607" />
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_mgr.py" timestamp="1562721449630">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="17" />
@@ -205,6 +205,13 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="67" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/filter.py" timestamp="1563008324026">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_ffmpeg.py" timestamp="1562854758232">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="4" />
@@ -225,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="15" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="186" column="20" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="52" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
       <jump line="170" column="17" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
@@ -325,46 +331,47 @@
       <jump line="52" column="8" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/search.py" />
       <jump line="93" column="22" filename="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/search.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/filter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJyZWFrCiAgICAgICAgIyAgd2l0aCBQb29sKGNwdV9jb3VudCgpKSBhcyBwOgogICAgICAgICMgIHIgPSBsaXN0KHRxZG0ocC5pbWFwKHJvdXRpbmUsIFtbcXVlcnlfcGhvdG9fcGF0aCwgdWlkX2RpciwgaW1hZ2VdIGZvciBpbWFnZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihxdWVyeV9waG90b19wYXRoLCB1aWRfZGlyKSldKSwgdG90YWw9bGVuKG9zLmxpc3RkaXIob3MucGF0aC5qb2luKHF1ZXJ5X3Bob3RvX3BhdGgsIHVpZF9kaXIpKSkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3V0aW5lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgaW1hZ2UgPSAncmVnaXN0cnkuYWliZWUuY24vY2ljZC92aXBzZGtfcmVsZWFzZToyLjUuNC4xNDE2LjY5ZGQ1OTAnCg==</text>
+        <text encoding="base64">ICAgICMgc3JjX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoJy4uL0sxMV9HWl9ub19kaWRfcmVjYWxsL3AyMV9mb3JMYWJlbCcpCiAgICAjIGRzdF9wYXRoID0gb3MucGF0aC5hYnNwYXRoKCcuLi9LMTFfR1pfbm9fZGlkX3JlY2FsbF9yZXN1bHQnKQogICAgIyBtYXRjaF9yZXN1bHQgPSBvcy5wYXRoLmFic3BhdGgoJy4vSzExX0daX25vX2RpZF9iZWZvcmVfbWVyZ2UudHh0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJyZWFrCiAgICAgICAgIyAgd2l0aCBQb29sKGNwdV9jb3VudCgpKSBhcyBwOgogICAgICAgICMgIHIgPSBsaXN0KHRxZG0ocC5pbWFwKHJvdXRpbmUsIFtbcXVlcnlfcGhvdG9fcGF0aCwgdWlkX2RpciwgaW1hZ2VdIGZvciBpbWFnZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihxdWVyeV9waG90b19wYXRoLCB1aWRfZGlyKSldKSwgdG90YWw9bGVuKG9zLmxpc3RkaXIob3MucGF0aC5qb2luKHF1ZXJ5X3Bob3RvX3BhdGgsIHVpZF9kaXIpKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2UgaW4gbWF0Y2hlZF9pbWFnZXM6CiAgICAgICAgICAgICAgICBzcmNfaW1hZ2UgPSBvcy5wYXRoLmpvaW4oc3JjX3BhdGgsIHVpZCwgaW1hZ2UpCiAgICAgICAgICAgICAgICBkc3RfaW1hZ2UgPSBvcy5wYXRoLmpvaW4oZHN0X3BhdGgsIHVpZCwgaW1hZ2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNyY19pbWFnZSA9IG9zLnBhdGguam9pbihzcmNfcGF0aCwgdWlkLCBpbWFnZSkKICAgICAgICAgICAgICAgIGRzdF9pbWFnZSA9IG9zLnBhdGguam9pbihkc3RfcGF0aCwgdWlkLCBpbWFnZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXBfaWRfbGlzdCA9IFsnazExLTIwMTkwNjIwJywgJ2sxMS0yMDE5MDYyMScsICdrMTEtMjAxOTA2MjInLCAnazExLTIwMTkwNjIzJywgJ2sxMS0yMDE5MDYyNCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNodQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IXZpcF9sb2cvLmdpdGtlZXAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5qb2luKGRzdF9wYXRoLCB1aWQpOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDYWNoZSBkYXRhIHRvIHNxbGl0ZTMKQ2FjaGVQb3N0QnJlYWtEYXRhPXRydWUKQ2FjaGVQb3N0RGF0YUxvbmdlc3RUaW1lV2l0aEhvdXI9NzIKQ2FjaGVEYXRhV2hlbk5ldHdvcmtRdWV1ZUZ1bGw9dHJ1ZQpDYWNoZVBvc3REYXRhU2hvcnRlc3RJbnRlcnZhbFdpdGhNaW49NQpXYWl0UGhvdG9UaW1lRm9yUG9zdFdpdGhNcz0xMDAwCg==</text>
+        <text encoding="base64">ICAgIGltYWdlX3BhdGhfZGljdCA9IGRpY3QoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfcGF0aF9kaWN0W2ltYWdlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb19uYW1lID0gInNtb2tlX2JtX25vbWUubXA0Igo=</text>
+        <text encoding="base64">ICAgICAgICAjIGJyZWFrCiAgICAgICAgIyAgd2l0aCBQb29sKGNwdV9jb3VudCgpKSBhcyBwOgogICAgICAgICMgIHIgPSBsaXN0KHRxZG0ocC5pbWFwKHJvdXRpbmUsIFtbcXVlcnlfcGhvdG9fcGF0aCwgdWlkX2RpciwgaW1hZ2VdIGZvciBpbWFnZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihxdWVyeV9waG90b19wYXRoLCB1aWRfZGlyKSldKSwgdG90YWw9bGVuKG9zLmxpc3RkaXIob3MucGF0aC5qb2luKHF1ZXJ5X3Bob3RvX3BhdGgsIHVpZF9kaXIpKSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
