@@ -20,7 +20,6 @@
       <file name="/a.dummy" timestamp="1563023283060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/K11_GZ_no_did_before_merge.txt" timestamp="1563007313607" />
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_mgr.py" timestamp="1562721449630">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="17" />
@@ -147,7 +146,6 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/K11_GZ_did_before_merge.txt" timestamp="1563005231187" />
       <file name="/a.sql" timestamp="1560561632213">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,7 +168,6 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/k11_gz_no_did_list.txt" timestamp="1563023500501" />
       <file name="$USER_HOME$/Workspace/projects/setup-facex-db/main.py" timestamp="1562574983078">
         <mark key="[" line="166" column="10" />
         <mark key="]" line="166" column="0" />
@@ -198,12 +195,12 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1562950396764">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1563109305088">
         <mark key="'" line="53" column="8" />
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="." line="50" column="39" />
-        <mark key="^" line="50" column="39" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="47" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/k11_gz_did_list.txt" timestamp="1563040269623">
         <mark key="'" line="3030" column="62" />
