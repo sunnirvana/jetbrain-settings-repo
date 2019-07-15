@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1562949422380">
-        <mark key="[" line="13" column="40" />
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1563164687955">
         <mark key="k" line="20" column="0" />
-        <mark key="]" line="13" column="13" />
+        <mark key="[" line="12" column="15" />
         <mark key="m" line="20" column="0" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/config.toml" timestamp="1562755139912">
         <mark key="[" line="11" column="0" />
@@ -114,11 +114,23 @@
       <file name="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/register.yaml" timestamp="1559554374619">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/conftest.py" timestamp="1563164570722">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="9" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="30" column="9" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/Jenkinsfile" timestamp="1563164682143">
+        <mark key="[" line="32" column="78" />
+        <mark key="]" line="32" column="72" />
+        <mark key="^" line="32" column="72" />
+        <mark key="." line="32" column="72" />
       </file>
       <file name="/Python Console" timestamp="1563008249049">
         <mark key="[" line="0" column="0" />
@@ -367,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>jobid</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>jobid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cF9pZFw+</text>
@@ -379,34 +391,34 @@
         <text encoding="base64">ICAgICMgc3JjX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoJy4uL0sxMV9HWl9ub19kaWRfcmVjYWxsX3Jlc3VsdF9yZW5hbWVkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdqb2JpZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHVpZF9wYXRoKToK</text>
+        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCd0ZXN0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGltYWdlID09IAo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHVpZF9wYXRoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgZHN0X3BhdGggPSAnLi4vSzExX0daX2RpZF9yZWNhbGxfcmVzdWx0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGltYWdlID09IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbV9saXN0ID0gaW1hZ2Uuc3BsaXQoJ18nKQogICAgICAgICAgICBwcmludChpdGVtX2xpc3QsICdfJy5qb2luKFtpdGVtX2xpc3RbMl1dICsgaXRlbV9saXN0WzE6XSkpCiAgICAgICAgICAgIG5ld19pbWFnZSA9ICdfJy5qb2luKFtpdGVtX2xpc3RbMl1dICsgaXRlbV9saXN0WzE6XSkKICAgICAgICAgICAgc3JjID0gb3MucGF0aC5qb2luKHNyY19wYXRoLCB1aWQsIGltYWdlKQogICAgICAgICAgICBkc3QgPSBvcy5wYXRoLmpvaW4oc3JjX3BhdGgsIHVpZCwgbmV3X2ltYWdlKQogICAgICAgICAgICBvcy5yZW5hbWUoc3JjLCBkc3QpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIAogICAgZHN0X3BhdGggPSAnLi4vSzExX0daX2RpZF9yZWNhbGxfcmVzdWx0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2h1dGlsLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbV9saXN0ID0gaW1hZ2Uuc3BsaXQoJ18nKQogICAgICAgICAgICBwcmludChpdGVtX2xpc3QsICdfJy5qb2luKFtpdGVtX2xpc3RbMl1dICsgaXRlbV9saXN0WzE6XSkpCiAgICAgICAgICAgIG5ld19pbWFnZSA9ICdfJy5qb2luKFtpdGVtX2xpc3RbMl1dICsgaXRlbV9saXN0WzE6XSkKICAgICAgICAgICAgc3JjID0gb3MucGF0aC5qb2luKHNyY19wYXRoLCB1aWQsIGltYWdlKQogICAgICAgICAgICBkc3QgPSBvcy5wYXRoLmpvaW4oc3JjX3BhdGgsIHVpZCwgbmV3X2ltYWdlKQogICAgICAgICAgICBvcy5yZW5hbWUoc3JjLCBkc3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc3JjX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoJy4uL0sxMV9HWl9ub19kaWRfcmVjYWxsL3AyMV9mb3JMYWJlbCcpCiAgICAjIGRzdF9wYXRoID0gb3MucGF0aC5hYnNwYXRoKCcuLi9LMTFfR1pfbm9fZGlkX3JlY2FsbF9yZXN1bHQnKQogICAgIyBtYXRjaF9yZXN1bHQgPSBvcy5wYXRoLmFic3BhdGgoJy4vSzExX0daX25vX2RpZF9iZWZvcmVfbWVyZ2UudHh0JykK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -457,11 +469,11 @@
         <entry encoding="base64">dnNwIA==</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vsp</entry>
-        <entry>wq</entry>
         <entry>49</entry>
         <entry>W</entry>
         <entry>w'</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
