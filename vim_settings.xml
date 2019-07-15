@@ -122,7 +122,6 @@
         <mark key="^" line="62" column="17" />
         <mark key="." line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1563189070176" />
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
@@ -272,6 +271,11 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1563190992412">
+        <mark key="[" line="806" column="0" />
+        <mark key="]" line="810" column="10" />
+        <mark key="." line="806" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="23" />
@@ -382,74 +386,48 @@
       <jump line="55" column="40" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.jks_bldid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text>self.jks_bldid</text>
+        <text>gx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqa3NfYmxkaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqa3NfYnVpbGRfaWQgPSBkYXRhX3Byb3ZpZGVyWzBdIAo=</text>
+        <text encoding="base64">ICAgICAgICAnZG9uZ2d1YW4td2onOiBkaWN0KAogICAgICAgICAgICBudnIwPVsxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCwgMTEsIDEyLCAxMywgMTQsIDE1LCAxNiwgMTcsIDE4LCAxOSwgMjAsIDIxLCAyMiwgMjMsIDI0LCAyNSwgMjYsIDI3LCAyOCwKICAgICAgICAgICAgICAgICAgMjksIDMwXSwKICAgICAgICAgICAgbnZyMT1bMSwgMiwgMywgNCwgNSwgNiwgNywgOF0KICAgICAgICApLAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAyMWJhOTIxZjZhYzkyNTZkYjcxNjQxYzExNGY0OTM3MjY1NjQwM2E5Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAyMWJhOTIxZjZhYzkyNTZkYjcxNjQxYzExNGY0OTM3MjY1NjQwM2E5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAyMWJhOTIxZjZhYzkyNTZkYjcxNjQxYzExNGY0OTM3MjY1NjQwM2E5Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="8" type="8">
         <text>self.
 self.</text>
       </register>
-      <register name="2" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHNldHRpbmdzLnRvbWxfY29uZmlnWydqZW5raW5zJ11bJ2J1aWxkX2lkJ10gPSBqa3NfYmxkaWQKICAgIHNldHRpbmdzLnRvbWxfY29uZmlnWydqZW5raW5zJ11bJ2J1aWxkX3VybCddID0gamtzX2JsZHVybAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRtcGRpciA9IGdldF90bXBkaXIoKQogICAgY2xlYW51cCh0bXBkaXIpCgogICAgIyBkb3dubG9hZCBlaWQuanNvbgogICAgaGRmc19laWRfanNvbiA9IHNldHRpbmdzLnRvbWxfY29uZmlnWydlaWQnXVsnZWlkX2pzb24nXQogICAgbG9jYWxfZWlkX2pzb24gPSBvcy5wYXRoLmpvaW4odG1wZGlyLCBvcy5wYXRoLmJhc2VuYW1lKGhkZnNfZWlkX2pzb24pKQogICAgaGRmc19nZXQoaGRmc19laWRfanNvbiwgbG9jYWxfZWlkX2pzb24pCgogICAgIyBkb3dubG9hZCB0cmFja2luZyBwYiBmaWxlcwogICAgaGRmc19wYl9wYXRoID0gc2V0dGluZ3MudG9tbF9jb25maWdbJ2VpZCddWyd0cmFja19wYl9wYXRoJ10KICAgIGhkZnNfcGJfc3VmZml4ID0gc2V0dGluZ3MudG9tbF9jb25maWdbJ2VpZCddWyd0cmFja19wYl9zdWZmaXgnXQogICAgbG9jYWxfcGJfcGF0aCA9IG9zLnBhdGguam9pbih0bXBkaXIsICd0cmFja19wYnMnKQogICAgb3MubWtkaXIobG9jYWxfcGJfcGF0aCkKICAgIHBiX2xpc3QgPSBbcGIgZm9yIHBiIGluIGhkZnNfbHMoaGRmc19wYl9wYXRoLCBwYXR0ZXJuPWhkZnNfcGJfc3VmZml4KS5zcGxpdCgnXG4nKV0KICAgIGZvciBvbmVfcGIgaW4gcGJfbGlzdFsxOl06CiAgICAgICAgbG9nZ2VyLmRlYnVnKCdzdHI6ICVzJywgb25lX3BiKQogICAgICAgIGxvZ2dlci5kZWJ1ZygnYXJyYXk6ICVzJywgb25lX3BiLnNwbGl0KCkpCiAgICAgICAgcGJfZmlsZSA9IG9uZV9wYi5zcGxpdCgpWzddICAjIHRoZSA4dGggY29sdW1uIGlzIHBiIGZ1bGwgcGF0aAogICAgICAgIGhkZnNfZ2V0KHBiX2ZpbGUsIGxvY2FsX3BiX3BhdGgpCgo=</text>
-      </register>
-      <register name="4" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqa3Nfam9iaWQgPSBjb25maWdbJyddCg==</text>
-      </register>
-      <register name="6" type="8">
-        <text>settings.toml_
-settings.toml_</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCdqb2JpZCcpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLmFyZ3VtZW50KCd0ZXN0JykK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -495,7 +473,6 @@ settings.toml_</text>
         <entry>19</entry>
         <entry>35</entry>
         <entry>.w</entry>
-        <entry>q</entry>
         <entry encoding="base64">dnNwIA==</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vsp</entry>
@@ -505,6 +482,7 @@ settings.toml_</text>
         <entry>wq</entry>
         <entry>56</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
