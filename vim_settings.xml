@@ -54,11 +54,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1563243372255">
-        <mark key="[" line="245" column="25" />
-        <mark key="]" line="245" column="38" />
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1563261556265">
+        <mark key="[" line="143" column="12" />
+        <mark key="]" line="143" column="12" />
         <mark key="^" line="245" column="38" />
-        <mark key="." line="245" column="38" />
+        <mark key="." line="143" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/search.py" timestamp="1563027282591">
         <mark key="'" line="115" column="31" />
@@ -141,7 +141,7 @@
         <mark key="." line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/configs/vipapp.toml" timestamp="1563188306190" />
-      <file name="/Python Console" timestamp="1563008249049">
+      <file name="/Python Console" timestamp="1563261568701">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1556181521211">
@@ -393,11 +393,11 @@
       <jump line="55" column="40" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>gx</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqa3NfYmxkaWRcPg==</text>
