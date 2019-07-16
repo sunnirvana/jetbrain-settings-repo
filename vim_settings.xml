@@ -122,8 +122,11 @@
         <mark key="^" line="62" column="17" />
         <mark key="." line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1563197249743">
-        <mark key="." line="258" column="120" />
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1563241794582">
+        <mark key="[" line="261" column="8" />
+        <mark key="]" line="261" column="7" />
+        <mark key="." line="261" column="7" />
+        <mark key="^" line="261" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
         <mark key="[" line="12" column="25" />
@@ -274,10 +277,11 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1563200154557">
-        <mark key="[" line="806" column="0" />
-        <mark key="]" line="810" column="10" />
-        <mark key="." line="806" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1563241776803">
+        <mark key="[" line="811" column="8" />
+        <mark key="]" line="811" column="7" />
+        <mark key="." line="811" column="7" />
+        <mark key="^" line="811" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
         <mark key="[" line="51" column="12" />
