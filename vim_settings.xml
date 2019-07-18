@@ -175,6 +175,9 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1563439332173">
+        <mark key="'" line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_docker.py" timestamp="1562827621956">
         <mark key="'" line="1" column="10" />
         <mark key="[" line="41" column="16" />
@@ -290,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="3" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/api/v1-register.yaml" />
       <jump line="5" column="17" filename="$USER_HOME$/Workspace/projects/common-push-validation/api-test/testcases/v1_register.yaml" />
       <jump line="514" column="25" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Polygon/bit_message.py" />
       <jump line="57" column="77" filename="$USER_HOME$/Workspace/codes/py-checkio/checkio_solutions/Electronic Station/probably_dice.py" />
@@ -390,6 +392,7 @@
       <jump line="26" column="26" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_hdfs.py" />
       <jump line="55" column="40" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
       <jump line="12" column="37" filename="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -399,7 +402,7 @@
         <text>jks_bldid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqa3NfYmxkaWRcPg==</text>
+        <text encoding="base64">XDxjb21wcmVzc192aWRlb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZG9uZ2d1YW4td2onOiBkaWN0KAogICAgICAgICAgICBudnIwPVsxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCwgMTEsIDEyLCAxMywgMTQsIDE1LCAxNiwgMTcsIDE4LCAxOSwgMjAsIDIxLCAyMiwgMjMsIDI0LCAyNSwgMjYsIDI3LCAyOCwKICAgICAgICAgICAgICAgICAgMjksIDMwXSwKICAgICAgICAgICAgbnZyMT1bMSwgMiwgMywgNCwgNSwgNiwgNywgOF0KICAgICAgICApLAo=</text>
@@ -436,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqa3NfYmxkaWRcPg==</last-search>
+      <last-search encoding="base64">XDxjb21wcmVzc192aWRlb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqa3NfYmxkaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wcmVzc192aWRlb1w+</last-pattern>
       <last-replace>project_date</last-replace>
       <last-substitute>video</last-substitute>
       <last-dir>-1</last-dir>
@@ -446,7 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxMDA3NFw+</entry>
         <entry>shenzhen</entry>
         <entry encoding="base64">XDx0cWRtXD4=</entry>
         <entry encoding="base64">XDxWaXBTZGtNZ3JcPg==</entry>
@@ -466,6 +468,7 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxqZW5raW5zX2luZm9cPg==</entry>
         <entry encoding="base64">XDxqa3NfYmxkaWRcPg==</entry>
+        <entry encoding="base64">XDxjb21wcmVzc192aWRlb1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Rhc2tbMF0vcHJvamVjdF9wYXRoL2c=</entry>
