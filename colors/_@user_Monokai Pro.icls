@@ -4,11 +4,11 @@
     <property name="created">2019-01-25T22:01:44</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-07-18T16:26:42</property>
+    <property name="modified">2019-07-18T17:17:07</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>

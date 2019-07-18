@@ -53,12 +53,6 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/onoff.py" timestamp="1563261556265">
-        <mark key="[" line="143" column="12" />
-        <mark key="]" line="143" column="12" />
-        <mark key="^" line="245" column="38" />
-        <mark key="." line="143" column="12" />
-      </file>
       <file name="$USER_HOME$/Workspace/tmp/k11_issue/Recall_test_tool/search.py" timestamp="1563027282591">
         <mark key="'" line="115" column="31" />
         <mark key="[" line="96" column="62" />
@@ -175,7 +169,7 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1563439332173">
+      <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" timestamp="1563441383087">
         <mark key="'" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/vipsdk_tester/vipsdk_docker.py" timestamp="1562827621956">
