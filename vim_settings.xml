@@ -115,10 +115,10 @@
         <mark key="." line="63" column="17" />
         <mark key="^" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1563263032469">
-        <mark key="[" line="261" column="8" />
-        <mark key="]" line="261" column="7" />
-        <mark key="." line="261" column="7" />
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1563470237970">
+        <mark key="[" line="245" column="17" />
+        <mark key="]" line="245" column="17" />
+        <mark key="." line="245" column="17" />
         <mark key="^" line="261" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
@@ -246,7 +246,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_hdfs.py" timestamp="1563420989614">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_hdfs.py" timestamp="1563470208710">
         <mark key="'" line="28" column="26" />
         <mark key="[" line="28" column="25" />
         <mark key="]" line="28" column="25" />
@@ -273,10 +273,10 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1563262947406">
-        <mark key="[" line="811" column="8" />
-        <mark key="]" line="811" column="7" />
-        <mark key="." line="811" column="7" />
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1563470229687">
+        <mark key="[" line="794" column="17" />
+        <mark key="]" line="794" column="17" />
+        <mark key="." line="794" column="17" />
         <mark key="^" line="811" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/debugtalk.py" timestamp="1560386872993">
@@ -389,11 +389,11 @@
       <jump line="39" column="4" filename="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/full.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>jks_bldid</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wcmVzc192aWRlb1w+</text>
