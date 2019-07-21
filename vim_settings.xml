@@ -243,13 +243,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_hdfs.py" timestamp="1563639004249">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-      </file>
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/utils/qa_hdfs.py" timestamp="1563676495617" />
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/configs/vipapp-smoke.toml" timestamp="1562950672303">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="72" column="0" />
