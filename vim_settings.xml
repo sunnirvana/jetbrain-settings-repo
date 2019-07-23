@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1563276343123">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/main.py" timestamp="1563850994523">
         <mark key="'" line="17" column="3" />
         <mark key="k" line="26" column="0" />
-        <mark key="[" line="17" column="0" />
+        <mark key="[" line="12" column="19" />
         <mark key="m" line="26" column="0" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="0" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/config.toml" timestamp="1563276286534">
         <mark key="[" line="16" column="12" />
@@ -209,7 +210,7 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1563786586509">
+      <file name="$USER_HOME$/Workspace/projects/vipsdk-validation/src/test_cases/test_smoke.py" timestamp="1563851122018">
         <mark key="'" line="12" column="37" />
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="31" />
