@@ -116,12 +116,12 @@
         <mark key="." line="63" column="17" />
         <mark key="^" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1564412730917">
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts_camera_info.py" timestamp="1564480626625">
         <mark key="'" line="274" column="102" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="275" column="10" />
-        <mark key="^" line="274" column="102" />
-        <mark key="." line="274" column="102" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="278" column="10" />
+        <mark key="^" line="277" column="114" />
+        <mark key="." line="277" column="114" />
       </file>
       <file name="$USER_HOME$/Workspace/codes/common-push/api/register.yaml" timestamp="1560386823870">
         <mark key="[" line="12" column="25" />
@@ -264,10 +264,10 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1564412746288">
-        <mark key="[" line="822" column="0" />
-        <mark key="]" line="825" column="10" />
-        <mark key="." line="822" column="0" />
+      <file name="$USER_HOME$/Workspace/projects/prod_configs/task_job/jobs/consts.py" timestamp="1564480650808">
+        <mark key="[" line="826" column="0" />
+        <mark key="]" line="828" column="10" />
+        <mark key="." line="826" column="0" />
         <mark key="^" line="819" column="70" />
       </file>
       <file name="$USER_HOME$/Workspace/projects/redstar-face-tracking-validation/utils.py" timestamp="1563638938970">
@@ -384,7 +384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnd3V4aS13eHhzJzogZGljdCgKICAgICAgICAgICAgbnZyMD1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwLCAyMSwgMjIsIDIzXSwKICAgICAgICAgICAgbnZyMT1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwLCAyMSwgMjIsIDIzLCAyNF0KICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAnYmVpamluZy1iamJ3aCc6IGRpY3QoCiAgICAgICAgICAgIG52cjA9WzEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwLCAxMSwgMTIsIDEzLCAxNCwgMTUsIDE2LCAxNywgMTgsIDE5LCAyMCwgMjEsIDIyLCAyMywgMjQsIDI1LCAyNiwgMjddCiAgICAgICAgKSwK</text>
       </register>
       <register name="-" type="4">
         <text>, 25, 26, 27, 28, 29, 30</text>
@@ -393,7 +393,7 @@
         <text encoding="base64">XDxoZGZzX2NhbGxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnd3V4aS13eHhzJzogZGljdCgKICAgICAgICAgICAgbnZyMD1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwLCAyMSwgMjIsIDIzXSwKICAgICAgICAgICAgbnZyMT1bMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwLCAyMSwgMjIsIDIzLCAyNF0KICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAnYmVpamluZy1iamJ3aCc6IGRpY3QoCiAgICAgICAgICAgIG52cjA9WzEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwLCAxMSwgMTIsIDEzLCAxNCwgMTUsIDE2LCAxNywgMTgsIDE5LCAyMCwgMjEsIDIyLCAyMywgMjQsIDI1LCAyNiwgMjddCiAgICAgICAgKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIvaG9tZS9jd2FuZy90ZW1wLzIwMTkwNzE4L3ByZV9jb21taXRfY29kZS92aXBzZGstdmFsaWRhdGlvbi9zcmMvdXRpbHMiKQo=</text>
@@ -423,7 +423,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -477,8 +477,8 @@
         <entry>w'</entry>
         <entry>56</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
