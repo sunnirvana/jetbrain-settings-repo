@@ -4,7 +4,7 @@
     <property name="created">2019-01-25T22:01:44</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-11-12T13:57:15</property>
+    <property name="modified">2019-11-12T14:07:11</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -28,12 +28,22 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="282c34" />
-    <option name="FILESTATUS_HIJACKED" value="" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="787878" />
+    <option name="FILESTATUS_ADDED" value="7fdbca" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="676e95" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="676e95" />
+    <option name="FILESTATUS_MERGED" value="65738e" />
+    <option name="FILESTATUS_MODIFIED" value="7fdbca" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7fdbca" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7fdbca" />
     <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_SUPPRESSED" value="" />
-    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="676e95" />
+    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_modifiedOutside" value="7fdbca" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="282c34" />
