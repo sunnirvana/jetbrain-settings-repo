@@ -3,7 +3,7 @@
     <property name="created">2019-01-24T19:39:45</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-04-18T20:50:10</property>
+    <property name="modified">2019-11-12T13:55:43</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -33,12 +33,17 @@
     <option name="HTML_CODE">
       <value />
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
