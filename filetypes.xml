@@ -5,6 +5,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="common_push_cmd.py" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="NNIETesterTimingWorker" approved="true" type="Python" />
